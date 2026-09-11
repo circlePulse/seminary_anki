@@ -1,0 +1,750 @@
+{
+ "course": "HDT-201",
+ "topic": "arbaeen-intro",
+ "session": "sep06",
+ "source": "Arbaʿīn / Qudūrī — class notes to 2026-09-06",
+ "expected_count": 69,
+ "cards": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مُخْتَصَر القُدُورِي (Mukhtaṣar al-Qudūrī)",
+   "meaning": "a Ḥanafī primer giving an overview of Islamic law",
+   "tags": [
+    "qudoori",
+    "texts"
+   ],
+   "id": "arb-001"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "How is مُخْتَصَر القُدُورِي described in terms of scope?",
+   "back": "Extremely comprehensive — an overview of the whole of Islamic law",
+   "tags": [
+    "qudoori",
+    "texts"
+   ],
+   "id": "arb-002"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "سُنَّة (sunnah)",
+   "meaning": "the Prophet’s ﷺ way of life — how he did things, his advice, his teachings",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ],
+   "id": "arb-003"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "حَدِيث (ḥadīth)",
+   "meaning": "the historical report — the container that preserves the Sunnah",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ],
+   "id": "arb-004"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The {{c1::سُنَّة}} is the Prophet’s ﷺ way itself; the {{c2::حَدِيث}} is the container that preserves it",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "contrast"
+   ],
+   "id": "arb-005"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What are the two sources of the entire Sharīʿah?",
+   "back": "The Qurʾān and the Ḥadīth — both of which are revelation",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-006"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "الوَحْي المَتْلُوّ (al-waḥy al-matlū)",
+   "meaning": "the revelation that is recited — the Qurʾān",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ],
+   "id": "arb-007"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "الوَحْي غَيْر المَتْلُوّ (al-waḥy ghayr al-matlū)",
+   "meaning": "the revelation that is not recited — the Ḥadīth",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ],
+   "id": "arb-008"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The Qurʾān is {{c1::الوَحْي المَتْلُوّ::recited}}; the Ḥadīth is {{c2::الوَحْي غَيْر المَتْلُوّ::not recited}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "contrast"
+   ],
+   "id": "arb-009"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Why is the Ḥadīth counted as revelation at all?",
+   "back": "Because the Prophet ﷺ does not speak from his own whims — what he says is divinely inspired",
+   "tags": [
+    "arbaeen",
+    "criterion"
+   ],
+   "id": "arb-010"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "How is content divided between the Qurʾān and the Sunnah?",
+   "back": "The Qurʾān gives the general principles; the details come from the Prophet ﷺ",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-011"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What follows for anyone trying to act on the Qurʾān alone?",
+   "back": "It is impossible to understand, act upon, or follow the Qurʾān’s guidance without the Prophet ﷺ",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-012"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Who preserved the Ḥadīth, and in parallel with what?",
+   "back": "The scholars, through their efforts — just as the Qurʾān was preserved",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-013"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "تَبْيِين (tabyīn)",
+   "meaning": "to clarify — one of the primary jobs of the Prophet ﷺ",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ],
+   "id": "arb-014"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the Sunnah’s role with respect to the Qurʾān’s meaning?",
+   "back": "It is the detailed explanation of the Qurʾān — the Prophet’s ﷺ job of تَبْيِين",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-015"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "المُعْجِزَة الخَالِدَة (al-muʿjizah al-khālidah)",
+   "meaning": "the everlasting miracle — the Qurʾān",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ],
+   "id": "arb-016"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What distinguishes the Prophet’s ﷺ miracle from those of every other prophet?",
+   "back": "Every prophet was given a miracle limited to his own lifetime; the Prophet ﷺ was given the Qurʾān, which is everlasting",
+   "tags": [
+    "arbaeen",
+    "criterion"
+   ],
+   "id": "arb-017"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "On what Qurʾānic grounds is following the Sunnah obligatory?",
+   "back": "Obeying the Messenger ﷺ is made equivalent to obeying Allah",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-018"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Complete: “It is not for a believing man or woman, when Allah and His Messenger have decided a matter, …”",
+   "back": "…to differ — and those who disobey Allah and His Messenger have fallen into clear error",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-019"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Complete: “Whatever he ﷺ gives you, …; and whatever he forbids you from, …”",
+   "back": "…take it; …leave it",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-020"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Complete, to those who claim to love Allah: “If you love Allah, …; Allah will …”",
+   "back": "…closely follow me; …love you and forgive you",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-021"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Complete the ḥadīth: “Hold on firmly to …”",
+   "back": "…my Sunnah and the Sunnah of the rightly-guided Khulafāʾ",
+   "tags": [
+    "arbaeen",
+    "ahadith"
+   ],
+   "id": "arb-022"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Complete the ḥadīth: “The best speech is …, and the best guidance is …”",
+   "back": "…the Book of Allah; …the guidance of the Prophet ﷺ",
+   "tags": [
+    "arbaeen",
+    "ahadith"
+   ],
+   "id": "arb-023"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "أُسْوَة حَسَنَة (uswah ḥasanah)",
+   "meaning": "a beautiful example — the Qurʾān’s description of the Prophet ﷺ",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ],
+   "id": "arb-024"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What does it mean that the Prophet ﷺ is an أُسْوَة حَسَنَة?",
+   "back": "His life is a practical demonstration of the teachings being preached — a physical manifestation of the Qurʾān’s guidance",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-025"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Complete the Qurʾānic address to the Prophet ﷺ: “Indeed, you are upon …”",
+   "back": "…an exalted standard of character",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-026"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "front": "What are the three reasons given for the Sunnah’s significance?",
+   "back": "1) It explains the Qurʾān<br>2) Following it is obligatory<br>3) He ﷺ is our role model",
+   "tags": [
+    "arbaeen",
+    "enumeration"
+   ],
+   "id": "arb-027"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "front": "How is the claim that the ḥadīth are unreliable or unnecessary characterised?",
+   "back": "As divorced from reality and from the religion; the one who makes it is a jāhil",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-028"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "صَحِيفَة (ṣaḥīfah)",
+   "meaning": "a personal ḥadīth collection kept by a Companion",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ],
+   "id": "arb-029"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "How early did the effort to preserve the Sunnah begin?",
+   "back": "From the very beginning — major Companions kept their own صَحِيفَة",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-030"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "front": "What was the pattern of ḥadīth preservation across the generations?",
+   "back": "Every generation contributed to it",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-031"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Which century is the golden age of ḥadīth studies?",
+   "back": "The 200s — the 3rd century AH",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-032"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What was compiled during the golden age of ḥadīth studies?",
+   "back": "The الكُتُب السِّتَّة — the Six Books",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-033"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Name the six compilers of الكُتُب السِّتَّة. <i>(B, M, T, AD, IM, N)</i>",
+   "back": "البُخَارِي، مُسْلِم، التِّرْمِذِي، أَبُو دَاوُد، ابْن مَاجَه، النَّسَائِي",
+   "tags": [
+    "arbaeen",
+    "enumeration"
+   ],
+   "id": "arb-034"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the relationship of later ḥadīth collections to الكُتُب السِّتَّة?",
+   "back": "Pretty much every collection after them traces back to these six",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-035"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Complete the ḥadīth: “Whoever preserves forty ḥadīth …”",
+   "back": "…will be resurrected among the scholars",
+   "tags": [
+    "arbaeen",
+    "ahadith"
+   ],
+   "id": "arb-036"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the grading of the ḥadīth about preserving forty narrations?",
+   "back": "Weak",
+   "tags": [
+    "arbaeen",
+    "ahadith"
+   ],
+   "id": "arb-037"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "How did the scholars respond to that ḥadīth despite its grading?",
+   "back": "They still strove to act upon it",
+   "tags": [
+    "arbaeen",
+    "ahadith"
+   ],
+   "id": "arb-038"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "How many narrations does the Arbaʿīn actually contain?",
+   "back": "42 — not 40",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-039"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What do the narrations of the Arbaʿīn have in common?",
+   "back": "Each summarises a foundational principle of Islam; every one is among the foundations of the Dīn",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-040"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the full name of Imām al-Nawawī?",
+   "back": "أَبُو زَكَرِيَّا يَحْيَى بْن شَرَف النَّوَوِي",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-041"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is Imām al-Nawawī’s title, and what does it mean?",
+   "back": "مُحْيِي الدِّين — the one who gives life to the religion",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-042"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is Imām al-Nawawī’s كُنْيَة?",
+   "back": "أَبُو زَكَرِيَّا",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-043"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is notable about Imām al-Nawawī’s كُنْيَة?",
+   "back": "He was never married and had no children",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-044"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What does the nisbah “al-Nawawī” refer to?",
+   "back": "نَوَا — the region in present-day Syria where he was born",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-045"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "When was Imām al-Nawawī born?",
+   "back": "631 AH",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-046"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "When did Imām al-Nawawī die?",
+   "back": "676 AH",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-047"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "How long did Imām al-Nawawī live?",
+   "back": "Approximately 45 years",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-048"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Where did Imām al-Nawawī die, and on what date?",
+   "back": "In نَوَا, on the 24th of Rajab",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-049"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Which madhhab did Imām al-Nawawī follow?",
+   "back": "Shāfiʿī",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-050"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "In which three fields was Imām al-Nawawī a specialist?",
+   "back": "Ḥadīth, Shāfiʿī fiqh, and uṣūl al-fiqh",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-051"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Which two works of Imām al-Nawawī are found in nearly every Muslim community?",
+   "back": "رِيَاض الصَّالِحِين and الأَرْبَعُون",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-052"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Of which major ḥadīth collection did Imām al-Nawawī write the well-known explanation?",
+   "back": "صَحِيح مُسْلِم",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-053"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is المَجْمُوع?",
+   "back": "Imām al-Nawawī’s work on Shāfiʿī and comparative fiqh",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-054"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is الأَذْكَار?",
+   "back": "Imām al-Nawawī’s compilation of duʿās and adhkār",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-055"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is التِّبْيَان فِي آدَاب حَمَلَة القُرْآن about?",
+   "back": "The manners of the people of the Qurʾān",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-056"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is بُسْتَان العَارِفِين — its meaning and its subject?",
+   "back": "“The garden of those who know” — a work on taṣawwuf and tazkiyah",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-057"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "At what age, and to where, did Imām al-Nawawī go to study?",
+   "back": "At 19, his father took him to Damascus",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-058"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Where in Damascus did Imām al-Nawawī study?",
+   "back": "دَار الحَدِيث",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-059"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Where did Imām al-Nawawī live while studying in Damascus?",
+   "back": "In a small room at المَدْرَسَة الرَّوَاحِيَّة",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-060"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What did Imām al-Nawawī love deeply from a very young age?",
+   "back": "The Qurʾān",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-061"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is related about Imām al-Nawawī’s sleep?",
+   "back": "He would sleep with his head on his books, and return to studying as soon as he woke",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-062"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "How is Imām al-Nawawī’s writing style described?",
+   "back": "Easy to read — clarity of expression, conciseness, and comprehensiveness",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ],
+   "id": "arb-063"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "حَمْد (ḥamd)",
+   "meaning": "praise expressed verbally, given whether or not a favour has been received",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ],
+   "id": "arb-064"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "شُكْر (shukr)",
+   "meaning": "thanks given specifically in response to a favour received",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ],
+   "id": "arb-065"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "<b>Occasion.</b> حَمْد may be given {{c1::whether or not a favour was done — including for an inherent quality}}; شُكْر is always {{c2::in response to a favour}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "contrast",
+    "criterion"
+   ],
+   "id": "arb-066"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "<b>Instrument.</b> حَمْد is always {{c1::with the tongue}}; شُكْر can be {{c2::with the tongue, the heart, or the limbs}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "contrast",
+    "criterion"
+   ],
+   "id": "arb-067"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What two things does حَمْد combine?",
+   "back": "Thanks and praise",
+   "tags": [
+    "arbaeen"
+   ],
+   "id": "arb-068"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arb-069",
+   "front": "What is Imām al-Nawawī's standing within his madhhab?",
+   "back": "He is an authority within it",
+   "tags": [
+    "arbaeen",
+    "nawawi"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,762 @@
+{
+ "course": "ARB-201",
+ "topic": "sarf",
+ "session": "sep08",
+ "source": "IOK Arabic — Ṣarf section, class notes to 2026-09-08",
+ "expected_count": 68,
+ "cards": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is صَرْف?",
+   "back": "Arabic morphology — the science that gives us the words themselves; نَحْو then tells us what to do with them",
+   "tags": [
+    "sarf",
+    "definition"
+   ],
+   "id": "sarf-001"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What are the two components of a verb?",
+   "back": "The فِعْل (the verb itself) and the ضَمِير (the pronoun)",
+   "tags": [
+    "sarf",
+    "structure"
+   ],
+   "id": "sarf-002",
+   "science": "صَرْف"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "ضَمِير (ḍamīr)",
+   "meaning": "the pronoun — the person, gender, and number of the one carrying out the action",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-003"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "غَائِب (ghāʾib)",
+   "meaning": "third person",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-004"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مُخَاطَب (mukhāṭab)",
+   "meaning": "second person",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-005"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مُتَكَلِّم (mutakallim)",
+   "meaning": "first person",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-006"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "Person: third is {{c1::غَائِب}}, second is {{c2::مُخَاطَب}}, first is {{c3::مُتَكَلِّم}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "spine"
+   ],
+   "id": "sarf-007"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مُذَكَّر (mudhakkar)",
+   "meaning": "masculine",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-008"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مُؤَنَّث (muʾannath)",
+   "meaning": "feminine",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-009"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What are the two terms for <b>singular</b>?",
+   "back": "مُفْرَد or وَاحِد",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-010",
+   "science": "صَرْف"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What are the two terms for <b>dual</b>?",
+   "back": "مُثَنَّى or تَثْنِيَة",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-011"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What are the two terms for <b>plural</b>?",
+   "back": "جَمْع or مَجْمُوع",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-012"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "Number: {{c1::مُفْرَد / وَاحِد::singular}}, {{c2::مُثَنَّى / تَثْنِيَة::dual}}, {{c3::جَمْع / مَجْمُوع::plural}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "spine"
+   ],
+   "id": "sarf-013"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What does مُفْرَد mean in صَرْف, and how does that differ from its use in نَحْو?",
+   "back": "In صَرْف it means <b>singular</b> (number); in نَحْو it means <b>a single word</b> (= كَلِمَة)",
+   "tags": [
+    "sarf",
+    "nahw",
+    "contrast",
+    "criterion"
+   ],
+   "id": "sarf-014"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "ضَمِير مُتَّصِل (ḍamīr muttaṣil)",
+   "meaning": "an attached pronoun",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-015"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "ضَمِير مُنْفَصِل (ḍamīr munfaṣil)",
+   "meaning": "a separated, standalone pronoun",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-016"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "An attached pronoun is a {{c1::ضَمِير مُتَّصِل}}; a separated one is a {{c2::ضَمِير مُنْفَصِل}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "contrast"
+   ],
+   "id": "sarf-017"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "ضَمِير الفَاعِل (ḍamīr al-fāʿil)",
+   "meaning": "the pronoun in its role as doer of the action — one category of attached pronoun",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-018"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "ضَمِير مُسْتَتِر (ḍamīr mustatir)",
+   "meaning": "a hidden pronoun — contained within the verb, not written",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-019"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "ضَمِير بَارِز (ḍamīr bāriz)",
+   "meaning": "a visible pronoun — attached to the verb as a suffix",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-020"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The {{c1::مُسْتَتِر::hidden}} pronoun sits inside the verb; the {{c2::بَارِز::visible}} pronoun is attached as a suffix",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "contrast",
+    "criterion"
+   ],
+   "id": "sarf-021"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Under which category of attached pronoun do مُسْتَتِر and بَارِز fall?",
+   "back": "ضَمِير الفَاعِل — the pronoun as doer",
+   "tags": [
+    "sarf",
+    "placement"
+   ],
+   "id": "sarf-022"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "صِيغَة (ṣīghah)",
+   "meaning": "each form of the verb taken with a particular pronoun",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-023"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c2::صِيغَة}} (مُفْرَد) — {{c1::صِيَغ}} (جَمْع)",
+   "extra": "form of a conjugated verb",
+   "tags": [
+    "sarf",
+    "vocabulary"
+   ],
+   "id": "sarf-024"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "How many صِيَغ are there in a full conjugation?",
+   "back": "14",
+   "tags": [
+    "sarf"
+   ],
+   "id": "sarf-025"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "In which two صِيَغ is the pronoun مُسْتَتِر?",
+   "back": "هُوَ and هِيَ",
+   "tags": [
+    "sarf",
+    "criterion"
+   ],
+   "id": "sarf-026"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Why is the pronoun in هُوَ counted as مُسْتَتِر?",
+   "back": "Because nothing is added to the verb at all",
+   "tags": [
+    "sarf"
+   ],
+   "id": "sarf-027"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "A تاء <i>is</i> added in هِيَ — so why is its pronoun still counted as مُسْتَتِر?",
+   "back": "Because that تاء ساكنة is a عَلَامَة التَّأْنِيث, a sign of femininity, not a ضَمِير",
+   "tags": [
+    "sarf",
+    "criterion"
+   ],
+   "id": "sarf-028"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "عَلَامَة التَّأْنِيث (ʿalāmat al-taʾnīth)",
+   "meaning": "a sign of femininity — not a pronoun",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-029"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "How does the third person feminine <b>dual</b> differ from the feminine singular in what it adds?",
+   "back": "It keeps the تاء as a sign of femininity <b>and</b> adds the pronoun أَلِف on top of it",
+   "tags": [
+    "sarf",
+    "criterion"
+   ],
+   "id": "sarf-030"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Which parts of a conjugated verb count as ضَمِير بَارِز?",
+   "back": "The added suffixes — أَلِف, وَاو, نُون, and the rest",
+   "tags": [
+    "sarf"
+   ],
+   "id": "sarf-031"
+  },
+  {
+   "type": "cloze",
+   "tier": 2,
+   "text": "Within a person, feminine singular is marked by {{c1::ـَة}}, the dual by {{c2::ـَانِ / ـَتَانِ}}, masculine plural by {{c3::ـُونَ}}, feminine plural by {{c4::ـَات}}",
+   "extra": "Read off the ṣiyagh chart; not stated in the lecture.",
+   "tags": [
+    "sarf",
+    "pattern"
+   ],
+   "id": "sarf-032"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::الغَائِبُ}} — {{c2::third person, masculine, singular — “he / it”}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-033"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::الغَائِبَانِ}} — {{c2::third person, masculine, dual — “they” (two males)}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-034"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::الغَائِبُونَ}} — {{c2::third person, masculine, plural — “they” (males)}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-035"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::الغَائِبَةُ}} — {{c2::third person, feminine, singular — “she / it”}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-036"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::الغَائِبَتَانِ}} — {{c2::third person, feminine, dual — “they” (two females)}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-037"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::الغَائِبَاتُ}} — {{c2::third person, feminine, plural — “they” (females)}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-038"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::المُخَاطَبُ}} — {{c2::second person, masculine, singular — “you” (m/s)}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-039"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::المُخَاطَبَانِ}} — {{c2::second person, masculine, dual — “you” (m/d)}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-040"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::المُخَاطَبُونَ}} — {{c2::second person, masculine, plural — “you” (m/p)}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-041"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::المُخَاطَبَةُ}} — {{c2::second person, feminine, singular — “you” (f/s)}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-042"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::المُخَاطَبَتَانِ}} — {{c2::second person, feminine, dual — “you” (f/d)}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-043"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::المُخَاطَبَاتُ}} — {{c2::second person, feminine, plural — “you” (f/p)}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-044"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::المُتَكَلِّمُ}} — {{c2::first person, singular, masculine or feminine — “I”}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-045"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::المُتَكَلِّمُونَ}} — {{c2::first person, dual or plural, masculine or feminine — “we”}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-046"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Which person makes <b>no</b> gender distinction?",
+   "back": "The first — المُتَكَلِّم and المُتَكَلِّمُونَ each cover both",
+   "tags": [
+    "sarf",
+    "siyagh",
+    "criterion"
+   ],
+   "id": "sarf-047"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Which صِيغَة covers both dual <b>and</b> plural?",
+   "back": "المُتَكَلِّمُونَ — “we”",
+   "tags": [
+    "sarf",
+    "siyagh"
+   ],
+   "id": "sarf-048"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What does فَتَحَ mean?",
+   "back": "to open",
+   "tags": [
+    "sarf",
+    "vocabulary"
+   ],
+   "id": "sarf-049"
+  },
+  {
+   "type": "cloze",
+   "tier": 2,
+   "text": "فَتَحَ — {{c1::يَفْتَحُ}} — {{c2::اِفْتَحْ}} — {{c3::فَتْح}}",
+   "extra": "to open",
+   "tags": [
+    "sarf",
+    "vocabulary"
+   ],
+   "id": "sarf-050"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "الغَائِبُ — {{c1::فَتَحَ}} — ({{c2::هُوَ}}) — “he / it opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-051"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "الغَائِبَانِ — {{c1::فَتَحَا}} — ({{c2::ا}}) — “they (m/d) opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-052"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "الغَائِبُونَ — {{c1::فَتَحُوْا}} — ({{c2::و}}) — “they (m/p) opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-053"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "الغَائِبَةُ — {{c1::فَتَحَتْ}} — ({{c2::هِيَ}}) — “she / it opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-054"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "الغَائِبَتَانِ — {{c1::فَتَحَتَا}} — ({{c2::ا}}) — “they (f/d) opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-055"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "الغَائِبَاتُ — {{c1::فَتَحْنَ}} — ({{c2::ن}}) — “they (f/p) opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-056"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "المُخَاطَبُ — {{c1::فَتَحْتَ}} — ({{c2::تَ}}) — “you (m/s) opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-057"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "المُخَاطَبَانِ — {{c1::فَتَحْتُمَا}} — ({{c2::تُمَا}}) — “you (m/d) opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-058"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "المُخَاطَبُونَ — {{c1::فَتَحْتُمْ}} — ({{c2::تُمْ}}) — “you (m/p) opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-059"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "المُخَاطَبَةُ — {{c1::فَتَحْتِ}} — ({{c2::تِ}}) — “you (f/s) opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-060"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "المُخَاطَبَتَانِ — {{c1::فَتَحْتُمَا}} — ({{c2::تُمَا}}) — “you (f/d) opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-061"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "المُخَاطَبَاتُ — {{c1::فَتَحْتُنَّ}} — ({{c2::تُنَّ}}) — “you (f/p) opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-062"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "المُتَكَلِّمُ — {{c1::فَتَحْتُ}} — ({{c2::تُ}}) — “I opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-063"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "المُتَكَلِّمُونَ — {{c1::فَتَحْنَا}} — ({{c2::نَا}}) — “we opened”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-064"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "front": "Which two صِيَغ share an identical مَاضِي form?",
+   "back": "المُخَاطَبَانِ and المُخَاطَبَتَانِ — both فَتَحْتُمَا",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-065"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مَاضِي (māḍī)",
+   "meaning": "the past tense",
+   "tags": [
+    "sarf",
+    "terminology"
+   ],
+   "id": "sarf-066"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Which four مَاضِي forms end in a تاء and are indistinguishable without tashkīl?",
+   "back": "فَعَلَتْ، فَعَلْتَ، فَعَلْتِ، فَعَلْتُ",
+   "tags": [
+    "sarf",
+    "madi"
+   ],
+   "id": "sarf-067"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "Written bare, all four are فعلت: {{c1::فَعَلَتْ::sukūn}} is <i>she</i>; {{c2::فَعَلْتَ::fatḥah}} is <i>you (m/s)</i>; {{c3::فَعَلْتِ::kasrah}} is <i>you (f/s)</i>; {{c4::فَعَلْتُ::ḍammah}} is <i>I</i>",
+   "extra": "The vowel on the تاء is the only thing carrying person and gender here.",
+   "tags": [
+    "sarf",
+    "madi",
+    "contrast",
+    "criterion"
+   ],
+   "id": "sarf-068"
+  }
+ ]
+}

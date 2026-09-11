@@ -1,0 +1,52 @@
+{
+ "course": "HDT-201",
+ "topic": "arbaeen-ammabadu",
+ "session": "sep09",
+ "source": "Arbaʿīn — Introduction, notes after the CLAUDE marker",
+ "cards": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arb2-001",
+   "term": "أَمَّا بَعْدُ (ammā baʿdu)",
+   "meaning": "the phrase that separates the opening praise from the body of an address",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arb2-002",
+   "term": "فَصْل الخِطَاب (faṣl al-khiṭāb)",
+   "meaning": "the separation of speech — the function performed by أَمَّا بَعْدُ",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arb2-003",
+   "front": "What is the technical term for what أَمَّا بَعْدُ does?",
+   "back": "فَصْل الخِطَاب — the separation of speech",
+   "tags": [
+    "arbaeen",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arb2-004",
+   "front": "Where in an address does أَمَّا بَعْدُ come?",
+   "back": "After the ḥamd and the salām, before the body",
+   "tags": [
+    "arbaeen"
+   ]
+  }
+ ],
+ "expected_count": 4
+}

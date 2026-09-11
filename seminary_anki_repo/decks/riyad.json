@@ -1,0 +1,53 @@
+{
+ "course": "HDT-202",
+ "topic": "riyad-intro",
+ "session": "sep08",
+ "source": "Riyāḍ al-Ṣāliḥīn — class notes to 2026-09-08",
+ "expected_count": 4,
+ "cards": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-001",
+   "front": "Who compiled رِيَاض الصَّالِحِين?",
+   "back": "Imām al-Nawawī",
+   "tags": [
+    "riyad",
+    "texts"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-002",
+   "front": "How many ḥadīth does رِيَاض الصَّالِحِين contain?",
+   "back": "Just shy of 2000",
+   "tags": [
+    "riyad",
+    "texts"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-003",
+   "front": "How does each section of رِيَاض الصَّالِحِين open?",
+   "back": "With a few āyāt, before the ḥadīth",
+   "tags": [
+    "riyad",
+    "texts"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-004",
+   "front": "What subject matter do the ḥadīth of رِيَاض الصَّالِحِين cover?",
+   "back": "Character, manners, and spirituality",
+   "tags": [
+    "riyad",
+    "texts"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1190 @@
+{
+ "course": "ARB-201",
+ "topic": "tasheel-ch1",
+ "session": "sep03",
+ "source": "Tasheel al-Nahw ch.1 §1.1–1.2 — class notes 2026-09-03",
+ "expected_count": 104,
+ "cards": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "نَحْو (naḥw)",
+   "meaning": "Arabic grammar — the science of what to do with words in a sentence",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-001"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "صَرْف (ṣarf)",
+   "meaning": "Arabic morphology — the science that gives us the words themselves",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-002"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "بَلَاغَة (balāghah)",
+   "meaning": "Arabic rhetoric — the subtleties of the most appropriate construction for conveying an exact meaning",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-003"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Which three sciences of the Arabic language are studied in seminary?",
+   "back": "نَحْو، صَرْف، بَلَاغَة",
+   "tags": [
+    "nahw",
+    "overview"
+   ],
+   "id": "nahw-004"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the division of labour between صَرْف and نَحْو?",
+   "back": "صَرْف gives us the words; نَحْو tells us what to do with them",
+   "tags": [
+    "nahw",
+    "criterion"
+   ],
+   "id": "nahw-005"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What do نَحْو and صَرْف together produce?",
+   "back": "Correct Arabic",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-006"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What does بَلَاغَة add beyond correct Arabic?",
+   "back": "The subtleties of the most appropriate construction, and the other choices that convey an exact meaning",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-007"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The definition of نَحْو: a science which teaches (a) {{c1::how to join an اِسْم، فِعْل، or حَرْف to make a correct sentence}}, and (b) {{c2::the condition of the last letter of a word}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "definition"
+   ],
+   "id": "nahw-008"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "إِعْرَاب (iʿrāb)",
+   "meaning": "the condition of the last letter of a word",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-009"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the subject matter of نَحْو?",
+   "back": "The كَلِمَة / مُفْرَد (the word) and the كَلَام / جُمْلَة (the sentence)",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-010"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Why does it matter to know whether a term is being used in نَحْو or in صَرْف?",
+   "back": "Some terms overlap between the two sciences; knowing which science is meant fixes which sense is intended",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-011"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the <b>immediate</b> objective of studying these sciences?",
+   "back": "To speak, listen, read, and write in Arabic",
+   "tags": [
+    "nahw",
+    "objectives"
+   ],
+   "id": "nahw-012"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the <b>mid-term</b> objective of studying these sciences?",
+   "back": "To use those skills to understand the Qurʾān, ḥadīth, and Islamic texts in order to act upon them",
+   "tags": [
+    "nahw",
+    "objectives"
+   ],
+   "id": "nahw-013"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the <b>ultimate</b> objective of studying these sciences?",
+   "back": "To gain the pleasure of Allah Most High",
+   "tags": [
+    "nahw",
+    "objectives"
+   ],
+   "id": "nahw-014"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "front": "Beyond language skill, what does reading the classical texts give the student?",
+   "back": "Connection to the tradition and history of Islamic scholarship, and nearness to Allah",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-015"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "لَفْظ (lafẓ)",
+   "meaning": "any sound produced by a human",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-016"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مَوْضُوع (mawḍūʿ)",
+   "meaning": "an utterance to which a meaning has been assigned",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-017"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مُهْمَل (muhmal)",
+   "meaning": "an utterance to which no meaning has been assigned",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-018"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "On what basis is لَفْظ divided into مَوْضُوع and مُهْمَل?",
+   "back": "Whether a meaning has been assigned to it — وَضْع",
+   "tags": [
+    "nahw",
+    "criterion"
+   ],
+   "id": "nahw-019"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What does وَضَعَ mean in Arabic studies?",
+   "back": "To enter something into the dictionary — i.e. to assign it a meaning in the language",
+   "tags": [
+    "nahw",
+    "roots"
+   ],
+   "id": "nahw-020"
+  },
+  {
+   "type": "cloze",
+   "tier": 2,
+   "text": "وَضَعَ — {{c1::يَضَعُ}} — {{c2::ضَعْ}} — {{c3::وَضْع}}",
+   "extra": "to place; to assign",
+   "tags": [
+    "nahw",
+    "vocabulary"
+   ],
+   "id": "nahw-021"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "اللَّفْظ is either {{c1::مَوْضُوع::assigned a meaning}} or {{c2::مُهْمَل::left without meaning}}; and المَوْضُوع is either {{c3::مُفْرَد::one word}} or {{c4::مُرَكَّب::two or more words}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "spine"
+   ],
+   "id": "nahw-022"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is a مُفْرَد?",
+   "back": "A single word",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-023",
+   "science": "نَحْو"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the other name for مُفْرَد?",
+   "back": "كَلِمَة",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-024",
+   "science": "نَحْو"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The technical definition of كَلِمَة: {{c1::لَفْظٌ}} {{c2::مَوْضُوعٌ}} {{c3::مُفْرَدٌ}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "definition"
+   ],
+   "id": "nahw-025"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The كَلِمَة has three types: {{c1::اِسْم}}, {{c2::فِعْل}}, and {{c3::حَرْف}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "spine"
+   ],
+   "id": "nahw-026"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "Classical definition of اِسْم: a كَلِمَة {{c1::whose meaning can be understood by itself}} and {{c2::which has no tense}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "definition"
+   ],
+   "id": "nahw-027"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the <i>modern</i> definition of اِسْم?",
+   "back": "A person, place, or thing; a noun",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-028"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Which definition of اِسْم do we use, and why?",
+   "back": "The classical one, because we are learning classical Arabic",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-029"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What does the classical اِسْم include that “noun” does not?",
+   "back": "Adjectives, pronouns, adverbs, and some prepositions",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-030"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What proportion of Arabic words are اِسْم?",
+   "back": "The majority",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-031"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "If a word is not clearly a فِعْل or a حَرْف, what is it most likely to be?",
+   "back": "An اِسْم",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-032"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What can an اِسْم never carry at the same time?",
+   "back": "Both تَنْوِين and أَلِف لَام",
+   "tags": [
+    "nahw",
+    "rule"
+   ],
+   "id": "nahw-033"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "When a word ends in فَتْحَتَان, what should follow it?",
+   "back": "An أَلِف",
+   "tags": [
+    "nahw",
+    "rule"
+   ],
+   "id": "nahw-034"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the full exception to the “أَلِف after فَتْحَتَان” rule?",
+   "back": "When the فَتْحَتَان sits on a تَاء مَرْبُوطَة",
+   "tags": [
+    "nahw",
+    "rule"
+   ],
+   "id": "nahw-035"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the <i>partial</i> exception to the “أَلِف after فَتْحَتَان” rule?",
+   "back": "When the word ends in a هَمْزَة preceded by an أَلِف",
+   "tags": [
+    "nahw",
+    "rule"
+   ],
+   "id": "nahw-036"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The اِسْم has three types: {{c1::جَامِد::the primary one}}, {{c2::مَصْدَر::the root one}}, and {{c3::مُشْتَقّ::the derived one}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "spine"
+   ],
+   "id": "nahw-037"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "جَامِد (jāmid)",
+   "meaning": "the “primary” اِسْم — not derived from anything, and nothing is derived from it",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-038"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مَصْدَر (maṣdar)",
+   "meaning": "the “root” اِسْم — an اِسْم from which many words are derived",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-039"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "The مَصْدَر is the action — but with what qualification?",
+   "back": "Without tense",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-040"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مُشْتَقّ (mushtaqq)",
+   "meaning": "the “derived” اِسْم — derived from a مَصْدَر, whose وَزْن denotes a particular meaning",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-041"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What does the وَزْن of a مُشْتَقّ do?",
+   "back": "It denotes a particular meaning",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-042"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the difference of opinion about where verbs come from?",
+   "back": "Whether all verbs come from the مَصْدَر, or from the هُوَ form of the مَاضِي",
+   "tags": [
+    "nahw",
+    "ikhtilaf"
+   ],
+   "id": "nahw-043"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Which position on the origin of verbs do we take, and why?",
+   "back": "The مَصْدَر — for us it is where the rest of the meanings are derived from",
+   "tags": [
+    "nahw",
+    "ikhtilaf"
+   ],
+   "id": "nahw-044"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "Classical definition of فِعْل: a كَلِمَة {{c1::whose meaning can be understood by itself}} and {{c2::which has tense — past, present, or future}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "definition"
+   ],
+   "id": "nahw-045",
+   "science": "نَحْو"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is the <i>modern</i> definition of فِعْل?",
+   "back": "It denotes an action",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-046",
+   "science": "نَحْو"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What can a فِعْل never carry?",
+   "back": "تَنْوِين or أَلِف لَام",
+   "tags": [
+    "nahw",
+    "rule"
+   ],
+   "id": "nahw-047",
+   "science": "نَحْو"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "An اِسْم may never carry {{c1::both تَنْوِين and أَلِف لَام at once}}; a فِعْل may never carry {{c2::either of them at all}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "criterion",
+    "contrast"
+   ],
+   "id": "nahw-048"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Of جَامِد / مَصْدَر / مُشْتَقّ, which describes verbs?",
+   "back": "مُشْتَقّ only — verbs are always derived",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-049"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The اِسْم {{c1::has no tense}}; the فِعْل {{c2::has tense}}. Both {{c3::can be understood by themselves}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "criterion",
+    "contrast"
+   ],
+   "id": "nahw-050"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "Definition of حَرْف: a كَلِمَة {{c1::whose meaning cannot be understood without being joined to a فِعْل and/or an اِسْم}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "definition"
+   ],
+   "id": "nahw-051",
+   "science": "نَحْو"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What follows from the حَرْف depending on other words for its meaning?",
+   "back": "It will always be part of a phrase",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-052"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The اِسْم and the فِعْل {{c1::can be understood by themselves}}; the حَرْف {{c2::cannot}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "criterion",
+    "contrast"
+   ],
+   "id": "nahw-053"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مُرَكَّب (murakkab)",
+   "meaning": "a compound — two or more words, which may or may not form a complete sentence",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-054"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What does رَكَّبَ mean?",
+   "back": "To build or assemble something",
+   "tags": [
+    "nahw",
+    "roots"
+   ],
+   "id": "nahw-055"
+  },
+  {
+   "type": "cloze",
+   "tier": 2,
+   "text": "رَكَّبَ — {{c1::يُرَكِّبُ}} — {{c2::رَكِّبْ}} — {{c3::تَرْكِيب}}",
+   "extra": "to assemble; to compose",
+   "tags": [
+    "nahw",
+    "vocabulary"
+   ],
+   "id": "nahw-056"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The مُرَكَّب is either {{c1::نَاقِص::incomplete}} or {{c2::تَامّ::complete}}; the تَامّ is what is called {{c3::كَلَام}} or {{c4::جُمْلَة}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "spine"
+   ],
+   "id": "nahw-057"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is a مُرَكَّب نَاقِص?",
+   "back": "An incomplete compound — it does not amount to a full sentence",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-058"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is a مُرَكَّب تَامّ?",
+   "back": "A complete compound — a full sentence, i.e. a كَلَام or جُمْلَة",
+   "tags": [
+    "nahw",
+    "terminology"
+   ],
+   "id": "nahw-059"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What distinguishes نَاقِص from تَامّ?",
+   "back": "Whether the compound conveys a complete meaning — whether it is a full sentence",
+   "tags": [
+    "nahw",
+    "criterion"
+   ],
+   "id": "nahw-060"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Into which two types does the جُمْلَة divide?",
+   "back": "جُمْلَة خَبَرِيَّة and جُمْلَة إِنْشَائِيَّة",
+   "tags": [
+    "nahw"
+   ],
+   "id": "nahw-061"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The technical definition of a sentence in Arabic: {{c1::لَفْظٌ}} {{c2::مَوْضُوعٌ}} {{c3::مُرَكَّبٌ}} {{c4::تَامٌّ}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "definition"
+   ],
+   "id": "nahw-062"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "كَلِمَة is لَفْظٌ مَوْضُوعٌ {{c1::مُفْرَدٌ}}; كَلَام is لَفْظٌ مَوْضُوعٌ {{c2::مُرَكَّبٌ تَامٌّ}}",
+   "extra": "These two definitions share three of four terms — the final term is the whole difference.",
+   "tags": [
+    "nahw",
+    "contrast",
+    "criterion"
+   ],
+   "id": "nahw-063"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-064",
+   "text": "The فِعْل has three types: {{c1::المَاضِي::past}}, {{c2::المُضَارِع::present/future}}, and {{c3::الأَمْر::command}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "spine",
+    "afal"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-065",
+   "term": "المُضَارِع (al-muḍāriʿ)",
+   "meaning": "the present and future tense",
+   "tags": [
+    "nahw",
+    "terminology",
+    "afal"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-066",
+   "term": "الأَمْر (al-amr)",
+   "meaning": "the positive command",
+   "tags": [
+    "nahw",
+    "terminology",
+    "afal"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-067",
+   "term": "النَّهْي (al-nahy)",
+   "meaning": "the negative command",
+   "tags": [
+    "nahw",
+    "terminology",
+    "afal"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-068",
+   "front": "How many tenses does المُضَارِع cover?",
+   "back": "Two — present and future",
+   "tags": [
+    "nahw",
+    "afal",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-069",
+   "front": "Why is النَّهْي not usually counted as a fourth type of فِعْل?",
+   "back": "Some do count it separately, but technically it is derived from المُضَارِع",
+   "tags": [
+    "nahw",
+    "afal",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-070",
+   "text": "The حَرْف is either {{c1::عَامِل::causative}} or {{c2::غَيْر عَامِل::non-causative}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "spine",
+    "huroof"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-071",
+   "term": "حَرْف عَامِل (ʿāmil)",
+   "meaning": "causative — a ḥarf which influences the إِعْرَاب of the word after it",
+   "tags": [
+    "nahw",
+    "terminology",
+    "huroof"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-072",
+   "term": "حَرْف غَيْر عَامِل (ghayr ʿāmil)",
+   "meaning": "non-causative — a ḥarf which causes no change in the grammatical state of the word after it",
+   "tags": [
+    "nahw",
+    "terminology",
+    "huroof"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-073",
+   "front": "On what basis is the حَرْف divided into عَامِل and غَيْر عَامِل?",
+   "back": "Whether it influences the إِعْرَاب of the word that follows it",
+   "tags": [
+    "nahw",
+    "huroof",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-074",
+   "text": "The incomplete compound is {{c1::نَاقِص}}, also called {{c2::غَيْر مُفِيد}}; the complete one is {{c3::تَامّ}}, also called {{c4::مُفِيد}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "terminology",
+    "murakkab"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-075",
+   "text": "The جُمْلَة is either {{c1::خَبَرِيَّة::can be true or false}} or {{c2::إِنْشَائِيَّة::cannot}}; the خَبَرِيَّة is either {{c3::اِسْمِيَّة}} or {{c4::فِعْلِيَّة}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "spine",
+    "jumlah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-076",
+   "term": "جُمْلَة خَبَرِيَّة",
+   "meaning": "a sentence which has the possibility of being true or false — a statement",
+   "tags": [
+    "nahw",
+    "terminology",
+    "jumlah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-077",
+   "term": "جُمْلَة إِنْشَائِيَّة",
+   "meaning": "a sentence which has no possibility of being true or false — such as a question or a command",
+   "tags": [
+    "nahw",
+    "terminology",
+    "jumlah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-078",
+   "front": "On what basis is the جُمْلَة divided into خَبَرِيَّة and إِنْشَائِيَّة?",
+   "back": "Whether it has the possibility of being true or false",
+   "tags": [
+    "nahw",
+    "jumlah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-079",
+   "front": "Which two types sit under the جُمْلَة خَبَرِيَّة?",
+   "back": "جُمْلَة اِسْمِيَّة خَبَرِيَّة and جُمْلَة فِعْلِيَّة خَبَرِيَّة",
+   "tags": [
+    "nahw",
+    "jumlah",
+    "placement"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-080",
+   "text": "The جُمْلَة اِسْمِيَّة begins with {{c1::an اِسْم}}; the جُمْلَة فِعْلِيَّة begins with {{c2::a فِعْل}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "jumlah",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-081",
+   "term": "مُبْتَدَأ (mubtadaʾ)",
+   "meaning": "the subject — the first part of a nominal sentence",
+   "tags": [
+    "nahw",
+    "terminology",
+    "jumlah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-082",
+   "term": "خَبَر (khabar)",
+   "meaning": "the predicate — the second part of a nominal sentence",
+   "tags": [
+    "nahw",
+    "terminology",
+    "jumlah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-083",
+   "term": "مُسْنَد إِلَيْهِ (musnad ilayhi)",
+   "meaning": "the word about which the information is being given",
+   "tags": [
+    "nahw",
+    "terminology",
+    "jumlah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-084",
+   "term": "مُسْنَد (musnad)",
+   "meaning": "the word giving the information",
+   "tags": [
+    "nahw",
+    "terminology",
+    "jumlah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-085",
+   "term": "فَاعِل (fāʿil)",
+   "meaning": "the doer — the second part of a verbal sentence",
+   "tags": [
+    "nahw",
+    "terminology",
+    "jumlah"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-086",
+   "text": "In a جُمْلَة اِسْمِيَّة the مُبْتَدَأ is the {{c1::مُسْنَد إِلَيْهِ}} and the خَبَر is the {{c2::مُسْنَد}}; in a جُمْلَة فِعْلِيَّة the فِعْل is the {{c3::مُسْنَد}} and the فَاعِل is the {{c4::مُسْنَد إِلَيْهِ}}",
+   "extra": "They swap position between the two sentence types — the roles are what stay fixed.",
+   "tags": [
+    "nahw",
+    "jumlah",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-087",
+   "front": "مُسْنَد and مُسْنَد إِلَيْهِ change position between the two sentence types — what stays fixed?",
+   "back": "The مُسْنَد is always the word giving the information, and the مُسْنَد إِلَيْهِ always the word it is given about",
+   "tags": [
+    "nahw",
+    "jumlah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-088",
+   "front": "Can the خَبَر of a nominal sentence be a فِعْل?",
+   "back": "Yes — it may be either an اِسْم or a فِعْل",
+   "tags": [
+    "nahw",
+    "jumlah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-089",
+   "front": "How many خَبَر may a nominal sentence have?",
+   "back": "More than one — there can be multiple",
+   "tags": [
+    "nahw",
+    "jumlah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-090",
+   "front": "What is the grammatical state of both parts of a جُمْلَة اِسْمِيَّة خَبَرِيَّة?",
+   "back": "Both are مَرْفُوع",
+   "tags": [
+    "nahw",
+    "jumlah",
+    "irab"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-091",
+   "front": "Which part of a جُمْلَة فِعْلِيَّة is always مَرْفُوع?",
+   "back": "The فَاعِل",
+   "tags": [
+    "nahw",
+    "jumlah",
+    "irab"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-092",
+   "front": "How many types does the جُمْلَة إِنْشَائِيَّة have?",
+   "back": "Ten",
+   "tags": [
+    "nahw",
+    "jumlah",
+    "inshaiyyah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-093",
+   "front": "Name the ten types of جُمْلَة إِنْشَائِيَّة. <i>(two commands, a question, two wishes, a call, an offer, an oath, a wonder, a contract)</i>",
+   "back": "الأَمْر، النَّهْي، الاِسْتِفْهَام، التَّمَنِّي، التَّرَجِّي، النِّدَاء، العَرْض، القَسَم، التَّعَجُّب، العُقُود",
+   "tags": [
+    "nahw",
+    "jumlah",
+    "inshaiyyah",
+    "enumeration"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-094",
+   "term": "الاِسْتِفْهَام (al-istifhām)",
+   "meaning": "the interrogative — asking a question",
+   "tags": [
+    "nahw",
+    "terminology",
+    "inshaiyyah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-095",
+   "term": "التَّمَنِّي (al-tamannī)",
+   "meaning": "desire — wanting what you do not deserve or expect",
+   "tags": [
+    "nahw",
+    "terminology",
+    "inshaiyyah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-096",
+   "term": "التَّرَجِّي (al-tarajjī)",
+   "meaning": "hope — wanting what you think is possible",
+   "tags": [
+    "nahw",
+    "terminology",
+    "inshaiyyah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-097",
+   "term": "النِّدَاء (al-nidāʾ)",
+   "meaning": "exclamation — calling out to someone",
+   "tags": [
+    "nahw",
+    "terminology",
+    "inshaiyyah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-098",
+   "term": "العَرْض (al-ʿarḍ)",
+   "meaning": "a request or an offer",
+   "tags": [
+    "nahw",
+    "terminology",
+    "inshaiyyah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-099",
+   "term": "القَسَم (al-qasam)",
+   "meaning": "an oath",
+   "tags": [
+    "nahw",
+    "terminology",
+    "inshaiyyah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-100",
+   "term": "التَّعَجُّب (al-taʿajjub)",
+   "meaning": "amazement",
+   "tags": [
+    "nahw",
+    "terminology",
+    "inshaiyyah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-101",
+   "term": "العُقُود (al-ʿuqūd)",
+   "meaning": "a transaction",
+   "tags": [
+    "nahw",
+    "terminology",
+    "inshaiyyah"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-102",
+   "text": "{{c1::التَّمَنِّي}} is wanting what you {{c2::do not deserve or expect}}; {{c3::التَّرَجِّي}} is wanting what you {{c4::think is possible}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "inshaiyyah",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-103",
+   "front": "What is anomalous about العُقُود being counted as إِنْشَائِيَّة?",
+   "back": "In reality it is خَبَرِيَّة, but Islamic law recognises it as إِنْشَائِيَّة with respect to all contracts",
+   "tags": [
+    "nahw",
+    "inshaiyyah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-104",
+   "front": "الأَمْر and النَّهْي each appear in two different classifications — which?",
+   "back": "As types of فِعْل, and as types of جُمْلَة إِنْشَائِيَّة",
+   "tags": [
+    "nahw",
+    "placement",
+    "inshaiyyah",
+    "afal"
+   ]
+  }
+ ]
+}
