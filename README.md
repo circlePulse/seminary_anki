@@ -11,7 +11,9 @@ artifacts; **this repo is the real collection.**
 3. **Never reassign card ids.** See the warning below; it is the one mistake that
    cannot be undone.
 4. Run `./build.sh` to rebuild everything. It refuses to build if ids have moved.
-5. Commit `decks/`, `ids.lock.json`, `registry/` and `drafts/`. `build/` is ignored.
+5. Commit `decks/`, `ids.lock.json`, `delivered.json`, `registry/` and `drafts/`. `build/` is ignored.
+6. **Deliver deltas only.** `delivered.json` is the record of what is in Anki. A routine
+   update ships only notes that are new or changed against it — never the whole deck.
 
 ## The one irreversible mistake
 
@@ -57,7 +59,9 @@ build/              .apkg output, gitignored
 ## Workflow
 
 ```bash
-./build.sh                                        # check ids, rebuild, regen registry
+./build.sh                                        # check ids, show pending deliveries, regen registry
+python3 skill/scripts/generate_deck.py decks/X.json --delta   # deliver ONLY new/changed notes
+./build.sh --full                                 # complete decks — fresh collection or recovery only
 python3 skill/scripts/check_ids.py --update       # re-lock after intentional edits
 python3 skill/scripts/reconcile.py export.apkg    # diff Anki against source
 ```

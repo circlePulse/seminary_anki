@@ -17,8 +17,9 @@ Generate Anki decks from class notes. Read this file fully, then read the refere
 6. **Draft to a file and get approval before generating.** Never generate from an unreviewed draft.
 7. **Never call `random.randrange()` for a model ID.** IDs come from `scripts/ids.py`. This is what produced `Basic++++++++`.
 8. **Label shared terms with their science.** A term that means something else in another science (مُفْرَد, فِعْل) gets a `"science"` label on every card where it is the subject. When a new collision appears, fix the *older* card too — it stopped being unambiguous the moment the second sense arrived. Registry: `references/shared-terms.md`.
-9. **Give every card a stable `id`.** Without one, correcting a card and re-importing creates a duplicate instead of an update.
-10. **Ask rather than invent.** Fill mechanical gaps in the notes; flag substantive ones. Never reconstruct a criterion of division — a wrong criterion is invisible and every downstream card inherits it.
+9. **Deliver deltas, never full decks.** `delivered.json` records the content hash of every note as last handed over. A note is re-sent only when its hash changes. Full builds (`--full`) are for a fresh collection or recovery, never routine delivery.
+10. **Give every card a stable `id`.** Without one, correcting a card and re-importing creates a duplicate instead of an update.
+11. **Ask rather than invent.** Fill mechanical gaps in the notes; flag substantive ones. Never reconstruct a criterion of division — a wrong criterion is invisible and every downstream card inherits it.
 
 ## Workflow
 
@@ -28,7 +29,7 @@ Generate Anki decks from class notes. Read this file fully, then read the refere
 4. **Draft to `/home/claude/draft_{COURSE}_{topic}.md`** — always, before showing anything in chat. Format in `references/working-files.md`.
 5. **Present for review.** Lead with blocking questions. Paste the table or use `present_files`.
 6. **Revise in place** with `str_replace`. The file is authoritative; never regenerate the whole draft in chat.
-7. **Generate on explicit approval.** Transcribe the approved draft to `cards.json`, run `scripts/generate_deck.py`, share with `present_files`.
+7. **Generate on explicit approval — and deliver only what changed.** Run `generate_deck.py decks/X.json --delta` for each deck that gained or changed cards. The package contains **only** notes that are new or whose content differs from what was last delivered; unchanged notes are left out entirely, so Anki never touches them. Never hand over a full deck for a routine update — every card in it gets rewritten on import. Present only the delta packages that are non-empty.
 8. **Give the post-import steps** (below) with the file.
 
 ## Post-import steps for the user
