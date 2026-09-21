@@ -1,0 +1,801 @@
+{
+ "course": "VOCAB",
+ "topic": "verbs-01",
+ "session": "sep09",
+ "source": "Vocabulary list supplied 2026-09-09",
+ "cards": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-001",
+   "term": "تَنَوَّعَ",
+   "meaning": "to be of many types",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-002",
+   "text": "تَنَوَّعَ — {{c1::يَتَنَوَّعُ}} — {{c2::تَنَوَّعْ}} — {{c3::تَنَوُّع}}",
+   "extra": "to be of many types · Form V",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-003",
+   "term": "شَاءَ",
+   "meaning": "to will, to want",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-004",
+   "text": "شَاءَ — {{c1::يَشَاءُ}} — {{c2::شَأْ}} — {{c3::مَشِيئَة}}",
+   "extra": "to will, to want · Form I (hollow)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-005",
+   "term": "كَثُرَ",
+   "meaning": "to be many",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-006",
+   "text": "كَثُرَ — {{c1::يَكْثُرُ}} — {{c2::اُكْثُرْ}} — {{c3::كَثْرَة}}",
+   "extra": "to be many · Form I",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-007",
+   "term": "صَنَّفَ",
+   "meaning": "to write, to compose",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-008",
+   "text": "صَنَّفَ — {{c1::يُصَنِّفُ}} — {{c2::صَنِّفْ}} — {{c3::تَصْنِيف}}",
+   "extra": "to write, to compose · Form II",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-009",
+   "term": "أَحْصَى",
+   "meaning": "to count, to enumerate",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-010",
+   "text": "أَحْصَى — {{c1::يُحْصِي}} — {{c2::أَحْصِ}} — {{c3::إِحْصَاء}}",
+   "extra": "to count, to enumerate · Form IV (defective)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-011",
+   "term": "تَقَدَّمَ",
+   "meaning": "to come earlier, to precede",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-012",
+   "text": "تَقَدَّمَ — {{c1::يَتَقَدَّمُ}} — {{c2::تَقَدَّمْ}} — {{c3::تَقَدُّم}}",
+   "extra": "to come earlier, to precede · Form V",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-013",
+   "term": "تَأَخَّرَ",
+   "meaning": "to come later, to be delayed",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-014",
+   "text": "تَأَخَّرَ — {{c1::يَتَأَخَّرُ}} — {{c2::تَأَخَّرْ}} — {{c3::تَأَخُّر}}",
+   "extra": "to come later, to be delayed · Form V",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-015",
+   "term": "اِسْتَخَارَ",
+   "meaning": "to seek what is good",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-016",
+   "text": "اِسْتَخَارَ — {{c1::يَسْتَخِيرُ}} — {{c2::اِسْتَخِرْ}} — {{c3::اِسْتِخَارَة}}",
+   "extra": "to seek what is good · Form X",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-017",
+   "term": "اِقْتَدَى",
+   "meaning": "to follow, to take as a model",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-018",
+   "text": "اِقْتَدَى — {{c1::يَقْتَدِي}} — {{c2::اِقْتَدِ}} — {{c3::اِقْتِدَاء}}",
+   "extra": "to follow, to take as a model · Form VIII (defective)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-019",
+   "term": "اِعْتَمَدَ",
+   "meaning": "to rely on",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-020",
+   "text": "اِعْتَمَدَ — {{c1::يَعْتَمِدُ}} — {{c2::اِعْتَمِدْ}} — {{c3::اِعْتِمَاد}}",
+   "extra": "to rely on · Form VIII",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-021",
+   "term": "نَضَّرَ",
+   "meaning": "to make someone radiant",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-022",
+   "text": "نَضَّرَ — {{c1::يُنَضِّرُ}} — {{c2::نَضِّرْ}} — {{c3::تَنْضِير}}",
+   "extra": "to make someone radiant · Form II",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-023",
+   "term": "وَعَى",
+   "meaning": "to preserve, to memorise",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-024",
+   "text": "وَعَى — {{c1::يَعِي}} — {{c2::عِ}} — {{c3::وَعْي}}",
+   "extra": "to preserve, to memorise · Form I (assimilated + defective)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-025",
+   "term": "أَدَّى",
+   "meaning": "to convey, to deliver",
+   "tags": [
+    "vocab",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-026",
+   "text": "أَدَّى — {{c1::يُؤَدِّي}} — {{c2::أَدِّ}} — {{c3::تَأْدِيَة}}",
+   "extra": "to convey, to deliver · Form II (defective)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-027",
+   "term": "زُمْرَة",
+   "meaning": "a company or group (of people)",
+   "tags": [
+    "vocab",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-028",
+   "text": "{{c2::زُمْرَة}} (مُفْرَد) — {{c1::زُمَر}} (جَمْع)",
+   "extra": "a company or group of people",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-029",
+   "text": "{{c1::تَقَدَّمَ}} is to come <b>earlier</b>; {{c2::تَأَخَّرَ}} is to come <b>later</b>",
+   "extra": "Same Form V pattern, opposite senses.",
+   "tags": [
+    "vocab",
+    "verbs",
+    "contrast"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "رَضِيَ",
+   "meaning": "to be pleased (with)",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs"
+   ],
+   "id": "voc-030",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "رَضِيَ — {{c1::يَرْضَى}} — {{c2::اِرْضَ}} — {{c3::رِضًا}}",
+   "extra": "to be pleased (with) · Form I (defective)",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs",
+    "paradigm"
+   ],
+   "id": "voc-031",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "طَلَعَ",
+   "meaning": "to appear",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs"
+   ],
+   "id": "voc-032",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "طَلَعَ — {{c1::يَطْلُعُ}} — {{c2::اُطْلُعْ}} — {{c3::طُلُوع}}",
+   "extra": "to appear · Form I",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs",
+    "paradigm"
+   ],
+   "id": "voc-033",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "أَسْنَدَ",
+   "meaning": "to connect",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs"
+   ],
+   "id": "voc-034",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "أَسْنَدَ — {{c1::يُسْنِدُ}} — {{c2::أَسْنِدْ}} — {{c3::إِسْنَاد}}",
+   "extra": "to connect · Form IV",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs",
+    "paradigm"
+   ],
+   "id": "voc-035",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "رَأَى",
+   "meaning": "to see",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs"
+   ],
+   "id": "voc-036",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "رَأَى — {{c1::يَرَى}} — {{c2::رَ}} — {{c3::رُؤْيَة}}",
+   "extra": "to see · Form I (hamzated + defective) · The أَمْر is irregular — a single letter.",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs",
+    "paradigm"
+   ],
+   "id": "voc-037",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "وَلَدَ",
+   "meaning": "to give birth",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs"
+   ],
+   "id": "voc-038",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "وَلَدَ — {{c1::يَلِدُ}} — {{c2::لِدْ}} — {{c3::وِلَادَة}}",
+   "extra": "to give birth · Form I (assimilated)",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs",
+    "paradigm"
+   ],
+   "id": "voc-039",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "تَطَاوَلَ",
+   "meaning": "to compete",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs"
+   ],
+   "id": "voc-040",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "تَطَاوَلَ — {{c1::يَتَطَاوَلُ}} — {{c2::تَطَاوَلْ}} — {{c3::تَطَاوُل}}",
+   "extra": "to compete · Form VI",
+   "tags": [
+    "vocab",
+    "h02",
+    "verbs",
+    "paradigm"
+   ],
+   "id": "voc-041",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "أَثَر",
+   "meaning": "a trace",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms"
+   ],
+   "id": "voc-042",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c2::أَثَر}} (مُفْرَد) — {{c1::آثَار}} (جَمْع)",
+   "extra": "a trace",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms",
+    "paradigm"
+   ],
+   "id": "voc-043",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "رُكْبَة",
+   "meaning": "a knee",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms"
+   ],
+   "id": "voc-044",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c2::رُكْبَة}} (مُفْرَد) — {{c1::رُكَب}} (جَمْع)",
+   "extra": "a knee",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms",
+    "paradigm"
+   ],
+   "id": "voc-045",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "فَخِذ",
+   "meaning": "a thigh",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms"
+   ],
+   "id": "voc-046",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c2::فَخِذ}} (مُفْرَد) — {{c1::أَفْخَاذ}} (جَمْع)",
+   "extra": "a thigh",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms",
+    "paradigm"
+   ],
+   "id": "voc-047",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "أَمَارَة",
+   "meaning": "a sign — synonym of عَلَامَة",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms"
+   ],
+   "id": "voc-048",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c2::أَمَارَة}} (مُفْرَد) — {{c1::أَمَارَات}} (جَمْع)",
+   "extra": "a sign — synonym of عَلَامَة",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms",
+    "paradigm"
+   ],
+   "id": "voc-049",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "حَافٍ",
+   "meaning": "someone with no shoes; barefoot",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms"
+   ],
+   "id": "voc-050",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c2::حَافٍ}} (مُفْرَد) — {{c1::حُفَاة}} (جَمْع)",
+   "extra": "someone with no shoes; barefoot",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms",
+    "paradigm"
+   ],
+   "id": "voc-051",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "عَارٍ",
+   "meaning": "someone who is unclothed",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms"
+   ],
+   "id": "voc-052",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c2::عَارٍ}} (مُفْرَد) — {{c1::عُرَاة}} (جَمْع)",
+   "extra": "someone who is unclothed",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms",
+    "paradigm"
+   ],
+   "id": "voc-053",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "عَالٍ",
+   "meaning": "someone who is poor",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms"
+   ],
+   "id": "voc-054",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c2::عَالٍ}} (مُفْرَد) — {{c1::عَالَة}} (جَمْع)",
+   "extra": "someone who is poor",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms",
+    "paradigm"
+   ],
+   "id": "voc-055",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "رَاعٍ",
+   "meaning": "a shepherd",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms"
+   ],
+   "id": "voc-056",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c2::رَاعٍ}} (مُفْرَد) — {{c1::رِعَاء}} (جَمْع)",
+   "extra": "a shepherd · رِعَاء is the plural in the ḥadīth; رُعَاة is also common.",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms",
+    "paradigm"
+   ],
+   "id": "voc-057",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "شَاة",
+   "meaning": "a sheep",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms"
+   ],
+   "id": "voc-058",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c2::شَاة}} (مُفْرَد) — {{c1::شَاء}} (جَمْع)",
+   "extra": "a sheep · شَاء is the plural in the ḥadīth; شِيَاه is also common.",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms",
+    "paradigm"
+   ],
+   "id": "voc-059",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "بَيْنَمَا",
+   "meaning": "while — at the very time that (joining two events)",
+   "tags": [
+    "vocab",
+    "h02",
+    "particles"
+   ],
+   "id": "voc-060",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "مَلِيًّا",
+   "meaning": "for a while — a considerable length of time",
+   "tags": [
+    "vocab",
+    "h02",
+    "particles"
+   ],
+   "id": "voc-061",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "{{c1::بَيْنَمَا}} is <i>while</i> — two things happening at once; {{c2::مَلِيًّا}} is <i>a while</i> — a stretch of time",
+   "extra": "Same English word, two unrelated meanings.",
+   "tags": [
+    "vocab",
+    "h02",
+    "particles",
+    "contrast"
+   ],
+   "id": "voc-062",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is a synonym of أَمَارَة?",
+   "back": "عَلَامَة",
+   "tags": [
+    "vocab",
+    "h02",
+    "isms"
+   ],
+   "id": "voc-063",
+   "session": "sep21"
+  }
+ ],
+ "expected_count": 63
+}

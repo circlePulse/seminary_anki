@@ -1,0 +1,611 @@
+{
+ "course": "HDT-201",
+ "topic": "arbaeen-ahadith",
+ "session": "sep16",
+ "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
+ "expected_count": 51,
+ "cards": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-001",
+   "front": "Who narrates Ḥadīth 1 of the Arbaʿīn?",
+   "back": "ʿUmar ibn al-Khaṭṭāb RA",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-002",
+   "term": "أَمِير المُؤْمِنِين (amīr al-muʾminīn)",
+   "meaning": "commander of the believers — ʿUmar RA was the first given this title",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-003",
+   "front": "From which tribe and sub-tribe was ʿUmar RA?",
+   "back": "Quraysh, of the sub-tribe al-ʿAdawī",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-004",
+   "front": "Which of the four rightly-guided khalīfahs was ʿUmar RA?",
+   "back": "The second",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-005",
+   "front": "What was ʿUmar RA known for in the time of Jāhiliyyah?",
+   "back": "A high position, and his strength, courage, bravery, and intelligence",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-006",
+   "front": "In which year of prophethood did ʿUmar RA accept Islam?",
+   "back": "The sixth",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-007",
+   "front": "How many Muslims were there when ʿUmar RA accepted Islam?",
+   "back": "Forty men and eleven women",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-008",
+   "front": "What did Ibn Masʿūd RA say changed with ʿUmar's RA acceptance of Islam?",
+   "back": "The Muslims could not pray at the Kaʿbah until he accepted",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-009",
+   "front": "What was distinctive about ʿUmar's RA migration?",
+   "back": "He migrated openly, in defiance of the Quraysh, rather than secretly",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-010",
+   "front": "In how many of the Prophet's ﷺ battles did ʿUmar RA participate?",
+   "back": "All of them",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-011",
+   "front": "When was ʿUmar RA selected as khalīfah?",
+   "back": "The day Abū Bakr RA passed away",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-012",
+   "front": "How far did the borders of Islam expand under ʿUmar RA?",
+   "back": "East to the borders of China, and west to North Africa",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-013",
+   "front": "Which lands did ʿUmar RA open?",
+   "back": "Shām, Iraq, al-Quds, and Egypt",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-014",
+   "front": "How many masājid are said to have been established during ʿUmar's RA khilāfah?",
+   "back": "12,000",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-015",
+   "front": "In what year was ʿUmar RA martyred?",
+   "back": "The year 23",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-016",
+   "front": "Who killed ʿUmar RA, and during what?",
+   "back": "Abū Luʾluʾ al-Majūsī, while he was praying Fajr",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-017",
+   "front": "How long did ʿUmar RA live after being stabbed?",
+   "back": "Three days",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-018",
+   "front": "How is Ḥadīth 1 described in terms of its place in Islam?",
+   "back": "It is the axis around which Islam revolves",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-019",
+   "front": "In the technical sense, what is islām — and what does that require?",
+   "back": "External submission — and for those actions to be accepted there must be sincerity",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-020",
+   "front": "What did Imām Abū Dāwūd say about this ḥadīth?",
+   "back": "That it is half of Islam",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-021",
+   "front": "What did Imām al-Shāfiʿī say this ḥadīth encompasses?",
+   "back": "Half of knowledge",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-022",
+   "front": "Why is this ḥadīth said to be half of knowledge?",
+   "back": "A person's actions and knowledge divide into internal and external, and this ḥadīth deals with the internal",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-023",
+   "front": "On what reasoning did Imām al-Shāfiʿī and Imām Aḥmad call it one-third of knowledge?",
+   "back": "Actions come from three places — the heart, the tongue, and the limbs — and sincerity is found in the heart",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-024",
+   "text": "Imām al-Shāfiʿī is reported both ways: {{c1::half}} of knowledge, on the internal/external division; and {{c2::one-third}} of knowledge, on the heart/tongue/limbs division",
+   "extra": "Two different partitions of knowledge, hence two different fractions.",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "contrast"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-025",
+   "front": "What is famously absent from Ṣaḥīḥ al-Bukhārī, and what stands in its place?",
+   "back": "It has no muqaddimah — al-Bukhārī opens with this ḥadīth instead, as a reminder to himself and the reader",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-026",
+   "front": "Who was مُهَاجِر أُمّ قَيْس, and how did he get the name?",
+   "back": "A Companion who proposed to a woman called Umm Qays in Madinah; she refused unless he migrated, so he migrated in order to marry her",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-027",
+   "term": "أَدَاة الحَصْر (adāt al-ḥaṣr)",
+   "meaning": "the tool of exclusivity — إِنَّمَا",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "nahw",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-028",
+   "front": "What does إِنَّمَا do to the connection between مُبْتَدَأ and خَبَر?",
+   "back": "It makes it exclusive",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "nahw"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-029",
+   "front": "In the naḥw categories, is إِنَّمَا عَامِل or غَيْر عَامِل?",
+   "back": "غَيْر عَامِل — it causes no change in the grammatical state of what follows",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "nahw",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-030",
+   "front": "What is عَمَل?",
+   "back": "Any action we do voluntarily",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-031",
+   "front": "What is نِيَّة, technically?",
+   "back": "The determination, want, and aspiration to do something",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-032",
+   "front": "How did Ibn al-Qayyim define نِيَّة?",
+   "back": "The knowledge of the doer of <i>what</i> he is doing, and the <i>purpose</i> behind the action",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-033",
+   "front": "What happens if the intention behind a deed is not sincere?",
+   "back": "The reward is not received — and the person may even be liable",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-034",
+   "front": "What does the second clause indicate about multiple intentions behind one deed?",
+   "back": "A person is rewarded for each of several good intentions behind a single good deed",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-035",
+   "front": "What follows practically from being rewarded for multiple intentions?",
+   "back": "We should be very intentional in what we do, to gain as much reward as possible",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-036",
+   "front": "What can a sincere intention do to an everyday act?",
+   "back": "Transform it into an act of worship",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-037",
+   "front": "If the purpose of our existence is to worship Allah, what does that actually require?",
+   "back": "Not being in ṣalāh constantly, but living in accordance with divine guidance — the whole of life becomes ʿibādah through intention",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-038",
+   "front": "Which act is used as the example in this ḥadīth?",
+   "back": "Hijrah",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-039",
+   "front": "Why was hijrah such a demanding act of worship when it was required?",
+   "back": "It was under threat of persecution, and meant abandoning one's wealth and family",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-040",
+   "front": "Which acts demand the most care with intention?",
+   "back": "Anything public-facing",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-041",
+   "text": "Guarding the intention — {{c1::beginning::before}}: take a moment to be intentional; {{c2::middle::during}}: remind yourself; {{c3::end::after}}: seek istighfār for any deficiency",
+   "extra": "“Beginning, middle, end.”",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-042",
+   "front": "What does إِخْلَاص mean?",
+   "back": "To dedicate, to be loyal, devoted, or faithful",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "ikhlas"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-043",
+   "front": "What meaning do the root letters of إِخْلَاص convey?",
+   "back": "Purifying or cleaning something",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "ikhlas",
+    "roots"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-044",
+   "front": "What is إِخْلَاص, as an act?",
+   "back": "To worship Allah with the sole objective of attaining His nearness",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "ikhlas"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-045",
+   "front": "What is a good proxy for testing your own sincerity?",
+   "back": "Ask: who do I want the reward from — Allah, or the people?",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "ikhlas"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-046",
+   "front": "What role does sincerity play in whether a deed is accepted?",
+   "back": "It is a precondition for the acceptance of anything we do",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "ikhlas",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-047",
+   "front": "Is there reward for an intention that was never acted on?",
+   "back": "Yes — when there is a valid excuse for the action not happening",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-048",
+   "front": "What is the “new” hijrah?",
+   "back": "Abandoning sins and mistakes",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-049",
+   "front": "What three harms come from love of this world?",
+   "back": "It is a disruptive disease of the heart; it corrupts acts of worship; it distracts from the hereafter and the purpose of our existence",
+   "tags": [
+    "arbaeen",
+    "h01"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-050",
+   "front": "What did the Prophet ﷺ <b>not</b> do when correcting someone?",
+   "back": "Call them out in public, embarrass them, or scold them",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "correction"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-051",
+   "front": "How does this ḥadīth itself illustrate the prophetic method of correction?",
+   "back": "He did not single out the individual — he turned it into a teaching moment and used it to explain a general principle",
+   "tags": [
+    "arbaeen",
+    "h01",
+    "correction"
+   ]
+  }
+ ]
+}

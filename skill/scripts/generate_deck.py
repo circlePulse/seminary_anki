@@ -30,6 +30,9 @@ Input JSON:
 Optional per-card keys:
   "id"       stable, never-reused (e.g. "nahw-023"). Makes the note GUID stable so
              a corrected deck re-imports as an UPDATE rather than a duplicate.
+  "session"  e.g. "sep17". Overrides the file-level session for a card added in a
+             later class. The session tag is what "cram last week" filters on, so a
+             deck that grows across classes needs it per card.
   "science"  e.g. "نَحْو". Renders as a small label above the field. Required on any
              card whose subject term is shared across sciences — see
              references/shared-terms.md.
@@ -234,7 +237,10 @@ def build(data, outdir):
     counts = {"basic": 0, "bidir": 0, "cloze": 0, "tier2": 0, "stable": 0}
 
     for c in cards:
-        tags = clean_tags(base_tags + list(c.get("tags", [])))
+        # session is when the material was TAUGHT; decks grow across many classes,
+        # so a card may override the file-level session
+        tags = clean_tags([data["course"], c.get("session") or data["session"]]
+                          + list(c.get("tags", [])))
         if c["tier"] == 2:
             tags.append("tier2")
             counts["tier2"] += 1

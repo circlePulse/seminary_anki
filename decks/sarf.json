@@ -3,7 +3,7 @@
  "topic": "sarf",
  "session": "sep08",
  "source": "IOK Arabic — Ṣarf section, class notes to 2026-09-08",
- "expected_count": 68,
+ "expected_count": 120,
  "cards": [
   {
    "type": "basic",
@@ -757,6 +757,669 @@
     "criterion"
    ],
    "id": "sarf-068"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-069",
+   "front": "When a وَاو pronoun is the last letter of a word, what always follows it?",
+   "back": "A silent أَلِف — as in فَتَحُوْا",
+   "tags": [
+    "sarf",
+    "madi",
+    "rule"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-070",
+   "front": "Which two tenses does المُضَارِع cover?",
+   "back": "الحَال (present) and المُسْتَقْبَل (future)",
+   "tags": [
+    "sarf",
+    "mudari"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-071",
+   "term": "الحَال (al-ḥāl)",
+   "meaning": "the present tense",
+   "tags": [
+    "sarf",
+    "mudari",
+    "terminology"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-072",
+   "term": "المُسْتَقْبَل (al-mustaqbal)",
+   "meaning": "the future tense",
+   "tags": [
+    "sarf",
+    "mudari",
+    "terminology"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-073",
+   "text": "الحَال has two types: {{c1::present habitual::regularly}} — “Zaid walks” — and {{c2::present continuous::right now}} — “Zaid is walking”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "spine"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-074",
+   "front": "What does the <b>present habitual</b> express?",
+   "back": "An action that takes place regularly — “Zaid walks”",
+   "tags": [
+    "sarf",
+    "mudari",
+    "criterion"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-075",
+   "front": "What does the <b>present continuous</b> express?",
+   "back": "An action taking place right now — “Zaid is walking”",
+   "tags": [
+    "sarf",
+    "mudari",
+    "criterion"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-076",
+   "text": "Each صِيغَة has four components: {{c1::الفِعْل::the verb}}, {{c2::الضَّمِير::the pronoun}}, {{c3::حَرْف المُضَارِع::the prefix}}, and {{c4::عَلَامَة الإِعْرَاب::the state marker}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "spine"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-077",
+   "term": "حَرْف المُضَارِع",
+   "meaning": "the مُضَارِع prefix — also called عَلَامَة المُضَارِع",
+   "tags": [
+    "sarf",
+    "mudari",
+    "terminology"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-078",
+   "front": "What is the other name for حَرْف المُضَارِع?",
+   "back": "عَلَامَة المُضَارِع",
+   "tags": [
+    "sarf",
+    "mudari"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-079",
+   "term": "عَلَامَة الإِعْرَاب",
+   "meaning": "a letter or ḥarakah which indicates the grammatical state",
+   "tags": [
+    "sarf",
+    "mudari",
+    "terminology"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-080",
+   "text": "Breaking down يَفْتَحُوْنَ: {{c1::يَ::prefix}} is the حَرْف المُضَارِع, {{c2::فْتَحُ::verb}} is the فِعْل, {{c3::وْ::pronoun}} is the ضَمِير, and {{c4::نَ::marker}} is the عَلَامَة الإِعْرَاب",
+   "extra": "Read right to left.",
+   "tags": [
+    "sarf",
+    "mudari",
+    "contrast"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-081",
+   "text": "المُضَارِع of فَتَحَ — الغَائِبُ — {{c1::يَفْتَحُ}} — ({{c2::هُوَ}}) — “he opens / is opening / will open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-082",
+   "text": "المُضَارِع of فَتَحَ — الغَائِبَانِ — {{c1::يَفْتَحَانِ}} — ({{c2::ا}}) — “they (m/d) open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-083",
+   "text": "المُضَارِع of فَتَحَ — الغَائِبُونَ — {{c1::يَفْتَحُوْنَ}} — ({{c2::و}}) — “they (m/p) open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-084",
+   "text": "المُضَارِع of فَتَحَ — الغَائِبَةُ — {{c1::تَفْتَحُ}} — ({{c2::هِيَ}}) — “she opens”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-085",
+   "text": "المُضَارِع of فَتَحَ — الغَائِبَتَانِ — {{c1::تَفْتَحَانِ}} — ({{c2::ا}}) — “they (f/d) open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-086",
+   "text": "المُضَارِع of فَتَحَ — الغَائِبَاتُ — {{c1::يَفْتَحْنَ}} — ({{c2::نَ}}) — “they (f/p) open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-087",
+   "text": "المُضَارِع of فَتَحَ — المُخَاطَبُ — {{c1::تَفْتَحُ}} — ({{c2::أَنْتَ}}) — “you (m/s) open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-088",
+   "text": "المُضَارِع of فَتَحَ — المُخَاطَبَانِ — {{c1::تَفْتَحَانِ}} — ({{c2::ا}}) — “you (m/d) open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-089",
+   "text": "المُضَارِع of فَتَحَ — المُخَاطَبُونَ — {{c1::تَفْتَحُوْنَ}} — ({{c2::و}}) — “you (m/p) open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-090",
+   "text": "المُضَارِع of فَتَحَ — المُخَاطَبَةُ — {{c1::تَفْتَحِيْنَ}} — ({{c2::ي}}) — “you (f/s) open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-091",
+   "text": "المُضَارِع of فَتَحَ — المُخَاطَبَتَانِ — {{c1::تَفْتَحَانِ}} — ({{c2::ا}}) — “you (f/d) open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-092",
+   "text": "المُضَارِع of فَتَحَ — المُخَاطَبَاتُ — {{c1::تَفْتَحْنَ}} — ({{c2::نَ}}) — “you (f/p) open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-093",
+   "text": "المُضَارِع of فَتَحَ — المُتَكَلِّمُ — {{c1::أَفْتَحُ}} — ({{c2::أَنَا}}) — “I open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-094",
+   "text": "المُضَارِع of فَتَحَ — المُتَكَلِّمُونَ — {{c1::نَفْتَحُ}} — ({{c2::نَحْنُ}}) — “we open”",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "mudari",
+    "table"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-095",
+   "front": "How many مُضَارِع conjugations carry no pronoun suffix, and which are they?",
+   "back": "Five — هُوَ، هِيَ، أَنْتَ، أَنَا، نَحْنُ",
+   "tags": [
+    "sarf",
+    "mudari",
+    "criterion"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "sarf-096",
+   "front": "What term do the notes give for the five conjugations with no suffix?",
+   "back": "الأَفْعَال الخَمْسَة <i>(see draft — this label conventionally names the five نُون-ending forms instead)</i>",
+   "tags": [
+    "sarf",
+    "mudari"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-097",
+   "term": "نُون النِّسْوَة (nūn al-niswah)",
+   "meaning": "the نُون of the two feminine plurals — it counts as the ضَمِير itself",
+   "tags": [
+    "sarf",
+    "mudari",
+    "terminology"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-098",
+   "term": "نُون الإِعْرَاب (nūn al-iʿrāb)",
+   "meaning": "the نُون that marks the grammatical state at the end of a مُضَارِع conjugation",
+   "tags": [
+    "sarf",
+    "mudari",
+    "terminology"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-099",
+   "text": "{{c1::نُون النِّسْوَة}} is the ضَمِير itself and those two conjugations have {{c2::no عَلَامَة إِعْرَاب at all}}; {{c3::نُون الإِعْرَاب}} is what the remaining conjugations end with",
+   "extra": "Two different nūns at the end of a verb — this is the pair to keep apart.",
+   "tags": [
+    "sarf",
+    "mudari",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-100",
+   "front": "Which two conjugations carry نُون النِّسْوَة?",
+   "back": "The two feminine plurals — الغَائِبَاتُ (يَفْتَحْنَ) and المُخَاطَبَاتُ (تَفْتَحْنَ)",
+   "tags": [
+    "sarf",
+    "mudari"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-101",
+   "front": "What is a وَزْن, generically?",
+   "back": "The pattern of a word when placed on فَ عَيْن لَام",
+   "tags": [
+    "sarf",
+    "wazn"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-102",
+   "front": "Which words can be put on the وَزْن pattern?",
+   "back": "All of them",
+   "tags": [
+    "sarf",
+    "wazn"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-103",
+   "term": "بَاب / أَبْوَاب (bāb / abwāb)",
+   "meaning": "the categories verbs are divided into, by the vowel combinations of the عَيْن الكَلِمَة",
+   "tags": [
+    "sarf",
+    "abwaab",
+    "terminology"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-104",
+   "front": "On what basis are verbs of family one divided into أَبْوَاب?",
+   "back": "The combinations of the vowel on the عَيْن الكَلِمَة",
+   "tags": [
+    "sarf",
+    "abwaab",
+    "criterion"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-105",
+   "term": "ثُلَاثِي مُجَرَّد (thulāthī mujarrad)",
+   "meaning": "family one — the هُوَ form carries no extra letter",
+   "tags": [
+    "sarf",
+    "abwaab",
+    "terminology"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-106",
+   "term": "ثُلَاثِي مَزِيد فِيه (thulāthī mazīd fīh)",
+   "meaning": "families two and above — the هُوَ form does carry extra letters",
+   "tags": [
+    "sarf",
+    "abwaab",
+    "terminology"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-107",
+   "text": "{{c1::ثُلَاثِي مُجَرَّد}} — the هُوَ form has {{c2::no extra letter}}; {{c3::ثُلَاثِي مَزِيد فِيه}} — the هُوَ form {{c4::does have extra letters}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "abwaab",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-108",
+   "front": "To what does بَاب refer, across the families?",
+   "back": "To families two and above, and also to the sub-combinations within family one",
+   "tags": [
+    "sarf",
+    "abwaab",
+    "criterion"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-109",
+   "text": "The six أَبْوَاب of ثُلَاثِي مُجَرَّد, in order of commonality: (1) {{c1::نَصَرَ يَنْصُرُ}} (2) {{c2::ضَرَبَ يَضْرِبُ}} (3) {{c3::فَتَحَ يَفْتَحُ}} (4) {{c4::سَمِعَ يَسْمَعُ}} (5) {{c5::كَرُمَ يَكْرُمُ}} (6) {{c6::حَسِبَ يَحْسِبُ}}",
+   "extra": "This order has to be memorised.",
+   "tags": [
+    "sarf",
+    "abwaab",
+    "spine"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-110",
+   "front": "Which بَاب is the <b>most</b> common?",
+   "back": "نَصَرَ يَنْصُرُ",
+   "tags": [
+    "sarf",
+    "abwaab"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-111",
+   "front": "Which بَاب is the <b>least</b> common of the six?",
+   "back": "حَسِبَ يَحْسِبُ",
+   "tags": [
+    "sarf",
+    "abwaab"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-112",
+   "front": "Which بَاب has the vowel pattern <b>fatḥah → ḍammah</b> on the عَيْن?",
+   "back": "نَصَرَ يَنْصُرُ — number 1 in order of commonality",
+   "tags": [
+    "sarf",
+    "abwaab"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-113",
+   "front": "Which بَاب has the vowel pattern <b>fatḥah → kasrah</b> on the عَيْن?",
+   "back": "ضَرَبَ يَضْرِبُ — number 2 in order of commonality",
+   "tags": [
+    "sarf",
+    "abwaab"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-114",
+   "front": "Which بَاب has the vowel pattern <b>fatḥah → fatḥah</b> on the عَيْن?",
+   "back": "فَتَحَ يَفْتَحُ — number 3 in order of commonality",
+   "tags": [
+    "sarf",
+    "abwaab"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-115",
+   "front": "Which بَاب has the vowel pattern <b>kasrah → fatḥah</b> on the عَيْن?",
+   "back": "سَمِعَ يَسْمَعُ — number 4 in order of commonality",
+   "tags": [
+    "sarf",
+    "abwaab"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-116",
+   "front": "Which بَاب has the vowel pattern <b>ḍammah → ḍammah</b> on the عَيْن?",
+   "back": "كَرُمَ يَكْرُمُ — number 5 in order of commonality",
+   "tags": [
+    "sarf",
+    "abwaab"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-117",
+   "front": "Which بَاب has the vowel pattern <b>kasrah → kasrah</b> on the عَيْن?",
+   "back": "حَسِبَ يَحْسِبُ — number 6 in order of commonality",
+   "tags": [
+    "sarf",
+    "abwaab"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-118",
+   "front": "Of the nine possible mādī–muḍāriʿ vowel combinations, how many actually occur?",
+   "back": "Six",
+   "tags": [
+    "sarf",
+    "abwaab",
+    "criterion"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-119",
+   "front": "Which three vowel combinations do <b>not</b> occur?",
+   "back": "فَعِلَ–يَفْعُلُ, فَعُلَ–يَفْعَلُ, and فَعُلَ–يَفْعِلُ",
+   "tags": [
+    "sarf",
+    "abwaab",
+    "criterion"
+   ],
+   "session": "sep15"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-120",
+   "front": "Which is the only بَاب whose مَاضِي carries a ḍammah on the عَيْن?",
+   "back": "كَرُمَ يَكْرُمُ",
+   "tags": [
+    "sarf",
+    "abwaab"
+   ],
+   "session": "sep15"
   }
  ]
 }

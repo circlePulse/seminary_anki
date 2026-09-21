@@ -1,0 +1,446 @@
+{
+ "course": "HDT-201",
+ "topic": "quduri-tahara",
+ "session": "sep16",
+ "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, class notes 2026-09-16",
+ "expected_count": 35,
+ "cards": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-001",
+   "front": "What does طَهَارَة mean لُغَةً?",
+   "back": "Cleanliness",
+   "tags": [
+    "quduri",
+    "tahara"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "tah-002",
+   "text": "طَهَارَة اِصْطِلَاحًا: {{c1::النَّظَافَةُ عَنِ النَّجَاسَةِ}} {{c2::حَقِيقِيَّةً كَانَتْ أَوْ حُكْمِيَّةً}}",
+   "extra": "Cleanliness from impurity, whether that impurity be actual or ritual.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "definition"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-003",
+   "front": "Translate the technical definition of طَهَارَة.",
+   "back": "Cleanliness from impurity, whether that impurity be actual or ritual",
+   "tags": [
+    "quduri",
+    "tahara",
+    "definition"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-004",
+   "front": "What does the technical definition of طَهَارَة tell us about نَجَاسَة?",
+   "back": "That it has two types — حَقِيقِيَّة and حُكْمِيَّة",
+   "tags": [
+    "quduri",
+    "tahara",
+    "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "tah-005",
+   "term": "نَجَاسَة حَقِيقِيَّة",
+   "meaning": "“physical” impurity — an impure substance",
+   "tags": [
+    "quduri",
+    "tahara",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "tah-006",
+   "term": "نَجَاسَة حُكْمِيَّة",
+   "meaning": "ritual or legal impurity",
+   "tags": [
+    "quduri",
+    "tahara",
+    "terminology"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "tah-007",
+   "text": "نَجَاسَة is either {{c1::حَقِيقِيَّة::physical}} or {{c2::حُكْمِيَّة::ritual}}; the حُكْمِيَّة is either {{c3::الحَدَث الأَصْغَر}} or {{c4::الحَدَث الأَكْبَر}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "spine"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "tah-008",
+   "term": "الحَدَث الأَصْغَر",
+   "meaning": "minor ritual impurity",
+   "tags": [
+    "quduri",
+    "tahara",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "tah-009",
+   "term": "الحَدَث الأَكْبَر",
+   "meaning": "major ritual impurity",
+   "tags": [
+    "quduri",
+    "tahara",
+    "terminology"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "tah-010",
+   "text": "الحَدَث الأَصْغَر is removed by {{c1::الوُضُوء}}; الحَدَث الأَكْبَر is removed by {{c2::الغُسْل}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-011",
+   "front": "What is غَسْل (washing), by definition?",
+   "back": "Water touches the body in any way until it drips — even a single drop",
+   "tags": [
+    "quduri",
+    "tahara",
+    "definition"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-012",
+   "front": "What is مَسْح, by definition?",
+   "back": "A wet hand touches the area",
+   "tags": [
+    "quduri",
+    "tahara",
+    "definition"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "tah-013",
+   "text": "{{c1::غَسْل}} (fatḥah) is the act of washing until water drips; {{c2::غُسْل}} (ḍammah) is the ritual bath that removes الحَدَث الأَكْبَر",
+   "extra": "Same three letters — only the vowel separates them.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "tah-014",
+   "text": "{{c1::غَسْل}} requires water to reach the area until it drips; {{c2::مَسْح}} requires only that a wet hand touch it",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-015",
+   "front": "From which verse are the obligatory acts of wuḍūʾ derived?",
+   "back": "آيَة الوُضُوء",
+   "tags": [
+    "quduri",
+    "tahara"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-016",
+   "front": "How many obligatory acts of wuḍūʾ does the verse give?",
+   "back": "Four",
+   "tags": [
+    "quduri",
+    "tahara"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "tah-017",
+   "text": "The four فَرَائِض of wuḍūʾ: (1) {{c1::غَسْل الوَجْه}} (2) {{c2::غَسْل اليَدَيْن مَعَ المِرْفَقَيْن}} (3) {{c3::مَسْح رُبْع الرَّأْس}} (4) {{c4::غَسْل الرِّجْلَيْن مَعَ الكَعْبَيْن}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-018",
+   "front": "How is the face defined for غَسْل الوَجْه?",
+   "back": "From the top of the forehead to the bottom of the chin, and from earlobe to earlobe",
+   "tags": [
+    "quduri",
+    "tahara",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-019",
+   "front": "What does يَد mean on its own, and what does مَعَ المِرْفَقَيْن add?",
+   "back": "يَد means from fingertip to shoulder; the modifier restricts it to up to and including the elbow",
+   "tags": [
+    "quduri",
+    "tahara",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-020",
+   "front": "How much of the head must be wiped, and which part?",
+   "back": "One quarter — the front part of the head",
+   "tags": [
+    "quduri",
+    "tahara",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-021",
+   "front": "Which act of wuḍūʾ is مَسْح rather than غَسْل?",
+   "back": "Wiping the head — مَسْح رُبْع الرَّأْس",
+   "tags": [
+    "quduri",
+    "tahara",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-022",
+   "front": "On what do Abū Ḥanīfah, Abū Yūsuf, and al-Shaybānī agree regarding the limits?",
+   "back": "That the elbows and the ankles are included",
+   "tags": [
+    "quduri",
+    "tahara",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-023",
+   "front": "What happens to the wuḍūʾ if one of the four obligatory acts is missing?",
+   "back": "It does not count",
+   "tags": [
+    "quduri",
+    "tahara",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "tah-024",
+   "text": "The beard in wuḍūʾ: if it is thick enough that {{c1::the skin cannot be seen}}, then {{c2::wiping along the beard}} suffices; if {{c3::the skin can be seen}}, then {{c4::the skin itself must be made wet}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-025",
+   "front": "What decides whether wiping the beard is enough in wuḍūʾ?",
+   "back": "Whether the skin underneath is visible through it",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "tah-026",
+   "front": "Which part of the face may be treated with مَسْح rather than غَسْل?",
+   "back": "A beard thick enough to hide the skin",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "The سُنَن of wuḍūʾ taught so far: {{c1::washing the hands three times before putting them in the container}}; {{c2::mentioning the name of Allah}}; {{c3::using the miswāk before rinsing the mouth}}",
+   "extra": "More to come.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "sunan-wudu",
+    "spine"
+   ],
+   "id": "tah-027",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "How many times are the hands washed before putting them into the container?",
+   "back": "Three",
+   "tags": [
+    "quduri",
+    "tahara",
+    "sunan-wudu"
+   ],
+   "id": "tah-028",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "According to al-Qudūrī, in what circumstance is washing the hands before the container a sunnah?",
+   "back": "On waking from sleep",
+   "tags": [
+    "quduri",
+    "tahara",
+    "sunan-wudu",
+    "criterion"
+   ],
+   "id": "tah-029",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Why did washing the hands <i>before the container</i> matter when this was written?",
+   "back": "There was no running water — wuḍūʾ was made from containers",
+   "tags": [
+    "quduri",
+    "tahara",
+    "sunan-wudu"
+   ],
+   "id": "tah-030",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Complete the ḥadīth's reason for washing the hands on waking: “…for you do not know …”",
+   "back": "…where your hand was during the night",
+   "tags": [
+    "quduri",
+    "tahara",
+    "sunan-wudu"
+   ],
+   "id": "tah-031",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What do the commentators say al-Qudūrī overlooked about washing the hands?",
+   "back": "He tied it to waking from sleep — but the sunnah mu'akkadah is to wash them three times whether waking or not",
+   "tags": [
+    "quduri",
+    "tahara",
+    "sunan-wudu",
+    "criterion"
+   ],
+   "id": "tah-032",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "The commentators call washing the hands a سُنَّة مُؤَكَّدَة — what does that tell you about the Prophet's ﷺ practice?",
+   "back": "He persisted in it, leaving it only occasionally",
+   "tags": [
+    "quduri",
+    "tahara",
+    "sunan-wudu",
+    "legal-values"
+   ],
+   "id": "tah-033",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "What is said at the beginning of wuḍūʾ?",
+   "back": "The name of Allah — bismillāh",
+   "tags": [
+    "quduri",
+    "tahara",
+    "sunan-wudu"
+   ],
+   "id": "tah-034",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "When is the miswāk used in wuḍūʾ, and for what?",
+   "back": "Before rinsing the mouth, to clean the teeth",
+   "tags": [
+    "quduri",
+    "tahara",
+    "sunan-wudu"
+   ],
+   "id": "tah-035",
+   "session": "sep21"
+  }
+ ]
+}

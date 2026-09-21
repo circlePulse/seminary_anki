@@ -3,7 +3,7 @@
  "topic": "tasheel-ch1",
  "session": "sep03",
  "source": "Tasheel al-Nahw ch.1 §1.1–1.2 — class notes 2026-09-03",
- "expected_count": 104,
+ "expected_count": 145,
  "cards": [
   {
    "type": "bidir",
@@ -701,7 +701,8 @@
     "nahw",
     "spine",
     "afal"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -713,7 +714,8 @@
     "nahw",
     "terminology",
     "afal"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -725,7 +727,8 @@
     "nahw",
     "terminology",
     "afal"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -737,7 +740,8 @@
     "nahw",
     "terminology",
     "afal"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -749,7 +753,8 @@
     "nahw",
     "afal",
     "criterion"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -761,7 +766,8 @@
     "nahw",
     "afal",
     "criterion"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "cloze",
@@ -773,7 +779,8 @@
     "nahw",
     "spine",
     "huroof"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -785,7 +792,8 @@
     "nahw",
     "terminology",
     "huroof"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -797,7 +805,8 @@
     "nahw",
     "terminology",
     "huroof"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -809,7 +818,8 @@
     "nahw",
     "huroof",
     "criterion"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "cloze",
@@ -821,7 +831,8 @@
     "nahw",
     "terminology",
     "murakkab"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "cloze",
@@ -833,7 +844,8 @@
     "nahw",
     "spine",
     "jumlah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -845,7 +857,8 @@
     "nahw",
     "terminology",
     "jumlah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -857,7 +870,8 @@
     "nahw",
     "terminology",
     "jumlah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -869,7 +883,8 @@
     "nahw",
     "jumlah",
     "criterion"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -881,7 +896,8 @@
     "nahw",
     "jumlah",
     "placement"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "cloze",
@@ -894,7 +910,8 @@
     "jumlah",
     "contrast",
     "criterion"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -906,7 +923,8 @@
     "nahw",
     "terminology",
     "jumlah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -918,7 +936,8 @@
     "nahw",
     "terminology",
     "jumlah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -930,7 +949,8 @@
     "nahw",
     "terminology",
     "jumlah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -942,7 +962,8 @@
     "nahw",
     "terminology",
     "jumlah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -954,7 +975,8 @@
     "nahw",
     "terminology",
     "jumlah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "cloze",
@@ -967,7 +989,8 @@
     "jumlah",
     "contrast",
     "criterion"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -979,7 +1002,8 @@
     "nahw",
     "jumlah",
     "criterion"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -990,7 +1014,8 @@
    "tags": [
     "nahw",
     "jumlah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -1001,7 +1026,8 @@
    "tags": [
     "nahw",
     "jumlah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -1013,7 +1039,8 @@
     "nahw",
     "jumlah",
     "irab"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -1025,7 +1052,8 @@
     "nahw",
     "jumlah",
     "irab"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -1037,7 +1065,8 @@
     "nahw",
     "jumlah",
     "inshaiyyah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -1050,7 +1079,8 @@
     "jumlah",
     "inshaiyyah",
     "enumeration"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -1062,7 +1092,8 @@
     "nahw",
     "terminology",
     "inshaiyyah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -1074,7 +1105,8 @@
     "nahw",
     "terminology",
     "inshaiyyah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -1086,7 +1118,8 @@
     "nahw",
     "terminology",
     "inshaiyyah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -1098,7 +1131,8 @@
     "nahw",
     "terminology",
     "inshaiyyah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -1110,7 +1144,8 @@
     "nahw",
     "terminology",
     "inshaiyyah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -1122,7 +1157,8 @@
     "nahw",
     "terminology",
     "inshaiyyah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -1134,7 +1170,8 @@
     "nahw",
     "terminology",
     "inshaiyyah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "bidir",
@@ -1146,7 +1183,8 @@
     "nahw",
     "terminology",
     "inshaiyyah"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "cloze",
@@ -1159,7 +1197,8 @@
     "inshaiyyah",
     "contrast",
     "criterion"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -1171,7 +1210,8 @@
     "nahw",
     "inshaiyyah",
     "criterion"
-   ]
+   ],
+   "session": "sep10"
   },
   {
    "type": "basic",
@@ -1184,7 +1224,566 @@
     "placement",
     "inshaiyyah",
     "afal"
-   ]
+   ],
+   "session": "sep10"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-105",
+   "front": "What is the mnemonic phrase for the حُرُوف القَمَرِيَّة?",
+   "back": "أَبْغِ حَجَّكَ وَخَفْ عَقِيمَهْ",
+   "tags": [
+    "nahw",
+    "qamariyyah"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-106",
+   "front": "What does أَبْغِ حَجَّكَ وَخَفْ عَقِيمَهْ mean?",
+   "back": "Seek your Hajj and fear it being fruitless — its acceptance being withheld",
+   "tags": [
+    "nahw",
+    "qamariyyah"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-107",
+   "front": "How many حُرُوف قَمَرِيَّة are there?",
+   "back": "Fourteen",
+   "tags": [
+    "nahw",
+    "qamariyyah"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-108",
+   "text": "The حُرُوف القَمَرِيَّة, from أَبْغِ حَجَّكَ وَخَفْ عَقِيمَهْ: {{c1::أ ب غ ح}} {{c2::ج ك و خ}} {{c3::ف ع ق ي}} {{c4::م ه}}",
+   "extra": "The mnemonic is the list — each letter of the phrase is one of them.",
+   "tags": [
+    "nahw",
+    "qamariyyah",
+    "spine"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-109",
+   "front": "How are non-intellectual plurals treated grammatically?",
+   "back": "As singular feminine",
+   "tags": [
+    "nahw",
+    "rule"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-110",
+   "term": "نَكِرَة (nakirah)",
+   "meaning": "indefinite",
+   "tags": [
+    "nahw",
+    "definiteness",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-111",
+   "term": "مَعْرِفَة (maʿrifah)",
+   "meaning": "definite",
+   "tags": [
+    "nahw",
+    "definiteness",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-112",
+   "text": "{{c1::تَنْوِين}} can mark an ism as {{c2::نَكِرَة::indefinite}}; {{c3::أَلِف لَام}} marks it as {{c4::مَعْرِفَة::definite}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "definiteness",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-113",
+   "front": "How many signs of an اِسْم are there?",
+   "back": "Twelve",
+   "tags": [
+    "nahw",
+    "signs",
+    "ism"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-114",
+   "text": "Signs of an اِسْم (1–4): it is preceded by {{c1::أَلِف لَام}}; it accepts a {{c2::جَرّ}}; it has {{c3::تَنْوِين}} on the last letter; it ends with a {{c4::تَاء مَرْبُوطَة}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "signs",
+    "ism",
+    "spine"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-115",
+   "text": "Signs of an اِسْم (5–8): it is {{c1::مُثَنَّى}}; it is {{c2::جَمْع}}; it is a {{c3::مُسْنَد إِلَيْهِ}}; it is {{c4::مُضَاف}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "signs",
+    "ism",
+    "spine"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-116",
+   "text": "Signs of an اِسْم (9–12): it is {{c1::مَوْصُوف}}; it is {{c2::مُنَادَى}}; it is {{c3::مُصَغَّر}}; it is {{c4::مَنْسُوب}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "signs",
+    "ism",
+    "spine"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-117",
+   "term": "مُصَغَّر (muṣaghghar)",
+   "meaning": "the diminutive form",
+   "tags": [
+    "nahw",
+    "signs",
+    "ism",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-118",
+   "term": "مَنْسُوب (mansūb)",
+   "meaning": "a noun converted into an adjective — spelled with a سِين",
+   "tags": [
+    "nahw",
+    "signs",
+    "ism",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-119",
+   "term": "مُنَادَى (munādā)",
+   "meaning": "the one being called",
+   "tags": [
+    "nahw",
+    "signs",
+    "ism",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-120",
+   "front": "If مُثَنَّى and جَمْع are signs of an اِسْم, why can a مُضَارِع verb still be dual?",
+   "back": "Because only the ضَمِير becomes dual — the فِعْل portion itself stays the same",
+   "tags": [
+    "nahw",
+    "signs",
+    "ism",
+    "criterion"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-121",
+   "front": "How many signs of a فِعْل are there?",
+   "back": "Nine",
+   "tags": [
+    "nahw",
+    "signs",
+    "fil"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-122",
+   "text": "Signs of a فِعْل (1–5): preceded by {{c1::قَدْ}}; by {{c2::سـ}}; by {{c3::سَوْفَ}}; by a {{c4::حَرْف جَزْم}}; by a {{c5::حَرْف نَصْب}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "signs",
+    "fil",
+    "spine"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-123",
+   "text": "Signs of a فِعْل (6–9): it has a {{c1::ضَمِير مُسْتَتِر}}; it is {{c2::أَمْر}}; it is {{c3::نَهْي}}; it has a {{c4::تَاء التَّأْنِيث}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "signs",
+    "fil",
+    "spine"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-124",
+   "front": "What is the sign of a حَرْف?",
+   "back": "That it takes none of the signs of an اِسْم or a فِعْل",
+   "tags": [
+    "nahw",
+    "signs",
+    "harf",
+    "criterion"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-125",
+   "text": "A {{c1::تَاء مَرْبُوطَة}} at the end marks an {{c2::اِسْم}}; a {{c3::تَاء التَّأْنِيث}} marks a {{c4::فِعْل}}",
+   "extra": "Both are a tāʾ, and they point at opposite word classes.",
+   "tags": [
+    "nahw",
+    "signs",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-126",
+   "text": "{{c1::مَنْسُوب}} — with a سِين — is a noun turned into an adjective; {{c2::مَنْصُوب}} — with a صَاد — is the accusative state",
+   "extra": "Your notes flag this one explicitly.",
+   "tags": [
+    "nahw",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-127",
+   "text": "The types of مُرَكَّب نَاقِص taught so far: {{c1::التَّوْصِيفِيّ::descriptive}}, {{c2::الإِضَافِيّ::possessive}}, and {{c3::الإِشَارِيّ::demonstrative}}",
+   "extra": "Two more are still to come.",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "spine"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-128",
+   "term": "المُرَكَّب التَّوْصِيفِيّ",
+   "meaning": "a descriptive phrase — one word describes the other",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-129",
+   "term": "صِفَة (ṣifah)",
+   "meaning": "the describing word in a التَّوْصِيفِيّ phrase",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-130",
+   "term": "مَوْصُوف (mawṣūf)",
+   "meaning": "the word being described in a التَّوْصِيفِيّ phrase",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-131",
+   "text": "In a التَّوْصِيفِيّ phrase the صِفَة and مَوْصُوف must correspond in all four of: {{c1::grammatical state}}, {{c2::gender}}, {{c3::number}}, and {{c4::type — proper or not}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "spine",
+    "criterion"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-132",
+   "front": "In how many areas must the صِفَة and the مَوْصُوف correspond?",
+   "back": "Four",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-133",
+   "term": "المُرَكَّب الإِضَافِيّ",
+   "meaning": "a possessive phrase — the first word is attributed to the second",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-134",
+   "term": "مُضَاف (muḍāf)",
+   "meaning": "the first word of an إِضَافَة — the thing attributed",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-135",
+   "term": "مُضَاف إِلَيْهِ (muḍāf ilayhi)",
+   "meaning": "the second word of an إِضَافَة — the one attributed to, which in some cases owns the first",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-136",
+   "front": "What can a مُضَاف never carry?",
+   "back": "An أَلِف لَام or a تَنْوِين",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "criterion",
+    "rule"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-137",
+   "front": "What is the grammatical state of the مُضَاف إِلَيْهِ?",
+   "back": "Always مَجْرُور",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "criterion"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-138",
+   "front": "Where does the صِفَة go if the مُضَاف has one?",
+   "back": "After the whole إِضَافَة phrase",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "criterion"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-139",
+   "front": "Why must the صِفَة of a مُضَاف be مَعْرِفَة?",
+   "back": "Because the مُضَاف is technically مَعْرِفَة, and the two must correspond",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "criterion"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-140",
+   "term": "المُرَكَّب الإِشَارِيّ",
+   "meaning": "a demonstrative phrase — one ism points to another",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-141",
+   "term": "اِسْم الإِشَارَة (ism al-ishārah)",
+   "meaning": "the ism that does the pointing in an إِشَارِيّ phrase",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-142",
+   "term": "مُشَار إِلَيْهِ (mushār ilayhi)",
+   "meaning": "the ism being pointed to",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "terminology"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-143",
+   "text": "In an إِشَارِيّ phrase the مُشَار إِلَيْهِ must carry {{c1::an أَلِف لَام}}, and must match the اِسْم الإِشَارَة in {{c2::gender and number}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis",
+    "criterion"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-144",
+   "front": "How many types of مُرَكَّب نَاقِص are there in total, and how many have been taught?",
+   "back": "Five in total — three so far, with two still to come",
+   "tags": [
+    "nahw",
+    "murakkab",
+    "naqis"
+   ],
+   "session": "sep17"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-145",
+   "front": "Can a خَبَر itself be a complete sentence?",
+   "back": "Yes",
+   "tags": [
+    "nahw",
+    "jumlah"
+   ],
+   "session": "sep17"
   }
  ]
 }

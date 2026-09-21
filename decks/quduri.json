@@ -1,0 +1,1392 @@
+{
+ "course": "HDT-201",
+ "topic": "quduri-intro",
+ "session": "sep09",
+ "source": "Qudūrī — Intro to Qudūrī, class notes 2026-09-09",
+ "expected_count": 118,
+ "cards": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-001",
+   "front": "What role does مُخْتَصَر القُدُورِي play for a student?",
+   "back": "The entry point into the Ḥanafī school of thought",
+   "tags": [
+    "quduri",
+    "texts"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-002",
+   "front": "What is the stated purpose of مُخْتَصَر القُدُورِي?",
+   "back": "To present the relied-upon positions of the madhhab",
+   "tags": [
+    "quduri",
+    "texts"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-003",
+   "front": "What does مُخْتَصَر القُدُورِي deliberately leave out, and what does that make it?",
+   "back": "It mentions no evidences — it is simply a manual of law",
+   "tags": [
+    "quduri",
+    "texts",
+    "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-004",
+   "term": "لُغَةً (lughatan)",
+   "meaning": "linguistically — a definition by the word's ordinary language sense",
+   "tags": [
+    "quduri",
+    "method"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-005",
+   "term": "اِصْطِلَاحًا (iṣṭilāḥan)",
+   "meaning": "technically — a definition by the term's specialist usage",
+   "tags": [
+    "quduri",
+    "method"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-006",
+   "text": "Scholars define a term two ways: {{c1::لُغَةً::linguistically}} and {{c2::اِصْطِلَاحًا::technically}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "method",
+    "spine"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-007",
+   "text": "For a definition to be sound it must be {{c1::مَانِع::excluding}} — excluding what does not belong — and {{c2::جَامِع::including}} — including everything that does",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "method",
+    "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-008",
+   "term": "مَانِع (māniʿ)",
+   "meaning": "preventive — a definition excludes whatever is not necessary to it",
+   "tags": [
+    "quduri",
+    "method"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-009",
+   "term": "جَامِع (jāmiʿ)",
+   "meaning": "comprehensive — a definition includes everything necessary to it",
+   "tags": [
+    "quduri",
+    "method"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-010",
+   "front": "What does فِقْه mean لُغَةً?",
+   "back": "To understand and comprehend",
+   "tags": [
+    "quduri",
+    "fiqh"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-011",
+   "front": "Who gave one of the first technical definitions of فِقْه, and what was it?",
+   "back": "Imām Abū Ḥanīfah — an individual knowing their rights and responsibilities",
+   "tags": [
+    "quduri",
+    "fiqh"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-012",
+   "text": "Abū Ḥanīfah's definition of فِقْه: {{c1::مَعْرِفَةُ النَّفْسِ مَا لَهَا وَمَا عَلَيْهَا}}",
+   "extra": "an individual knowing their rights and responsibilities",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "definition"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-013",
+   "front": "What is the problem with Abū Ḥanīfah's definition of فِقْه?",
+   "back": "It is very broad — it takes in ʿaqīdah and ādāb as well",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-014",
+   "text": "The refined definition of فِقْه: {{c1::الْعِلْمُ بِالْأَحْكَامِ الشَّرْعِيَّةِ}} {{c2::الْعَمَلِيَّةِ}} {{c3::الْمُكْتَسَبَةِ مِنْ أَدِلَّتِهَا التَّفْصِيلِيَّةِ}}",
+   "extra": "the knowledge of practical legal rulings derived from their detailed evidences",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "definition"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-015",
+   "front": "Translate the refined definition of فِقْه.",
+   "back": "The knowledge of practical legal rulings derived from their detailed evidences",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "definition"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-016",
+   "front": "In the definition of فِقْه, what do “the detailed evidences” refer to?",
+   "back": "The four sources of fiqh",
+   "tags": [
+    "quduri",
+    "fiqh"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-017",
+   "front": "Name the four sources of فِقْه. <i>(Q, S, I, Q)</i>",
+   "back": "القُرْآن، السُّنَّة، الإِجْمَاع، القِيَاس",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "enumeration"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-018",
+   "term": "إِجْمَاع (ijmāʿ)",
+   "meaning": "scholarly consensus",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-019",
+   "term": "قِيَاس (qiyās)",
+   "meaning": "analogical reasoning",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-020",
+   "front": "What does “practical legal rulings” mean in the definition of فِقْه?",
+   "back": "The laws related to a person's actions or conduct",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-021",
+   "front": "What does the refined definition of فِقْه exclude, and to which science does that belong?",
+   "back": "Knowledge related to the articles of faith — that is the subject of ʿaqīdah",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-022",
+   "text": "The three categories of فِقْه: {{c1::عِبَادَات}}, {{c2::مُعَامَلَات}}, and {{c3::جِنَايَات}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "spine"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-023",
+   "term": "عِبَادَات (ʿibādāt)",
+   "meaning": "rules and regulations of worship and its related actions, such as purification",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-024",
+   "term": "مُعَامَلَات (muʿāmalāt)",
+   "meaning": "commercial and interpersonal law, and judicial matters — adjudication, court procedure, evidence",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-025",
+   "term": "جِنَايَات (jināyāt)",
+   "meaning": "crimes, offences, and their penalties — criminal law",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-026",
+   "front": "Which categories of فِقْه does القُدُورِي cover?",
+   "back": "All three — عِبَادَات، مُعَامَلَات، جِنَايَات",
+   "tags": [
+    "quduri",
+    "fiqh",
+    "quduri"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-027",
+   "front": "What does شَرِيعَة mean لُغَةً?",
+   "back": "A watering hole or drinking place — where a person or animal comes to drink",
+   "tags": [
+    "quduri",
+    "shariah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-028",
+   "front": "What does شَرِيعَة mean اِصْطِلَاحًا?",
+   "back": "What Allah has legislated for His servants from the religion — Allah's revealed code",
+   "tags": [
+    "quduri",
+    "shariah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-029",
+   "front": "What is the شَرِيعَة for?",
+   "back": "It is what we follow to be guided in this world and to attain salvation",
+   "tags": [
+    "quduri",
+    "shariah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-030",
+   "front": "What does the شَرِيعَة include?",
+   "back": "Creed, ritual acts of worship, morals, ethics, and law",
+   "tags": [
+    "quduri",
+    "shariah"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-031",
+   "text": "{{c1::فِقْه}} and {{c2::شَرِيعَة}} are often used interchangeably, but {{c3::شَرِيعَة}} is far the broader of the two",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "shariah",
+    "fiqh",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-032",
+   "front": "What does شَرِيعَة take in that فِقْه does not?",
+   "back": "Creed, morals, and ethics — فِقْه is confined to practical legal rulings",
+   "tags": [
+    "quduri",
+    "shariah",
+    "fiqh",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-033",
+   "front": "From which verb does مَذْهَب derive, and what does it mean?",
+   "back": "ذَهَبَ / يَذْهَبُ — to go, or to take as a way",
+   "tags": [
+    "quduri",
+    "madhhab",
+    "roots"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-034",
+   "front": "Grammatically, what two things can مَذْهَب be?",
+   "back": "Either a ظَرْف مَكَانِي or a مَصْدَر",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-035",
+   "front": "What does مَذْهَب mean لُغَةً?",
+   "back": "A way, course, or manner of acting; an opinion on a particular case; a doctrine; the opinion one chooses to adopt",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-036",
+   "front": "What does مَذْهَب mean اِصْطِلَاحًا?",
+   "back": "A legal school, or legal school of thought",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-037",
+   "text": "A مَذْهَب is a non-formal association of jurists sharing loyalty to {{c1::a particular set of legal precepts}} and {{c2::a particular methodology of interpretation and of deriving law}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "madhhab",
+    "definition"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-038",
+   "front": "Name the four extant مَذَاهِب. <i>(Ḥ, M, Sh, Ḥ)</i>",
+   "back": "حَنَفِي، مَالِكِي، شَافِعِي، حَنْبَلِي",
+   "tags": [
+    "quduri",
+    "madhhab",
+    "enumeration"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-039",
+   "front": "After whom is each مَذْهَب named?",
+   "back": "A master-jurist — a مُجْتَهِد قَطْعِي — to whom a particular methodology of deriving law is attributed",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-040",
+   "front": "Were there ever more than four مَذَاهِب?",
+   "back": "Yes — there used to be many more; these four were codified, preserved, and survived",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-041",
+   "term": "مُجْتَهِد قَطْعِي (mujtahid qaṭʿī)",
+   "meaning": "one who performs ijtihād — the master-jurist a madhhab is named for",
+   "tags": [
+    "quduri",
+    "madhhab",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-042",
+   "front": "What is اِجْتِهَاد?",
+   "back": "The effort made to derive law, which is not self-evident, from the primary sources",
+   "tags": [
+    "quduri",
+    "madhhab",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-043",
+   "front": "What does اِجْتِهَاد require of the one performing it?",
+   "back": "A great deal of skill and expertise across many subject areas",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-044",
+   "text": "A مَذْهَب is both {{c1::a framework for interpreting and deriving law from the Qurʾān and Sunnah}} and {{c2::the body of law that comes out of that framework}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "madhhab",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-045",
+   "front": "Does following the Ḥanafī madhhab mean holding every opinion of Imām Abū Ḥanīfah?",
+   "back": "No — it is following the scholarly tradition that developed over time by adhering to the methodology of the founders",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-046",
+   "front": "Is following a مَذْهَب an objective in itself?",
+   "back": "No — it is a means to follow the Qurʾān in a reliable, systematic, methodical, and coherent manner",
+   "tags": [
+    "quduri",
+    "madhhab",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-047",
+   "front": "What is the ruling on following a مَذْهَب?",
+   "back": "Not technically wājib or farḍ, but very highly encouraged",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-048",
+   "front": "In what sense does the average person not have a مَذْهَب?",
+   "back": "Their madhhab is that of the imam they go to with their questions",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-049",
+   "front": "Why should a student choose a مَذْهَب once they begin studying?",
+   "back": "To develop coherence and internal consistency",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "qud-050",
+   "front": "Historically, what determined which مَذْهَب a person followed?",
+   "back": "Schools developed in particular regions; people followed the one they had access to",
+   "tags": [
+    "quduri",
+    "madhhab"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-051",
+   "front": "What is Imām Abū Ḥanīfah's full name?",
+   "back": "النُّعْمَان بْن ثَابِت بْن زُوطَى بْن مَاه التَّيْمِي الكُوفِي",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-052",
+   "front": "Which part of Abū Ḥanīfah's full name is the part to know?",
+   "back": "النُّعْمَان بْن ثَابِت — Nuʿmān ibn Thābit",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-053",
+   "term": "الإِمَام الأَعْظَم (al-imām al-aʿẓam)",
+   "meaning": "the greatest Imām — Abū Ḥanīfah's honorific title",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-054",
+   "front": "Where and in what year was Abū Ḥanīfah born?",
+   "back": "In Kufa, Iraq, in the year 80",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-055",
+   "front": "Where and in what year did Abū Ḥanīfah die?",
+   "back": "In Baghdad, in the year 150",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-056",
+   "front": "What is Abū Ḥanīfah's place among the four Imāms?",
+   "back": "He is the first of them",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-057",
+   "front": "On what grounds do some consider Abū Ḥanīfah a تَابِعِي?",
+   "back": "He may have seen Anas ibn Mālik RA as a child",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-058",
+   "front": "At whose command was Kufa founded?",
+   "back": "ʿUmar RA",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "kufa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-059",
+   "front": "Whose legacy made Kufa a major centre of learning?",
+   "back": "Ibn Masʿūd and ʿAlī raḍiyallāhu ʿanhumā",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "kufa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-060",
+   "front": "How does Kufa rank for the number of Companions who settled there?",
+   "back": "More settled there than in any city apart from Makkah and Madinah",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "kufa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-061",
+   "front": "Which Companions are named as the most prominent of those associated with Kufa?",
+   "back": "ʿUmar RA, ʿAlī RA, and Ibn Masʿūd RA",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "kufa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-062",
+   "front": "How did the school of Kufa come into being?",
+   "back": "Out of the body of fiqh understanding that developed among the Companions and scholars who settled there",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "kufa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-063",
+   "front": "What was Abū Ḥanīfah's family trade, and what did he do in his youth?",
+   "back": "A family of traders — he spent time as a silk merchant",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-064",
+   "front": "Who recognised Abū Ḥanīfah's ability and redirected him to studying?",
+   "back": "Imām al-Shaʿbī",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-065",
+   "front": "What did al-Shaʿbī advise Abū Ḥanīfah to do?",
+   "back": "To start studying Islam and sitting with the scholars",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-066",
+   "front": "Which field did Abū Ḥanīfah excel in before turning to fiqh?",
+   "back": "Theology",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-067",
+   "front": "In what year, and at what age, did Abū Ḥanīfah turn to fiqh?",
+   "back": "In the year 102, aged 22",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-068",
+   "front": "Who was Abū Ḥanīfah's principal teacher in fiqh, and what was his position?",
+   "back": "Ḥammād ibn Abī Sulaymān — the chief jurist of Kufa",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-069",
+   "front": "For how long did Abū Ḥanīfah study with Ḥammād ibn Abī Sulaymān?",
+   "back": "18 years",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-070",
+   "front": "What did Ḥammād permit Abū Ḥanīfah to do?",
+   "back": "Give legal rulings on his behalf",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-071",
+   "front": "What happened when Ḥammād died in the year 120?",
+   "back": "Abū Ḥanīfah was offered his position, and reluctantly accepted",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-072",
+   "front": "How many scholars is Abū Ḥanīfah said to have studied with?",
+   "back": "Over 4,000",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-073",
+   "text": "Abū Ḥanīfah's fiqh lineage: he studied with {{c1::حَمَّاد بْن أَبِي سُلَيْمَان}}, who learned from {{c2::إِبْرَاهِيم النَّخَعِي}}, who learned from {{c3::عَلْقَمَة بْن قَيْس النَّخَعِي}}, who learned from {{c4::ابْن مَسْعُود}}",
+   "extra": "Four links back to a Companion.",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "lineage"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-074",
+   "front": "How did the madhāhib begin?",
+   "back": "As geographic schools — the understanding of the different scholars and Ṣaḥābah in different cities",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "lineage"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-075",
+   "text": "School origins: the Ḥanafī from {{c1::the school of Kufa}}; the Mālikī from {{c2::the school of Madinah}}; the Ḥanbalī from {{c3::ahl al-ḥadīth in Basra}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "lineage"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-076",
+   "front": "On what legacy is the Shāfiʿī school built?",
+   "back": "Makkah, then Madinah and Kufa, then later the ḥadīth movement in Iraq",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "lineage"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-077",
+   "front": "When and where did the school of ahl al-ḥadīth develop?",
+   "back": "In the later half of the second century, in Basra",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "lineage"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-078",
+   "front": "What did ahl al-ḥadīth want to do with ijtihād and qiyās?",
+   "back": "Minimise them — not eliminate them",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "lineage",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-079",
+   "front": "For how long did Abū Ḥanīfah teach fiqh and give fatāwā?",
+   "back": "Thirty years",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-080",
+   "front": "What need did Abū Ḥanīfah recognise in the fiqh of his time?",
+   "back": "For a structured, systematic, organised approach that had not existed before",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-081",
+   "front": "What body did Abū Ḥanīfah form, and of how many?",
+   "back": "A committee of 40 jurists",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-082",
+   "front": "What was Abū Ḥanīfah's own role in the committee's daily debates?",
+   "back": "He would listen to the discussion, summarise it, then offer his own conclusions and opinions",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-083",
+   "front": "What was the committee's goal, and what happened when it could not be reached?",
+   "back": "Unanimity and consensus — where differences could not be reconciled, the differing opinions were recorded",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-084",
+   "front": "Over what period did the committee work, and to what extent?",
+   "back": "Thirty years, deciding thousands of issues",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-085",
+   "front": "Complete the famous statement about him: “You jurists are doctors and we are the pharmacists, and you are …”",
+   "back": "…a man who has got hold of both sides",
+   "tags": [
+    "quduri",
+    "abu-hanifa"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-086",
+   "front": "What did Abū Ḥanīfah refuse to do?",
+   "back": "Serve the rulers and sultans of his time",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "death"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-087",
+   "front": "What was the consequence of that refusal?",
+   "back": "He was placed under house arrest near the end of his life",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "death"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-088",
+   "front": "Did house arrest stop Abū Ḥanīfah teaching?",
+   "back": "No — it did not prevent him from teaching others",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "death"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-089",
+   "front": "In which month did Abū Ḥanīfah die?",
+   "back": "Rajab",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "death"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-090",
+   "front": "What was the cause of Abū Ḥanīfah's death?",
+   "back": "Poison administered by prison guards, on the command of the Abbasid caliph Manṣūr",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "death"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-091",
+   "front": "How many times was Abū Ḥanīfah's funeral prayer performed, and by how many?",
+   "back": "Six times — more than 50,000 people prayed over him",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "death"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-092",
+   "front": "Name Abū Ḥanīfah's four main students. <i>(Z, AY, M, H)</i>",
+   "back": "زُفَر، أَبُو يُوسُف، مُحَمَّد، الحَسَن بْن زِيَاد",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students",
+    "enumeration"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-093",
+   "front": "What is Zufar's full name?",
+   "back": "زُفَر بْن الهُذَيْل",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-094",
+   "front": "In which two fields was Zufar a scholar?",
+   "back": "Both fiqh and ḥadīth",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-095",
+   "front": "In what three fields was Abū Yūsuf a specialist?",
+   "back": "Ḥadīth, tafsīr, and the history of the Arabs",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-096",
+   "front": "What is Muḥammad's full name?",
+   "back": "مُحَمَّد بْن الحَسَن الشَّيْبَانِي",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-097",
+   "front": "Which two students are called the pillars of the madhhab?",
+   "back": "Abū Yūsuf and Muḥammad ibn al-Ḥasan",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-098",
+   "front": "With whom did Muḥammad ibn al-Ḥasan continue after Abū Ḥanīfah died?",
+   "back": "Abū Yūsuf",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-099",
+   "front": "Which of the four Imāms did Muḥammad ibn al-Ḥasan teach?",
+   "back": "Imām al-Shāfiʿī",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-100",
+   "front": "Which of Imām Mālik's works did Muḥammad ibn al-Ḥasan narrate?",
+   "back": "The Muwaṭṭaʾ",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-101",
+   "term": "مُجْتَهِد مُطْلَق (mujtahid muṭlaq)",
+   "meaning": "an absolute mujtahid — one who derives law independently; Muḥammad ibn al-Ḥasan was one, though out of respect he attributed his work to Abū Ḥanīfah",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-102",
+   "term": "ظَاهِر الرِّوَايَة (Ẓāhir al-Riwāyah)",
+   "meaning": "the six books of Muḥammad ibn al-Ḥasan — considered the backbone of the madhhab",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-103",
+   "front": "Whose opinions did Muḥammad ibn al-Ḥasan compile in ظَاهِر الرِّوَايَة?",
+   "back": "The well-established opinions of Abū Ḥanīfah, his own, and Abū Yūsuf's",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-104",
+   "text": "Years studied with Abū Ḥanīfah — Zufar {{c1::over 20}}; Abū Yūsuf {{c2::over 17}}; Muḥammad ibn al-Ḥasan {{c3::2}}",
+   "extra": "Four similar durations sit in this section; holding them in one view is what keeps them apart.",
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students",
+    "contrast"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-105",
+   "front": "What is Imām al-Qudūrī's full name?",
+   "back": "أَبُو الحَسَن أَحْمَد بْن مُحَمَّد القُدُورِي",
+   "tags": [
+    "quduri",
+    "al-quduri"
+   ],
+   "session": "sep16"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-106",
+   "front": "In what year was Imām al-Qudūrī born?",
+   "back": "973 <i>(CE — see draft)</i>",
+   "tags": [
+    "quduri",
+    "al-quduri"
+   ],
+   "session": "sep16"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-107",
+   "front": "In what year did Imām al-Qudūrī die?",
+   "back": "1037 <i>(CE — see draft)</i>",
+   "tags": [
+    "quduri",
+    "al-quduri"
+   ],
+   "session": "sep16"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-108",
+   "front": "What is Imām al-Qudūrī's standing among Ḥanafī scholars?",
+   "back": "He is considered among the leading ones",
+   "tags": [
+    "quduri",
+    "al-quduri"
+   ],
+   "session": "sep16"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-109",
+   "front": "What does مُخْتَصَر mean, and what does that imply about the book?",
+   "back": "An abridgment — it is itself derived from much more comprehensive books",
+   "tags": [
+    "quduri",
+    "al-quduri"
+   ],
+   "session": "sep16"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-110",
+   "text": "فَرْض: {{c1::مَا ثَبَتَ بِدَلِيلٍ قَطْعِيٍّ}} {{c2::لَا شُبْهَةَ فِيهِ}}",
+   "extra": "That which is established by a definitive proof, in which there is no doubt.",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "definition"
+   ],
+   "session": "sep16"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-111",
+   "front": "What is a فَرْض, in the Ḥanafī legal values?",
+   "back": "An act established by a definitive proof which is not open to interpretation",
+   "tags": [
+    "quduri",
+    "legal-values"
+   ],
+   "session": "sep16"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-112",
+   "front": "What counts as a definitive proof for a فَرْض?",
+   "back": "A verse of the Qurʾān, or a mutawātir ḥadīth",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "criterion"
+   ],
+   "session": "sep16"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "سُنَّة مُؤَكَّدَة: {{c1::مَا وَاظَبَ عَلَيْهِ النَّبِيُّ ﷺ}} {{c2::مَعَ تَرْكِهِ أَحْيَانًا}}",
+   "extra": "What the Prophet ﷺ persisted in, while leaving it on occasion.",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "definition"
+   ],
+   "id": "qud-113",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Translate the definition of سُنَّة مُؤَكَّدَة.",
+   "back": "What the Prophet ﷺ persisted in, while leaving it on occasion",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "definition"
+   ],
+   "id": "qud-114",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "سُنَّة غَيْر مُؤَكَّدَة: {{c1::مَا فَعَلَهُ النَّبِيُّ ﷺ مَرَّةً}} {{c2::وَتَرَكَهُ أُخْرَى}}",
+   "extra": "What the Prophet ﷺ did at one time and left at another.",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "definition"
+   ],
+   "id": "qud-115",
+   "session": "sep21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "front": "Translate the definition of سُنَّة غَيْر مُؤَكَّدَة.",
+   "back": "What the Prophet ﷺ did at one time and left at another",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "definition"
+   ],
+   "id": "qud-116",
+   "session": "sep21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "text": "In a {{c1::مُؤَكَّدَة}} sunnah the Prophet ﷺ {{c2::persisted in it, leaving it only occasionally}}; in a {{c3::غَيْر مُؤَكَّدَة}} sunnah he {{c4::did it at times and left it at others}}",
+   "extra": "Both definitions mention doing and leaving — the difference is which one was the norm.",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "contrast",
+    "criterion"
+   ],
+   "id": "qud-117",
+   "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "term": "وَاظَبَ (wāẓaba)",
+   "meaning": "to persist in, to do consistently — the word that makes a sunnah مُؤَكَّدَة",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "terminology"
+   ],
+   "id": "qud-118",
+   "session": "sep21"
+  }
+ ]
+}
