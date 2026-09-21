@@ -13,11 +13,14 @@ edit** instead of creating a parallel one. See `skill/references/working-files.m
 | 2026-09-21 | Ḥadīth 2 itself — narrator, text, lessons; only its vocab is in Notion | `arbaeen_ahadith` | open |
 | 2026-09-08 | Riyāḍ al-Ṣāliḥīn beyond the four intro facts | `riyad` | open |
 | 2026-09-16 | Ḥanafī legal values — فَرْض, مُؤَكَّدَة, غَيْر مُؤَكَّدَة so far | `quduri` — legal-values | open |
-| 2026-09-21 | Rest of the سُنَن of wuḍūʾ — three taught; the miswāk line looks unfinished | `tahara` — sunan spine | open |
+| 2026-09-21 | Rest of the سُنَن of wuḍūʾ — three taught; the miswāk line looks unfinished | `quduri` — sunan spine | open |
 | 2026-09-17 | Two more types of مُرَكَّب نَاقِص | `nahw` — مُرَكَّب نَاقِص spine | open |
 
 ## Routing rules
 
+- **One deck per text.** Every kitāb of Mukhtaṣar al-Qudūrī goes in `quduri`, tagged
+  by kitāb (`tahara`, …). Ṭahārah was split into its own file on 09-16 and merged back
+  on 09-21 — ids kept, so no note changed identity in Anki.
 - **Ḥadīth vocabulary goes to `vocab`, not `arbaeen_ahadith`**, tagged by ḥadīth
   (`h02`, …). Set by a Claude note on Ḥadīth 2, 2026-09-21; applies to every ḥadīth.
 
@@ -37,8 +40,8 @@ Collisions that will land and need labelling on **both** sides when they do
 | سُنَّة | a legal-value card on bare سُنَّة | `arbaeen` — سُنَّة as the Prophet's ﷺ way; `quduri` now has سُنَّة مُؤَكَّدَة as a legal category |
 | أَثَر | ḥadīth terminology — a report from a Companion or Successor | `vocab` — أَثَر as "a trace" |
 | عَالٍ | the other عَالٍ, "high", from ع‑ل‑و | `vocab` — عَالٍ as "poor", from ع‑ي‑ل. Same spelling, two roots |
-| حَدَث | — | `tahara` — one letter from حَدِيث |
-| غَسْل / غُسْل | already live | `tahara` — contrast note |
+| حَدَث | — | `quduri` — one letter from حَدِيث |
+| غَسْل / غُسْل | already live | `quduri` — contrast note |
 | تَاء مَرْبُوطَة / تَاء التَّأْنِيث | already live | `nahw` — contrast note |
 | مَنْسُوب / مَنْصُوب | already live | `nahw` — contrast note |
 | وَزْن, مَوْصُوف | — same sense across decks | no conflict, watch only |
