@@ -13,7 +13,8 @@ edit** instead of creating a parallel one. See `skill/references/working-files.m
 | 2026-09-21 | Ḥadīth 2 itself — narrator, text, lessons; only its vocab is in Notion | `arbaeen_ahadith` | open |
 | 2026-09-08 | Riyāḍ al-Ṣāliḥīn beyond the four intro facts | `riyad` | open |
 | 2026-09-16 | Ḥanafī legal values — فَرْض, مُؤَكَّدَة, غَيْر مُؤَكَّدَة so far | `quduri` — legal-values | open |
-| 2026-09-21 | Rest of the سُنَن of wuḍūʾ — three taught; the miswāk line looks unfinished | `quduri` — sunan spine | open |
+| 2026-09-21 | Rest of the سُنَن of wuḍūʾ | `quduri` — sunan spine | resolved 09-23, all nine |
+| 2026-09-23 | Kitāb al-Ṭahārah beyond ghusl — tayammum, wells, water | `quduri` | open |
 | 2026-09-17 | Two more types of مُرَكَّب نَاقِص | `nahw` — مُرَكَّب نَاقِص spine | open |
 
 ## Routing rules
@@ -44,6 +45,10 @@ Collisions that will land and need labelling on **both** sides when they do
 | غَسْل / غُسْل | already live | `quduri` — contrast note |
 | تَاء مَرْبُوطَة / تَاء التَّأْنِيث | already live | `nahw` — contrast note |
 | مَنْسُوب / مَنْصُوب | already live | `nahw` — contrast note |
+| سُنَّة مُؤَكَّدَة | already live | `quduri` now has three separate lists — 9 for wuḍūʾ, 5 for ghusl, 4 for when to do ghusl. Every front names which |
+| فَرَائِض | already live | `quduri` — 4 for wuḍūʾ, 3 for ghusl; fronts disambiguated |
+| المَضْمَضَة / الاِسْتِنْشَاق | already live | sunnah in wuḍūʾ, farḍ in ghusl — carded as a contrast |
+| مَذْي | the Arabic for pre-seminal fluid, if taught | `quduri` — currently carded in English only |
 | وَزْن, مَوْصُوف | — same sense across decks | no conflict, watch only |
 
 ## Session tags

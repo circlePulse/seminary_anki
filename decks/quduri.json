@@ -3,7 +3,7 @@
  "topic": "quduri",
  "session": "sep09",
  "source": "Qudūrī — Intro to Qudūrī, class notes 2026-09-09",
- "expected_count": 153,
+ "expected_count": 203,
  "cards": [
   {
    "type": "basic",
@@ -1759,8 +1759,8 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "The سُنَن of wuḍūʾ taught so far: {{c1::washing the hands three times before putting them in the container}}; {{c2::mentioning the name of Allah}}; {{c3::using the miswāk before rinsing the mouth}}",
-   "extra": "More to come.",
+   "text": "The سُنَن مُؤَكَّدَة of wuḍūʾ (1–5): {{c1::washing the hands three times before the container}}; {{c2::mentioning the name of Allah}}; {{c3::the miswāk, before rinsing the mouth}}; {{c4::المَضْمَضَة — rinsing the mouth}}; {{c5::الاِسْتِنْشَاق — rinsing the nostrils}}",
+   "extra": "Nine in total; 6–9 on the companion card.",
    "tags": [
     "quduri",
     "tahara",
@@ -1768,7 +1768,7 @@
     "spine"
    ],
    "id": "tah-027",
-   "session": "sep21",
+   "session": "sep23",
    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, class notes 2026-09-16"
   },
   {
@@ -1885,6 +1885,731 @@
    "id": "tah-035",
    "session": "sep21",
    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, class notes 2026-09-16"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-154",
+   "session": "sep23",
+   "text": "The سُنَن مُؤَكَّدَة of wuḍūʾ (6–9): {{c1::wiping the ears, inside and out, after the head}}; {{c2::running the fingers through the beard — for men}}; {{c3::تَخْلِيل — running the fingers through each other and through the toes}}; {{c4::repeating each washing three times}}",
+   "extra": "Nine in total; 1–5 on the companion card.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-155",
+   "session": "sep23",
+   "front": "How many سُنَن مُؤَكَّدَة does wuḍūʾ have?",
+   "back": "Nine",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-156",
+   "session": "sep23",
+   "front": "Must the miswāk sunnah be fulfilled with a miswāk?",
+   "back": "No — any utensil that can clean the teeth fulfils it",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan",
+    "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-157",
+   "session": "sep23",
+   "term": "المَضْمَضَة (al-maḍmaḍah)",
+   "meaning": "rinsing the mouth",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-158",
+   "session": "sep23",
+   "term": "الاِسْتِنْشَاق (al-istinshāq)",
+   "meaning": "sniffing water up into the nostrils",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-159",
+   "session": "sep23",
+   "term": "الاِسْتِنْثَار (al-istinthār)",
+   "meaning": "blowing the water back out of the nostrils",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan",
+    "terminology"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-160",
+   "session": "sep23",
+   "text": "{{c1::الاِسْتِنْشَاق}} is sniffing the water {{c2::up}}; {{c3::الاِسْتِنْثَار}} is blowing it {{c4::back out}}",
+   "extra": "Same root region, opposite directions.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-161",
+   "session": "sep23",
+   "front": "Which parts of the ears are wiped, and when?",
+   "back": "Inside and outside, after wiping the head",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-162",
+   "session": "sep23",
+   "front": "Which sunnah of wuḍūʾ applies only to men?",
+   "back": "Running the fingers through the beard",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan",
+    "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-163",
+   "session": "sep23",
+   "term": "تَخْلِيل (takhlīl)",
+   "meaning": "running the fingers through each other, and through the toes",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-164",
+   "session": "sep23",
+   "front": "What does al-Qudūrī classify the mustaḥabb actions of wuḍūʾ as?",
+   "back": "Sunnah غَيْر مُؤَكَّدَة — recommended and encouraged",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-165",
+   "session": "sep23",
+   "front": "What is the preferred position on al-Qudūrī's mustaḥabb list?",
+   "back": "That it is an oversight — they should actually be sunnah مُؤَكَّدَة",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-166",
+   "session": "sep23",
+   "text": "Of the mustaḥabb actions al-Qudūrī lists, the only one that really is {{c1::غَيْر مُؤَكَّدَة}} is {{c2::wiping the neck}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-167",
+   "session": "sep23",
+   "text": "The mustaḥabb actions of wuḍūʾ: {{c1::intending purification at the start}}; {{c2::wiping the whole head}}; {{c3::doing it in sequence}}; {{c4::beginning with the right}}; {{c5::doing it consecutively}}; {{c6::wiping the neck}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-168",
+   "session": "sep23",
+   "front": "Why is intention <i>not</i> required for wuḍūʾ according to the Ḥanafīs?",
+   "back": "The ḥadīth on it is neither mutawātir nor mashhūr, so it cannot add to the Qurʾān's requirements — and the verse does not mention intention",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-169",
+   "session": "sep23",
+   "front": "How unusual is the Ḥanafī position that intention is not required for wuḍūʾ?",
+   "back": "Quite unique to the Aḥnāf",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-170",
+   "session": "sep23",
+   "front": "What does “consecutively” require in wuḍūʾ?",
+   "back": "No breaks in between — not so long that a limb dries before the next is washed",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-171",
+   "session": "sep23",
+   "front": "Which part of the neck is wiped, according to the Aḥnāf?",
+   "back": "The sides",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-172",
+   "session": "sep23",
+   "front": "Describe the method for wiping the whole head.",
+   "back": "Wet the hands; join the middle, ring and little fingers, keeping the other two apart; wipe front to back then back to front; wipe inside the ear with the index and outside with the thumb; wipe the sides of the neck with the backs of the hands",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-173",
+   "session": "sep23",
+   "term": "نَوَاقِض الوُضُوء (nawāqiḍ al-wuḍūʾ)",
+   "meaning": "the nullifiers of wuḍūʾ — what causes minor ritual impurity",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "terminology"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-174",
+   "session": "sep23",
+   "text": "The نَوَاقِض of wuḍūʾ (1–4): {{c1::anything exiting the two passageways}}; {{c2::impurity that flows beyond its exit point}}; {{c3::vomit, if it is a mouthful}}; {{c4::deep sleep}}",
+   "extra": "Seven in total; 5–7 on the companion card.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "spine"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-175",
+   "session": "sep23",
+   "text": "The نَوَاقِض of wuḍūʾ (5–7): {{c1::unconsciousness overcoming the intellect}}; {{c2::temporary insanity}}; {{c3::laughing out loud in a prayer with rukūʿ and sujūd}}",
+   "extra": "Seven in total; 1–4 on the companion card.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-176",
+   "session": "sep23",
+   "front": "How many نَوَاقِض of wuḍūʾ are listed?",
+   "back": "Seven",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-177",
+   "session": "sep23",
+   "front": "What are “the two passageways”?",
+   "back": "The front and the back private parts",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-178",
+   "session": "sep23",
+   "front": "Three conditions must hold for exiting impurity to nullify wuḍūʾ — what are they?",
+   "back": "It rises to the surface; it <i>flows</i> beyond the exit point; and it reaches a place the ruling of purification attaches to — anywhere on the body",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-179",
+   "session": "sep23",
+   "front": "Which impurities count for this nullifier?",
+   "back": "Blood, pus, or a mixture of the two",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-180",
+   "session": "sep23",
+   "front": "Does an open cut nullify wuḍūʾ?",
+   "back": "Only if the blood actually comes out and flows — not merely by being open",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-181",
+   "session": "sep23",
+   "front": "How much vomit nullifies wuḍūʾ?",
+   "back": "A mouthful — so much that it is hard to keep in",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-182",
+   "session": "sep23",
+   "front": "Which kind of sleep nullifies wuḍūʾ?",
+   "back": "Deep sleep, not light sleep",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-183",
+   "session": "sep23",
+   "front": "What postures of sleep nullify wuḍūʾ?",
+   "back": "Lying down, on one's side, or reclining on something that would let the person fall if it were removed",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-184",
+   "session": "sep23",
+   "front": "What counts as unconsciousness overcoming the intellect?",
+   "back": "Fainting, or being in a coma",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-185",
+   "session": "sep23",
+   "front": "What counts as temporary insanity for this ruling?",
+   "back": "A manic episode, not being in one's senses, or being drunk",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-186",
+   "session": "sep23",
+   "front": "In which prayers does laughing out loud nullify wuḍūʾ?",
+   "back": "Every prayer that has rukūʿ and sujūd",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-187",
+   "session": "sep23",
+   "front": "How loud must laughter be to nullify wuḍūʾ?",
+   "back": "Loud enough that the person next to you can hear it",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "nawaqid",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-188",
+   "session": "sep23",
+   "front": "What does غُسْل remove?",
+   "back": "Major ritual impurity — الحَدَث الأَكْبَر",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-189",
+   "session": "sep23",
+   "text": "The فَرَائِض of غُسْل: {{c1::rinsing the entire mouth}}; {{c2::sniffing water up the nose until it burns}}; {{c3::washing the entire body}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-190",
+   "session": "sep23",
+   "front": "How many فَرَائِض does غُسْل have?",
+   "back": "Three",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-191",
+   "session": "sep23",
+   "text": "المَضْمَضَة and الاِسْتِنْشَاق are {{c1::sunnah}} in wuḍūʾ but {{c2::farḍ}} in غُسْل",
+   "extra": "The same two acts, different rulings in the two purifications.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-192",
+   "session": "sep23",
+   "text": "The سُنَن مُؤَكَّدَة of غُسْل, in order: {{c1::wash the hands and private parts}}; {{c2::remove any impurity on the body}}; {{c3::perform wuḍūʾ as for prayer, but without the feet}}; {{c4::pour water over the head and whole body three times}}; {{c5::move aside and wash the feet}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-193",
+   "session": "sep23",
+   "front": "Which part of wuḍūʾ is left out when performing it during غُسْل?",
+   "back": "Washing the feet — they are washed at the end",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-194",
+   "session": "sep23",
+   "front": "Why are the feet washed last, after moving aside?",
+   "back": "It comes from a time when there were no drains",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-195",
+   "session": "sep23",
+   "front": "Must a woman undo her braids for غُسْل?",
+   "back": "No — provided the water reaches the roots of her hair",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-196",
+   "session": "sep23",
+   "term": "حَرَج (ḥaraj)",
+   "meaning": "undue difficulty — the principle exempting a woman from undoing her braids",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "terminology"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-197",
+   "session": "sep23",
+   "text": "What makes غُسْل obligatory: {{c1::ejaculation with force and desire}}; {{c2::intercourse, even without ejaculation}}; {{c3::menstruation}}; {{c4::postnatal bleeding}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-198",
+   "session": "sep23",
+   "front": "Does ejaculation require غُسْل for both men and women?",
+   "back": "Yes — when it comes out with force and desire",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-199",
+   "session": "sep23",
+   "front": "Does intercourse without ejaculation require غُسْل?",
+   "back": "Yes",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-200",
+   "session": "sep23",
+   "front": "Does pre-seminal fluid require غُسْل?",
+   "back": "No — it requires wuḍūʾ only; it is minor impurity",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-201",
+   "session": "sep23",
+   "front": "What is وَدْي, and what does it require?",
+   "back": "A thick fluid often preceded by urine in a male, usually from a problem — it puts one in minor impurity, so wuḍūʾ only",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "terminology",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-202",
+   "session": "sep23",
+   "text": "The times when غُسْل is a سُنَّة مُؤَكَّدَة: {{c1::Jumuʿah}}; {{c2::the two Eids}}; {{c3::entering iḥrām for ḥajj or ʿumrah}}; {{c4::the Day of ʿArafah, for the ḥujjāj}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-203",
+   "session": "sep23",
+   "front": "Who is the Day of ʿArafah غُسْل a sunnah for?",
+   "back": "The ḥujjāj",
+   "tags": [
+    "quduri",
+    "tahara",
+    "ghusl",
+    "criterion"
+   ]
   }
  ]
 }
