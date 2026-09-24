@@ -63,6 +63,12 @@ Validators. Every card must pass all three before it goes in the deck.
 
 **2. Standalone.** The card is answerable when it surfaces at random, three months from now, with no memory of the lecture, the notes, or the surrounding cards. No "the second condition," no "as mentioned above," no dangling pronouns, no "(3 of 8)."
 
+**Enforcement:** `generate_deck.py` flags fronts containing a demonstrative that points
+at something the front never names — "this ḥadīth", "that ruling", "these sciences".
+Every ḥadīth card in a deck fits the front "why is *this* ḥadīth half of knowledge",
+which is why it must say *which*. A quotation or a "Complete: …" prompt carries its own
+referent and is exempt.
+
 **3. Diagnostic failure.** When you press *Again*, you should know exactly what you didn't know. If a failure could mean four different things, the card is testing four things.
 
 **4. The back carries information the front does not.** If you can produce the answer by re-wording the question, no retrieval happens. "Which ḥadīth commands holding to the Sunnah and the rightly-guided successors?" → "Hold on firmly to my Sunnah and the Sunnah of the rightly-guided Khulafāʾ" is a paraphrase wearing a question mark.

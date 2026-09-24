@@ -997,7 +997,7 @@
    "type": "basic",
    "tier": 1,
    "id": "qud-087",
-   "front": "What was the consequence of that refusal?",
+   "front": "What was the consequence of Abū Ḥanīfah's refusal to serve the rulers of his time?",
    "back": "He was placed under house arrest near the end of his life",
    "tags": [
     "quduri",
@@ -1263,7 +1263,7 @@
    "type": "basic",
    "tier": 1,
    "id": "qud-109",
-   "front": "What does مُخْتَصَر mean, and what does that imply about the book?",
+   "front": "What does مُخْتَصَر mean, and what does that imply about مُخْتَصَر القُدُورِي?",
    "back": "An abridgment — it is itself derived from much more comprehensive books",
    "tags": [
     "quduri",
@@ -1803,7 +1803,7 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "Why did washing the hands <i>before the container</i> matter when this was written?",
+   "front": "Why did washing the hands before putting them in the container matter in al-Qudūrī's time?",
    "back": "There was no running water — wuḍūʾ was made from containers",
    "tags": [
     "quduri",
@@ -2260,7 +2260,7 @@
    "tier": 1,
    "id": "qud-179",
    "session": "sep23",
-   "front": "Which impurities count for this nullifier?",
+   "front": "For the wuḍūʾ nullifier of impurity leaving the body, which impurities count?",
    "back": "Blood, pus, or a mixture of the two",
    "tags": [
     "quduri",
@@ -2348,7 +2348,7 @@
    "tier": 1,
    "id": "qud-185",
    "session": "sep23",
-   "front": "What counts as temporary insanity for this ruling?",
+   "front": "What counts as temporary insanity, as a nullifier of wuḍūʾ?",
    "back": "A manic episode, not being in one's senses, or being drunk",
    "tags": [
     "quduri",

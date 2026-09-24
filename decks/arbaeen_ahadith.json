@@ -213,7 +213,7 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-018",
-   "front": "How is Ḥadīth 1 described in terms of its place in Islam?",
+   "front": "How is the ḥadīth on intentions (Arbaʿīn 1) described in terms of its place in Islam?",
    "back": "It is the axis around which Islam revolves",
    "tags": [
     "arbaeen",
@@ -236,7 +236,7 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-020",
-   "front": "What did Imām Abū Dāwūd say about this ḥadīth?",
+   "front": "What did Imām Abū Dāwūd say about the ḥadīth on intentions?",
    "back": "That it is half of Islam",
    "tags": [
     "arbaeen",
@@ -247,7 +247,7 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-021",
-   "front": "What did Imām al-Shāfiʿī say this ḥadīth encompasses?",
+   "front": "What did Imām al-Shāfiʿī say the ḥadīth on intentions encompasses?",
    "back": "Half of knowledge",
    "tags": [
     "arbaeen",
@@ -258,8 +258,8 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-022",
-   "front": "Why is this ḥadīth said to be half of knowledge?",
-   "back": "A person's actions and knowledge divide into internal and external, and this ḥadīth deals with the internal",
+   "front": "Why is the ḥadīth on intentions said to be half of knowledge?",
+   "back": "A person's actions and knowledge divide into internal and external, and the ḥadīth on intentions deals with the internal",
    "tags": [
     "arbaeen",
     "h01",
@@ -270,7 +270,7 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-023",
-   "front": "On what reasoning did Imām al-Shāfiʿī and Imām Aḥmad call it one-third of knowledge?",
+   "front": "On what reasoning did Imām al-Shāfiʿī and Imām Aḥmad call the ḥadīth on intentions one-third of knowledge?",
    "back": "Actions come from three places — the heart, the tongue, and the limbs — and sincerity is found in the heart",
    "tags": [
     "arbaeen",
@@ -282,7 +282,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "arbh-024",
-   "text": "Imām al-Shāfiʿī is reported both ways: {{c1::half}} of knowledge, on the internal/external division; and {{c2::one-third}} of knowledge, on the heart/tongue/limbs division",
+   "text": "On the ḥadīth on intentions, Imām al-Shāfiʿī is reported both ways: {{c1::half}} of knowledge, on the internal/external division; and {{c2::one-third}} of knowledge, on the heart/tongue/limbs division",
    "extra": "Two different partitions of knowledge, hence two different fractions.",
    "tags": [
     "arbaeen",
@@ -295,7 +295,7 @@
    "tier": 1,
    "id": "arbh-025",
    "front": "What is famously absent from Ṣaḥīḥ al-Bukhārī, and what stands in its place?",
-   "back": "It has no muqaddimah — al-Bukhārī opens with this ḥadīth instead, as a reminder to himself and the reader",
+   "back": "It has no muqaddimah — al-Bukhārī opens with the ḥadīth on intentions instead, as a reminder to himself and the reader",
    "tags": [
     "arbaeen",
     "h01"
@@ -446,7 +446,7 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-038",
-   "front": "Which act is used as the example in this ḥadīth?",
+   "front": "Which act is used as the example in the ḥadīth on intentions?",
    "back": "Hijrah",
    "tags": [
     "arbaeen",
@@ -599,7 +599,7 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-051",
-   "front": "How does this ḥadīth itself illustrate the prophetic method of correction?",
+   "front": "How does the ḥadīth on intentions itself illustrate the prophetic method of correction?",
    "back": "He did not single out the individual — he turned it into a teaching moment and used it to explain a general principle",
    "tags": [
     "arbaeen",

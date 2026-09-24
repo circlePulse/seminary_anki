@@ -233,6 +233,30 @@ def validate(card, i):
     return errs
 
 
+_DEMO = re.compile(
+    r'\b(this|that|these|those|the above|the previous|the aforementioned|such)\s+'
+    r'(ḥadīth|hadith|verse|āyah|ayah|definition|phrase|term|word|list|rule|ruling|'
+    r'division|nullifier|concept|passage|text|reading|lecture|section|chapter|book|'
+    r'sciences|narration|refusal|oversight|position|claim|principle)\b', re.I)
+_BARE = re.compile(r'\b(call|calls|called|say|says|said)\s+it\b', re.I)
+
+
+def orphan_reference(front):
+    """
+    Test 2: a card has to be answerable when it surfaces shuffled, months later,
+    with nothing else on screen. "Why is THIS hadith half of knowledge?" names
+    nothing — every hadith card in the deck would fit that front.
+
+    Flags a demonstrative pointing at something the front never identifies.
+    A quotation or a "Complete: …" prompt supplies its own referent, so those
+    are exempt. Like the giveaway check, this is a prompt to look, not a verdict.
+    """
+    bare = re.sub(r'<[^>]+>', ' ', front)
+    if '\u201c' in bare or '"' in bare or bare.strip().lower().startswith("complete"):
+        return False
+    return bool(_DEMO.search(bare) or _BARE.search(bare))
+
+
 def payload(c, data):
     """
     Exactly what Anki will store for this card: notetype, fields, tags.
@@ -317,7 +341,7 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
             return None
 
     deck = genanki.Deck(STAGING_DECK_ID, STAGING_DECK_NAME)
-    giveaways, counts = [], {"basic": 0, "bidir": 0, "cloze": 0, "tier2": 0}
+    giveaways, orphans, counts = [], [], {"basic": 0, "bidir": 0, "cloze": 0, "tier2": 0}
     for c, kind, fields, tags in selected:
         deck.add_note(genanki.Note(MODELS[kind], fields, tags=tags,
                                    guid=note_guid(data["course"], c, None)))
@@ -325,6 +349,8 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
         counts["tier2"] += c["tier"] == 2
         if kind == "basic" and giveaway_ratio(c["front"], c["back"]) >= 0.45:
             giveaways.append(c["id"])
+        if orphan_reference(fields[0]):
+            orphans.append(c["id"])
 
     os.makedirs(outdir, exist_ok=True)
     stamp = datetime.date.today().isoformat()
@@ -345,6 +371,8 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
         print(f"  {counts['tier2']} tier2 — after import: `tag:tier2 -is:suspended` → Ctrl+J")
     if giveaways:
         print(f"  REVIEW (possible giveaway fronts): {', '.join(giveaways)}")
+    if orphans:
+        print(f"  REVIEW (front may not name what it refers to): {', '.join(orphans)}")
     return path
 
 

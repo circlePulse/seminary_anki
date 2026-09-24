@@ -125,7 +125,7 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "What is the <b>immediate</b> objective of studying these sciences?",
+   "front": "What is the <b>immediate</b> objective of studying نَحْو, صَرْف, and بَلَاغَة?",
    "back": "To speak, listen, read, and write in Arabic",
    "tags": [
     "nahw",
@@ -136,7 +136,7 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "What is the <b>mid-term</b> objective of studying these sciences?",
+   "front": "What is the <b>mid-term</b> objective of studying نَحْو, صَرْف, and بَلَاغَة?",
    "back": "To use those skills to understand the Qurʾān, ḥadīth, and Islamic texts in order to act upon them",
    "tags": [
     "nahw",
@@ -147,7 +147,7 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "What is the <b>ultimate</b> objective of studying these sciences?",
+   "front": "What is the <b>ultimate</b> objective of studying نَحْو, صَرْف, and بَلَاغَة?",
    "back": "To gain the pleasure of Allah Most High",
    "tags": [
     "nahw",
