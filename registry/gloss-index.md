@@ -73,11 +73,13 @@ None. Regenerated on every build.
 | masculine | مُذَكَّر (mudhakkar) | masculine | ARB-201 | sarf-008 |
 | minor ritual impurity | الحَدَث الأَصْغَر | minor ritual impurity | HDT-201 | tah-008 |
 | non-causative | حَرْف غَيْر عَامِل (ghayr ʿāmil) | non-causative — a ḥarf which causes no change in the grammatical state | ARB-201 | nahw-072 |
+| north korea's unquestioned belief in the superiority of its system and the leadership of the kim family | Juche | North Korea's unquestioned belief in the superiority of its system and | RELSTD-5B | wrel-074 |
 | one who performs ijtihād | مُجْتَهِد قَطْعِي (mujtahid qaṭʿī) | one who performs ijtihād — the master-jurist a madhhab is named for | HDT-201 | qud-041 |
 | praise expressed verbally | حَمْد (ḥamd) | praise expressed verbally, given whether or not a favour has been rece | HDT-201 | arb-064 |
 | preventive | مَانِع (māniʿ) | preventive — a definition excludes whatever is not necessary to it | HDT-201 | qud-008 |
 | rinsing the mouth | المَضْمَضَة (al-maḍmaḍah) | rinsing the mouth | HDT-201 | qud-157 |
 | ritual or legal impurity | نَجَاسَة حُكْمِيَّة | ritual or legal impurity | HDT-201 | tah-006 |
+| robert bellah's 1985 concept for americans who mix and choose their own religion | Sheilaism | Robert Bellah's 1985 concept for Americans who mix and choose their ow | RELSTD-5B | wrel-050 |
 | rules and regulations of worship and its related actions | عِبَادَات (ʿibādāt) | rules and regulations of worship and its related actions, such as puri | HDT-201 | qud-023 |
 | running the fingers through each other | تَخْلِيل (takhlīl) | running the fingers through each other, and through the toes | HDT-201 | qud-163 |
 | scholarly consensus | إِجْمَاع (ijmāʿ) | scholarly consensus | HDT-201 | qud-018 |

@@ -1,0 +1,969 @@
+{
+ "course": "RELSTD-5B",
+ "topic": "wrel",
+ "session": "sep24",
+ "source": "World Religions II — lecture and readings, 2026-09-24",
+ "expected_count": 76,
+ "cards": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-001",
+   "front": "Which region does World Religions II focus on?",
+   "back": "East Asia — the “global East”",
+   "tags": [
+    "wrel",
+    "lecture",
+    "scope"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-002",
+   "front": "Which countries does the “global East” cover in this course?",
+   "back": "China, Japan, North and South Korea, and a little Vietnam",
+   "tags": [
+    "wrel",
+    "lecture",
+    "scope"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-003",
+   "front": "Besides the countries themselves, who else is included in the course's scope?",
+   "back": "Diaspora communities",
+   "tags": [
+    "wrel",
+    "lecture",
+    "scope"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-004",
+   "front": "How is the word “cult” used in this class?",
+   "back": "As a neutral term for a small religious group",
+   "tags": [
+    "wrel",
+    "lecture",
+    "scope",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-005",
+   "front": "What does the neutral use of “cult” <i>not</i> rule out discussing?",
+   "back": "Religions considered dangerous, marginalised, or exploitative",
+   "tags": [
+    "wrel",
+    "lecture",
+    "scope"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-006",
+   "text": "The instructor's criteria for religion (1–4): {{c1::a god, gods, or God}}; {{c2::a place of worship}}; {{c3::a holy book or scripture}}; {{c4::a leader, leaders, or specialists}}",
+   "extra": "Eleven in total.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "definition",
+    "spine"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-007",
+   "text": "The instructor's criteria for religion (5–8): {{c1::a founder}}; {{c2::actions}}; {{c3::belief}}; {{c4::faith}}",
+   "extra": "Eleven in total.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "definition",
+    "spine"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-008",
+   "text": "The instructor's criteria for religion (9–11): {{c1::vows}}; {{c2::exclusivity}}; {{c3::institutional acceptance — do other people think it is a religion?}}",
+   "extra": "Eleven in total.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "definition",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-009",
+   "front": "What does “institutional acceptance” mean as a criterion for religion?",
+   "back": "Whether other people regard it as a religion",
+   "tags": [
+    "wrel",
+    "lecture",
+    "definition",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-010",
+   "front": "What did the class discussion offer as features of religion?",
+   "back": "Transmission, a theology or worldview, ritual devotional practice, sacred space, a historical figure, doctrine, faith, a higher power, and community",
+   "tags": [
+    "wrel",
+    "lecture",
+    "definition"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-011",
+   "front": "How does the status of Siddhartha Gautama complicate a god-centred definition of religion?",
+   "back": "He is always a person who performs miracles, but not always a god",
+   "tags": [
+    "wrel",
+    "lecture",
+    "east-asia",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-012",
+   "front": "How do East Asian traditions treat the line between supernatural and natural?",
+   "back": "As a continuum, rather than the clear line drawn in western religions",
+   "tags": [
+    "wrel",
+    "lecture",
+    "east-asia",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-013",
+   "front": "Which two traditions are named as not focusing on the worship of a deity?",
+   "back": "Daoism and Confucianism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "east-asia"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-014",
+   "front": "What do some forms of Buddhism not require?",
+   "back": "Prayer or attendance at a temple — and some follow no sacred text",
+   "tags": [
+    "wrel",
+    "lecture",
+    "east-asia"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-015",
+   "front": "Exclusivity is one of the instructor's criteria for religion — how do most East Asian religions stand on it?",
+   "back": "They fail it — most are inclusive rather than exclusive",
+   "tags": [
+    "wrel",
+    "lecture",
+    "east-asia",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-016",
+   "front": "Which East Asian practice looks contradictory from a western definition of religion?",
+   "back": "Temples and praying directed at someone who is not a god",
+   "tags": [
+    "wrel",
+    "lecture",
+    "east-asia"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-017",
+   "front": "What does the lecture say about people's views of a religion, including their own?",
+   "back": "They are often subjective",
+   "tags": [
+    "wrel",
+    "lecture",
+    "method"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-018",
+   "front": "What is said to be mutable about a religion?",
+   "back": "Which aspects are considered most important",
+   "tags": [
+    "wrel",
+    "lecture",
+    "method",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-019",
+   "front": "On what does the perceived importance of a religion's aspects depend?",
+   "back": "Place, time, and sect",
+   "tags": [
+    "wrel",
+    "lecture",
+    "method",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-020",
+   "front": "Which two countries in the region are officially atheist?",
+   "back": "China and North Korea",
+   "tags": [
+    "wrel",
+    "lecture",
+    "politics"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-021",
+   "front": "What is the status of religion in North Korea officially?",
+   "back": "All religions are banned",
+   "tags": [
+    "wrel",
+    "lecture",
+    "politics"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-022",
+   "front": "How many religions are permitted in China, and which?",
+   "back": "Five — Buddhism, Taoism, Islam, Protestantism, and Catholicism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "politics",
+    "enumeration"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-023",
+   "front": "Despite official atheism, what is true in both China and North Korea?",
+   "back": "Things we could call religion are still practised",
+   "tags": [
+    "wrel",
+    "lecture",
+    "politics"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-024",
+   "text": "Why praying or visiting a shrine may not count as religious practice: {{c1::practice and faith are only loosely associated}}; {{c2::some take a “try anything” approach}}; {{c3::religion can be a vessel for values or tradition rather than belief}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "politics",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-025",
+   "front": "What stance does the course take on defining religion?",
+   "back": "To be flexible about what a religion is and how it is practised",
+   "tags": [
+    "wrel",
+    "lecture",
+    "method",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-026",
+   "front": "Which distinction does the lecture say to keep in mind throughout?",
+   "back": "Between doctrine or doxa — the texts — and how religion is practised or perceived",
+   "tags": [
+    "wrel",
+    "lecture",
+    "method",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-027",
+   "text": "The definitional problem runs both ways: {{c1::some things we would call a religion, its people do not}}; and {{c2::things we would not call religious, others do}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "method",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-028",
+   "front": "What kind of concept is the “Global East”, on the reading's account?",
+   "back": "A cultural and social one",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-029",
+   "front": "What does the Global East comprise?",
+   "back": "East Asian societies and ethnic communities, together with the diaspora",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-030",
+   "front": "Why does the reading argue the term “Global East” is needed?",
+   "back": "A Euro- or North-Atlantic-centric viewpoint cannot properly understand these communities",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-031",
+   "front": "When was the East/West division of the world most used, and why?",
+   "back": "During the Cold War, with its political and ideological battles",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-032",
+   "front": "Which division of the world became more popular from the 1970s, and what is it chiefly about?",
+   "back": "North versus South — chiefly developed versus others",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-033",
+   "text": "The reading's argument: the Global East fits {{c1::neither East/West nor North/South}}, because ideologically {{c2::some sided with the west and some with the east}} and economically {{c3::some count as global south despite lying in the northern hemisphere}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-034",
+   "front": "In which three Asian countries has communism persisted?",
+   "back": "China, North Korea, and Vietnam",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-035",
+   "front": "How does the reading say the persistence of communism should be treated?",
+   "back": "As having a large social impact that must be understood, not brushed off",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-036",
+   "front": "Which was the first developed country in East Asia, and which is named as currently surging?",
+   "back": "Japan was first; Vietnam is experiencing an economic upsurge",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-037",
+   "front": "What counter-example does the reading give to the global-north category?",
+   "back": "Some eastern European countries that were supposed to be global north are now struggling",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-038",
+   "front": "Who first argued for a link between religion and economy, and what link?",
+   "back": "Max Weber — between Protestantism and modern capitalism",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "scholars"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-039",
+   "front": "What is the reading's verdict on Max Weber?",
+   "back": "That many of his ideas are valuable but a lot of his main conceptualisations miss the mark",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "scholars",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-040",
+   "front": "What population comparison does the reading use against Euro-centric models?",
+   "back": "The western powers total about 1.1 billion, against about 2.3 billion in East and Southeast Asia — roughly 30% of the world the model fails to account for",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-041",
+   "front": "What does the reading say western scholars over-focus on regarding Christianity?",
+   "back": "Its movement into the “global south”",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-042",
+   "front": "What do western scholars, Weber among them, get wrong about Confucianism?",
+   "back": "They treat it as far more prevalent than surveys show — very few in East Asia or the diaspora self-identify as Confucian",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "scholars",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-043",
+   "front": "Why might someone identify as Buddhist or Confucian yet deny being religious?",
+   "back": "Because they do not consider those traditions to be religions",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-044",
+   "front": "What kind of problem does the reading say underlies this?",
+   "back": "A language problem — meanings were altered when the terms were translated and imported",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-045",
+   "front": "What does the reading say about the word “religion” in everyday East Asian language?",
+   "back": "For many, it is still not an everyday concept",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-046",
+   "front": "How does the reading characterise political leadership on what counts as religion?",
+   "back": "As “confused and confusing”",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-047",
+   "front": "In China, how are Confucianism and Daoism officially classified?",
+   "back": "Confucianism is not a religion; Daoism is",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-048",
+   "front": "How does the reading describe modern atheism as a confounding factor?",
+   "back": "As a secularist ideology — a modern phenomenon",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-049",
+   "front": "What does the reading claim about atheism rates in East Asia?",
+   "back": "By some measures, East Asian societies have the highest proportions of people claiming to be atheists",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-050",
+   "term": "Sheilaism",
+   "meaning": "Robert Bellah's 1985 concept for Americans who mix and choose their own religion",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "scholars",
+    "concepts"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-051",
+   "front": "Who introduced Sheilaism, where, and when?",
+   "back": "Robert Bellah, in America, in 1985",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "scholars"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-052",
+   "front": "Why is Sheilaism relevant to the Global East?",
+   "back": "The reading argues it can be applied to East Asia in some senses",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-053",
+   "front": "Which related phenomena does the reading say also appear in East Asia?",
+   "back": "New Age spiritualism, being “spiritual but not religious”, and religious “nones”",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-054",
+   "front": "What was the course of secularization in China?",
+   "back": "A state-engineered programme — but religiousness has been rising since the 1970s",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-055",
+   "front": "Does the Chinese pattern of secularization hold across the region?",
+   "back": "No — not all countries follow it",
+   "tags": [
+    "wrel",
+    "reading",
+    "global-east",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-056",
+   "front": "What did the first westerners to study Korea observe?",
+   "back": "That Koreans called on supernatural powers for supernatural reasons",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-057",
+   "front": "Which three traditions have been prominent in Korea since early history?",
+   "back": "Buddhism, Confucianism, and Shamanism",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-058",
+   "front": "What effect has modernization had on demand for religion in Korea?",
+   "back": "None — it has not affected it",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-059",
+   "front": "What proportion of Koreans have a religious affiliation, and what is true of the rest?",
+   "back": "About 50% — and many of those claiming not to be religious still engaged in religious activities",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-060",
+   "front": "How does the reading describe the Korean approach to religion?",
+   "back": "Instrumentalist — like choosing the best tool for a given job",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-061",
+   "front": "What is the gap between Korean religious groups and Korean practice?",
+   "back": "Groups sometimes claim exclusivity, but people do not always practise it that way",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-062",
+   "front": "How was Buddhism received when it arrived in Korea?",
+   "back": "It caused a stir, but was eventually accepted",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-063",
+   "front": "Why did Joseon-dynasty elites adopt Confucianism as the central state ideology?",
+   "back": "They wanted to be closer to Chinese political thought",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-064",
+   "front": "When did Christianity arrive in Korea, and how was it first received?",
+   "back": "In the 1700s — as heretical and dangerous, and it was persecuted",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-065",
+   "front": "What is Korea's standing in Christianity in Asia today?",
+   "back": "The second most Christian country in Asia, and the second largest producer of Christian missionaries",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-066",
+   "front": "Why did Christianity appeal to the lower classes in Korea?",
+   "back": "Its egalitarian doctrine, against a backdrop of corruption and ineffectualness",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-067",
+   "front": "What helped Christianity gain traction after Japan annexed Korea?",
+   "back": "Support from the U.S. Army Military Government, and President Rhee Syngman, who vowed to rule South Korea as a Christian nation",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-068",
+   "front": "What do some scholars claim about the antiquity of Korean shamanism?",
+   "back": "That it goes back to prehistoric times, when Korea was ruled by shaman-kings who were both political and religious leaders",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-069",
+   "front": "What displaced Korean shamanism?",
+   "back": "Buddhism and Confucianism",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-070",
+   "front": "How long has shamanism been attacked by Korean elites, and with what result?",
+   "back": "For the last 600 years — yet it has never come close to extinction",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-071",
+   "front": "How is Korean shamanism regarded today?",
+   "back": "As superstitious and irrational",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-072",
+   "front": "On what axiom does North Korea ban religion?",
+   "back": "The communist axiom that religion is the opium of the masses",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-073",
+   "front": "What is known about the Buddhist temples and Christian churches in North Korea?",
+   "back": "Little — information is very hard to get; those familiar think what is practised illustrates state propaganda of religious freedom",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea",
+    "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-074",
+   "term": "Juche",
+   "meaning": "North Korea's unquestioned belief in the superiority of its system and the leadership of the Kim family — standing in place of religion",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea",
+    "concepts"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-075",
+   "front": "How is South Korea described religiously today?",
+   "back": "As a multi-religious society",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-076",
+   "front": "Which religion is named as having made sizeable gains in South Korea?",
+   "back": "Islam",
+   "tags": [
+    "wrel",
+    "reading",
+    "korea"
+   ]
+  }
+ ]
+}
