@@ -1,0 +1,38 @@
+{
+ "_comment": "Course registry. Maps a course to its notes, its id prefix, and which domain pack to read. The skill reads this instead of relying on memory of where a course's notes live.",
+ "courses": {
+  "ARB-201":    {"name": "Tasheel al-Nahw / Sarf", "institution": "IOK Seminary",
+                 "decks": ["nahw", "sarf"], "id_prefixes": ["nahw", "sarf"],
+                 "packs": ["arabic", "shared-terms"],
+                 "notion": "IOK Seminary Dashboard > Year 2 Classes > IOK Arabic"},
+  "HDT-201":    {"name": "Arba'in / Qudoori", "institution": "IOK Seminary",
+                 "decks": ["arbaeen", "arbaeen2", "arbaeen_ahadith", "quduri"],
+                 "id_prefixes": ["arb", "arbh", "qud", "tah"],
+                 "packs": ["arabic", "shared-terms"],
+                 "notion": "IOK Seminary Dashboard > Year 2 Classes > Arba'in/Quduri"},
+  "HDT-202":    {"name": "Riyad al-Salihin", "institution": "IOK Seminary",
+                 "decks": ["riyad"], "id_prefixes": ["riyad"],
+                 "packs": ["arabic", "shared-terms"],
+                 "notion": "IOK Seminary Dashboard > Year 2 Classes > Riyadh"},
+  "VOCAB":      {"name": "Arabic vocabulary", "institution": "IOK Seminary",
+                 "decks": ["vocab"], "id_prefixes": ["voc"],
+                 "packs": ["arabic", "shared-terms"],
+                 "notion": "sourced from whichever class supplied the words"},
+  "RELSTD-5B":  {"name": "World Religions II", "institution": "UCI",
+                 "instructor": "Ghanbarpour, C.", "term": "Y1 Q1",
+                 "decks": ["wrel"], "id_prefixes": ["wrel"],
+                 "packs": ["humanities"],
+                 "notion": "UCI Dashboard > Y1 Q1 Courses > World Religions II"},
+  "ICS-H32":    {"name": "Python Programming and Libraries (Accelerated)",
+                 "institution": "UCI", "instructor": "Thornton, A.", "term": "Y1 Q1",
+                 "decks": ["pyth"], "id_prefixes": ["pyth"],
+                 "packs": ["cs"],
+                 "notion": "UCI Dashboard > Y1 Q1 Courses > Python Programming and Libraries (Accelerated)"}
+ },
+ "packs": {
+  "arabic":       "skill/references/arabic.md",
+  "shared-terms": "skill/references/shared-terms.md",
+  "cs":           "skill/references/domain-cs.md",
+  "humanities":   "skill/references/domain-humanities.md"
+ }
+}

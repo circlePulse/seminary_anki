@@ -1,11 +1,13 @@
 ---
 name: seminary-anki
-description: Turn seminary class notes into Anki decks (.apkg) — decomposing lecture notes into propositions, drafting cards for review, and generating decks with genanki. Use whenever the user wants flashcards, Anki cards, study cards, or a deck made from class notes, lecture transcriptions, textbook material, or vocabulary lists, in any seminary subject (ḥadīth, fiqh, manṭiq, naḥw, ṣarf, ʿaqīdah, tafsīr, uṣūl). Handles Arabic/RTL content, dark mode, and pinned notetype IDs. Also use when editing, auditing, or adding to an existing deck.
+description: Turn class notes into Anki decks — IOK Seminary and UCI university courses alike (.apkg) — decomposing lecture notes into propositions, drafting cards for review, and generating decks with genanki. Use whenever the user wants flashcards, Anki cards, study cards, or a deck made from class notes, lecture transcriptions, textbook material, or vocabulary lists, in any subject — seminary (ḥadīth, fiqh, manṭiq, naḥw, ṣarf, ʿaqīdah, tafsīr, uṣūl) or university (programming/CS, religious studies, humanities, social science). Handles Arabic/RTL content, dark mode, and pinned notetype IDs. Also use when editing, auditing, or adding to an existing deck.
 ---
 
-# Seminary Anki
+# Study Anki
 
-Generate Anki decks from class notes. Read this file fully, then read the reference files listed under **Reference map** that apply — they are not optional background, they contain the rules that make the output usable.
+Generate Anki decks from class notes — IOK Seminary and UCI alike. One system:
+shared scripts, one id ledger, one `delivered.json`, one Anki collection. What
+changes between courses is which **domain pack** gets read. Read this file fully, then read the reference files listed under **Reference map** that apply — they are not optional background, they contain the rules that make the output usable.
 
 ## Non-negotiables
 
@@ -23,6 +25,7 @@ Generate Anki decks from class notes. Read this file fully, then read the refere
 
 ## Workflow
 
+0. **Identify the course** in `registry/courses.json` — it gives the deck file, the id prefix, the Notion page, and which domain packs to read. Read those packs before drafting.
 1. **Ingest.** Read the source. Find inline `{{ CLAUDE: ... }}` notes first — they are instructions, never content, and they override defaults here.
 2. **Decompose.** Pass 1 sentence-level, pass 2 section-level. `references/card-design.md` §1.
 3. **Check the working files.** Gloss index for collisions; forward-reference log for anything this session resolves. `references/working-files.md`.
@@ -44,10 +47,13 @@ Every deck lands in the staging deck `Seminary::_Inbox` for manual sorting. Two 
 | Read this | When |
 |---|---|
 | `references/card-design.md` | **Always.** Decomposition, the three tests, triage, card types, structural/spine notes, vocabulary, interference. |
-| `references/arabic.md` | Any Arabic content — i.e. almost always. |
+| `references/arabic.md` | Seminary courses — any Arabic content. |
 | `references/working-files.md` | Reading class notes; draft file, gloss index, forward-reference log formats. |
 | `references/notetypes.md` | Generating a deck, or touching CSS/templates. |
-| `references/shared-terms.md` | **Always, for Arabic terms.** Registry of terms that mean different things in different sciences, and the labelling rule. |
+| `registry/courses.json` | **First, every time.** Which course this is, where its notes live, its id prefix, and which packs to read. |
+| `references/domain-cs.md` | Programming courses (ICS-H32). |
+| `references/domain-humanities.md` | Humanities / social science (RELSTD-5B). |
+| `references/shared-terms.md` | Seminary courses. Registry of terms that mean different things in different sciences, and the labelling rule. |
 
 ## Deck and tag policy
 

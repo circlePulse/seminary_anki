@@ -92,6 +92,23 @@ CSS = """
 .arabic { direction: rtl; font-size: 28px; line-height: 1.9; }
 .transliteration { color: var(--muted); font-style: italic; font-size: .85em; }
 .science { display: block; color: var(--muted); font-size: .62em; margin-bottom: 6px; }
+
+/* code: monospace, indentation preserved, left-aligned, scrolls rather than wrapping.
+   The card is centre-aligned by default and centred code with collapsed indentation
+   is unreadable — in Python the indentation is the syntax. */
+pre.code {
+  font-family: 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  font-size: .8em;
+  line-height: 1.45;
+  text-align: left;
+  white-space: pre;
+  overflow-x: auto;
+  direction: ltr;
+  border-left: 2px solid var(--rule);
+  padding: .4em .8em;
+  margin: .6em 0;
+}
+code { font-family: 'SF Mono', Menlo, Consolas, monospace; font-size: .85em; }
 .source { color: var(--muted); font-size: .7em; margin-top: 1.2em; }
 
 ul, ol { text-align: left; display: inline-block; }
