@@ -228,6 +228,12 @@ def validate(card, i):
     for f in required:
         if not str(card.get(f, "")).strip():
             errs.append(f"card {i}: missing {f!r}")
+    for _k in ("front", "back", "text", "extra", "term", "meaning"):
+        _v = card.get(_k) or ""
+        for _blk in re.findall(r'<pre class="code">(.*?)</pre>', _v, re.S):
+            if "<" in _blk or ">" in _blk:
+                errs.append(f"card {i}: unescaped < or > inside a code block in {_k!r} — "
+                            "the browser will swallow it as a tag; use &lt; and &gt;")
     if t == "cloze" and "{{c1::" not in card.get("text", ""):
         errs.append(f"card {i}: cloze text has no {{{{c1::...}}}} deletion")
     return errs

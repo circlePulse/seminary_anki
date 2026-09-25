@@ -1,0 +1,564 @@
+{
+ "course": "ICS-H32",
+ "topic": "pyth",
+ "session": "sep24",
+ "source": "ICS H32 — lecture notes to 2026-09-24",
+ "expected_count": 47,
+ "cards": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-001",
+   "front": "What does the Python shell do with what you type?",
+   "back": "Evaluates it",
+   "tags": [
+    "pyth",
+    "model"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-002",
+   "text": "Every expression evaluates to {{c1::a value}}; every value is {{c2::an object}}; every object has {{c3::a type}}",
+   "extra": "The chain the whole language rests on.",
+   "tags": [
+    "pyth",
+    "model",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-003",
+   "front": "How do you find out an object's type?",
+   "back": "<code>type(4)</code> — it returns the class",
+   "tags": [
+    "pyth",
+    "model"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-004",
+   "front": "What is the relationship between “class” and “type” in Python?",
+   "back": "Basically interchangeable",
+   "tags": [
+    "pyth",
+    "model",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-005",
+   "front": "How many integer types does Python have, and what do they cover?",
+   "back": "One — it stores both small and large values. Floats are the same way",
+   "tags": [
+    "pyth",
+    "model",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-006",
+   "front": "Are Python floats exact?",
+   "back": "No — they are not 100% precise",
+   "tags": [
+    "pyth",
+    "floats",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-007",
+   "front": "What is a float structurally analogous to?",
+   "back": "Scientific notation — a mantissa and an exponent, in binary",
+   "tags": [
+    "pyth",
+    "floats"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-008",
+   "front": "Why are floats imprecise?",
+   "back": "The mantissa and exponent each have only a limited number of digits available",
+   "tags": [
+    "pyth",
+    "floats",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-009",
+   "front": "What does this print?<pre class=\"code\">print(0.1 + 0.2)</pre>",
+   "back": "<code>0.30000000000000004</code> — the limited mantissa cannot represent 0.1 or 0.2 exactly",
+   "tags": [
+    "pyth",
+    "floats",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-010",
+   "front": "What type does <code>/</code> return, whatever its operands?",
+   "back": "A <code>float</code>",
+   "tags": [
+    "pyth",
+    "operators",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-011",
+   "front": "What does <code>//</code> do, and what type does it return?",
+   "back": "Floor division — drops the fractional portion and returns an <code>int</code>",
+   "tags": [
+    "pyth",
+    "operators",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-012",
+   "text": "{{c1::<code>/</code>}} always gives a {{c2::float}}; {{c3::<code>//</code>}} gives an {{c4::int}}",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "operators",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-013",
+   "front": "What does this print?<pre class=\"code\">print(7 / 2)</pre>",
+   "back": "<code>3.5</code>",
+   "tags": [
+    "pyth",
+    "operators",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-014",
+   "front": "What does this print?<pre class=\"code\">print(7 // 2)</pre>",
+   "back": "<code>3</code>",
+   "tags": [
+    "pyth",
+    "operators",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "pyth-015",
+   "front": "What does this print?<pre class=\"code\">print(-7 // 2)</pre>",
+   "back": "<code>-4</code>, not <code>-3</code> — <code>//</code> floors toward negative infinity rather than truncating. See the draft note.",
+   "tags": [
+    "pyth",
+    "operators",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-016",
+   "front": "What is <code>%</code> useful for?",
+   "back": "Repeating patterns",
+   "tags": [
+    "pyth",
+    "operators"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-017",
+   "front": "How do you get the last digit of a number?",
+   "back": "Mod it by 10",
+   "tags": [
+    "pyth",
+    "operators",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-018",
+   "front": "How do you test whether a number is even or odd?",
+   "back": "Mod it by 2 — the result is 0 or 1",
+   "tags": [
+    "pyth",
+    "operators",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-019",
+   "front": "What does this print?<pre class=\"code\">print(17 % 10)</pre>",
+   "back": "<code>7</code>",
+   "tags": [
+    "pyth",
+    "operators",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "pyth-020",
+   "term": "Precedence",
+   "meaning": "which operator Python evaluates first when they differ in level",
+   "tags": [
+    "pyth",
+    "precedence"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "pyth-021",
+   "term": "Associativity",
+   "meaning": "which operand goes first when operators are at the same level",
+   "tags": [
+    "pyth",
+    "precedence"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-022",
+   "front": "Which way do addition and subtraction associate?",
+   "back": "To the left — the leftmost goes first",
+   "tags": [
+    "pyth",
+    "precedence",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-023",
+   "front": "Which way does exponentiation associate?",
+   "back": "To the right",
+   "tags": [
+    "pyth",
+    "precedence",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-024",
+   "text": "Addition and subtraction associate to the {{c1::left}}; exponentiation associates to the {{c2::right}}",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "precedence",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-025",
+   "front": "What does this print?<pre class=\"code\">print(2 + 3 * 4)</pre>",
+   "back": "<code>14</code> — multiplication has higher precedence than addition",
+   "tags": [
+    "pyth",
+    "precedence",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-026",
+   "front": "What does this print?<pre class=\"code\">print(2 ** 3 ** 2)</pre>",
+   "back": "<code>512</code> — <code>**</code> associates right, so it is <code>2 ** (3 ** 2)</code>, not <code>(2 ** 3) ** 2</code>",
+   "tags": [
+    "pyth",
+    "precedence",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-027",
+   "front": "What does this print?<pre class=\"code\">print(10 - 3 - 2)</pre>",
+   "back": "<code>5</code> — subtraction associates left, so <code>(10 - 3) - 2</code>",
+   "tags": [
+    "pyth",
+    "precedence",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-028",
+   "front": "What is the recommended practice for operator order?",
+   "back": "Use parentheses to be completely clear",
+   "tags": [
+    "pyth",
+    "precedence"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-029",
+   "front": "What does <code>==</code> test?",
+   "back": "Whether values are equivalent in meaning — not memory location or anything else",
+   "tags": [
+    "pyth",
+    "relational",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-030",
+   "front": "What does <code>!=</code> test?",
+   "back": "Whether two values are not equivalent",
+   "tags": [
+    "pyth",
+    "relational"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-031",
+   "front": "Which four ordering comparisons does Python provide?",
+   "back": "<code>&lt;</code>, <code>&lt;=</code>, <code>&gt;</code>, <code>&gt;=</code>",
+   "tags": [
+    "pyth",
+    "relational"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-032",
+   "front": "What does chaining comparisons amount to?",
+   "back": "Asking two questions at once, both of which must be true",
+   "tags": [
+    "pyth",
+    "relational",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-033",
+   "front": "What does this print?<pre class=\"code\">x = 3\nprint(0 &lt; x &lt; 5)</pre>",
+   "back": "<code>True</code> — the chain is both <code>0 &lt; x</code> and <code>x &lt; 5</code>",
+   "tags": [
+    "pyth",
+    "relational",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-034",
+   "text": "Boolean operators: negate with {{c1::<code>not</code>}}, combine with {{c2::<code>and</code>}} or {{c3::<code>or</code>}}",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "relational",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-035",
+   "front": "What does Python require you to declare about a variable's type?",
+   "back": "Nothing — Python is implicitly typed, so you never declare a type",
+   "tags": [
+    "pyth",
+    "variables",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-036",
+   "front": "What does it take to create a variable in Python?",
+   "back": "Assign a value to it — <code>boo = 11</code>",
+   "tags": [
+    "pyth",
+    "variables"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-037",
+   "front": "What does this print?<pre class=\"code\">boo = 11\nprint(boo)</pre>",
+   "back": "<code>11</code> — the name evaluates to the value assigned",
+   "tags": [
+    "pyth",
+    "variables",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-038",
+   "front": "What makes <code>boo = 11</code> a statement rather than an expression?",
+   "back": "It gives back no value — it works by side effect",
+   "tags": [
+    "pyth",
+    "variables",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-039",
+   "text": "An {{c1::expression}} gives back a value; a {{c2::statement}} gives back nothing and works by {{c3::side effect}}",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "variables",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-040",
+   "front": "What low-level work does Python spare you when using variables?",
+   "back": "Declaring a type, requesting memory, and worrying about stack versus heap",
+   "tags": [
+    "pyth",
+    "variables"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-041",
+   "front": "In Python, what carries a type — the variable or the value?",
+   "back": "The value. Variables have no type at all, which is why one can later hold a different type",
+   "tags": [
+    "pyth",
+    "variables",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-042",
+   "front": "Can a variable hold a different type later on?",
+   "back": "Yes, though it is not best practice",
+   "tags": [
+    "pyth",
+    "variables",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-043",
+   "front": "What is Python's naming convention for variables?",
+   "back": "<code>snake_case</code> — lowercase words joined by underscores",
+   "tags": [
+    "pyth",
+    "variables",
+    "convention"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-044",
+   "front": "What naming convention do Python script files use?",
+   "back": "The same as variables — <code>snake_case</code>",
+   "tags": [
+    "pyth",
+    "scripts",
+    "convention"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-045",
+   "front": "How do you run a script normally from the command line?",
+   "back": "<pre class=\"code\">python3 filename.py</pre>",
+   "tags": [
+    "pyth",
+    "scripts"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-046",
+   "front": "How do you run a script and stay in the shell afterwards?",
+   "back": "<pre class=\"code\">python3 -i -m filename</pre>The module name, without the <code>.py</code>",
+   "tags": [
+    "pyth",
+    "scripts"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-047",
+   "text": "{{c1::<code>python3 filename.py</code>}} runs the script and exits; {{c2::<code>python3 -i -m filename</code>}} runs it and leaves you in the shell",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "scripts",
+    "contrast",
+    "criterion"
+   ]
+  }
+ ]
+}
