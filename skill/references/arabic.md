@@ -51,8 +51,21 @@ an inline run orders against its surroundings. A `.arabic` span with only
 `direction: rtl` does nothing. This was wrong in the templates for the first month of
 this project and produced roughly 530 broken fields.
 
-**Cloze:** put the isolate *outside* the braces — `<bdi>{{c1::مَوْضُوع}}</bdi>` — so it
-survives Anki's substitution and the `[...]` renders isolated too.
+**Cloze: wrap the Arabic run itself, never the braces.**
+
+```html
+اللَّفْظ is either {{c1::<bdi>مَوْضُوع</bdi>}} or {{c2::<bdi>مُهْمَل</bdi>}}
+```
+
+Wrapping the braces — `<bdi>{{c1::مَوْضُوع}}</bdi>` — looks tidier and is wrong. Anki
+replaces the deletion with `[...]`, leaving `<bdi>[...]</bdi>`. Square brackets are
+**mirrored** characters: rendered in an RTL run they come out as `]...[`. Wrapping the
+run itself leaves the placeholder in the surrounding LTR context where it belongs.
+
+For the same reason, never force `direction: rtl` on `<bdi>` in CSS. The element
+defaults to `dir="auto"`, which resolves from the first strong character in its
+content — that is the entire point of it. Set `direction` explicitly only on a class
+like `.ar` used on known-Arabic content.
 
 **Block-level Arabic** (a whole matn, a full-Arabic table cell) uses
 `<div class="arabic">`; block elements establish their own direction, so isolation is
