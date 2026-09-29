@@ -25,6 +25,39 @@ Bare transliteration in any of these is the failure mode that lets you recognise
 - **For matn memorization, cloze the Arabic.** "Recite the ḥadīth about intentions" is one enormous all-or-nothing card. Progressive clozes over the same text give partial credit and diagnose which clause is weak.
 - **Never make transliteration → Arabic a card.** Transliteration isn't a thing you need to produce; the association runs Arabic → meaning and meaning → Arabic.
 - **Verify transliteration against the root at decomposition time.** *muhmal* vs. *mahmal* is the kind of drift that propagates silently through a whole cluster (§1).
+### Isolate every inline Arabic run — this is not optional
+
+Arabic dropped bare into an English sentence renders wrong. The characters around
+it — punctuation, parentheses, em-dashes, digits, the `::` and `}}` of a cloze — are
+**neutral** under the Unicode bidirectional algorithm: they take their direction from
+whatever strong characters sit next to them. Next to an Arabic run inside an English
+line, they resolve RTL and jump to the wrong side. The usual symptom is a question
+mark, period, or closing bracket appearing at the left edge of the Arabic instead of
+after it, or a comma-separated list of terms reordering itself.
+
+**Every Arabic run inside a line that also contains Latin text gets wrapped:**
+
+```html
+What is a <bdi>مُفْرَد</bdi>?
+<bdi>لَفْظٌ مَوْضُوعٌ مُفْرَدٌ</bdi> — an utterance with an assigned meaning
+```
+
+`<bdi>` exists for this. `<span class="ar">` is equivalent; both carry
+`unicode-bidi: isolate`.
+
+**`direction: rtl` on its own is not enough on an inline element.** Without
+`unicode-bidi: isolate` (or `embed`), the `direction` property has no effect on how
+an inline run orders against its surroundings. A `.arabic` span with only
+`direction: rtl` does nothing. This was wrong in the templates for the first month of
+this project and produced roughly 530 broken fields.
+
+**Cloze:** put the isolate *outside* the braces — `<bdi>{{c1::مَوْضُوع}}</bdi>` — so it
+survives Anki's substitution and the `[...]` renders isolated too.
+
+**Block-level Arabic** (a whole matn, a full-Arabic table cell) uses
+`<div class="arabic">`; block elements establish their own direction, so isolation is
+automatic there.
+
 - Rendering (BiDi, `direction: ltr`, dark mode, fonts) is a template concern — keep it out of card content and solve it once in the CSS. See §15.
 
 ### Transliteration convention

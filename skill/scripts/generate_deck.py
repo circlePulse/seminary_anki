@@ -247,6 +247,21 @@ _DEMO = re.compile(
 _BARE = re.compile(r'\b(call|calls|called|say|says|said)\s+it\b', re.I)
 
 
+_ARABIC = re.compile(r'[\u0600-\u06FF]')
+_LATIN = re.compile(r'[A-Za-z]')
+
+
+def _unisolated_arabic(field):
+    """
+    Arabic and Latin on the same line, with the Arabic left unwrapped. The neutral
+    characters between them resolve against the wrong run and render on the wrong
+    side. Warning only — cards written before this rule are grandfathered.
+    """
+    if not (_ARABIC.search(field) and _LATIN.search(field)):
+        return False
+    return not ("<bdi" in field or 'class="ar"' in field or 'class="arabic"' in field)
+
+
 def orphan_reference(front):
     """
     Test 2: a card has to be answerable when it surfaces shuffled, months later,
@@ -347,7 +362,7 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
             return None
 
     deck = genanki.Deck(STAGING_DECK_ID, STAGING_DECK_NAME)
-    giveaways, orphans, counts = [], [], {"basic": 0, "bidir": 0, "cloze": 0, "tier2": 0}
+    giveaways, orphans, bidi, counts = [], [], [], {"basic": 0, "bidir": 0, "cloze": 0, "tier2": 0}
     for c, kind, fields, tags in selected:
         deck.add_note(genanki.Note(MODELS[kind], fields, tags=tags,
                                    guid=note_guid(data["course"], c, None)))
@@ -357,6 +372,8 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
             giveaways.append(c["id"])
         if orphan_reference(fields[0]):
             orphans.append(c["id"])
+        if any(_unisolated_arabic(x) for x in fields):
+            bidi.append(c["id"])
 
     os.makedirs(outdir, exist_ok=True)
     stamp = datetime.date.today().isoformat()
@@ -379,6 +396,9 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
         print(f"  REVIEW (possible giveaway fronts): {', '.join(giveaways)}")
     if orphans:
         print(f"  REVIEW (front may not name what it refers to): {', '.join(orphans)}")
+    if bidi:
+        print(f"  BIDI — Arabic mixed with Latin and not wrapped in <bdi>: "
+              f"{len(bidi)} note(s), e.g. {', '.join(bidi[:6])}")
     return path
 
 
