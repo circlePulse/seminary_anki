@@ -1884,7 +1884,718 @@
     "paradigm",
     "h03"
    ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-144",
+   "session": "sep30",
+   "term": "بَسَطَ",
+   "meaning": "to spread out, to extend",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-145",
+   "session": "sep30",
+   "text": "<bdi>بَسَطَ</bdi> — {{c1::<bdi>يَبْسُطُ</bdi>}} — {{c2::<bdi>اُبْسُطْ</bdi>}} — {{c3::<bdi>بَسْط</bdi>}}",
+   "extra": "to spread out, to extend · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-146",
+   "session": "sep30",
+   "term": "بَلَغَ",
+   "meaning": "to reach, to attain",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-147",
+   "session": "sep30",
+   "text": "<bdi>بَلَغَ</bdi> — {{c1::<bdi>يَبْلُغُ</bdi>}} — {{c2::<bdi>اُبْلُغْ</bdi>}} — {{c3::<bdi>بُلُوغ</bdi>}}",
+   "extra": "to reach, to attain · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-148",
+   "session": "sep30",
+   "term": "تَرَكَ",
+   "meaning": "to leave, to abandon",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-149",
+   "session": "sep30",
+   "text": "<bdi>تَرَكَ</bdi> — {{c1::<bdi>يَتْرُكُ</bdi>}} — {{c2::<bdi>اُتْرُكْ</bdi>}} — {{c3::<bdi>تَرْك</bdi>}}",
+   "extra": "to leave, to abandon · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-150",
+   "session": "sep30",
+   "term": "حَسَدَ",
+   "meaning": "to envy",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-151",
+   "session": "sep30",
+   "text": "<bdi>حَسَدَ</bdi> — {{c1::<bdi>يَحْسُدُ</bdi>}} — {{c2::<bdi>اُحْسُدْ</bdi>}} — {{c3::<bdi>حَسَد</bdi>}}",
+   "extra": "to envy · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · يَحْسِدُ is also attested",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-152",
+   "session": "sep30",
+   "term": "حَشَرَ",
+   "meaning": "to gather, to assemble",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-153",
+   "session": "sep30",
+   "text": "<bdi>حَشَرَ</bdi> — {{c1::<bdi>يَحْشُرُ</bdi>}} — {{c2::<bdi>اُحْشُرْ</bdi>}} — {{c3::<bdi>حَشْر</bdi>}}",
+   "extra": "to gather, to assemble · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · يَحْشِرُ is also attested",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-154",
+   "session": "sep30",
+   "term": "حَكَمَ",
+   "meaning": "to judge, to rule",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-155",
+   "session": "sep30",
+   "text": "<bdi>حَكَمَ</bdi> — {{c1::<bdi>يَحْكُمُ</bdi>}} — {{c2::<bdi>اُحْكُمْ</bdi>}} — {{c3::<bdi>حُكْم</bdi>}}",
+   "extra": "to judge, to rule · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-156",
+   "session": "sep30",
+   "term": "خَرَجَ",
+   "meaning": "to go out",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-157",
+   "session": "sep30",
+   "text": "<bdi>خَرَجَ</bdi> — {{c1::<bdi>يَخْرُجُ</bdi>}} — {{c2::<bdi>اُخْرُجْ</bdi>}} — {{c3::<bdi>خُرُوج</bdi>}}",
+   "extra": "to go out · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-158",
+   "session": "sep30",
+   "term": "خَلَدَ",
+   "meaning": "to abide forever",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-159",
+   "session": "sep30",
+   "text": "<bdi>خَلَدَ</bdi> — {{c1::<bdi>يَخْلُدُ</bdi>}} — {{c2::<bdi>اُخْلُدْ</bdi>}} — {{c3::<bdi>خُلُود</bdi>}}",
+   "extra": "to abide forever · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-160",
+   "session": "sep30",
+   "term": "خَلَقَ",
+   "meaning": "to create",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-161",
+   "session": "sep30",
+   "text": "<bdi>خَلَقَ</bdi> — {{c1::<bdi>يَخْلُقُ</bdi>}} — {{c2::<bdi>اُخْلُقْ</bdi>}} — {{c3::<bdi>خَلْق</bdi>}}",
+   "extra": "to create · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-162",
+   "session": "sep30",
+   "term": "دَخَلَ",
+   "meaning": "to enter",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-163",
+   "session": "sep30",
+   "text": "<bdi>دَخَلَ</bdi> — {{c1::<bdi>يَدْخُلُ</bdi>}} — {{c2::<bdi>اُدْخُلْ</bdi>}} — {{c3::<bdi>دُخُول</bdi>}}",
+   "extra": "to enter · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-164",
+   "session": "sep30",
+   "term": "ذَكَرَ",
+   "meaning": "to mention, to remember",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-165",
+   "session": "sep30",
+   "text": "<bdi>ذَكَرَ</bdi> — {{c1::<bdi>يَذْكُرُ</bdi>}} — {{c2::<bdi>اُذْكُرْ</bdi>}} — {{c3::<bdi>ذِكْر</bdi>}}",
+   "extra": "to mention, to remember · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-166",
+   "session": "sep30",
+   "term": "رَزَقَ",
+   "meaning": "to provide sustenance",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-167",
+   "session": "sep30",
+   "text": "<bdi>رَزَقَ</bdi> — {{c1::<bdi>يَرْزُقُ</bdi>}} — {{c2::<bdi>اُرْزُقْ</bdi>}} — {{c3::<bdi>رِزْق</bdi>}}",
+   "extra": "to provide sustenance · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · رِزْق is also the provision itself",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-168",
+   "session": "sep30",
+   "term": "سَجَدَ",
+   "meaning": "to prostrate",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-169",
+   "session": "sep30",
+   "text": "<bdi>سَجَدَ</bdi> — {{c1::<bdi>يَسْجُدُ</bdi>}} — {{c2::<bdi>اُسْجُدْ</bdi>}} — {{c3::<bdi>سُجُود</bdi>}}",
+   "extra": "to prostrate · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-170",
+   "session": "sep30",
+   "term": "شَعَرَ",
+   "meaning": "to perceive, to be aware",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-171",
+   "session": "sep30",
+   "text": "<bdi>شَعَرَ</bdi> — {{c1::<bdi>يَشْعُرُ</bdi>}} — {{c2::<bdi>اُشْعُرْ</bdi>}} — {{c3::<bdi>شُعُور</bdi>}}",
+   "extra": "to perceive, to be aware · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-172",
+   "session": "sep30",
+   "term": "شَكَرَ",
+   "meaning": "to thank",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-173",
+   "session": "sep30",
+   "text": "<bdi>شَكَرَ</bdi> — {{c1::<bdi>يَشْكُرُ</bdi>}} — {{c2::<bdi>اُشْكُرْ</bdi>}} — {{c3::<bdi>شُكْر</bdi>}}",
+   "extra": "to thank · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-174",
+   "session": "sep30",
+   "term": "صَدَقَ",
+   "meaning": "to speak the truth",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-175",
+   "session": "sep30",
+   "text": "<bdi>صَدَقَ</bdi> — {{c1::<bdi>يَصْدُقُ</bdi>}} — {{c2::<bdi>اُصْدُقْ</bdi>}} — {{c3::<bdi>صِدْق</bdi>}}",
+   "extra": "to speak the truth · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-176",
+   "session": "sep30",
+   "term": "صَلَحَ",
+   "meaning": "to be sound, to be right",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-177",
+   "session": "sep30",
+   "text": "<bdi>صَلَحَ</bdi> — {{c1::<bdi>يَصْلُحُ</bdi>}} — {{c2::<bdi>اُصْلُحْ</bdi>}} — {{c3::<bdi>صَلَاح</bdi>}}",
+   "extra": "to be sound, to be right · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · صَلُحَ, bāb كَرُمَ, is also attested",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-178",
+   "session": "sep30",
+   "term": "عَبَدَ",
+   "meaning": "to worship",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-179",
+   "session": "sep30",
+   "text": "<bdi>عَبَدَ</bdi> — {{c1::<bdi>يَعْبُدُ</bdi>}} — {{c2::<bdi>اُعْبُدْ</bdi>}} — {{c3::<bdi>عِبَادَة</bdi>}}",
+   "extra": "to worship · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-180",
+   "session": "sep30",
+   "term": "فَسَقَ",
+   "meaning": "to transgress, to act immorally",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-181",
+   "session": "sep30",
+   "text": "<bdi>فَسَقَ</bdi> — {{c1::<bdi>يَفْسُقُ</bdi>}} — {{c2::<bdi>اُفْسُقْ</bdi>}} — {{c3::<bdi>فِسْق</bdi>}}",
+   "extra": "to transgress, to act immorally · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · يَفْسِقُ is also attested",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-182",
+   "session": "sep30",
+   "term": "قَتَلَ",
+   "meaning": "to kill",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-183",
+   "session": "sep30",
+   "text": "<bdi>قَتَلَ</bdi> — {{c1::<bdi>يَقْتُلُ</bdi>}} — {{c2::<bdi>اُقْتُلْ</bdi>}} — {{c3::<bdi>قَتْل</bdi>}}",
+   "extra": "to kill · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-184",
+   "session": "sep30",
+   "term": "قَعَدَ",
+   "meaning": "to sit",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-185",
+   "session": "sep30",
+   "text": "<bdi>قَعَدَ</bdi> — {{c1::<bdi>يَقْعُدُ</bdi>}} — {{c2::<bdi>اُقْعُدْ</bdi>}} — {{c3::<bdi>قُعُود</bdi>}}",
+   "extra": "to sit · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-186",
+   "session": "sep30",
+   "term": "كَتَبَ",
+   "meaning": "to write",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-187",
+   "session": "sep30",
+   "text": "<bdi>كَتَبَ</bdi> — {{c1::<bdi>يَكْتُبُ</bdi>}} — {{c2::<bdi>اُكْتُبْ</bdi>}} — {{c3::<bdi>كِتَابَة</bdi>}}",
+   "extra": "to write · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-188",
+   "session": "sep30",
+   "term": "كَفَرَ",
+   "meaning": "to disbelieve",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-189",
+   "session": "sep30",
+   "text": "<bdi>كَفَرَ</bdi> — {{c1::<bdi>يَكْفُرُ</bdi>}} — {{c2::<bdi>اُكْفُرْ</bdi>}} — {{c3::<bdi>كُفْر</bdi>}}",
+   "extra": "to disbelieve · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-190",
+   "session": "sep30",
+   "term": "مَكَرَ",
+   "meaning": "to plot, to scheme",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-191",
+   "session": "sep30",
+   "text": "<bdi>مَكَرَ</bdi> — {{c1::<bdi>يَمْكُرُ</bdi>}} — {{c2::<bdi>اُمْكُرْ</bdi>}} — {{c3::<bdi>مَكْر</bdi>}}",
+   "extra": "to plot, to scheme · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "voc-192",
+   "session": "sep30",
+   "front": "The 24 verbs tagged <code>bab-nasara</code> all share one bāb — which, and what are its vowels?",
+   "back": "بَاب <bdi>نَصَرَ يَنْصُرُ</bdi> — fatḥah on the مَاضِي ʿayn, ḍammah on the مُضَارِع. The first and most common of the six.",
+   "tags": [
+    "vocab",
+    "sarf",
+    "bab-nasara",
+    "abwaab",
+    "criterion"
+   ]
   }
  ],
- "expected_count": 143
+ "expected_count": 192
 }
