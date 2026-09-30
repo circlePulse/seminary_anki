@@ -3,7 +3,7 @@
  "topic": "arbaeen-ahadith",
  "session": "sep16",
  "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
- "expected_count": 51,
+ "expected_count": 110,
  "cards": [
   {
    "type": "basic",
@@ -605,6 +605,799 @@
     "arbaeen",
     "h01",
     "correction"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-052",
+   "session": "sep30",
+   "text": "<div class=\"arabic\">بُنِيَ الإِسْلَامُ عَلَى خَمْسٍ: {{c1::شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ}}، وَ{{c2::إِقَامِ الصَّلَاةِ}}، وَ{{c3::إِيتَاءِ الزَّكَاةِ}}، وَ{{c4::حَجِّ البَيْتِ}}، وَ{{c5::صَوْمِ رَمَضَانَ}}</div>",
+   "extra": "Ḥadīth 3 of the Arbaʿīn, narrated by Ibn ʿUmar. Check the wording against your copy — supplied, not taken from your notes.",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "matn"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-053",
+   "session": "sep30",
+   "text": "<div class=\"arabic\">{{c1::بُنِيَ الإِسْلَامُ}} عَلَى {{c2::خَمْسٍ}}</div>",
+   "extra": "The opening of Ḥadīth 3.",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "matn"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-054",
+   "session": "sep30",
+   "front": "How does the ḥadīth of the five pillars open, and what image does it use?",
+   "back": "<bdi>بُنِيَ الإِسْلَامُ عَلَى خَمْسٍ</bdi> — “Islam is built upon five” — the image of a building",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "matn"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-055",
+   "session": "sep30",
+   "front": "Who narrates the ḥadīth of the five pillars?",
+   "back": "Ibn ʿUmar — son of ʿUmar ibn al-Khaṭṭāb",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-056",
+   "session": "sep30",
+   "front": "When was Ibn ʿUmar born?",
+   "back": "Two years after the message began",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-057",
+   "session": "sep30",
+   "front": "When and how did Ibn ʿUmar accept Islam?",
+   "back": "As a child alongside his father, before reaching puberty",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-058",
+   "session": "sep30",
+   "front": "At what age did Ibn ʿUmar migrate?",
+   "back": "Eleven, with his parents",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-059",
+   "session": "sep30",
+   "front": "Why was Ibn ʿUmar turned away from Badr and Uḥud?",
+   "back": "He was not yet fifteen",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-060",
+   "session": "sep30",
+   "front": "Which was Ibn ʿUmar's first battle?",
+   "back": "Khandaq",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-061",
+   "session": "sep30",
+   "front": "What standing did Ibn ʿUmar have among the Companions?",
+   "back": "One of the most knowledgeable, and one of those who would give fatwa",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-062",
+   "session": "sep30",
+   "front": "How many aḥādīth did Ibn ʿUmar narrate?",
+   "back": "2,630",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-063",
+   "session": "sep30",
+   "front": "In what year did Ibn ʿUmar die?",
+   "back": "73",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-064",
+   "session": "sep30",
+   "front": "How far did Ibn ʿUmar take following the sunnah?",
+   "back": "He followed every sunnah, even the <bdi>سُنَن الزَّوَائِد</bdi>",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-065",
+   "session": "sep30",
+   "front": "What story is told of Ibn ʿUmar ducking while travelling?",
+   "back": "There had once been a tree there and the Prophet ﷺ had ducked, so he ducked too",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "ibn-umar"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-066",
+   "session": "sep30",
+   "front": "Which ḥadīth is the origin of the five pillars of Islam?",
+   "back": "Ḥadīth 3 of the Arbaʿīn, narrated by Ibn ʿUmar — <bdi>بُنِيَ الإِسْلَامُ عَلَى خَمْسٍ</bdi>",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "pillars"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-067",
+   "session": "sep30",
+   "front": "What do the five pillars represent in relation to Allah?",
+   "back": "Our external submission to Him",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "pillars",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-068",
+   "session": "sep30",
+   "front": "What comparison does the Prophet ﷺ draw in the ḥadīth of the five pillars?",
+   "back": "Islam to a strong building raised on a firm foundation, without which it would be useless",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "pillars"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-069",
+   "session": "sep30",
+   "front": "Which pillar is the central one, and where do the others sit in the image?",
+   "back": "The shahādah is the central pillar; the other four stand at the corners",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "pillars",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-070",
+   "session": "sep30",
+   "front": "Does the ḥadīth of the five pillars imply that obeying commands and avoiding prohibitions is unnecessary?",
+   "back": "No — a building is not complete without walls, doors and furniture, and those are the commands and prohibitions",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "pillars",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-071",
+   "session": "sep30",
+   "front": "What does the shahādah do that no other pillar does?",
+   "back": "It enters a person into the fold of Islam",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "shahadah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-072",
+   "session": "sep30",
+   "front": "What is the shahādah, in terms of heart and tongue?",
+   "back": "A verbal expression of the faith that lies in the heart",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "shahadah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-073",
+   "session": "sep30",
+   "front": "What three things does saying the shahādah affirm?",
+   "back": "The existence and oneness of Allah, the nubuwwah of the Prophet ﷺ, and all of his teachings",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "shahadah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-074",
+   "session": "sep30",
+   "front": "Testimony in a court rests on first-hand experience — what does that imply for the shahādah?",
+   "back": "That it is said on the basis of one's own experience, understanding and knowledge",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "shahadah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-075",
+   "session": "sep30",
+   "front": "What did the Prophet ﷺ promise for saying the shahādah sincerely?",
+   "back": "Whoever says it with sincerity and true belief will enter paradise",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "shahadah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-076",
+   "session": "sep30",
+   "front": "What does accepting Islam do to what came before it?",
+   "back": "It wipes away whatever the person did before entering Islam",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "shahadah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-077",
+   "session": "sep30",
+   "term": "<bdi>عِمَاد الدِّين</bdi> (ʿimād al-dīn)",
+   "meaning": "the great pillar of the religion — a name for the ṣalāh",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-078",
+   "session": "sep30",
+   "term": "<bdi>غُرَّة الطَّاعَات</bdi> (ghurrat al-ṭāʿāt)",
+   "meaning": "the finest of the acts of obedience — a name for the ṣalāh",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-079",
+   "session": "sep30",
+   "front": "What does a sincere, mindful, correct prayer engage?",
+   "back": "The entire being, comprehensively",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-080",
+   "session": "sep30",
+   "front": "Which verb does Allah use for prayer instead of “pray”, and why does it matter?",
+   "back": "<bdi>أَقَامَ</bdi> — to establish. It means to make something straight and upright without deficiency",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-081",
+   "session": "sep30",
+   "text": "<bdi>إِقَامَة الصَّلَاة</bdi> externally is {{c1::praying properly, at its time, with its preconditions, integrals and sunan}}; internally it is {{c2::praying with purpose, meaning, understanding and humility}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-082",
+   "session": "sep30",
+   "text": "{{c1::<bdi>خُشُوع</bdi>}} is humility; {{c2::<bdi>خُضُوع</bdi>}} is being in a state of need",
+   "extra": "Two words a letter apart.",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-083",
+   "session": "sep30",
+   "front": "How did Ibn ʿAbbās describe establishing the prayer?",
+   "back": "Performing its bowing, prostrations and recitation completely, with fear of Allah and complete attention",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-084",
+   "session": "sep30",
+   "front": "Complete the ḥadīth about the Prophet's ﷺ love of prayer: “The coolness of …”",
+   "back": "…my eyes was placed in prayer — an Arabic expression for happiness, tranquility and contentment",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-085",
+   "session": "sep30",
+   "front": "What is unique about how the command to pray was given?",
+   "back": "Jibrīl took the Prophet ﷺ up into the heavens to receive it, rather than bringing it down",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-086",
+   "session": "sep30",
+   "front": "What is the first thing a person is asked about on the Day of Judgement?",
+   "back": "The prayer",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-087",
+   "session": "sep30",
+   "front": "What do a minority of scholars hold about deliberately leaving the prayer?",
+   "back": "That the person has left Islam",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-088",
+   "session": "sep30",
+   "front": "Complete the ḥadīth: “Between a man and disbelief is …”",
+   "back": "…leaving the prayer",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-089",
+   "session": "sep30",
+   "front": "Complete the ḥadīth: “The treaty I have with my followers is the prayer — …”",
+   "back": "…whoever leaves it, it is as if he has disbelieved",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-090",
+   "session": "sep30",
+   "front": "What was among the last things the Prophet ﷺ said as he was leaving this world?",
+   "back": "“Your prayer, your prayer, and those in your care”",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-091",
+   "session": "sep30",
+   "front": "What does the majority hold about those warnings on leaving prayer?",
+   "back": "That they show the level of emphasis placed on it, not that the person leaves Islam",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-092",
+   "session": "sep30",
+   "front": "What does the Qurʾān say prayer prevents?",
+   "back": "Obscenities and evil — what the Sharīʿah dislikes and prohibits",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-093",
+   "session": "sep30",
+   "front": "What follows if someone prays regularly yet still falls into those things?",
+   "back": "The prayer itself needs fixing",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-094",
+   "session": "sep30",
+   "front": "How should the day be arranged around the prayer?",
+   "back": "Ṣalāh should be the priority with everything else revolving around it, rather than being fitted in",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-095",
+   "session": "sep30",
+   "term": "<bdi>حَلَاوَة الإِيمَان</bdi> (ḥalāwat al-īmān)",
+   "meaning": "the sweetness of faith — when ṣalāh is enjoyable rather than a burden",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-096",
+   "session": "sep30",
+   "front": "What did Ibn Qudāmah say about a heart not present in prayer?",
+   "back": "That its cause is weakness of īmān — so strive and struggle to strengthen it",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "salah"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-097",
+   "session": "sep30",
+   "front": "Which two pillars are most commonly mentioned together in the Qurʾān and Sunnah?",
+   "back": "Ṣalāh and zakāh",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "zakat"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-098",
+   "session": "sep30",
+   "front": "What does zakāh purify, and what does it purify the heart from?",
+   "back": "It purifies and increases wealth, and purifies the heart of greed, stinginess and love of wealth and possessions",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "zakat",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-099",
+   "session": "sep30",
+   "front": "What makes ḥajj distinctive among the pillars in what it demands?",
+   "back": "It involves both the body and wealth",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "hajj",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-100",
+   "session": "sep30",
+   "front": "What opportunity does ḥajj present?",
+   "back": "To completely change one's life and start over",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "hajj"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-101",
+   "session": "sep30",
+   "front": "What did the Prophet ﷺ promise one who performs ḥajj without obscenity or sin?",
+   "back": "He returns like the day his mother gave birth to him — sinless",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "hajj"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-102",
+   "session": "sep30",
+   "front": "What did the Prophet ﷺ say the reward of an accepted ḥajj is?",
+   "back": "Nothing other than Jannah",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "hajj"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-103",
+   "session": "sep30",
+   "front": "Complete the ḥadīth qudsī on fasting: “Every act of the son of Adam is for himself except fasting — …”",
+   "back": "…for it is for Me, and I give the reward for it",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "fasting"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-104",
+   "session": "sep30",
+   "text": "The ḥadīth “every act of the son of Adam is for himself except fasting” shows two things: {{c1::how sincere the act is, since it has no outward aspect}}, and {{c2::that its reward cannot be transferred, unlike other good deeds which can be taken in recompense for wronging someone}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "fasting",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-105",
+   "session": "sep30",
+   "front": "What does the Qurʾān say fasting develops?",
+   "back": "Taqwā",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "fasting"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-106",
+   "session": "sep30",
+   "front": "What did the Prophet ﷺ promise one who fasts Ramaḍān with īmān and hope of reward?",
+   "back": "All of his previous sins are forgiven",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "fasting"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-107",
+   "session": "sep30",
+   "front": "Where do the voluntary acts belong relative to the five pillars?",
+   "back": "After the foundations are established",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "pillars",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-108",
+   "session": "sep30",
+   "front": "What other narration of the five pillars exists, and who narrates it?",
+   "back": "One placing Ramaḍān before ḥajj — both narrated by Ibn ʿUmar",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "pillars",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-109",
+   "session": "sep30",
+   "front": "How did Ibn ʿUmar answer the student who objected to the changed order?",
+   "back": "That he had heard both from the Prophet ﷺ",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "pillars"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-110",
+   "session": "sep30",
+   "front": "What are the five acts of worship not meant to be, and what are they meant to be?",
+   "back": "Not rituals — they have higher objectives and aims, and are meant to be transformative, changing a person's life and strengthening their relationship with Allah",
+   "tags": [
+    "arbaeen",
+    "h03",
+    "pillars",
+    "criterion"
    ]
   }
  ]

@@ -3,7 +3,7 @@
  "topic": "quduri",
  "session": "sep09",
  "source": "Qudūrī — Intro to Qudūrī, class notes 2026-09-09",
- "expected_count": 203,
+ "expected_count": 206,
  "cards": [
   {
    "type": "basic",
@@ -2609,6 +2609,46 @@
     "tahara",
     "ghusl",
     "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-204",
+   "session": "sep30",
+   "term": "<bdi>سُنَّة زَائِدَة</bdi> (sunnah zāʾidah)",
+   "meaning": "something the Prophet ﷺ did as a human being, rather than as an act of worship",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "terminology"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-205",
+   "session": "sep30",
+   "text": "Of the sunnah categories, {{c1::<bdi>مُؤَكَّدَة</bdi>}} is what he ﷺ persisted in, {{c2::<bdi>غَيْر مُؤَكَّدَة</bdi>}} what he did at times and left at others, and {{c3::<bdi>زَائِدَة</bdi>}} what he did simply as a human being",
+   "extra": "Three categories, one scale of emphasis.",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-206",
+   "session": "sep30",
+   "front": "Which Companion was known for following even the <bdi>سُنَن الزَّوَائِد</bdi>?",
+   "back": "Ibn ʿUmar — the narrator of the ḥadīth of the five pillars",
+   "tags": [
+    "quduri",
+    "legal-values",
+    "arbaeen"
    ]
   }
  ]
