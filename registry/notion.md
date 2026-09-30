@@ -45,8 +45,9 @@ toggle per chapter (repentance, then Kitāb al-Jihād, which is still empty).
 **Tazkiyah** covers *Bidāyah* → *Tongue* (lying, breaking promises, backbiting).
 It uses bullets, not toggles.
 
-The Year 1 archive (QRN-101, ARB 101/102, JRP 101, SPR 101, HDT 101, CRD 101,
-SRH-101) sits under *Archive* on the dashboard. It has never been carded.
+**Year 1 is out of scope.** The archive under *Archive* on the dashboard (QRN-101,
+ARB 101/102, JRP 101, SPR 101, HDT 101, CRD 101, SRH-101) is not to be scanned or
+carded. The user said so on 2026-09-30.
 
 ## UCI — Y1 Q1 Courses
 
@@ -82,17 +83,20 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
   *kebob_case* for snake_case). Corrections go on the cards, not in Notion; the
   notes still carry the originals.
 - **Notes are sometimes mid-edit.** A trailing toggle can stop mid-word (the
-  Qudūrī water section ends at `Ri`). Card up to the last complete proposition
-  and flag the rest.
+  Qudūrī water section once ended at `Ri`, and an hour later it ran to a full
+  classification). Re-fetch right before drafting, card up to the last complete
+  proposition, and flag the rest.
 - **Images** (HEIC photos of tables, screenshots) carry content the text does
   not. Say when a section's substance is only in an image.
 
 ## Uncarded as of 2026-09-30
 
-- Qudūrī: the water section (three types of water, what counts as ṭahūr). This
-  is the current `START HERE`.
+- Qudūrī: the water section (three types of water, unqualified water, the
+  nature and qualities of water, mixed water). This is the current `START HERE`.
 - Riyāḍ: the chapter of repentance. The deck holds only the four intro cards.
-- Arbaʿīn Ḥadīth 2: the body after the vocab (already in HANDOFF.md).
+- Arbaʿīn Ḥadīth 2: the body after the vocab. It is fully written up: the four
+  questions, with the linguistic and technical definitions of Islām, Īmān and
+  Iḥsān, and the signs of the Hour.
 - World Religions: the 09/29/26 lecture (major traditions, defining religion in
   East Asia, folk religions).
 - Tazkiyah: all of it. There is no course entry or deck yet.
