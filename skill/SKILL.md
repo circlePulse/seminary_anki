@@ -51,6 +51,7 @@ Every deck lands in the staging deck `Seminary::_Inbox` for manual sorting. Two 
 | `references/working-files.md` | Reading class notes; draft file, gloss index, forward-reference log formats. |
 | `references/notetypes.md` | Generating a deck, or touching CSS/templates. |
 | `registry/courses.json` | **First, every time.** Which course this is, where its notes live, its id prefix, and which packs to read. |
+| `registry/notion.md` | Before fetching a course page. Page ids, how each page is laid out, where new material appears, and the `START HERE` marker rule. |
 | `references/domain-cs.md` | Programming courses (ICS-H32). |
 | `references/domain-humanities.md` | Humanities / social science (RELSTD-5B). |
 | `references/shared-terms.md` | Seminary courses. Registry of terms that mean different things in different sciences, and the labelling rule. |
