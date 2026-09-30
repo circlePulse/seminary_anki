@@ -244,7 +244,7 @@ _DEMO = re.compile(
     r'(ḥadīth|hadith|verse|āyah|ayah|definition|phrase|term|word|list|rule|ruling|'
     r'division|nullifier|concept|passage|text|reading|lecture|section|chapter|book|'
     r'sciences|narration|refusal|oversight|position|claim|principle)\b', re.I)
-_BARE = re.compile(r'\b(call|calls|called|say|says|said)\s+it\b', re.I)
+_BARE = re.compile(r'\b(call|calls|called|say|says|said)\s+it\b(?!\s+(on|to|in|with|as|by))', re.I)
 
 
 _ARABIC = re.compile(r'[\u0600-\u06FF]')

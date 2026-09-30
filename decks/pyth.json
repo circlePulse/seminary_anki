@@ -3,7 +3,7 @@
  "topic": "pyth",
  "session": "sep24",
  "source": "ICS H32 — lecture notes to 2026-09-24",
- "expected_count": 47,
+ "expected_count": 106,
  "cards": [
   {
    "type": "basic",
@@ -558,6 +558,757 @@
     "scripts",
     "contrast",
     "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-048",
+   "session": "sep30",
+   "front": "How can a program evaluate an expression the way the shell does?",
+   "back": "With the built-in <code>eval()</code>",
+   "tags": [
+    "pyth",
+    "eval"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-049",
+   "session": "sep30",
+   "front": "What is the danger of <code>eval()</code>?",
+   "back": "It has serious pitfalls — especially prompt injection",
+   "tags": [
+    "pyth",
+    "eval",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-050",
+   "session": "sep30",
+   "front": "How many arguments can <code>print</code> take, and how are they separated by default?",
+   "back": "As many as you like — separated by spaces",
+   "tags": [
+    "pyth",
+    "print"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-051",
+   "session": "sep30",
+   "front": "What decides how an object appears when passed to <code>print</code>?",
+   "back": "The object itself — every object defines its own behaviour for being printed",
+   "tags": [
+    "pyth",
+    "print",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-052",
+   "session": "sep30",
+   "front": "Which keyword argument of <code>print</code> controls what goes <i>between</i> the arguments?",
+   "back": "<code>sep</code>",
+   "tags": [
+    "pyth",
+    "print"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-053",
+   "session": "sep30",
+   "front": "Which keyword argument of <code>print</code> controls what goes <i>after</i> everything?",
+   "back": "<code>end</code>",
+   "tags": [
+    "pyth",
+    "print"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-054",
+   "session": "sep30",
+   "text": "<code>print</code>'s {{c1::<code>sep</code>}} sets what falls between the arguments; {{c2::<code>end</code>}} sets what follows the last one",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "print",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-055",
+   "session": "sep30",
+   "front": "What kind of argument are <code>sep</code> and <code>end</code>, and how common are they?",
+   "back": "Keyword arguments — something only some functions allow",
+   "tags": [
+    "pyth",
+    "print",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-056",
+   "session": "sep30",
+   "front": "What does this print?<pre class=\"code\">print(1, 2, 3)</pre>",
+   "back": "<code>1 2 3</code> — spaces by default",
+   "tags": [
+    "pyth",
+    "print",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-057",
+   "session": "sep30",
+   "front": "What does this print?<pre class=\"code\">print(1, 2, 3, sep='+')</pre>",
+   "back": "<code>1+2+3</code>",
+   "tags": [
+    "pyth",
+    "print",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-058",
+   "session": "sep30",
+   "front": "What does this print?<pre class=\"code\">print('a', end='-')\nprint('b')</pre>",
+   "back": "<code>a-b</code> — <code>end</code> replaces the usual newline",
+   "tags": [
+    "pyth",
+    "print",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-059",
+   "session": "sep30",
+   "front": "Which built-in function reads input?",
+   "back": "<code>input()</code>",
+   "tags": [
+    "pyth",
+    "input"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-060",
+   "session": "sep30",
+   "front": "What must you do to keep what <code>input()</code> gives back?",
+   "back": "Store it in a variable — it returns a value, and an uncaught value is lost",
+   "tags": [
+    "pyth",
+    "input",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-061",
+   "session": "sep30",
+   "front": "What type does <code>input()</code> always return?",
+   "back": "A string",
+   "tags": [
+    "pyth",
+    "input",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-062",
+   "session": "sep30",
+   "front": "What is the type name for a string?",
+   "back": "<code>str</code>",
+   "tags": [
+    "pyth",
+    "strings"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-063",
+   "session": "sep30",
+   "front": "What is a string?",
+   "back": "A sequence of characters",
+   "tags": [
+    "pyth",
+    "strings"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-064",
+   "session": "sep30",
+   "front": "How do you write a string literal?",
+   "back": "Enclose it in single or double quotes",
+   "tags": [
+    "pyth",
+    "strings"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-065",
+   "session": "sep30",
+   "front": "Which quotes does this class prefer?",
+   "back": "Single quotes",
+   "tags": [
+    "pyth",
+    "strings",
+    "convention"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-066",
+   "session": "sep30",
+   "front": "What counts as a “character” in Python?",
+   "back": "A string with one character in it — there is no separate character type",
+   "tags": [
+    "pyth",
+    "strings",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-067",
+   "session": "sep30",
+   "front": "What practical use comes from having both quote styles?",
+   "back": "You can put quotes inside a string literal by enclosing it in the other kind",
+   "tags": [
+    "pyth",
+    "strings",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-068",
+   "session": "sep30",
+   "front": "What is the other way to put special characters in a string?",
+   "back": "Escape sequences, using a backslash",
+   "tags": [
+    "pyth",
+    "strings"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-069",
+   "session": "sep30",
+   "front": "What does <code>len()</code> give you for a string?",
+   "back": "Its length",
+   "tags": [
+    "pyth",
+    "strings"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-070",
+   "session": "sep30",
+   "front": "Does <code>len()</code> measure the string or the literal that produced it?",
+   "back": "The string itself — the two are not necessarily equal",
+   "tags": [
+    "pyth",
+    "strings",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-071",
+   "session": "sep30",
+   "front": "Do all objects have a length?",
+   "back": "No",
+   "tags": [
+    "pyth",
+    "strings",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-072",
+   "session": "sep30",
+   "text": "Strings support {{c1::<code>+</code>}} to concatenate and {{c2::<code>*</code>}} to repeat; {{c3::subtraction and division}} have no meaning for them",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "strings",
+    "spine"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-073",
+   "session": "sep30",
+   "front": "What does <code>==</code> compare for strings?",
+   "back": "Their value — not memory or anything else",
+   "tags": [
+    "pyth",
+    "strings",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-074",
+   "session": "sep30",
+   "front": "What does <code>.strip()</code> do to the string you call it on?",
+   "back": "Nothing — it returns a new string with the whitespace removed, leaving the original untouched",
+   "tags": [
+    "pyth",
+    "strings",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-075",
+   "session": "sep30",
+   "front": "Which other string methods behave the same way as <code>.strip()</code>?",
+   "back": "<code>.upper()</code> — it also returns a new string rather than changing the original",
+   "tags": [
+    "pyth",
+    "strings"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-076",
+   "session": "sep30",
+   "front": "What does <code>.isupper()</code> return?",
+   "back": "A bool",
+   "tags": [
+    "pyth",
+    "strings"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-077",
+   "session": "sep30",
+   "front": "On what can string methods be called, besides variables?",
+   "back": "Literals — you can call a method directly on <code>'hello'</code>",
+   "tags": [
+    "pyth",
+    "strings",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-078",
+   "session": "sep30",
+   "front": "What does this print?<pre class=\"code\">print('ab' * 3)</pre>",
+   "back": "<code>ababab</code>",
+   "tags": [
+    "pyth",
+    "strings",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-079",
+   "session": "sep30",
+   "front": "What does this print?<pre class=\"code\">s = '  hi  '\ns.strip()\nprint(s)</pre>",
+   "back": "<code>'  hi  '</code> with its spaces intact — <code>.strip()</code> returns a new string and never changes the original",
+   "tags": [
+    "pyth",
+    "strings",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-080",
+   "session": "sep30",
+   "front": "What does this print?<pre class=\"code\">print(len('a\\tb'))</pre>",
+   "back": "<code>3</code> — the escape sequence is one character, though the literal is four",
+   "tags": [
+    "pyth",
+    "strings",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-081",
+   "session": "sep30",
+   "front": "What is a <code>range</code>?",
+   "back": "A sequence of numbers",
+   "tags": [
+    "pyth",
+    "range"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-082",
+   "session": "sep30",
+   "front": "How many arguments does the <code>range()</code> constructor take?",
+   "back": "Up to three",
+   "tags": [
+    "pyth",
+    "range"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-083",
+   "session": "sep30",
+   "text": "<code>range()</code>'s arguments: {{c1::start — inclusive}}, {{c2::stop — exclusive}}, {{c3::step — the distance between numbers, optional and 1 by default}}",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "range",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-084",
+   "session": "sep30",
+   "front": "Which end of a <code>range</code> is included and which is not?",
+   "back": "The start is included; the stop is excluded",
+   "tags": [
+    "pyth",
+    "range",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-085",
+   "session": "sep30",
+   "front": "How do you get at an individual number in a range?",
+   "back": "Index into it with <code>[]</code>",
+   "tags": [
+    "pyth",
+    "range"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "pyth-086",
+   "session": "sep30",
+   "front": "What does the single argument mean in <code>range(5)</code>?",
+   "back": "The <i>stop</i>, not the start — it gives 0 through 4. Not stated in the lecture, which describes the three-argument form.",
+   "tags": [
+    "pyth",
+    "range",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-087",
+   "session": "sep30",
+   "front": "What is a method, in terms of what you are doing?",
+   "back": "Asking an object to perform something on your behalf",
+   "tags": [
+    "pyth",
+    "methods",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-088",
+   "session": "sep30",
+   "front": "On what are methods called?",
+   "back": "Objects",
+   "tags": [
+    "pyth",
+    "methods"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-089",
+   "session": "sep30",
+   "front": "What does method chaining look like, and why does it work?",
+   "back": "<code>description.upper().isupper()</code> — each call returns an object that the next method is then called on",
+   "tags": [
+    "pyth",
+    "methods"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-090",
+   "session": "sep30",
+   "front": "How do you convert between types?",
+   "back": "Call the type like a function — <code>int('35')</code>. This is an object constructor",
+   "tags": [
+    "pyth",
+    "conversion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-091",
+   "session": "sep30",
+   "front": "What does <code>bool</code> give for a string?",
+   "back": "<code>True</code> for a non-empty string, <code>False</code> for an empty one",
+   "tags": [
+    "pyth",
+    "conversion",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-092",
+   "session": "sep30",
+   "front": "How does Python mark a block?",
+   "back": "By indentation",
+   "tags": [
+    "pyth",
+    "blocks",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-093",
+   "session": "sep30",
+   "front": "What is the standard indentation width?",
+   "back": "Four spaces",
+   "tags": [
+    "pyth",
+    "blocks",
+    "convention"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-094",
+   "session": "sep30",
+   "front": "What is the syntax of an if statement, and what is the convention about parentheses?",
+   "back": "<code>if expression:</code> — the norm is no parentheses around the expression",
+   "tags": [
+    "pyth",
+    "if"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-095",
+   "session": "sep30",
+   "front": "Must the expression in an if statement evaluate to a bool?",
+   "back": "No — it undergoes a truth test instead",
+   "tags": [
+    "pyth",
+    "if",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-096",
+   "session": "sep30",
+   "front": "How much of Python falls into “truthy” or “falsy”?",
+   "back": "Everything — every object is one or the other",
+   "tags": [
+    "pyth",
+    "if",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-097",
+   "session": "sep30",
+   "text": "Truth tests: an empty string is {{c1::falsy}} and a non-empty one {{c2::truthy}}; the number {{c3::0}} is falsy and every other number truthy",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "if",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-098",
+   "session": "sep30",
+   "front": "What does this print?<pre class=\"code\">if '0':\n    print('yes')\nif 0:\n    print('no')</pre>",
+   "back": "<code>yes</code> only — <code>'0'</code> is a non-empty string so it is truthy, while the number <code>0</code> is falsy",
+   "tags": [
+    "pyth",
+    "if",
+    "predict-output"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-099",
+   "session": "sep30",
+   "front": "What is the syntax of a while loop, and what rules govern its expression?",
+   "back": "<code>while expression:</code> — the same expression rules as an if statement",
+   "tags": [
+    "pyth",
+    "loops"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-100",
+   "session": "sep30",
+   "front": "Which loop form does Python lack?",
+   "back": "do-while",
+   "tags": [
+    "pyth",
+    "loops",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-101",
+   "session": "sep30",
+   "front": "What can a while loop carry that is unusual, and when does it run?",
+   "back": "An <code>else</code> clause — it runs when the test fails",
+   "tags": [
+    "pyth",
+    "loops",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "pyth-102",
+   "session": "sep30",
+   "front": "What stops a while loop's <code>else</code> clause from running?",
+   "back": "Leaving the loop through <code>break</code> — the else runs only when the test fails. Not stated in the lecture.",
+   "tags": [
+    "pyth",
+    "loops",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-103",
+   "session": "sep30",
+   "front": "What does <code>break</code> do?",
+   "back": "Leaves the loop immediately",
+   "tags": [
+    "pyth",
+    "loops"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "pyth-104",
+   "session": "sep30",
+   "term": "The walrus operator",
+   "meaning": "an assignment that is also an expression — it returns the value assigned",
+   "tags": [
+    "pyth",
+    "loops",
+    "walrus"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-105",
+   "session": "sep30",
+   "front": "What makes the walrus operator different from an ordinary assignment?",
+   "back": "An ordinary assignment is a statement and gives nothing back; the walrus is an expression and returns the value assigned",
+   "tags": [
+    "pyth",
+    "loops",
+    "walrus",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-106",
+   "session": "sep30",
+   "front": "What does this print?<pre class=\"code\">if (n := 5) &gt; 3:\n    print(n)</pre>",
+   "back": "<code>5</code> — the walrus assigns and returns in one step, so <code>n</code> is usable straight away",
+   "tags": [
+    "pyth",
+    "loops",
+    "walrus",
+    "predict-output"
    ]
   }
  ]
