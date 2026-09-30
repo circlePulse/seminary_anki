@@ -14,6 +14,8 @@ artifacts; **this repo is the real collection.**
 5. Commit `decks/`, `ids.lock.json`, `delivered.json`, `registry/` and `drafts/`. `build/` is ignored.
 6. **Deliver deltas only.** `delivered.json` is the record of what is in Anki. A routine
    update ships only notes that are new or changed against it — never the whole deck.
+   Hand over one `.apkg` per changed deck and nothing else: the JSON and lockfiles go
+   into the commit, not to the user. A deck with no changes is not delivered.
 
 ## The one irreversible mistake
 

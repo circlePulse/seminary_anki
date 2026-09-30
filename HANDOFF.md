@@ -71,9 +71,9 @@ Current state: **1,081 notes across 10 decks.**
 2. Read the domain packs for that course before drafting.
 3. Edit `decks/X.json`. Ids are append-only — see below.
 4. `python3 skill/scripts/generate_deck.py decks/X.json --delta`
-5. **Deliver the `.apkg` to the user.** In a cloud session anything left in `build/`
-   is discarded — it has to be handed over explicitly or it does not exist. Say what
-   is in it: how many new, how many changed.
+5. **Deliver the delta `.apkg`, and only that.** In a cloud session anything left in
+   `build/` is discarded, so it must be handed over explicitly or it does not exist.
+   One file per changed deck, with its counts. See the delivery rules below.
 6. `./build.sh` to regenerate the registry.
 7. **Commit and push.** Confirm the push succeeded before ending the session.
 
@@ -95,17 +95,32 @@ they exist only in the commit you push. An unpushed change to `ids.lock.json` is
 worst possible thing to lose: the next session would reassign ids, and every note
 would import as a duplicate with its review history orphaned.
 
-## Deliver only what changed
+## What to hand the user: delta packages, nothing else
 
-`--delta` builds a package containing only notes that are new or whose content
-differs from `delivered.json`. Unchanged notes are left out entirely, so Anki never
-touches them.
+`--delta` builds a package containing only notes that are **new or whose content
+changed** since `delivered.json`. Unchanged notes are left out of the file entirely,
+so Anki cannot touch them.
 
-Handing over a full deck for a routine update rewrites every note on import. The user
-noticed — an import reported 138 notes updated when 8 had actually changed — and was
-right to object. `--full` is for a fresh collection or recovery only.
+The rules, all of which came from getting it wrong:
 
-Mention only the decks that actually gained cards.
+- **One `.apkg` per deck that actually changed. Nothing else.** Not the deck JSON,
+  not `ids.lock.json`, not `delivered.json`, not the repo zip. Those belong in the
+  commit, not in the user's downloads.
+- **A deck reporting `0 new, 0 changed` is not delivered and not mentioned.** Say
+  nothing about decks that did not move.
+- **Never hand over a full deck for a routine update.** `--full` exists for a fresh
+  collection or a recovery, and nothing else. A full deck rewrites every note on
+  import: one such import reported 138 notes updated when 8 had actually changed, and
+  the user was right to object.
+- **State the counts with each file** — how many new, how many changed — so the
+  number Anki reports on import is never a surprise.
+- **If an earlier delta for the same deck has not been imported yet, say so.**
+  Deltas are cumulative only against `delivered.json`, not against each other: a
+  package built today does not contain what yesterday's package held.
+
+A session that produces five decks' worth of work hands over five files. A session
+that changes one deck hands over one. The user has pushed back on volume more than
+once, and both times was objecting to files that had no reason to exist.
 
 ## Hard rules, each from a real failure
 
