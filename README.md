@@ -56,6 +56,13 @@ skill/              the seminary-anki skill — prompts, references, scripts
 build/              .apkg output, gitignored
 ```
 
+## Where this runs
+
+On the user's own machine, through Claude Code in the Claude Desktop app. The folder
+is permanent — there is no sandbox to rebuild from. Run sessions locally rather than
+in the cloud; a cloud session keeps only what is explicitly delivered. Commit and push
+at the end of every session.
+
 ## Workflow
 
 ```bash
@@ -64,6 +71,7 @@ python3 skill/scripts/generate_deck.py decks/X.json --delta   # deliver ONLY new
 ./build.sh --full                                 # complete decks — fresh collection or recovery only
 python3 skill/scripts/check_ids.py --update       # re-lock after intentional edits
 python3 skill/scripts/reconcile.py export.apkg    # diff Anki against source
+# the .apkg lands in build/ — import it from there
 ```
 
 Import settings in Anki: **Update notes = Always**, **Update note types = Always**,
