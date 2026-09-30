@@ -795,7 +795,951 @@
    ],
    "id": "voc-063",
    "session": "sep21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-064",
+   "session": "sep30",
+   "term": "تَحَمَّلَ",
+   "meaning": "to bear, to endure",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-065",
+   "session": "sep30",
+   "text": "<bdi>تَحَمَّلَ</bdi> — {{c1::<bdi>يَتَحَمَّلُ</bdi>}} — {{c2::<bdi>تَحَمَّلْ</bdi>}} — {{c3::<bdi>تَحَمُّل</bdi>}}",
+   "extra": "to bear, to endure · Form V · your <bdi>تَحَمُّل</bdi> is the maṣdar",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-066",
+   "session": "sep30",
+   "term": "أَعَدَّ",
+   "meaning": "to prepare",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-067",
+   "session": "sep30",
+   "text": "<bdi>أَعَدَّ</bdi> — {{c1::<bdi>يُعِدُّ</bdi>}} — {{c2::<bdi>أَعِدَّ</bdi>}} — {{c3::<bdi>إِعْدَاد</bdi>}}",
+   "extra": "to prepare · Form IV · your <bdi>أُعِدَّ</bdi> is the passive — “it was prepared”",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-068",
+   "session": "sep30",
+   "term": "ثَبَتَ",
+   "meaning": "to stand firm, to be steadfast",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-069",
+   "session": "sep30",
+   "text": "<bdi>ثَبَتَ</bdi> — {{c1::<bdi>يَثْبُتُ</bdi>}} — {{c2::<bdi>اُثْبُتْ</bdi>}} — {{c3::<bdi>ثَبَات</bdi>}}",
+   "extra": "to stand firm, to be steadfast · Form I · your <bdi>الثَّبات</bdi> is the maṣdar",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-070",
+   "session": "sep30",
+   "term": "وَقَعَ",
+   "meaning": "to fall; to occur",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-071",
+   "session": "sep30",
+   "text": "<bdi>وَقَعَ</bdi> — {{c1::<bdi>يَقَعُ</bdi>}} — {{c2::<bdi>قَعْ</bdi>}} — {{c3::<bdi>وُقُوع</bdi>}}",
+   "extra": "to fall; to occur · Form I",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-072",
+   "session": "sep30",
+   "term": "أَتَى",
+   "meaning": "to come",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-073",
+   "session": "sep30",
+   "text": "<bdi>أَتَى</bdi> — {{c1::<bdi>يَأْتِي</bdi>}} — {{c2::<bdi>اِئْتِ</bdi>}} — {{c3::<bdi>إِتْيَان</bdi>}}",
+   "extra": "to come · Form I · your <bdi>الإتيان</bdi> is the maṣdar",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-074",
+   "session": "sep30",
+   "term": "أَكْرَهَ",
+   "meaning": "to compel, to force",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-075",
+   "session": "sep30",
+   "text": "<bdi>أَكْرَهَ</bdi> — {{c1::<bdi>يُكْرِهُ</bdi>}} — {{c2::<bdi>أَكْرِهْ</bdi>}} — {{c3::<bdi>إِكْرَاه</bdi>}}",
+   "extra": "to compel, to force · Form IV · see the note on <bdi>أكره</bdi>",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-076",
+   "session": "sep30",
+   "term": "صَدَعَ",
+   "meaning": "to split, to crack; with <bdi>بِ</bdi>, to proclaim openly",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-077",
+   "session": "sep30",
+   "text": "<bdi>صَدَعَ</bdi> — {{c1::<bdi>يَصْدَعُ</bdi>}} — {{c2::<bdi>اِصْدَعْ</bdi>}} — {{c3::<bdi>صَدْع</bdi>}}",
+   "extra": "to split, to crack; with <bdi>بِ</bdi>, to proclaim openly · Form I",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-078",
+   "session": "sep30",
+   "term": "كَبِرَ",
+   "meaning": "to grow old",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-079",
+   "session": "sep30",
+   "text": "<bdi>كَبِرَ</bdi> — {{c1::<bdi>يَكْبَرُ</bdi>}} — {{c2::<bdi>اِكْبَرْ</bdi>}} — {{c3::<bdi>كِبَر</bdi>}}",
+   "extra": "to grow old · Form I · <bdi>كَبُرَ / يَكْبُرُ</bdi> is the other verb — to be large",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-080",
+   "session": "sep30",
+   "term": "بَعَثَ",
+   "meaning": "to send; to resurrect",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-081",
+   "session": "sep30",
+   "text": "<bdi>بَعَثَ</bdi> — {{c1::<bdi>يَبْعَثُ</bdi>}} — {{c2::<bdi>اِبْعَثْ</bdi>}} — {{c3::<bdi>بَعْث</bdi>}}",
+   "extra": "to send; to resurrect · Form I",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-082",
+   "session": "sep30",
+   "term": "سَلَكَ",
+   "meaning": "to travel a path, to follow a road",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-083",
+   "session": "sep30",
+   "text": "<bdi>سَلَكَ</bdi> — {{c1::<bdi>يَسْلُكُ</bdi>}} — {{c2::<bdi>اُسْلُكْ</bdi>}} — {{c3::<bdi>سُلُوك</bdi>}}",
+   "extra": "to travel a path, to follow a road · Form I",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-084",
+   "session": "sep30",
+   "term": "مَضَى",
+   "meaning": "to pass, to go on",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-085",
+   "session": "sep30",
+   "text": "<bdi>مَضَى</bdi> — {{c1::<bdi>يَمْضِي</bdi>}} — {{c2::<bdi>اِمْضِ</bdi>}} — {{c3::<bdi>مُضِيّ</bdi>}}",
+   "extra": "to pass, to go on · Form I · your <bdi>يَمضِيَ</bdi> is the subjunctive",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-086",
+   "session": "sep30",
+   "term": "أَبْرَأَ",
+   "meaning": "to cure, to heal",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-087",
+   "session": "sep30",
+   "text": "<bdi>أَبْرَأَ</bdi> — {{c1::<bdi>يُبْرِئُ</bdi>}} — {{c2::<bdi>أَبْرِئْ</bdi>}} — {{c3::<bdi>إِبْرَاء</bdi>}}",
+   "extra": "to cure, to heal · Form IV · your <bdi>يُبرِؤُ</bdi> is the muḍāriʿ",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-088",
+   "session": "sep30",
+   "term": "دَاوَى",
+   "meaning": "to treat medically",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-089",
+   "session": "sep30",
+   "text": "<bdi>دَاوَى</bdi> — {{c1::<bdi>يُدَاوِي</bdi>}} — {{c2::<bdi>دَاوِ</bdi>}} — {{c3::<bdi>مُدَاوَاة</bdi>}}",
+   "extra": "to treat medically · Form III",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-090",
+   "session": "sep30",
+   "term": "أَبَى",
+   "meaning": "to refuse",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-091",
+   "session": "sep30",
+   "text": "<bdi>أَبَى</bdi> — {{c1::<bdi>يَأْبَى</bdi>}} — {{c2::<bdi>اِئْبَ</bdi>}} — {{c3::<bdi>إِبَاء</bdi>}}",
+   "extra": "to refuse · Form I",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-092",
+   "session": "sep30",
+   "term": "تَقَاسَمَ",
+   "meaning": "to divide among themselves; to swear to one another",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-093",
+   "session": "sep30",
+   "text": "<bdi>تَقَاسَمَ</bdi> — {{c1::<bdi>يَتَقَاسَمُ</bdi>}} — {{c2::<bdi>تَقَاسَمْ</bdi>}} — {{c3::<bdi>تَقَاسُم</bdi>}}",
+   "extra": "to divide among themselves; to swear to one another · Form VI · your <bdi>تقاسَعَت</bdi> is not a form that exists — see the note",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-094",
+   "session": "sep30",
+   "term": "أَقْحَمَ",
+   "meaning": "to hurl or plunge someone into",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-095",
+   "session": "sep30",
+   "text": "<bdi>أَقْحَمَ</bdi> — {{c1::<bdi>يُقْحِمُ</bdi>}} — {{c2::<bdi>أَقْحِمْ</bdi>}} — {{c3::<bdi>إِقْحَام</bdi>}}",
+   "extra": "to hurl or plunge someone into · Form IV · your <bdi>أقحموه</bdi> carries an object pronoun",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-096",
+   "session": "sep30",
+   "term": "مَالَ",
+   "meaning": "to incline, to lean toward",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-097",
+   "session": "sep30",
+   "text": "<bdi>مَالَ</bdi> — {{c1::<bdi>يَمِيلُ</bdi>}} — {{c2::<bdi>مِلْ</bdi>}} — {{c3::<bdi>مَيْل</bdi>}}",
+   "extra": "to incline, to lean toward · Form I · your <bdi>يميلون</bdi> is the muḍāriʿ plural",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-098",
+   "session": "sep30",
+   "term": "اِفْتَرَى",
+   "meaning": "to fabricate, to slander",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-099",
+   "session": "sep30",
+   "text": "<bdi>اِفْتَرَى</bdi> — {{c1::<bdi>يَفْتَرِي</bdi>}} — {{c2::<bdi>اِفْتَرِ</bdi>}} — {{c3::<bdi>اِفْتِرَاء</bdi>}}",
+   "extra": "to fabricate, to slander · Form VIII · your <bdi>إفترا</bdi> is the maṣdar, <bdi>اِفْتِرَاء</bdi>",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-100",
+   "session": "sep30",
+   "term": "شَرَف",
+   "meaning": "honour, nobility, high standing",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-101",
+   "session": "sep30",
+   "text": "{{c2::<bdi>شَرَف</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>أَشْرَاف</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "honour, nobility, high standing",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-102",
+   "session": "sep30",
+   "term": "جَنْب",
+   "meaning": "a side, a flank",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-103",
+   "session": "sep30",
+   "text": "{{c2::<bdi>جَنْب</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>جُنُوب</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "a side, a flank",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-104",
+   "session": "sep30",
+   "term": "عُذْر",
+   "meaning": "an excuse",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-105",
+   "session": "sep30",
+   "text": "{{c2::<bdi>عُذْر</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>أَعْذَار</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "an excuse",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-106",
+   "session": "sep30",
+   "term": "أَسِير",
+   "meaning": "a captive, a prisoner",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-107",
+   "session": "sep30",
+   "text": "{{c2::<bdi>أَسِير</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>أَسْرَى</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "a captive, a prisoner",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-108",
+   "session": "sep30",
+   "term": "إِرْب",
+   "meaning": "a need, a want",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-109",
+   "session": "sep30",
+   "text": "{{c2::<bdi>إِرْب</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>آرَاب</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "a need, a want · also attested as “a limb” — the sense depends on the passage",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-110",
+   "session": "sep30",
+   "term": "بَوَّاب",
+   "meaning": "a doorkeeper, a gatekeeper",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-111",
+   "session": "sep30",
+   "text": "{{c2::<bdi>بَوَّاب</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>بَوَّابُونَ</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "a doorkeeper, a gatekeeper",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-112",
+   "session": "sep30",
+   "term": "صَدْمَة",
+   "meaning": "a collision, a shock, a blow",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-113",
+   "session": "sep30",
+   "text": "{{c2::<bdi>صَدْمَة</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>صَدَمَات</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "a collision, a shock, a blow",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-114",
+   "session": "sep30",
+   "term": "رَاهِب",
+   "meaning": "a monk",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-115",
+   "session": "sep30",
+   "text": "{{c2::<bdi>رَاهِب</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>رُهْبَان</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "a monk",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-116",
+   "session": "sep30",
+   "term": "أَكْمَه",
+   "meaning": "one born blind",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-117",
+   "session": "sep30",
+   "text": "{{c2::<bdi>أَكْمَه</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>كُمْه</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "one born blind",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-118",
+   "session": "sep30",
+   "term": "أَبْرَص",
+   "meaning": "a leper",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-119",
+   "session": "sep30",
+   "text": "{{c2::<bdi>أَبْرَص</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>بُرْص</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "a leper",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-120",
+   "session": "sep30",
+   "term": "أَدَاة",
+   "meaning": "an instrument, a tool",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-121",
+   "session": "sep30",
+   "text": "{{c2::<bdi>أَدَاة</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>أَدَوَات</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "an instrument, a tool",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-122",
+   "session": "sep30",
+   "term": "مِنْشَار",
+   "meaning": "a saw",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-123",
+   "session": "sep30",
+   "text": "{{c2::<bdi>مِنْشَار</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>مَنَاشِير</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "a saw",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-124",
+   "session": "sep30",
+   "term": "نَفَر",
+   "meaning": "a small group of men",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-125",
+   "session": "sep30",
+   "text": "{{c2::<bdi>نَفَر</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>أَنْفَار</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "a small group of men",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-126",
+   "session": "sep30",
+   "term": "ذِرْوَة",
+   "meaning": "a summit, a peak",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-127",
+   "session": "sep30",
+   "text": "{{c2::<bdi>ذِرْوَة</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>ذُرًى</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "a summit, a peak",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-128",
+   "session": "sep30",
+   "term": "دِعَايَة",
+   "meaning": "propaganda, promotion, publicity",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-129",
+   "session": "sep30",
+   "text": "{{c2::<bdi>دِعَايَة</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>دِعَايَات</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "propaganda, promotion, publicity",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-130",
+   "session": "sep30",
+   "term": "رِيَاسَة",
+   "meaning": "leadership, chieftaincy",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-131",
+   "session": "sep30",
+   "text": "{{c2::<bdi>رِيَاسَة</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>رِيَاسَات</bdi>}} (<bdi>جَمْع</bdi>)",
+   "extra": "leadership, chieftaincy",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "isms",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-132",
+   "session": "sep30",
+   "term": "هَنِيئاً",
+   "meaning": "may it be wholesome — “congratulations” — invariable adverbial",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "particles"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-133",
+   "session": "sep30",
+   "term": "هَيْهَاتَ",
+   "meaning": "far be it! how impossible! — invariable interjection",
+   "tags": [
+    "vocab",
+    "riyad-qasas",
+    "particles"
+   ]
   }
  ],
- "expected_count": 63
+ "expected_count": 133
 }
