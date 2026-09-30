@@ -616,11 +616,11 @@
    "source": "Arbaʿīn Ḥadīth 2 — class notes"
   },
   {
-   "type": "basic",
+   "type": "cloze",
    "tier": 1,
    "id": "arbh-152",
-   "front": "According to the scholars of Taṣawwuf, how is the state of iḥsān achieved?",
-   "back": "By recognising that Allah is watching us",
+   "text": "The scholars of Taṣawwuf see two stages of iḥsān in Ḥadīth Jibrīl: {{c1::worshipping as if you see Allah}} — reached only in the hereafter — and {{c2::knowing that He sees you}}, the stage through which iḥsān is achieved now",
+   "extra": "The second stage is reconstructed from the ḥadīth. Your notes name only the first.",
    "tags": [
     "arbaeen",
     "h02",

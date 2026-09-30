@@ -24,43 +24,32 @@ The three files that matter most — `ids.lock.json`, `delivered.json`, `decks/*
 — are plain text and are committed. Everything in `build/` is regenerable and stays
 gitignored.
 
-## First session only: seed the remote
+## Seeding the remote: done
 
-The remote currently holds the state of 2026-09-10 — about 330 notes, no Python deck,
-no World Religions deck, none of the delta machinery. It is **18 commits behind** the
-zip the user is giving you.
-
-1. Start from the zip, not from a clone. It contains the full history.
-2. `git log --oneline | head` — about 19 commits, newest first.
-3. **Push without pulling.** A merge or rebase against that stale remote would fold
-   five weeks of work into a September snapshot. Force the push after confirming
-   nothing on the remote is newer than the zip.
-4. `git log --oneline origin/main | head` to confirm the remote now matches.
-5. `pip install genanki`, then `./build.sh` — expect 1,081 ids, none lost, no pending
-   deliveries.
-
-Every session after this one starts with a normal pull.
+Done on 2026-09-30. The zip's history is on `main`. **Never force-push again.** Every
+session starts with `git pull` and ends with a normal push.
 
 ## What this is
 
 Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 ḥadīth, fiqh) and UCI (Python, religious studies). Notes live in Notion;
 `registry/courses.json` maps each course to its deck file, id prefix, Notion
-location, and which domain packs to read.
+location, and which domain packs to read. `registry/notion.md` maps the Notion pages
+themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,081 notes across 10 decks.**
+Current state: **1,191 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
-| quduri | 206 | HDT-201 |
+| quduri | 228 | HDT-201 |
 | vocab | 192 | VOCAB |
 | sarf | 169 | ARB-201 |
+| arbaeen_ahadith | 158 | HDT-201 |
 | nahw | 145 | ARB-201 |
-| arbaeen_ahadith | 110 | HDT-201 |
+| wrel | 110 | RELSTD-5B |
 | pyth | 106 | ICS-H32 |
-| wrel | 76 | RELSTD-5B |
 | arbaeen | 69 | HDT-201 |
-| riyad | 4 | HDT-202 |
+| riyad | 10 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
 
 ## The session loop
@@ -153,8 +142,15 @@ once, and both times was objecting to files that had no reason to exist.
   hold Python and religious-studies cards. Renaming is one line under the pinned ids.
 - **`qud-051`–`qud-104`** carry session tag `sep09`, which is wrong; the real class
   date was never recorded.
-- **Arbaʿīn Ḥadīth 2's body is uncarded** — only its vocabulary went in. The section
-  covers Umm al-Ḥadīth, Ḥadīth Jibrīl, and the definitions of Islām, Īmān and Iḥsān.
+- **The 2026-09-30 batch carries placeholder session tags.** The Ḥadīth 2 body
+  (arbh-111–158) and the repentance cards (riyad-005–010) are tagged `sep30`, but their
+  class dates are unknown. The user said this can be fixed later.
+- **Ḥadīth 3's cards (arbh-052–110) show Ḥadīth 1's source line.** The deck-level
+  `source` was never updated when Ḥadīth 3 was added. Fixing it re-sends all 59 as
+  changed, so it waits for the user's go-ahead.
+- **Gloss collision: "to write"** — صَنَّفَ (voc-007) and كَتَبَ (voc-186). Suggested
+  fix: voc-007 becomes "to author, to compose (a book)". Awaiting the user.
+- **Ḥadīth 2's matn is deliberately uncarded.** The user doesn't need to memorise it.
 - **Ḥadīth 3's matn was supplied from memory**, not from the notes, and is flagged on
   its own card for checking against the user's copy.
 

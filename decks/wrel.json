@@ -3,7 +3,7 @@
  "topic": "wrel",
  "session": "sep24",
  "source": "World Religions II — lecture and readings, 2026-09-24",
- "expected_count": 76,
+ "expected_count": 110,
  "cards": [
   {
    "type": "basic",
@@ -964,6 +964,498 @@
     "reading",
     "korea"
    ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-077",
+   "front": "Who founded Confucianism, and roughly when and where?",
+   "back": "Confucius — around 500 BCE, in China",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "origins"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-078",
+   "front": "On the lecture's account, what role did Confucianism play across East Asian societies?",
+   "back": "The foundation of their development — the ethical construct that guided them",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-079",
+   "front": "What is Confucianism's central focus?",
+   "back": "Ethics — what it means to be a good person",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-080",
+   "front": "What attitude to the past does Confucianism hold?",
+   "back": "Veneration of it",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-081",
+   "front": "How does Confucianism relate individual conduct to society?",
+   "back": "Conduct is tied to the social order: no one exists as an individual apart from society, so the question is how to be good in relation to it",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-082",
+   "term": "Filial piety",
+   "meaning": "children respecting their parents, caring for them, and making sure they are at ease — a core Confucian value",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "concepts"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-083",
+   "front": "What happened when other religions mixed with Confucianism?",
+   "back": "They became new religions of their own, or a part of Confucianism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-084",
+   "front": "To whom is Daoism attributed, and roughly when and where?",
+   "back": "Laozi — 6th century BCE, in China",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "origins"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-085",
+   "term": "Laozi",
+   "meaning": "“old master” — the figure Daoism is attributed to",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "concepts"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-086",
+   "front": "What is uncertain about Laozi?",
+   "back": "Whether he was a real person",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-087",
+   "front": "What stance toward worldly affairs does Daoism teach?",
+   "back": "Passive withdrawal from them",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-088",
+   "front": "Instead of ambition, what does Daoism tell a person to do?",
+   "back": "Observe nature and copy how it acts — flowing, not rushing — staying in tune with it",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-089",
+   "front": "What quest is Daoism often associated with?",
+   "back": "Long life, immortality, and overcoming physical limitations",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-090",
+   "front": "According to the lecture, where did many Daoist practices come from?",
+   "back": "Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-091",
+   "front": "What is Shinto?",
+   "back": "The indigenous religion of Japan",
+   "tags": [
+    "wrel",
+    "lecture",
+    "shinto"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-092",
+   "text": "Shinto has no {{c1::founder}}, no {{c2::founding date}}, and no {{c3::major sacred text}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "shinto",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-093",
+   "term": "Kami",
+   "meaning": "in Shinto, a spiritual, life-giving force that may inhabit natural phenomena",
+   "tags": [
+    "wrel",
+    "lecture",
+    "shinto",
+    "concepts"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-094",
+   "front": "What practical attitude follows from belief in kami?",
+   "back": "Not harming or annoying the spirits",
+   "tags": [
+    "wrel",
+    "lecture",
+    "shinto"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-095",
+   "front": "Who founded Buddhism, and roughly when?",
+   "back": "Siddhārtha Gautama — the 6th or 5th century BCE",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "origins"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-096",
+   "front": "What status did Buddhism hold in many East Asian countries?",
+   "back": "State religion",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-097",
+   "text": "Buddhism has a concept of {{c1::heaven and hell}}, of {{c2::saints to worship}}, and of beings {{c3::somewhat like angels}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-098",
+   "front": "How many buddhas are there, and which one does the course mean by “the Buddha”?",
+   "back": "More than one — the course means the historical Buddha",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-099",
+   "front": "What is paradoxical about the historical Buddha's status in Buddhism?",
+   "back": "He is not considered a god, yet he is one of the objects of worship",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-100",
+   "front": "What institutional system does Buddhism have?",
+   "back": "Monasticism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-101",
+   "front": "What do the salvation-oriented Buddhist sects hold?",
+   "back": "That the world is so corrupt the only way to be saved is for the Buddha to take you to paradise",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-102",
+   "front": "What idea is Buddhism said to have introduced?",
+   "back": "Funerary rites",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-103",
+   "front": "Which of the major East Asian traditions does the lecture call inclusive rather than exclusive?",
+   "back": "All four — Confucianism, Daoism, Shinto, and Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "east-asia",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-104",
+   "front": "Where does the word now widely used for “religion” in East Asia come from?",
+   "back": "A Japanese translation of the European concept",
+   "tags": [
+    "wrel",
+    "lecture",
+    "definition",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-105",
+   "front": "What words were used before it for what we call religion, and still are?",
+   "back": "“Teaching”, “school of”, “way”, “path”",
+   "tags": [
+    "wrel",
+    "lecture",
+    "definition"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-106",
+   "text": "East Asian folk religions have no {{c1::founder}}, no {{c2::founding date}}, and no {{c3::doxa}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "folk",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-107",
+   "front": "What follows from folk religions developing organically, without a clear start?",
+   "back": "There is no clear division between one religious practice and another",
+   "tags": [
+    "wrel",
+    "lecture",
+    "folk",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-108",
+   "front": "What do folk religions tend to focus on?",
+   "back": "The calendar, ritual cycles, and belief in spirits",
+   "tags": [
+    "wrel",
+    "lecture",
+    "folk"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-109",
+   "front": "For whom are folk religions often a form of religious expression?",
+   "back": "Women — female shamanesses, for example",
+   "tags": [
+    "wrel",
+    "lecture",
+    "folk"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-110",
+   "front": "How do folk religions relate to the major traditions?",
+   "back": "They accommodate and fuse with them",
+   "tags": [
+    "wrel",
+    "lecture",
+    "folk"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
   }
  ]
 }

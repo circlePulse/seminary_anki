@@ -72,6 +72,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | arabic rhetoric | بَلَاغَة (balāghah) | Arabic rhetoric — the subtleties of the most appropriate construction  | ARB-201 | nahw-003 |
 | blowing the water back out of the nostrils | الاِسْتِنْثَار (al-istinthār) | blowing the water back out of the nostrils | HDT-201 | qud-159 |
 | causative | حَرْف عَامِل (ʿāmil) | causative — a ḥarf which influences the إِعْرَاب of the word after it | ARB-201 | nahw-071 |
+| children respecting their parents | Filial piety | children respecting their parents, caring for them, and making sure th | RELSTD-5B | wrel-082 |
 | commander of the believers | أَمِير المُؤْمِنِين (amīr al-muʾminīn) | commander of the believers — ʿUmar RA was the first given this title | HDT-201 | arbh-002 |
 | commercial and interpersonal law | مُعَامَلَات (muʿāmalāt) | commercial and interpersonal law, and judicial matters — adjudication, | HDT-201 | qud-024 |
 | comprehensive | جَامِع (jāmiʿ) | comprehensive — a definition includes everything necessary to it | HDT-201 | qud-009 |
@@ -88,6 +89,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | for a while | مَلِيًّا | for a while — a considerable length of time | VOCAB | voc-061 |
 | honour | شَرَف | honour, nobility, high standing | VOCAB | voc-100 |
 | hope | التَّرَجِّي (al-tarajjī) | hope — wanting what you think is possible | ARB-201 | nahw-096 |
+| in shinto | Kami | in Shinto, a spiritual, life-giving force that may inhabit natural phe | RELSTD-5B | wrel-093 |
 | indefinite | نَكِرَة (nakirah) | indefinite | ARB-201 | nahw-110 |
 | leadership | رِيَاسَة | leadership, chieftaincy | VOCAB | voc-130 |
 | linguistically | لُغَةً (lughatan) | linguistically — a definition by the word's ordinary language sense | HDT-201 | qud-004 |
@@ -95,6 +97,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | masculine | مُذَكَّر (mudhakkar) | masculine | ARB-201 | sarf-008 |
 | may it be wholesome | هَنِيئاً | may it be wholesome — “congratulations” — invariable adverbial | VOCAB | voc-132 |
 | minor ritual impurity | الحَدَث الأَصْغَر | minor ritual impurity | HDT-201 | tah-008 |
+| mixed water | المَاءُ المَخْلُوطُ بِشَيْءٍ | mixed water — water with another substance in it | HDT-201 | qud-221 |
 | non-causative | حَرْف غَيْر عَامِل (ghayr ʿāmil) | non-causative — a ḥarf which causes no change in the grammatical state | ARB-201 | nahw-072 |
 | north korea's unquestioned belief in the superiority of its system and the leadership of the kim family | Juche | North Korea's unquestioned belief in the superiority of its system and | RELSTD-5B | wrel-074 |
 | one born blind | أَكْمَه | one born blind | VOCAB | voc-116 |
@@ -232,7 +235,10 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to write | صَنَّفَ | to write, to compose | VOCAB | voc-007 |
 | to write | كَتَبَ | to write | VOCAB | voc-186 |
 | undue difficulty | حَرَج (ḥaraj) | undue difficulty — the principle exempting a woman from undoing her br | HDT-201 | qud-196 |
+| unqualified water | مَاء مُطْلَق (māʾ muṭlaq) | unqualified water — water called simply “water”, as against qualified  | HDT-201 | qud-214 |
+| water already used for wuḍūʾ or ghusl | مَاء مُسْتَعْمَل (māʾ mustaʿmal) | water already used for wuḍūʾ or ghusl, and collected | HDT-201 | qud-212 |
 | which operand goes first when operators are at the same level | Associativity | which operand goes first when operators are at the same level | ICS-H32 | pyth-021 |
 | which operator python evaluates first when they differ in level | Precedence | which operator Python evaluates first when they differ in level | ICS-H32 | pyth-020 |
 | while | بَيْنَمَا | while — at the very time that (joining two events) | VOCAB | voc-060 |
+| “old master” | Laozi | “old master” — the figure Daoism is attributed to | RELSTD-5B | wrel-085 |
 | “physical” impurity | نَجَاسَة حَقِيقِيَّة | “physical” impurity — an impure substance | HDT-201 | tah-005 |

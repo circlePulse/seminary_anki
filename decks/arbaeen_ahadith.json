@@ -3,7 +3,7 @@
  "topic": "arbaeen-ahadith",
  "session": "sep16",
  "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
- "expected_count": 110,
+ "expected_count": 158,
  "cards": [
   {
    "type": "basic",
@@ -1399,6 +1399,722 @@
     "pillars",
     "criterion"
    ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-111",
+   "front": "Which ḥadīth of the Arbaʿīn is called <bdi>أُمّ الحَدِيث</bdi>?",
+   "back": "Ḥadīth 2 — Ḥadīth Jibrīl",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "names"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-112",
+   "front": "<bdi>أُمّ الحَدِيث</bdi> is named on the model of which other title?",
+   "back": "<bdi>أُمّ القُرْآن</bdi> — al-Fātiḥah",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "names"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-113",
+   "front": "According to Ibn Ḥajar, when in the Prophet's ﷺ life did the event of Ḥadīth Jibrīl take place?",
+   "back": "Near the end of his life",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "names"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-114",
+   "text": "In Ḥadīth Jibrīl, the man seemed a traveller because {{c1::no one present knew him}}, yet {{c2::his clothes were clean and he bore no marks of travel}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "jibril",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-115",
+   "text": "In Ḥadīth Jibrīl the four questions are about {{c1::<bdi>الإِسْلَام</bdi> (Islām)}}, {{c2::<bdi>الإِيمَان</bdi> (Īmān)}}, {{c3::<bdi>الإِحْسَان</bdi> (Iḥsān)}}, and {{c4::<bdi>السَّاعَة</bdi> (the Hour)}}",
+   "extra": "In the order they are asked.",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "jibril",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-116",
+   "front": "In Ḥadīth Jibrīl, how does the Prophet ﷺ answer “What is Islām?”",
+   "back": "With the five pillars",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-117",
+   "text": "<bdi>إِسْلَام</bdi>, <bdi>إِيمَان</bdi> and <bdi>إِحْسَان</bdi> are the <bdi>مَصَادِر</bdi> of {{c1::<bdi>أَسْلَمَ</bdi>}}, {{c2::<bdi>آمَنَ</bdi>}} and {{c3::<bdi>أَحْسَنَ</bdi>}} — all Form {{c4::IV}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "definitions",
+    "contrast"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-118",
+   "front": "What does <bdi>إِسْلَام</bdi> mean linguistically?",
+   "back": "Obedience, servitude",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-119",
+   "text": "Technically, <bdi>الإِسْلَام</bdi> has two definitions: {{c1::the proper name of the entire way of life revealed by Allah}}, and {{c2::external submission — <bdi>الاِنْقِيَادُ الظَّاهِرِيُّ</bdi>}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam",
+    "definitions",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-120",
+   "front": "Why did the Prophet ﷺ define Islām by the five pillars?",
+   "back": "Because Islām, technically, is external submission — <bdi>الاِنْقِيَادُ الظَّاهِرِيُّ</bdi>",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-121",
+   "front": "In defining Islām by five pillars, what did the Prophet ﷺ intend the five to stand for?",
+   "back": "Five categories of submission — not a limit on what Islām is",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-122",
+   "text": "The five pillars as categories of submission: shahādah — {{c1::verbal}}; prayer — {{c2::physical}}; fasting — {{c3::refraining}}; zakāh — {{c4::financial}}; ḥajj — {{c5::all of them together}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-123",
+   "front": "In Ḥadīth Jibrīl, the Prophet's ﷺ answer about īmān is not a definition — what does it do instead?",
+   "back": "It describes what one must believe in — the six pillars of faith",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-124",
+   "text": "The six pillars of faith in Ḥadīth Jibrīl: belief in {{c1::Allah}}, {{c2::His angels}}, {{c3::His books}}, {{c4::His messengers}}, {{c5::the Last Day}}, and {{c6::<bdi>القَدَر</bdi> (qadar)}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-125",
+   "text": "{{c1::Tawḥīd}} is the cornerstone of ʿaqīdah. Its three components: Allah is without partner in His {{c2::dominion}}; without likeness in His {{c3::essence (<bdi>ذَات</bdi>) and attributes (<bdi>صِفَات</bdi>)}}; and alone {{c4::deserving of worship}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "tawhid",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-126",
+   "front": "What does belief in the angels comprise?",
+   "back": "Belief in their existence, their tasks and their descriptions — though we cannot see them",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-127",
+   "front": "Besides the books themselves, what does belief in the books of Allah include?",
+   "back": "That the last and final book is the Qurʾān",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "arbh-128",
+   "front": "What does belief in the messengers require?",
+   "back": "Accepting every messenger and prophet Allah sent to guide humanity, including the final messenger Muḥammad ﷺ",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-129",
+   "text": "Belief in the Last Day: that there is {{c1::life after death}}, with {{c2::accountability before Allah}}; that it {{c3::lasts for eternity}}; and that {{c4::we will be resurrected}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-130",
+   "front": "Which of the six pillars of faith is the most complex and difficult to understand?",
+   "back": "Belief in <bdi>القَدَر</bdi> (qadar) — divine decree",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-131",
+   "front": "Belief in <bdi>القَدَر</bdi> covers which kinds of decree?",
+   "back": "Both the good and the bad",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-132",
+   "text": "Belief in <bdi>القَدَر</bdi> includes belief in Allah's {{c1::pre-eternal knowledge}} and in {{c2::<bdi>اللَّوْح المَحْفُوظ</bdi> (al-Lawḥ al-Maḥfūẓ)}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-133",
+   "front": "What is belief in <bdi>القَضَاء</bdi> (al-qaḍāʾ)?",
+   "back": "Understanding that nothing happens without the will and decree of Allah",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-134",
+   "front": "What must belief in qadar be balanced against?",
+   "back": "That we still have a level of free will, and are accountable for our own choices",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "arbh-135",
+   "front": "What analogy shows Allah's foreknowledge without removing a person's responsibility?",
+   "back": "A teacher knows which students are putting in effort, so knows who will fail the final — yet the student can blame no one but themselves",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-136",
+   "text": "<bdi>أَمِنَ يَأْمَنُ</bdi> means {{c1::to feel safe}}; its Form IV <bdi>آمَنَ</bdi> means {{c2::to make someone feel safe}}, and later came to convey {{c3::<bdi>تَصْدِيق</bdi> (taṣdīq) — affirming, believing}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-137",
+   "front": "Why do scholars' technical definitions of īmān differ?",
+   "back": "Each defined it within their own theological context",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "definitions",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-138",
+   "front": "Which two schools did the scholars of Kalām mostly belong to?",
+   "back": "The Ashʿarīs and the Māturīdīs",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-139",
+   "front": "What were the scholars of Kalām often doing, and in whose language?",
+   "back": "Refuting philosophy — using the language of Greek logic",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-140",
+   "front": "How did the scholars of Kalām define īmān?",
+   "back": "Affirming everything necessarily known to have come from the religion of the Prophet ﷺ",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-141",
+   "text": "<div class=\"arabic\">{{c1::التَّصْدِيقُ}} بِمَا عُلِمَ مَجِيئُهُ {{c2::ضَرُورَةً}} مِنْ دِينِ النَّبِيِّ ﷺ</div>",
+   "extra": "The Kalām definition of īmān.",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-142",
+   "front": "On the Kalām definition, what kind of act is īmān?",
+   "back": "An action of the heart alone",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "arbh-143",
+   "front": "On the Kalām definition of īmān, what is kufr?",
+   "back": "Its opposite — not affirming what is necessarily known to be from the Prophet's ﷺ religion",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-144",
+   "text": "The Atharīs defined īmān as belief {{c1::in the heart}}, declaration {{c2::with the tongue}}, and action {{c3::with the limbs}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "athari",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-145",
+   "front": "Which group was the Atharī definition of īmān a response to?",
+   "back": "The Murjiʾah — <bdi>المُرْجِئَة</bdi>",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "athari"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-146",
+   "front": "What did the Murjiʾah hold about īmān?",
+   "back": "That only the actions of the heart are required",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "athari",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-147",
+   "front": "Complete the Prophet's ﷺ answer about iḥsān: “To worship Allah as if …”",
+   "back": "…you see Him; and if you do not see Him, He truly sees you",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-148",
+   "front": "What does <bdi>إِحْسَان</bdi> mean linguistically?",
+   "back": "Perfection, goodness",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-149",
+   "front": "What is iḥsān, technically?",
+   "back": "Doing things in the best way possible",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "arbh-150",
+   "front": "What is iḥsān said to be the hallmark of?",
+   "back": "An upright, moral, God-conscious believer",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-151",
+   "front": "Of islām, īmān and iḥsān, which is the highest stage?",
+   "back": "Iḥsān",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-152",
+   "text": "The scholars of Taṣawwuf see two stages of iḥsān in Ḥadīth Jibrīl: {{c1::worshipping as if you see Allah}} — reached only in the hereafter — and {{c2::knowing that He sees you}}, the stage through which iḥsān is achieved now",
+   "extra": "The second stage is reconstructed from the ḥadīth. Your notes name only the first.",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan",
+    "tasawwuf"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-153",
+   "front": "In Ḥadīth Jibrīl, what did the Prophet ﷺ reply when asked when the Hour will come?",
+   "back": "That he knew no more about it than the one asking",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-154",
+   "front": "Whose knowledge alone is the timing of the Hour?",
+   "back": "Allah's alone",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-155",
+   "front": "Complete the sign of the Hour in Ḥadīth Jibrīl: “The slave woman will give birth to …”",
+   "back": "…her own owner",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-156",
+   "front": "Complete the sign of the Hour in Ḥadīth Jibrīl: “The barefoot, destitute, unclothed shepherds …”",
+   "back": "…will compete in building tall buildings",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-157",
+   "text": "“The slave woman will give birth to her owner” is read as {{c1::widespread ignorance of Islamic law}}, or figuratively as {{c2::children treating their mothers like slaves}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-158",
+   "text": "“The shepherds will compete in building tall buildings” is read literally — {{c1::something we see today}} — or figuratively, as {{c2::the affairs of the world turned upside down}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
   }
  ]
 }

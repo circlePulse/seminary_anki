@@ -3,7 +3,7 @@
  "topic": "quduri",
  "session": "sep09",
  "source": "Qudūrī — Intro to Qudūrī, class notes 2026-09-09",
- "expected_count": 206,
+ "expected_count": 228,
  "cards": [
   {
    "type": "basic",
@@ -2650,6 +2650,344 @@
     "legal-values",
     "arbaeen"
    ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-207",
+   "front": "What is the primary means of achieving ritual purity?",
+   "back": "Water",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "qud-208",
+   "front": "Which two questions does the section on water answer?",
+   "back": "Which water can be used for wuḍūʾ and ghusl, and which can remove impurity",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "qud-209",
+   "front": "Why is the classification of water less pressing today?",
+   "back": "Municipal water systems",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-210",
+   "text": "The fuqahāʾ divide water into three: {{c1::<bdi>طَهُور</bdi> (ṭahūr)::pure and purifying}}, {{c2::<bdi>طَاهِر</bdi> (ṭāhir)::pure, not purifying}}, and {{c3::<bdi>نَجِس</bdi> (najis)::impure}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-211",
+   "front": "What separates <bdi>طَهُور</bdi> water from <bdi>طَاهِر</bdi> water?",
+   "back": "Whether it purifies — both are pure in themselves, but only <bdi>طَهُور</bdi> is <bdi>مُطَهِّر</bdi>",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-212",
+   "term": "<bdi>مَاء مُسْتَعْمَل</bdi> (māʾ mustaʿmal)",
+   "meaning": "water already used for wuḍūʾ or ghusl, and collected",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "terminology"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-213",
+   "front": "Which of the three types of water is <bdi>مَاء مُسْتَعْمَل</bdi>?",
+   "back": "<bdi>طَاهِر</bdi> — not impure, but it cannot be used for ṭahārah",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-214",
+   "term": "<bdi>مَاء مُطْلَق</bdi> (māʾ muṭlaq)",
+   "meaning": "unqualified water — water called simply “water”, as against qualified water such as rose water",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "terminology"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-215",
+   "front": "What is the ruling on <bdi>مَاء مُطْلَق</bdi>?",
+   "back": "It is always <bdi>طَهُور</bdi>",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "qud-216",
+   "front": "With which kind of water does al-Qudūrī open the discussion?",
+   "back": "<bdi>مَاء مُطْلَق</bdi> — unqualified water",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-217",
+   "text": "The <bdi>مَاء مُطْلَق</bdi> al-Qudūrī lists: {{c1::water from the sky — rain, snow}}; {{c2::rivers}}; {{c3::springs}}; {{c4::wells}}; {{c5::the sea}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-218",
+   "front": "When does water stop counting as water?",
+   "back": "When something else dominates it and takes it out of its nature (<bdi>طَبْع</bdi>)",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-219",
+   "text": "<bdi>طَبْع المَاء</bdi>, the nature of water, is its {{c1::<bdi>رِقَّة</bdi>}} (thinness) and its {{c2::<bdi>سَيَلَان</bdi>}} (flowing)",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "terminology"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-220",
+   "text": "<bdi>أَوْصَاف المَاء</bdi>, the qualities of water, are its {{c1::<bdi>طَعْم</bdi>}} (taste), {{c2::<bdi>لَوْن</bdi>}} (colour) and {{c3::<bdi>رِيح</bdi>}} (smell)",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "terminology"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-221",
+   "term": "<bdi>المَاءُ المَخْلُوطُ بِشَيْءٍ</bdi>",
+   "meaning": "mixed water — water with another substance in it",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "terminology",
+    "mixed"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-222",
+   "text": "Mixed water: if the substance is {{c1::pure (<bdi>طَاهِر</bdi>)}}, it turns on whether it is {{c2::solid or liquid}}; if it is {{c3::impure (<bdi>نَجِس</bdi>)}}, on whether the water is {{c4::flowing or standing}}, then on {{c5::its quantity}}",
+   "extra": "The whiteboard tree.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "spine",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-223",
+   "text": "Water mixed with a pure solid (<bdi>جَامِد</bdi>) is judged by its {{c1::<bdi>طَبْع</bdi> — thinness and flowing}}; with a pure liquid (<bdi>مَائِع</bdi>), by its {{c2::<bdi>أَوْصَاف</bdi> — taste, colour and smell}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-224",
+   "front": "How much may water mixed with a pure liquid change and remain usable?",
+   "back": "At least two of its three <bdi>أَوْصَاف</bdi> must remain — one may change, not more",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-225",
+   "front": "What is the ruling on flowing water (<bdi>جَارٍ</bdi>) into which najāsah falls?",
+   "back": "It remains usable",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "najasah"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-226",
+   "front": "What is the ruling on a small quantity (<bdi>قَلِيل</bdi>) of standing water (<bdi>رَاكِد</bdi>) into which najāsah falls?",
+   "back": "Unusable — even a single drop makes it najis",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "najasah"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-227",
+   "front": "What is the ruling on a large quantity (<bdi>كَثِير</bdi>) of standing water into which najāsah falls?",
+   "back": "It remains usable",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "najasah"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-228",
+   "front": "For the Aḥnāf, what counts as a large quantity of standing water?",
+   "back": "10 × 10 arm-lengths (<bdi>ذِرَاع</bdi>) in area, deep enough that scooping water does not expose the ground",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "najasah",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
   }
  ]
 }

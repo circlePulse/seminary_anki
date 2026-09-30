@@ -3,7 +3,7 @@
  "topic": "riyad-intro",
  "session": "sep08",
  "source": "Riyāḍ al-Ṣāliḥīn — class notes to 2026-09-08",
- "expected_count": 4,
+ "expected_count": 10,
  "cards": [
   {
    "type": "basic",
@@ -48,6 +48,89 @@
     "riyad",
     "texts"
    ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-005",
+   "front": "What is the ruling on repentance (<bdi>تَوْبَة</bdi>)?",
+   "back": "Obligatory",
+   "tags": [
+    "riyad",
+    "tawbah"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-006",
+   "front": "From which sins is <bdi>تَوْبَة</bdi> obligatory?",
+   "back": "All of them",
+   "tags": [
+    "riyad",
+    "tawbah"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "riyad-007",
+   "text": "The conditions of <bdi>تَوْبَة</bdi> for a sin between a person and Allah: {{c1::stopping the sin}}; {{c2::feeling regret}}; {{c3::resolving not to return to it}}",
+   "extra": "",
+   "tags": [
+    "riyad",
+    "tawbah",
+    "spine",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-008",
+   "front": "What happens to <bdi>تَوْبَة</bdi> if one of its conditions is missing?",
+   "back": "It is not accepted",
+   "tags": [
+    "riyad",
+    "tawbah",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-009",
+   "front": "What further condition does <bdi>تَوْبَة</bdi> carry when the sin involves another person's right?",
+   "back": "Restoring that right to them — returning wealth, for example",
+   "tags": [
+    "riyad",
+    "tawbah",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-010",
+   "front": "When the sin involves a <bdi>حَدّ</bdi> (ḥadd) owed to someone, how is their right restored?",
+   "back": "By allowing the ḥadd to be carried out, or by seeking their pardon",
+   "tags": [
+    "riyad",
+    "tawbah",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
   }
  ]
 }

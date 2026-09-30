@@ -89,14 +89,12 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - **Images** (HEIC photos of tables, screenshots) carry content the text does
   not. Say when a section's substance is only in an image.
 
-## Uncarded as of 2026-09-30
+## Uncarded as of 2026-09-30 (after the evening batch)
 
-- Qudūrī: the water section (three types of water, unqualified water, the
-  nature and qualities of water, mixed water). This is the current `START HERE`.
-- Riyāḍ: the chapter of repentance. The deck holds only the four intro cards.
-- Arbaʿīn Ḥadīth 2: the body after the vocab. It is fully written up: the four
-  questions, with the linguistic and technical definitions of Islām, Īmān and
-  Iḥsān, and the signs of the Hour.
-- World Religions: the 09/29/26 lecture (major traditions, defining religion in
-  East Asia, folk religions).
 - Tazkiyah: all of it. There is no course entry or deck yet.
+- Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
+  carded once the user supplies the rest.
+
+Carded on 2026-09-30: the Ḥadīth 2 body, the World Religions lecture of 09/29, the
+Qudūrī water section, and Riyāḍ's chapter of repentance. For the next pass on any
+of these pages, compare against the deck rather than trusting a `START HERE` marker.
