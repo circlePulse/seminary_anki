@@ -1,0 +1,1639 @@
+{
+ "arbaeen_ahadith": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-111",
+   "front": "Which ḥadīth of the Arbaʿīn is called <bdi>أُمّ الحَدِيث</bdi>?",
+   "back": "Ḥadīth 2 — Ḥadīth Jibrīl",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "names"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-112",
+   "front": "<bdi>أُمّ الحَدِيث</bdi> is named on the model of which other title?",
+   "back": "<bdi>أُمّ القُرْآن</bdi> — al-Fātiḥah",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "names"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-113",
+   "front": "According to Ibn Ḥajar, when in the Prophet's ﷺ life did the event of Ḥadīth Jibrīl take place?",
+   "back": "Near the end of his life",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "names"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-114",
+   "text": "In Ḥadīth Jibrīl, the man seemed a traveller because {{c1::no one present knew him}}, yet {{c2::his clothes were clean and he bore no marks of travel}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "jibril",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-115",
+   "text": "In Ḥadīth Jibrīl the four questions are about {{c1::<bdi>الإِسْلَام</bdi> (Islām)}}, {{c2::<bdi>الإِيمَان</bdi> (Īmān)}}, {{c3::<bdi>الإِحْسَان</bdi> (Iḥsān)}}, and {{c4::<bdi>السَّاعَة</bdi> (the Hour)}}",
+   "extra": "In the order they are asked.",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "jibril",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-116",
+   "front": "In Ḥadīth Jibrīl, how does the Prophet ﷺ answer “What is Islām?”",
+   "back": "With the five pillars",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-117",
+   "text": "<bdi>إِسْلَام</bdi>, <bdi>إِيمَان</bdi> and <bdi>إِحْسَان</bdi> are the <bdi>مَصَادِر</bdi> of {{c1::<bdi>أَسْلَمَ</bdi>}}, {{c2::<bdi>آمَنَ</bdi>}} and {{c3::<bdi>أَحْسَنَ</bdi>}} — all Form {{c4::IV}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "definitions",
+    "contrast"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-118",
+   "front": "What does <bdi>إِسْلَام</bdi> mean linguistically?",
+   "back": "Obedience, servitude",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-119",
+   "text": "Technically, <bdi>الإِسْلَام</bdi> has two definitions: {{c1::the proper name of the entire way of life revealed by Allah}}, and {{c2::external submission — <bdi>الاِنْقِيَادُ الظَّاهِرِيُّ</bdi>}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam",
+    "definitions",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-120",
+   "front": "Why did the Prophet ﷺ define Islām by the five pillars?",
+   "back": "Because Islām, technically, is external submission — <bdi>الاِنْقِيَادُ الظَّاهِرِيُّ</bdi>",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-121",
+   "front": "In defining Islām by five pillars, what did the Prophet ﷺ intend the five to stand for?",
+   "back": "Five categories of submission — not a limit on what Islām is",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-122",
+   "text": "The five pillars as categories of submission: shahādah — {{c1::verbal}}; prayer — {{c2::physical}}; fasting — {{c3::refraining}}; zakāh — {{c4::financial}}; ḥajj — {{c5::all of them together}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "islam",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-123",
+   "front": "In Ḥadīth Jibrīl, the Prophet's ﷺ answer about īmān is not a definition — what does it do instead?",
+   "back": "It describes what one must believe in — the six pillars of faith",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-124",
+   "text": "The six pillars of faith in Ḥadīth Jibrīl: belief in {{c1::Allah}}, {{c2::His angels}}, {{c3::His books}}, {{c4::His messengers}}, {{c5::the Last Day}}, and {{c6::<bdi>القَدَر</bdi> (qadar)}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-125",
+   "text": "{{c1::Tawḥīd}} is the cornerstone of ʿaqīdah. Its three components: Allah is without partner in His {{c2::dominion}}; without likeness in His {{c3::essence (<bdi>ذَات</bdi>) and attributes (<bdi>صِفَات</bdi>)}}; and alone {{c4::deserving of worship}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "tawhid",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-126",
+   "front": "What does belief in the angels comprise?",
+   "back": "Belief in their existence, their tasks and their descriptions — though we cannot see them",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-127",
+   "front": "Besides the books themselves, what does belief in the books of Allah include?",
+   "back": "That the last and final book is the Qurʾān",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "arbh-128",
+   "front": "What does belief in the messengers require?",
+   "back": "Accepting every messenger and prophet Allah sent to guide humanity, including the final messenger Muḥammad ﷺ",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-129",
+   "text": "Belief in the Last Day: that there is {{c1::life after death}}, with {{c2::accountability before Allah}}; that it {{c3::lasts for eternity}}; and that {{c4::we will be resurrected}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-130",
+   "front": "Which of the six pillars of faith is the most complex and difficult to understand?",
+   "back": "Belief in <bdi>القَدَر</bdi> (qadar) — divine decree",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-131",
+   "front": "Belief in <bdi>القَدَر</bdi> covers which kinds of decree?",
+   "back": "Both the good and the bad",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-132",
+   "text": "Belief in <bdi>القَدَر</bdi> includes belief in Allah's {{c1::pre-eternal knowledge}} and in {{c2::<bdi>اللَّوْح المَحْفُوظ</bdi> (al-Lawḥ al-Maḥfūẓ)}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-133",
+   "front": "What is belief in <bdi>القَضَاء</bdi> (al-qaḍāʾ)?",
+   "back": "Understanding that nothing happens without the will and decree of Allah",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-134",
+   "front": "What must belief in qadar be balanced against?",
+   "back": "That we still have a level of free will, and are accountable for our own choices",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "arbh-135",
+   "front": "What analogy shows Allah's foreknowledge without removing a person's responsibility?",
+   "back": "A teacher knows which students are putting in effort, so knows who will fail the final — yet the student can blame no one but themselves",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "qadar"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-136",
+   "text": "<bdi>أَمِنَ يَأْمَنُ</bdi> means {{c1::to feel safe}}; its Form IV <bdi>آمَنَ</bdi> means {{c2::to make someone feel safe}}, and later came to convey {{c3::<bdi>تَصْدِيق</bdi> (taṣdīq) — affirming, believing}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-137",
+   "front": "Why do scholars' technical definitions of īmān differ?",
+   "back": "Each defined it within their own theological context",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "definitions",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-138",
+   "front": "Which two schools did the scholars of Kalām mostly belong to?",
+   "back": "The Ashʿarīs and the Māturīdīs",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-139",
+   "front": "What were the scholars of Kalām often doing, and in whose language?",
+   "back": "Refuting philosophy — using the language of Greek logic",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-140",
+   "front": "How did the scholars of Kalām define īmān?",
+   "back": "Affirming everything necessarily known to have come from the religion of the Prophet ﷺ",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-141",
+   "text": "<div class=\"arabic\">{{c1::التَّصْدِيقُ}} بِمَا عُلِمَ مَجِيئُهُ {{c2::ضَرُورَةً}} مِنْ دِينِ النَّبِيِّ ﷺ</div>",
+   "extra": "The Kalām definition of īmān.",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-142",
+   "front": "On the Kalām definition, what kind of act is īmān?",
+   "back": "An action of the heart alone",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "arbh-143",
+   "front": "On the Kalām definition of īmān, what is kufr?",
+   "back": "Its opposite — not affirming what is necessarily known to be from the Prophet's ﷺ religion",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "kalam"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-144",
+   "text": "The Atharīs defined īmān as belief {{c1::in the heart}}, declaration {{c2::with the tongue}}, and action {{c3::with the limbs}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "athari",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-145",
+   "front": "Which group was the Atharī definition of īmān a response to?",
+   "back": "The Murjiʾah — <bdi>المُرْجِئَة</bdi>",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "athari"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-146",
+   "front": "What did the Murjiʾah hold about īmān?",
+   "back": "That only the actions of the heart are required",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "iman",
+    "athari",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-147",
+   "front": "Complete the Prophet's ﷺ answer about iḥsān: “To worship Allah as if …”",
+   "back": "…you see Him; and if you do not see Him, He truly sees you",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-148",
+   "front": "What does <bdi>إِحْسَان</bdi> mean linguistically?",
+   "back": "Perfection, goodness",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-149",
+   "front": "What is iḥsān, technically?",
+   "back": "Doing things in the best way possible",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan",
+    "definitions"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "arbh-150",
+   "front": "What is iḥsān said to be the hallmark of?",
+   "back": "An upright, moral, God-conscious believer",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-151",
+   "front": "Of islām, īmān and iḥsān, which is the highest stage?",
+   "back": "Iḥsān",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-152",
+   "front": "According to the scholars of Taṣawwuf, how is the state of iḥsān achieved?",
+   "back": "By recognising that Allah is watching us",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "ihsan",
+    "tasawwuf"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-153",
+   "front": "In Ḥadīth Jibrīl, what did the Prophet ﷺ reply when asked when the Hour will come?",
+   "back": "That he knew no more about it than the one asking",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-154",
+   "front": "Whose knowledge alone is the timing of the Hour?",
+   "back": "Allah's alone",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-155",
+   "front": "Complete the sign of the Hour in Ḥadīth Jibrīl: “The slave woman will give birth to …”",
+   "back": "…her own owner",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-156",
+   "front": "Complete the sign of the Hour in Ḥadīth Jibrīl: “The barefoot, destitute, unclothed shepherds …”",
+   "back": "…will compete in building tall buildings",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-157",
+   "text": "“The slave woman will give birth to her owner” is read as {{c1::widespread ignorance of Islamic law}}, or figuratively as {{c2::children treating their mothers like slaves}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-158",
+   "text": "“The shepherds will compete in building tall buildings” is read literally — {{c1::something we see today}} — or figuratively, as {{c2::the affairs of the world turned upside down}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h02",
+    "hour",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  }
+ ],
+ "wrel": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-077",
+   "front": "Who founded Confucianism, and roughly when and where?",
+   "back": "Confucius — around 500 BCE, in China",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "origins"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-078",
+   "front": "On the lecture's account, what role did Confucianism play across East Asian societies?",
+   "back": "The foundation of their development — the ethical construct that guided them",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-079",
+   "front": "What is Confucianism's central focus?",
+   "back": "Ethics — what it means to be a good person",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-080",
+   "front": "What attitude to the past does Confucianism hold?",
+   "back": "Veneration of it",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-081",
+   "front": "How does Confucianism relate individual conduct to society?",
+   "back": "Conduct is tied to the social order: no one exists as an individual apart from society, so the question is how to be good in relation to it",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-082",
+   "term": "Filial piety",
+   "meaning": "children respecting their parents, caring for them, and making sure they are at ease — a core Confucian value",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "concepts"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-083",
+   "front": "What happened when other religions mixed with Confucianism?",
+   "back": "They became new religions of their own, or a part of Confucianism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-084",
+   "front": "To whom is Daoism attributed, and roughly when and where?",
+   "back": "Laozi — 6th century BCE, in China",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "origins"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-085",
+   "term": "Laozi",
+   "meaning": "“old master” — the figure Daoism is attributed to",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "concepts"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-086",
+   "front": "What is uncertain about Laozi?",
+   "back": "Whether he was a real person",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-087",
+   "front": "What stance toward worldly affairs does Daoism teach?",
+   "back": "Passive withdrawal from them",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-088",
+   "front": "Instead of ambition, what does Daoism tell a person to do?",
+   "back": "Observe nature and copy how it acts — flowing, not rushing — staying in tune with it",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-089",
+   "front": "What quest is Daoism often associated with?",
+   "back": "Long life, immortality, and overcoming physical limitations",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-090",
+   "front": "According to the lecture, where did many Daoist practices come from?",
+   "back": "Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-091",
+   "front": "What is Shinto?",
+   "back": "The indigenous religion of Japan",
+   "tags": [
+    "wrel",
+    "lecture",
+    "shinto"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-092",
+   "text": "Shinto has no {{c1::founder}}, no {{c2::founding date}}, and no {{c3::major sacred text}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "shinto",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-093",
+   "term": "Kami",
+   "meaning": "in Shinto, a spiritual, life-giving force that may inhabit natural phenomena",
+   "tags": [
+    "wrel",
+    "lecture",
+    "shinto",
+    "concepts"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-094",
+   "front": "What practical attitude follows from belief in kami?",
+   "back": "Not harming or annoying the spirits",
+   "tags": [
+    "wrel",
+    "lecture",
+    "shinto"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-095",
+   "front": "Who founded Buddhism, and roughly when?",
+   "back": "Siddhārtha Gautama — the 6th or 5th century BCE",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "origins"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-096",
+   "front": "What status did Buddhism hold in many East Asian countries?",
+   "back": "State religion",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-097",
+   "text": "Buddhism has a concept of {{c1::heaven and hell}}, of {{c2::saints to worship}}, and of beings {{c3::somewhat like angels}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-098",
+   "front": "How many buddhas are there, and which one does the course mean by “the Buddha”?",
+   "back": "More than one — the course means the historical Buddha",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-099",
+   "front": "What is paradoxical about the historical Buddha's status in Buddhism?",
+   "back": "He is not considered a god, yet he is one of the objects of worship",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-100",
+   "front": "What institutional system does Buddhism have?",
+   "back": "Monasticism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-101",
+   "front": "What do the salvation-oriented Buddhist sects hold?",
+   "back": "That the world is so corrupt the only way to be saved is for the Buddha to take you to paradise",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-102",
+   "front": "What idea is Buddhism said to have introduced?",
+   "back": "Funerary rites",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-103",
+   "front": "Which of the major East Asian traditions does the lecture call inclusive rather than exclusive?",
+   "back": "All four — Confucianism, Daoism, Shinto, and Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "east-asia",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-104",
+   "front": "Where does the word now widely used for “religion” in East Asia come from?",
+   "back": "A Japanese translation of the European concept",
+   "tags": [
+    "wrel",
+    "lecture",
+    "definition",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-105",
+   "front": "What words were used before it for what we call religion, and still are?",
+   "back": "“Teaching”, “school of”, “way”, “path”",
+   "tags": [
+    "wrel",
+    "lecture",
+    "definition"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-106",
+   "text": "East Asian folk religions have no {{c1::founder}}, no {{c2::founding date}}, and no {{c3::doxa}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "folk",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-107",
+   "front": "What follows from folk religions developing organically, without a clear start?",
+   "back": "There is no clear division between one religious practice and another",
+   "tags": [
+    "wrel",
+    "lecture",
+    "folk",
+    "criterion"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-108",
+   "front": "What do folk religions tend to focus on?",
+   "back": "The calendar, ritual cycles, and belief in spirits",
+   "tags": [
+    "wrel",
+    "lecture",
+    "folk"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-109",
+   "front": "For whom are folk religions often a form of religious expression?",
+   "back": "Women — female shamanesses, for example",
+   "tags": [
+    "wrel",
+    "lecture",
+    "folk"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-110",
+   "front": "How do folk religions relate to the major traditions?",
+   "back": "They accommodate and fuse with them",
+   "tags": [
+    "wrel",
+    "lecture",
+    "folk"
+   ],
+   "session": "sep29",
+   "source": "World Religions II — lecture, 2026-09-29"
+  }
+ ],
+ "quduri": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-207",
+   "front": "What is the primary means of achieving ritual purity?",
+   "back": "Water",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "qud-208",
+   "front": "Which two questions does the section on water answer?",
+   "back": "Which water can be used for wuḍūʾ and ghusl, and which can remove impurity",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "qud-209",
+   "front": "Why is the classification of water less pressing today?",
+   "back": "Municipal water systems",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-210",
+   "text": "The fuqahāʾ divide water into three: {{c1::<bdi>طَهُور</bdi> (ṭahūr)::pure and purifying}}, {{c2::<bdi>طَاهِر</bdi> (ṭāhir)::pure, not purifying}}, and {{c3::<bdi>نَجِس</bdi> (najis)::impure}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-211",
+   "front": "What separates <bdi>طَهُور</bdi> water from <bdi>طَاهِر</bdi> water?",
+   "back": "Whether it purifies — both are pure in themselves, but only <bdi>طَهُور</bdi> is <bdi>مُطَهِّر</bdi>",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-212",
+   "term": "<bdi>مَاء مُسْتَعْمَل</bdi> (māʾ mustaʿmal)",
+   "meaning": "water already used for wuḍūʾ or ghusl, and collected",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "terminology"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-213",
+   "front": "Which of the three types of water is <bdi>مَاء مُسْتَعْمَل</bdi>?",
+   "back": "<bdi>طَاهِر</bdi> — not impure, but it cannot be used for ṭahārah",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-214",
+   "term": "<bdi>مَاء مُطْلَق</bdi> (māʾ muṭlaq)",
+   "meaning": "unqualified water — water called simply “water”, as against qualified water such as rose water",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "terminology"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-215",
+   "front": "What is the ruling on <bdi>مَاء مُطْلَق</bdi>?",
+   "back": "It is always <bdi>طَهُور</bdi>",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "qud-216",
+   "front": "With which kind of water does al-Qudūrī open the discussion?",
+   "back": "<bdi>مَاء مُطْلَق</bdi> — unqualified water",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-217",
+   "text": "The <bdi>مَاء مُطْلَق</bdi> al-Qudūrī lists: {{c1::water from the sky — rain, snow}}; {{c2::rivers}}; {{c3::springs}}; {{c4::wells}}; {{c5::the sea}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "spine"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-218",
+   "front": "When does water stop counting as water?",
+   "back": "When something else dominates it and takes it out of its nature (<bdi>طَبْع</bdi>)",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-219",
+   "text": "<bdi>طَبْع المَاء</bdi>, the nature of water, is its {{c1::<bdi>رِقَّة</bdi>}} (thinness) and its {{c2::<bdi>سَيَلَان</bdi>}} (flowing)",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "terminology"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-220",
+   "text": "<bdi>أَوْصَاف المَاء</bdi>, the qualities of water, are its {{c1::<bdi>طَعْم</bdi>}} (taste), {{c2::<bdi>لَوْن</bdi>}} (colour) and {{c3::<bdi>رِيح</bdi>}} (smell)",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "terminology"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-221",
+   "term": "<bdi>المَاءُ المَخْلُوطُ بِشَيْءٍ</bdi>",
+   "meaning": "mixed water — water with another substance in it",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "terminology",
+    "mixed"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-222",
+   "text": "Mixed water: if the substance is {{c1::pure (<bdi>طَاهِر</bdi>)}}, it turns on whether it is {{c2::solid or liquid}}; if it is {{c3::impure (<bdi>نَجِس</bdi>)}}, on whether the water is {{c4::flowing or standing}}, then on {{c5::its quantity}}",
+   "extra": "The whiteboard tree.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "spine",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-223",
+   "text": "Water mixed with a pure solid (<bdi>جَامِد</bdi>) is judged by its {{c1::<bdi>طَبْع</bdi> — thinness and flowing}}; with a pure liquid (<bdi>مَائِع</bdi>), by its {{c2::<bdi>أَوْصَاف</bdi> — taste, colour and smell}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "contrast",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-224",
+   "front": "How much may water mixed with a pure liquid change and remain usable?",
+   "back": "At least two of its three <bdi>أَوْصَاف</bdi> must remain — one may change, not more",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-225",
+   "front": "What is the ruling on flowing water (<bdi>جَارٍ</bdi>) into which najāsah falls?",
+   "back": "It remains usable",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "najasah"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-226",
+   "front": "What is the ruling on a small quantity (<bdi>قَلِيل</bdi>) of standing water (<bdi>رَاكِد</bdi>) into which najāsah falls?",
+   "back": "Unusable — even a single drop makes it najis",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "najasah"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-227",
+   "front": "What is the ruling on a large quantity (<bdi>كَثِير</bdi>) of standing water into which najāsah falls?",
+   "back": "It remains usable",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "najasah"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-228",
+   "front": "For the Aḥnāf, what counts as a large quantity of standing water?",
+   "back": "10 × 10 arm-lengths (<bdi>ذِرَاع</bdi>) in area, deep enough that scooping water does not expose the ground",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "najasah",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  }
+ ],
+ "riyad": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-005",
+   "front": "What is the ruling on repentance (<bdi>تَوْبَة</bdi>)?",
+   "back": "Obligatory",
+   "tags": [
+    "riyad",
+    "tawbah"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-006",
+   "front": "From which sins is <bdi>تَوْبَة</bdi> obligatory?",
+   "back": "All of them",
+   "tags": [
+    "riyad",
+    "tawbah"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "riyad-007",
+   "text": "The conditions of <bdi>تَوْبَة</bdi> for a sin between a person and Allah: {{c1::stopping the sin}}; {{c2::feeling regret}}; {{c3::resolving not to return to it}}",
+   "extra": "",
+   "tags": [
+    "riyad",
+    "tawbah",
+    "spine",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-008",
+   "front": "What happens to <bdi>تَوْبَة</bdi> if one of its conditions is missing?",
+   "back": "It is not accepted",
+   "tags": [
+    "riyad",
+    "tawbah",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-009",
+   "front": "What further condition does <bdi>تَوْبَة</bdi> carry when the sin involves another person's right?",
+   "back": "Restoring that right to them — returning wealth, for example",
+   "tags": [
+    "riyad",
+    "tawbah",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-010",
+   "front": "When the sin involves a <bdi>حَدّ</bdi> (ḥadd) owed to someone, how is their right restored?",
+   "back": "By allowing the ḥadd to be carried out, or by seeking their pardon",
+   "tags": [
+    "riyad",
+    "tawbah",
+    "criterion"
+   ],
+   "session": "sep30",
+   "source": "Riyāḍ al-Ṣāliḥīn — Chapter of Repentance, class notes"
+  }
+ ]
+}

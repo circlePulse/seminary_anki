@@ -16,6 +16,7 @@ edit** instead of creating a parallel one. See `skill/references/working-files.m
 | 2026-09-21 | Rest of the سُنَن of wuḍūʾ | `quduri` — sunan spine | resolved 09-23, all nine |
 | 2026-09-23 | Kitāb al-Ṭahārah beyond ghusl — tayammum, wells, water | `quduri` | open |
 | 2026-09-17 | Two more types of مُرَكَّب نَاقِص | `nahw` — مُرَكَّب نَاقِص spine | open |
+| 2026-09-30 | Qadar in depth — "will talk more about this in Aqidah" (Ḥadīth 2) | `arbaeen_ahadith` — qadar cards, or an ʿaqīdah deck if one is started | open |
 
 ## Routing rules
 
