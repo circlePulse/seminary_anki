@@ -3,7 +3,7 @@
  "topic": "sarf",
  "session": "sep08",
  "source": "IOK Arabic — Ṣarf section, class notes to 2026-09-08",
- "expected_count": 120,
+ "expected_count": 169,
  "cards": [
   {
    "type": "basic",
@@ -1420,6 +1420,637 @@
     "abwaab"
    ],
    "session": "sep15"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-121",
+   "session": "sep30",
+   "text": "{{c1::<bdi>الوَزْن</bdi>}} is the pattern; {{c2::<bdi>الصِّيغَة</bdi>}} is the actual entry on the table",
+   "extra": "Two words for two different things — the shape, and the filled-in form.",
+   "tags": [
+    "sarf",
+    "wazn",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-122",
+   "session": "sep30",
+   "front": "How many voices does a verb have, and what are they?",
+   "back": "Two — active and passive",
+   "tags": [
+    "sarf",
+    "majhool"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-123",
+   "session": "sep30",
+   "front": "What makes a verb active, and what is it called?",
+   "back": "The <bdi>فَاعِل</bdi> is mentioned — <bdi>فِعْلٌ مَعْلُومٌ فَاعِلُهُ</bdi>, or just <bdi>مَعْلُوم</bdi>",
+   "tags": [
+    "sarf",
+    "majhool",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-124",
+   "session": "sep30",
+   "front": "What makes a verb passive, and what is it called?",
+   "back": "The subject is not mentioned and the verb is attributed to the direct object — <bdi>فِعْلٌ مَجْهُولٌ فَاعِلُهُ</bdi>, or just <bdi>مَجْهُول</bdi>",
+   "tags": [
+    "sarf",
+    "majhool",
+    "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-125",
+   "session": "sep30",
+   "term": "<bdi>مَعْلُوم</bdi> (maʿlūm)",
+   "meaning": "the active voice — literally, the one whose doer is known",
+   "tags": [
+    "sarf",
+    "majhool",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-126",
+   "session": "sep30",
+   "term": "<bdi>مَجْهُول</bdi> (majhūl)",
+   "meaning": "the passive voice — literally, the one whose doer is unknown",
+   "tags": [
+    "sarf",
+    "majhool",
+    "terminology"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-127",
+   "session": "sep30",
+   "text": "Forming the <b>past</b> passive, for all forms: {{c1::leave the last letter as it is}}; {{c2::change the penultimate letter to a kasrah}}; {{c3::change every remaining vowelled letter to a ḍammah — a sukūn stays a sukūn}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "majhool",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-128",
+   "session": "sep30",
+   "text": "Forming the <b>present</b> passive, for all forms: {{c1::change the first letter to a ḍammah}}; {{c2::give the penultimate a fatḥah}}; {{c3::leave every other letter alone}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "majhool",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-129",
+   "session": "sep30",
+   "text": "In the past passive the penultimate takes a {{c1::kasrah}}; in the present passive it takes a {{c2::fatḥah}}",
+   "extra": "The penultimate letter is where the two rules differ.",
+   "tags": [
+    "sarf",
+    "majhool",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-130",
+   "session": "sep30",
+   "front": "Which verb forms already begin with a ḍammah, so the present-passive rule changes nothing there?",
+   "back": "Forms 2, 3 and 4",
+   "tags": [
+    "sarf",
+    "majhool",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-131",
+   "session": "sep30",
+   "front": "Which verb forms already carry a fatḥah on the penultimate letter?",
+   "back": "Forms 5 and 6",
+   "tags": [
+    "sarf",
+    "majhool",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-132",
+   "session": "sep30",
+   "text": "{{c1::All}} <bdi>أَسْمَاء</bdi> have <bdi>إِعْرَاب</bdi>; {{c2::no}} <bdi>حُرُوف</bdi> do; and {{c3::some but not all}} <bdi>أَفْعَال</bdi> do",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "irab",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-133",
+   "session": "sep30",
+   "term": "<bdi>مَبْنِيّ</bdi> (mabnī)",
+   "meaning": "a word whose ending does not change — it has no <bdi>إِعْرَاب</bdi>",
+   "tags": [
+    "sarf",
+    "irab",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-134",
+   "session": "sep30",
+   "term": "<bdi>مُعْرَب</bdi> (muʿrab)",
+   "meaning": "a word whose ending changes with its grammatical state",
+   "tags": [
+    "sarf",
+    "irab",
+    "terminology"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-135",
+   "session": "sep30",
+   "text": "{{c1::<bdi>مَبْنِيّ</bdi>}}: the <bdi>حُرُوف</bdi> and the <bdi>فِعْل مَاضِي</bdi>. {{c2::<bdi>مُعْرَب</bdi>}}: the <bdi>مُضَارِع</bdi> and the <bdi>أَسْمَاء</bdi>",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "irab",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-136",
+   "session": "sep30",
+   "front": "Which tense of the verb is <bdi>مُعْرَب</bdi>?",
+   "back": "The <bdi>مُضَارِع</bdi> — the <bdi>مَاضِي</bdi> is <bdi>مَبْنِيّ</bdi>",
+   "tags": [
+    "sarf",
+    "irab",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-137",
+   "session": "sep30",
+   "text": "The three states of the <bdi>مُضَارِع</bdi>: {{c1::<bdi>مَرْفُوع</bdi> — the default}}; {{c2::<bdi>مَنْصُوب</bdi> — after a <bdi>حَرْف نَاصِب</bdi>}}; {{c3::<bdi>مَجْزُوم</bdi> — after a <bdi>حَرْف جَازِم</bdi>}}",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "irab",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-138",
+   "session": "sep30",
+   "front": "Which state is the <bdi>مُضَارِع</bdi> in by default?",
+   "back": "<bdi>مَرْفُوع</bdi>",
+   "tags": [
+    "sarf",
+    "irab",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-139",
+   "session": "sep30",
+   "front": "What puts a <bdi>مُضَارِع</bdi> into <bdi>مَنْصُوب</bdi>?",
+   "back": "Being preceded by a <bdi>حَرْف نَاصِب</bdi>",
+   "tags": [
+    "sarf",
+    "irab",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-140",
+   "session": "sep30",
+   "front": "What puts a <bdi>مُضَارِع</bdi> into <bdi>مَجْزُوم</bdi>?",
+   "back": "Being preceded by a <bdi>حَرْف جَازِم</bdi>",
+   "tags": [
+    "sarf",
+    "irab",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-141",
+   "session": "sep30",
+   "front": "In how many ways do the 14 <bdi>صِيَغ</bdi> express their state?",
+   "back": "Three — the conjugations fall into three categories",
+   "tags": [
+    "sarf",
+    "irab",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-142",
+   "session": "sep30",
+   "text": "Category 1 — the five with no suffix: the <bdi>لَام الكَلِمَة</bdi> takes a {{c1::ḍammah}} when <bdi>مَرْفُوع</bdi>, a {{c2::fatḥah}} when <bdi>مَنْصُوب</bdi>, and a {{c3::sukūn}} when <bdi>مَجْزُوم</bdi>",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "irab",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-143",
+   "session": "sep30",
+   "front": "What happens to the two feminine plurals across the three states?",
+   "back": "Nothing — they do not change, and are in fact considered <bdi>مَبْنِيّ</bdi>",
+   "tags": [
+    "sarf",
+    "irab",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-144",
+   "session": "sep30",
+   "front": "What happens to the conjugations ending in <bdi>نُون الإِعْرَاب</bdi> when they leave <bdi>مَرْفُوع</bdi>?",
+   "back": "The nūn drops",
+   "tags": [
+    "sarf",
+    "irab",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-145",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the past passive, <bdi>هُمَا</bdi> (m).",
+   "back": "<bdi>فُتِحَا</bdi>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-146",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the past passive, <bdi>هُوَ</bdi>.",
+   "back": "<bdi>فُتِحَ</bdi> <i>(penultimate → kasrah, the rest → ḍammah)</i>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-147",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the past passive, <bdi>هِيَ</bdi>.",
+   "back": "<bdi>فُتِحَتْ</bdi>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-148",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present active, <bdi>هُوَ</bdi>, <bdi>مَرْفُوع</bdi>.",
+   "back": "<bdi>يَفْتَحُ</bdi>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-149",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present passive, <bdi>هُوَ</bdi>, <bdi>مَرْفُوع</bdi>.",
+   "back": "<bdi>يُفْتَحُ</bdi> <i>(first letter → ḍammah, penultimate → fatḥah)</i>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-150",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present active, <bdi>هُوَ</bdi>, <bdi>مَنْصُوب</bdi>.",
+   "back": "<bdi>يَفْتَحَ</bdi> <i>(no suffix, so the <bdi>لَام</bdi> takes a fatḥah)</i>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-151",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present active, <bdi>هُوَ</bdi>, <bdi>مَجْزُوم</bdi>.",
+   "back": "<bdi>يَفْتَحْ</bdi> <i>(no suffix, so the <bdi>لَام</bdi> takes a sukūn)</i>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-152",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present passive, <bdi>هُوَ</bdi>, <bdi>مَجْزُوم</bdi>.",
+   "back": "<bdi>يُفْتَحْ</bdi>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-153",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present active, <bdi>هُمَا</bdi> (m), <bdi>مَرْفُوع</bdi>.",
+   "back": "<bdi>يَفْتَحَانِ</bdi>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-154",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present active, <bdi>هُمَا</bdi> (m), <bdi>مَنْصُوب</bdi>.",
+   "back": "<bdi>يَفْتَحَا</bdi> <i>(<bdi>نُون الإِعْرَاب</bdi> drops)</i>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-155",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present active, <bdi>هُمْ</bdi>, <bdi>مَرْفُوع</bdi>.",
+   "back": "<bdi>يَفْتَحُوْنَ</bdi>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-156",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present active, <bdi>هُمْ</bdi>, <bdi>مَجْزُوم</bdi>.",
+   "back": "<bdi>يَفْتَحُوا</bdi> <i>(<bdi>نُون الإِعْرَاب</bdi> drops)</i>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-157",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present active, <bdi>هُنَّ</bdi>, <bdi>مَنْصُوب</bdi>.",
+   "back": "<bdi>يَفْتَحْنَ</bdi> <i>(unchanged — the feminine plurals are <bdi>مَبْنِيّ</bdi>)</i>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-158",
+   "session": "sep30",
+   "front": "From <bdi>فَتَحَ</bdi> — give the present active, <bdi>أَنَا</bdi>, <bdi>مَجْزُوم</bdi>.",
+   "back": "<bdi>أَفْتَحْ</bdi>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-159",
+   "session": "sep30",
+   "front": "Apply the past-passive rule to <bdi>كَتَبَ</bdi>.",
+   "back": "<bdi>كُتِبَ</bdi>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-160",
+   "session": "sep30",
+   "front": "Apply the present-passive rule to <bdi>يَكْتُبُ</bdi>.",
+   "back": "<bdi>يُكْتَبُ</bdi>",
+   "tags": [
+    "sarf",
+    "practice"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-161",
+   "session": "sep30",
+   "term": "<bdi>مُثْبَت</bdi> (muthbat)",
+   "meaning": "an affirmative verb — the action did take place",
+   "tags": [
+    "sarf",
+    "nafy",
+    "terminology"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-162",
+   "session": "sep30",
+   "term": "<bdi>مَنْفِيّ</bdi> (manfī)",
+   "meaning": "a negated verb — the action did not take place",
+   "tags": [
+    "sarf",
+    "nafy",
+    "terminology"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-163",
+   "session": "sep30",
+   "front": "How is the <bdi>مَاضِي</bdi> negated, and is that particle <bdi>عَامِل</bdi>?",
+   "back": "By putting <bdi>مَا</bdi> at the beginning — and it is <bdi>غَيْر عَامِل</bdi>",
+   "tags": [
+    "sarf",
+    "nafy",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-164",
+   "session": "sep30",
+   "front": "Which four particles negate the <bdi>مُضَارِع</bdi>?",
+   "back": "<bdi>لَمْ</bdi>, <bdi>مَا</bdi>, <bdi>لَا</bdi>, <bdi>لَنْ</bdi>",
+   "tags": [
+    "sarf",
+    "nafy",
+    "enumeration"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-165",
+   "session": "sep30",
+   "text": "Negating the <bdi>مُضَارِع</bdi> — time: {{c1::<bdi>لَمْ</bdi>}} gives a past meaning, {{c2::<bdi>لَا</bdi>}} a future meaning, and {{c3::<bdi>لَنْ</bdi>}} an emphatic future negation",
+   "extra": "",
+   "tags": [
+    "sarf",
+    "nafy",
+    "spine",
+    "criterion"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-166",
+   "session": "sep30",
+   "text": "Negating the <bdi>مُضَارِع</bdi> — <bdi>عَمَل</bdi>: {{c1::<bdi>لَمْ</bdi> and <bdi>لَنْ</bdi>}} are <bdi>عَامِل</bdi>; {{c2::<bdi>مَا</bdi> and <bdi>لَا</bdi>}} are <bdi>غَيْر عَامِل</bdi>",
+   "extra": "Two of the four change the state of the verb after them.",
+   "tags": [
+    "sarf",
+    "nafy",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-167",
+   "session": "sep30",
+   "front": "What does <bdi>لَمْ</bdi> do to the meaning of a <bdi>مُضَارِع</bdi>?",
+   "back": "Gives it a past-tense meaning",
+   "tags": [
+    "sarf",
+    "nafy",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-168",
+   "session": "sep30",
+   "front": "What distinguishes <bdi>لَنْ</bdi> from <bdi>لَا</bdi>?",
+   "back": "Both negate the future, but <bdi>لَنْ</bdi> is emphatic",
+   "tags": [
+    "sarf",
+    "nafy",
+    "contrast",
+    "criterion"
+   ]
+  },
+  {
+   "type": "basic",
+   "tier": 2,
+   "id": "sarf-169",
+   "session": "sep30",
+   "front": "Which states do <bdi>لَمْ</bdi> and <bdi>لَنْ</bdi> put the verb into?",
+   "back": "<bdi>لَمْ</bdi> is a <bdi>حَرْف جَازِم</bdi> → <bdi>مَجْزُوم</bdi>; <bdi>لَنْ</bdi> is a <bdi>حَرْف نَاصِب</bdi> → <bdi>مَنْصُوب</bdi>. Your notes say only that both are <bdi>عَامِل</bdi> — this pairing is not stated.",
+   "tags": [
+    "sarf",
+    "nafy",
+    "criterion"
+   ]
   }
  ]
 }
