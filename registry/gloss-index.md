@@ -186,7 +186,6 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to create | خَلَقَ | to create | VOCAB | voc-160 |
 | to cure | أَبْرَأَ | to cure, to heal | VOCAB | voc-086 |
 | to disbelieve | كَفَرَ | to disbelieve | VOCAB | voc-188 |
-| to divide among themselves | تَقَاسَمَ | to divide among themselves; to swear to one another | VOCAB | voc-092 |
 | to enter | دَخَلَ | to enter | VOCAB | voc-162 |
 | to envy | حَسَدَ | to envy | VOCAB | voc-150 |
 | to establish | أَقَامَ | to establish, to set up; to perform (the prayer) | VOCAB | voc-140 |
@@ -198,6 +197,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to go out | خَرَجَ | to go out | VOCAB | voc-156 |
 | to greet with salām | سَلَّمَ | to greet with salām; to submit; to hand over | VOCAB | voc-136 |
 | to grow old | كَبِرَ | to grow old | VOCAB | voc-078 |
+| to hold back | تَقَاعَسَ | to hold back, to hesitate | VOCAB | voc-092 |
 | to hurl or plunge someone into | أَقْحَمَ | to hurl or plunge someone into | VOCAB | voc-094 |
 | to incline | مَالَ | to incline, to lean toward | VOCAB | voc-096 |
 | to judge | حَكَمَ | to judge, to rule | VOCAB | voc-154 |

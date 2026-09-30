@@ -950,7 +950,7 @@
    "id": "voc-075",
    "session": "sep30",
    "text": "<bdi>أَكْرَهَ</bdi> — {{c1::<bdi>يُكْرِهُ</bdi>}} — {{c2::<bdi>أَكْرِهْ</bdi>}} — {{c3::<bdi>إِكْرَاه</bdi>}}",
-   "extra": "to compel, to force · Form IV · see the note on <bdi>أكره</bdi>",
+   "extra": "to compel, to force · Form IV",
    "tags": [
     "vocab",
     "riyad-qasas",
@@ -1179,8 +1179,8 @@
    "tier": 1,
    "id": "voc-092",
    "session": "sep30",
-   "term": "تَقَاسَمَ",
-   "meaning": "to divide among themselves; to swear to one another",
+   "term": "تَقَاعَسَ",
+   "meaning": "to hold back, to hesitate",
    "tags": [
     "vocab",
     "riyad-qasas",
@@ -1192,8 +1192,8 @@
    "tier": 1,
    "id": "voc-093",
    "session": "sep30",
-   "text": "<bdi>تَقَاسَمَ</bdi> — {{c1::<bdi>يَتَقَاسَمُ</bdi>}} — {{c2::<bdi>تَقَاسَمْ</bdi>}} — {{c3::<bdi>تَقَاسُم</bdi>}}",
-   "extra": "to divide among themselves; to swear to one another · Form VI · your <bdi>تقاسَعَت</bdi> is not a form that exists — see the note",
+   "text": "<bdi>تَقَاعَسَ</bdi> — {{c1::<bdi>يَتَقَاعَسُ</bdi>}} — {{c2::<bdi>تَقَاعَسْ</bdi>}} — {{c3::<bdi>تَقَاعُس</bdi>}}",
+   "extra": "to hold back, to hesitate · Form VI · in the ḥadīth of the boy and the king, <bdi>فَتَقَاعَسَتْ</bdi> — the mother held back from the trench",
    "tags": [
     "vocab",
     "riyad-qasas",

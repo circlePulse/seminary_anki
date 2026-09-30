@@ -159,10 +159,6 @@ once, and both times was objecting to files that had no reason to exist.
   re-sent with `--resend`. The other 9 from that fix (arb-038, qud-087, qud-109,
   qud-179, qud-185, tah-030, nahw-012/013/014, wrel-044) are unconfirmed. Re-send
   them the same way if the user sees the old wording.
-- **voc-092/093 teach the wrong verb.** The user's list (the ḥadīth of the boy and the
-  king) had تقاسعت, a letter swap of تَقَاعَسَ ("to hold back"; the ḥadīth has
-  فَتَقَاعَسَتْ). The earlier session read it as nonexistent and substituted تَقَاسَمَ.
-  Raised with the user 2026-09-30, not yet fixed.
 - **Ḥadīth 3's matn was supplied from memory**, not from the notes, and is flagged on
   its own card for checking against the user's copy.
 
