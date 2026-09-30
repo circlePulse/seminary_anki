@@ -376,7 +376,7 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
             bidi.append(c["id"])
 
     os.makedirs(outdir, exist_ok=True)
-    stamp = datetime.date.today().isoformat()
+    stamp = datetime.datetime.now().strftime("%Y-%m-%d_%H%M")
     fname = (f"{data['course']}_{data['topic']}_update_{stamp}.apkg" if delta
              else f"{data['course']}_{data['topic']}_FULL.apkg")
     path = os.path.join(outdir, fname)
