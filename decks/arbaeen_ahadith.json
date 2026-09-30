@@ -224,8 +224,8 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-019",
-   "front": "In the technical sense, what is islām — and what does that require?",
-   "back": "External submission — and for those actions to be accepted there must be sincerity",
+   "front": "In the discussion of the ḥadīth on intentions, what must accompany islām — external submission — for its acts to be accepted?",
+   "back": "Sincerity",
    "tags": [
     "arbaeen",
     "h01",
@@ -341,8 +341,8 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-029",
-   "front": "In the naḥw categories, is إِنَّمَا عَامِل or غَيْر عَامِل?",
-   "back": "غَيْر عَامِل — it causes no change in the grammatical state of what follows",
+   "front": "What effect does <bdi>إِنَّمَا</bdi> have on the grammatical state of the word after it?",
+   "back": "None — it is <bdi>غَيْر عَامِل</bdi>",
    "tags": [
     "arbaeen",
     "h01",
@@ -354,7 +354,7 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-030",
-   "front": "What is عَمَل?",
+   "front": "In the ḥadīth on intentions, what does <bdi>عَمَل</bdi> (action) cover?",
    "back": "Any action we do voluntarily",
    "tags": [
     "arbaeen",
@@ -402,8 +402,8 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-034",
-   "front": "What does the second clause indicate about multiple intentions behind one deed?",
-   "back": "A person is rewarded for each of several good intentions behind a single good deed",
+   "front": "What does “every person will only get what they intended” imply when one deed carries several good intentions?",
+   "back": "A reward for each of them",
    "tags": [
     "arbaeen",
     "h01"
@@ -553,8 +553,8 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-047",
-   "front": "Is there reward for an intention that was never acted on?",
-   "back": "Yes — when there is a valid excuse for the action not happening",
+   "front": "When is there reward for an intention that was never acted on?",
+   "back": "When a valid excuse prevented the action",
    "tags": [
     "arbaeen",
     "h01",
@@ -835,7 +835,7 @@
    "tier": 1,
    "id": "arbh-069",
    "session": "sep30",
-   "front": "Which pillar is the central one, and where do the others sit in the image?",
+   "front": "In the building image of the ḥadīth of the five pillars, which pillar is central, and where do the others stand?",
    "back": "The shahādah is the central pillar; the other four stand at the corners",
    "tags": [
     "arbaeen",
@@ -849,8 +849,8 @@
    "tier": 1,
    "id": "arbh-070",
    "session": "sep30",
-   "front": "Does the ḥadīth of the five pillars imply that obeying commands and avoiding prohibitions is unnecessary?",
-   "back": "No — a building is not complete without walls, doors and furniture, and those are the commands and prohibitions",
+   "front": "Why does the ḥadīth of the five pillars not make obeying commands and avoiding prohibitions optional?",
+   "back": "A building is not complete without walls, doors and furniture — and those are the commands and prohibitions",
    "tags": [
     "arbaeen",
     "h03",
@@ -1135,8 +1135,8 @@
    "tier": 1,
    "id": "arbh-091",
    "session": "sep30",
-   "front": "What does the majority hold about those warnings on leaving prayer?",
-   "back": "That they show the level of emphasis placed on it, not that the person leaves Islam",
+   "front": "What does the majority hold about the aḥādīth that call leaving the prayer disbelief?",
+   "back": "That they show how heavily the prayer is emphasised — not that the person leaves Islam",
    "tags": [
     "arbaeen",
     "h03",
@@ -1162,7 +1162,7 @@
    "tier": 1,
    "id": "arbh-093",
    "session": "sep30",
-   "front": "What follows if someone prays regularly yet still falls into those things?",
+   "front": "If someone prays regularly yet still commits obscenities and evil, what follows?",
    "back": "The prayer itself needs fixing",
    "tags": [
     "arbaeen",
@@ -1378,8 +1378,8 @@
    "tier": 1,
    "id": "arbh-109",
    "session": "sep30",
-   "front": "How did Ibn ʿUmar answer the student who objected to the changed order?",
-   "back": "That he had heard both from the Prophet ﷺ",
+   "front": "How did Ibn ʿUmar answer the student who objected when he narrated the five pillars with Ramaḍān before ḥajj?",
+   "back": "That he had heard both orders from the Prophet ﷺ",
    "tags": [
     "arbaeen",
     "h03",

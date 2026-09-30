@@ -308,7 +308,8 @@ def content_hash(kind, fields, tags):
 MODELS = {"basic": MODEL_BASIC_DEF, "bidir": MODEL_BIDIR_DEF, "cloze": MODEL_CLOZE_DEF}
 
 
-def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=None):
+def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=None,
+          resend=()):
     """
     Full build (default): every card. For a fresh collection or recovery.
 
@@ -316,6 +317,9 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
     last delivered. Unchanged cards are left out of the package entirely, so
     Anki never touches them. This is the normal per-session deliverable.
     Delivered hashes are recorded in delivered.json once the package is written.
+
+    resend: ids to include in a --delta build even though delivered.json says the
+    user already has them — for a package that was built but never imported.
     """
     for key in ("course", "topic", "session", "cards"):
         if key not in data:
@@ -336,8 +340,11 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
         if os.path.exists(delivered_path):
             delivered = json.load(open(delivered_path))
         prior = delivered.get(deck_name, {})
+    unknown = sorted(set(resend) - {c.get("id") for c in cards})
+    if unknown:
+        sys.exit(f"--resend ids not in {deck_name}: {', '.join(unknown)}")
 
-    selected, new_ids, changed_ids, hashes = [], [], [], {}
+    selected, new_ids, changed_ids, resent_ids, hashes = [], [], [], [], {}
     for c in cards:
         kind, fields, tags = payload(c, data)
         h = content_hash(kind, fields, tags)
@@ -348,10 +355,13 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
             selected.append((c, kind, fields, tags)); new_ids.append(c["id"])
         elif prior[c["id"]] != h:
             selected.append((c, kind, fields, tags)); changed_ids.append(c["id"])
+        elif c["id"] in resend:
+            selected.append((c, kind, fields, tags)); resent_ids.append(c["id"])
 
     if delta:
         print(f"{deck_name}: {len(new_ids)} new, {len(changed_ids)} changed, "
-              f"{len(cards) - len(selected)} unchanged (left out)")
+              + (f"{len(resent_ids)} re-sent unchanged, " if resend else "")
+              + f"{len(cards) - len(selected)} unchanged (left out)")
         if changed_ids:
             print(f"  changed: {', '.join(changed_ids[:12])}"
                   f"{' …' if len(changed_ids) > 12 else ''}")
@@ -408,6 +418,9 @@ if __name__ == "__main__":
     ap.add_argument("-o", "--outdir", default="build")
     ap.add_argument("--delta", action="store_true",
                     help="only new/changed cards since last delivery (normal use)")
+    ap.add_argument("--resend", default="",
+                    help="with --delta: comma-separated ids to include even if "
+                         "unchanged — for a package that was built but never imported")
     ap.add_argument("--dry-run", action="store_true",
                     help="with --delta: report what would ship, write nothing")
     a = ap.parse_args()
@@ -416,4 +429,5 @@ if __name__ == "__main__":
         build(json.load(fh), a.outdir,
               deck_name=os.path.basename(a.cards_json)[:-5],
               delta=a.delta, dry_run=a.dry_run,
+              resend=tuple(x.strip() for x in a.resend.split(",") if x.strip()),
               delivered_path=os.path.join(root, "delivered.json"))

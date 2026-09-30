@@ -103,6 +103,9 @@ The rules, all of which came from getting it wrong:
   the user was right to object.
 - **State the counts with each file** — how many new, how many changed — so the
   number Anki reports on import is never a surprise.
+- **A package that was built but never imported** is recovered with
+  `generate_deck.py decks/X.json --delta --resend id1,id2,…`. That puts the named cards
+  back into a delta even though `delivered.json` records them as delivered.
 - **If an earlier delta for the same deck has not been imported yet, say so.**
   Deltas are cumulative only against `delivered.json`, not against each other: a
   package built today does not contain what yesterday's package held.
@@ -151,6 +154,15 @@ once, and both times was objecting to files that had no reason to exist.
 - **Gloss collision: "to write"** — صَنَّفَ (voc-007) and كَتَبَ (voc-186). Suggested
   fix: voc-007 becomes "to author, to compose (a book)". Awaiting the user.
 - **Ḥadīth 2's matn is deliberately uncarded.** The user doesn't need to memorise it.
+- **The Sep 24 "front names nothing" fix may never have reached the user's Anki.** On
+  2026-09-30 they still saw "this ḥadīth" on Ḥadīth 1 cards. The 9 Ḥadīth 1 cards were
+  re-sent with `--resend`. The other 9 from that fix (arb-038, qud-087, qud-109,
+  qud-179, qud-185, tah-030, nahw-012/013/014, wrel-044) are unconfirmed. Re-send
+  them the same way if the user sees the old wording.
+- **voc-092/093 teach the wrong verb.** The user's list (the ḥadīth of the boy and the
+  king) had تقاسعت, a letter swap of تَقَاعَسَ ("to hold back"; the ḥadīth has
+  فَتَقَاعَسَتْ). The earlier session read it as nonexistent and substituted تَقَاسَمَ.
+  Raised with the user 2026-09-30, not yet fixed.
 - **Ḥadīth 3's matn was supplied from memory**, not from the notes, and is flagged on
   its own card for checking against the user's copy.
 
