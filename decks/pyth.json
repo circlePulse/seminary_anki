@@ -578,7 +578,7 @@
    "id": "pyth-049",
    "session": "sep30",
    "front": "What is the danger of <code>eval()</code>?",
-   "back": "It has serious pitfalls — especially prompt injection",
+   "back": "It has serious pitfalls — above all code injection: it will execute whatever string it is handed",
    "tags": [
     "pyth",
     "eval",
