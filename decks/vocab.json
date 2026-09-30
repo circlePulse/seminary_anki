@@ -1739,7 +1739,142 @@
     "riyad-qasas",
     "particles"
    ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-134",
+   "session": "sep30",
+   "term": "صَلَّى",
+   "meaning": "to pray",
+   "tags": [
+    "vocab",
+    "arbaeen",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-135",
+   "session": "sep30",
+   "text": "<bdi>صَلَّى</bdi> — {{c1::<bdi>يُصَلِّي</bdi>}} — {{c2::<bdi>صَلِّ</bdi>}} — {{c3::<bdi>صَلَاة</bdi>}}",
+   "extra": "to pray · Form II · the maṣdar is <bdi>صَلَاة</bdi>, not the regular Form II <bdi>تَصْلِيَة</bdi>",
+   "tags": [
+    "vocab",
+    "arbaeen",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-136",
+   "session": "sep30",
+   "term": "سَلَّمَ",
+   "meaning": "to greet with salām; to submit; to hand over",
+   "tags": [
+    "vocab",
+    "arbaeen",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-137",
+   "session": "sep30",
+   "text": "<bdi>سَلَّمَ</bdi> — {{c1::<bdi>يُسَلِّمُ</bdi>}} — {{c2::<bdi>سَلِّمْ</bdi>}} — {{c3::<bdi>تَسْلِيم</bdi>}}",
+   "extra": "to greet with salām; to submit; to hand over · Form II",
+   "tags": [
+    "vocab",
+    "arbaeen",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-138",
+   "session": "sep30",
+   "term": "بَنَى",
+   "meaning": "to build",
+   "tags": [
+    "vocab",
+    "arbaeen",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-139",
+   "session": "sep30",
+   "text": "<bdi>بَنَى</bdi> — {{c1::<bdi>يَبْنِي</bdi>}} — {{c2::<bdi>اِبْنِ</bdi>}} — {{c3::<bdi>بِنَاء</bdi>}}",
+   "extra": "to build · Form I · <bdi>بُنِيَ</bdi> — “was built” — is the passive that opens the ḥadīth of the five pillars",
+   "tags": [
+    "vocab",
+    "arbaeen",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-140",
+   "session": "sep30",
+   "term": "أَقَامَ",
+   "meaning": "to establish, to set up; to perform (the prayer)",
+   "tags": [
+    "vocab",
+    "arbaeen",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-141",
+   "session": "sep30",
+   "text": "<bdi>أَقَامَ</bdi> — {{c1::<bdi>يُقِيمُ</bdi>}} — {{c2::<bdi>أَقِمْ</bdi>}} — {{c3::<bdi>إِقَامَة</bdi>}}",
+   "extra": "to establish, to set up; to perform (the prayer) · Form IV · <bdi>إِقَام الصَّلَاة</bdi> in the ḥadīth of the five pillars",
+   "tags": [
+    "vocab",
+    "arbaeen",
+    "verbs",
+    "paradigm"
+   ]
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-142",
+   "session": "sep30",
+   "term": "حَجَّ",
+   "meaning": "to perform the pilgrimage",
+   "tags": [
+    "vocab",
+    "arbaeen",
+    "verbs"
+   ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-143",
+   "session": "sep30",
+   "text": "<bdi>حَجَّ</bdi> — {{c1::<bdi>يَحُجُّ</bdi>}} — {{c2::<bdi>حُجَّ</bdi>}} — {{c3::<bdi>حَجّ</bdi>}}",
+   "extra": "to perform the pilgrimage · Form I",
+   "tags": [
+    "vocab",
+    "arbaeen",
+    "verbs",
+    "paradigm"
+   ]
   }
  ],
- "expected_count": 133
+ "expected_count": 143
 }
