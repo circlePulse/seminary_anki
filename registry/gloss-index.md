@@ -10,40 +10,58 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 
 ## Collisions — both cards need a disambiguator
 
-None. Regenerated on every build.
+| Gloss key | Terms | Courses | Ids |
+|---|---|---|---|
+| to write | صَنَّفَ · كَتَبَ | VOCAB | voc-007 voc-186 |
 
 ## Full index
 
 | Gloss key | Term | Full gloss | Course | Id |
 |---|---|---|---|---|
 | a beautiful example | أُسْوَة حَسَنَة (uswah ḥasanah) | a beautiful example — the Qurʾān’s description of the Prophet ﷺ | HDT-201 | arb-024 |
+| a captive | أَسِير | a captive, a prisoner | VOCAB | voc-106 |
+| a collision | صَدْمَة | a collision, a shock, a blow | VOCAB | voc-112 |
 | a company or group (of people) | زُمْرَة | a company or group (of people) | VOCAB | voc-027 |
 | a compound | مُرَكَّب (murakkab) | a compound — two or more words, which may or may not form a complete s | ARB-201 | nahw-054 |
 | a demonstrative phrase | المُرَكَّب الإِشَارِيّ | a demonstrative phrase — one ism points to another | ARB-201 | nahw-140 |
 | a descriptive phrase | المُرَكَّب التَّوْصِيفِيّ | a descriptive phrase — one word describes the other | ARB-201 | nahw-128 |
+| a doorkeeper | بَوَّاب | a doorkeeper, a gatekeeper | VOCAB | voc-110 |
 | a hidden pronoun | ضَمِير مُسْتَتِر (ḍamīr mustatir) | a hidden pronoun — contained within the verb, not written | ARB-201 | sarf-019 |
 | a knee | رُكْبَة | a knee | VOCAB | voc-044 |
+| a leper | أَبْرَص | a leper | VOCAB | voc-118 |
 | a letter or ḥarakah which indicates the grammatical state | عَلَامَة الإِعْرَاب | a letter or ḥarakah which indicates the grammatical state | ARB-201 | sarf-079 |
+| a monk | رَاهِب | a monk | VOCAB | voc-114 |
+| a need | إِرْب | a need, a want | VOCAB | voc-108 |
+| a negated verb | مَنْفِيّ (manfī) | a negated verb — the action did not take place | ARB-201 | sarf-162 |
 | a noun converted into an adjective | مَنْسُوب (mansūb) | a noun converted into an adjective — spelled with a سِين | ARB-201 | nahw-118 |
 | a personal ḥadīth collection kept by a companion | صَحِيفَة (ṣaḥīfah) | a personal ḥadīth collection kept by a Companion | HDT-201 | arb-029 |
 | a possessive phrase | المُرَكَّب الإِضَافِيّ | a possessive phrase — the first word is attributed to the second | ARB-201 | nahw-133 |
 | a request or an offer | العَرْض (al-ʿarḍ) | a request or an offer | ARB-201 | nahw-098 |
+| a saw | مِنْشَار | a saw | VOCAB | voc-122 |
 | a sentence which has no possibility of being true or false | جُمْلَة إِنْشَائِيَّة | a sentence which has no possibility of being true or false — such as a | ARB-201 | nahw-077 |
 | a sentence which has the possibility of being true or false | جُمْلَة خَبَرِيَّة | a sentence which has the possibility of being true or false — a statem | ARB-201 | nahw-076 |
 | a separated | ضَمِير مُنْفَصِل (ḍamīr munfaṣil) | a separated, standalone pronoun | ARB-201 | sarf-016 |
 | a sheep | شَاة | a sheep | VOCAB | voc-058 |
 | a shepherd | رَاعٍ | a shepherd | VOCAB | voc-056 |
+| a side | جَنْب | a side, a flank | VOCAB | voc-102 |
 | a sign | أَمَارَة | a sign — synonym of عَلَامَة | VOCAB | voc-048 |
 | a sign of femininity | عَلَامَة التَّأْنِيث (ʿalāmat al-taʾnīth) | a sign of femininity — not a pronoun | ARB-201 | sarf-029 |
+| a small group of men | نَفَر | a small group of men | VOCAB | voc-124 |
+| a summit | ذِرْوَة | a summit, a peak | VOCAB | voc-126 |
 | a thigh | فَخِذ | a thigh | VOCAB | voc-046 |
 | a trace | أَثَر | a trace | VOCAB | voc-042 |
 | a transaction | العُقُود (al-ʿuqūd) | a transaction | ARB-201 | nahw-101 |
 | a visible pronoun | ضَمِير بَارِز (ḍamīr bāriz) | a visible pronoun — attached to the verb as a suffix | ARB-201 | sarf-020 |
+| a word whose ending changes with its grammatical state | مُعْرَب (muʿrab) | a word whose ending changes with its grammatical state | ARB-201 | sarf-134 |
+| a word whose ending does not change | مَبْنِيّ (mabnī) | a word whose ending does not change — it has no إِعْرَاب | ARB-201 | sarf-133 |
 | a ḥanafī primer giving an overview of islamic law | مُخْتَصَر القُدُورِي (Mukhtaṣar al-Qudūrī) | a Ḥanafī primer giving an overview of Islamic law | HDT-201 | arb-001 |
 | amazement | التَّعَجُّب (al-taʿajjub) | amazement | ARB-201 | nahw-100 |
 | an absolute mujtahid | مُجْتَهِد مُطْلَق (mujtahid muṭlaq) | an absolute mujtahid — one who derives law independently; Muḥammad ibn | HDT-201 | qud-101 |
+| an affirmative verb | مُثْبَت (muthbat) | an affirmative verb — the action did take place | ARB-201 | sarf-161 |
 | an assignment that is also an expression | The walrus operator | an assignment that is also an expression — it returns the value assign | ICS-H32 | pyth-104 |
 | an attached pronoun | ضَمِير مُتَّصِل (ḍamīr muttaṣil) | an attached pronoun | ARB-201 | sarf-015 |
+| an excuse | عُذْر | an excuse | VOCAB | voc-104 |
+| an instrument | أَدَاة | an instrument, a tool | VOCAB | voc-120 |
 | an oath | القَسَم (al-qasam) | an oath | ARB-201 | nahw-099 |
 | an utterance to which a meaning has been assigned | مَوْضُوع (mawḍūʿ) | an utterance to which a meaning has been assigned | ARB-201 | nahw-017 |
 | an utterance to which no meaning has been assigned | مُهْمَل (muhmal) | an utterance to which no meaning has been assigned | ARB-201 | nahw-018 |
@@ -64,20 +82,26 @@ None. Regenerated on every build.
 | exclamation | النِّدَاء (al-nidāʾ) | exclamation — calling out to someone | ARB-201 | nahw-097 |
 | families two and above | ثُلَاثِي مَزِيد فِيه (thulāthī mazīd fīh) | families two and above — the هُوَ form does carry extra letters | ARB-201 | sarf-106 |
 | family one | ثُلَاثِي مُجَرَّد (thulāthī mujarrad) | family one — the هُوَ form carries no extra letter | ARB-201 | sarf-105 |
+| far be it! how impossible! | هَيْهَاتَ | far be it! how impossible! — invariable interjection | VOCAB | voc-133 |
 | feminine | مُؤَنَّث (muʾannath) | feminine | ARB-201 | sarf-009 |
 | first person | مُتَكَلِّم (mutakallim) | first person | ARB-201 | sarf-006 |
 | for a while | مَلِيًّا | for a while — a considerable length of time | VOCAB | voc-061 |
+| honour | شَرَف | honour, nobility, high standing | VOCAB | voc-100 |
 | hope | التَّرَجِّي (al-tarajjī) | hope — wanting what you think is possible | ARB-201 | nahw-096 |
 | indefinite | نَكِرَة (nakirah) | indefinite | ARB-201 | nahw-110 |
+| leadership | رِيَاسَة | leadership, chieftaincy | VOCAB | voc-130 |
 | linguistically | لُغَةً (lughatan) | linguistically — a definition by the word's ordinary language sense | HDT-201 | qud-004 |
 | major ritual impurity | الحَدَث الأَكْبَر | major ritual impurity | HDT-201 | tah-009 |
 | masculine | مُذَكَّر (mudhakkar) | masculine | ARB-201 | sarf-008 |
+| may it be wholesome | هَنِيئاً | may it be wholesome — “congratulations” — invariable adverbial | VOCAB | voc-132 |
 | minor ritual impurity | الحَدَث الأَصْغَر | minor ritual impurity | HDT-201 | tah-008 |
 | non-causative | حَرْف غَيْر عَامِل (ghayr ʿāmil) | non-causative — a ḥarf which causes no change in the grammatical state | ARB-201 | nahw-072 |
 | north korea's unquestioned belief in the superiority of its system and the leadership of the kim family | Juche | North Korea's unquestioned belief in the superiority of its system and | RELSTD-5B | wrel-074 |
+| one born blind | أَكْمَه | one born blind | VOCAB | voc-116 |
 | one who performs ijtihād | مُجْتَهِد قَطْعِي (mujtahid qaṭʿī) | one who performs ijtihād — the master-jurist a madhhab is named for | HDT-201 | qud-041 |
 | praise expressed verbally | حَمْد (ḥamd) | praise expressed verbally, given whether or not a favour has been rece | HDT-201 | arb-064 |
 | preventive | مَانِع (māniʿ) | preventive — a definition excludes whatever is not necessary to it | HDT-201 | qud-008 |
+| propaganda | دِعَايَة | propaganda, promotion, publicity | VOCAB | voc-128 |
 | rinsing the mouth | المَضْمَضَة (al-maḍmaḍah) | rinsing the mouth | HDT-201 | qud-157 |
 | ritual or legal impurity | نَجَاسَة حُكْمِيَّة | ritual or legal impurity | HDT-201 | tah-006 |
 | robert bellah's 1985 concept for americans who mix and choose their own religion | Sheilaism | Robert Bellah's 1985 concept for Americans who mix and choose their ow | RELSTD-5B | wrel-050 |
@@ -89,16 +113,20 @@ None. Regenerated on every build.
 | someone who is poor | عَالٍ | someone who is poor | VOCAB | voc-054 |
 | someone who is unclothed | عَارٍ | someone who is unclothed | VOCAB | voc-052 |
 | someone with no shoes | حَافٍ | someone with no shoes; barefoot | VOCAB | voc-050 |
+| something the prophet ﷺ did as a human being | سُنَّة زَائِدَة (sunnah zāʾidah) | something the Prophet ﷺ did as a human being, rather than as an act of | HDT-201 | qud-204 |
 | technically | اِصْطِلَاحًا (iṣṭilāḥan) | technically — a definition by the term's specialist usage | HDT-201 | qud-005 |
 | thanks given specifically in response to a favour received | شُكْر (shukr) | thanks given specifically in response to a favour received | HDT-201 | arb-065 |
+| the active voice | مَعْلُوم (maʿlūm) | the active voice — literally, the one whose doer is known | ARB-201 | sarf-125 |
 | the categories verbs are divided into | بَاب / أَبْوَاب (bāb / abwāb) | the categories verbs are divided into, by the vowel combinations of th | ARB-201 | sarf-103 |
 | the condition of the last letter of a word | إِعْرَاب (iʿrāb) | the condition of the last letter of a word | ARB-201 | nahw-009 |
 | the describing word in a التَّوْصِيفِيّ phrase | صِفَة (ṣifah) | the describing word in a التَّوْصِيفِيّ phrase | ARB-201 | nahw-129 |
 | the diminutive form | مُصَغَّر (muṣaghghar) | the diminutive form | ARB-201 | nahw-117 |
 | the doer | فَاعِل (fāʿil) | the doer — the second part of a verbal sentence | ARB-201 | nahw-085 |
 | the everlasting miracle | المُعْجِزَة الخَالِدَة (al-muʿjizah al-khālidah) | the everlasting miracle — the Qurʾān | HDT-201 | arb-016 |
+| the finest of the acts of obedience | غُرَّة الطَّاعَات (ghurrat al-ṭāʿāt) | the finest of the acts of obedience — a name for the ṣalāh | HDT-201 | arbh-078 |
 | the first word of an إِضَافَة | مُضَاف (muḍāf) | the first word of an إِضَافَة — the thing attributed | ARB-201 | nahw-134 |
 | the future tense | المُسْتَقْبَل (al-mustaqbal) | the future tense | ARB-201 | sarf-072 |
+| the great pillar of the religion | عِمَاد الدِّين (ʿimād al-dīn) | the great pillar of the religion — a name for the ṣalāh | HDT-201 | arbh-077 |
 | the greatest imām | الإِمَام الأَعْظَم (al-imām al-aʿẓam) | the greatest Imām — Abū Ḥanīfah's honorific title | HDT-201 | qud-053 |
 | the historical report | حَدِيث (ḥadīth) | the historical report — the container that preserves the Sunnah | HDT-201 | arb-004 |
 | the interrogative | الاِسْتِفْهَام (al-istifhām) | the interrogative — asking a question | ARB-201 | nahw-094 |
@@ -107,6 +135,7 @@ None. Regenerated on every build.
 | the negative command | النَّهْي (al-nahy) | the negative command | ARB-201 | nahw-067 |
 | the nullifiers of wuḍūʾ | نَوَاقِض الوُضُوء (nawāqiḍ al-wuḍūʾ) | the nullifiers of wuḍūʾ — what causes minor ritual impurity | HDT-201 | qud-173 |
 | the one being called | مُنَادَى (munādā) | the one being called | ARB-201 | nahw-119 |
+| the passive voice | مَجْهُول (majhūl) | the passive voice — literally, the one whose doer is unknown | ARB-201 | sarf-126 |
 | the past tense | مَاضِي (māḍī) | the past tense | ARB-201 | sarf-066 |
 | the phrase that separates the opening praise from the body of an address | أَمَّا بَعْدُ (ammā baʿdu) | the phrase that separates the opening praise from the body of an addre | HDT-201 | arb2-001 |
 | the positive command | الأَمْر (al-amr) | the positive command | ARB-201 | nahw-066 |
@@ -122,6 +151,7 @@ None. Regenerated on every build.
 | the separation of speech | فَصْل الخِطَاب (faṣl al-khiṭāb) | the separation of speech — the function performed by أَمَّا بَعْدُ | HDT-201 | arb2-002 |
 | the six books of muḥammad ibn al-ḥasan | ظَاهِر الرِّوَايَة (Ẓāhir al-Riwāyah) | the six books of Muḥammad ibn al-Ḥasan — considered the backbone of th | HDT-201 | qud-102 |
 | the subject | مُبْتَدَأ (mubtadaʾ) | the subject — the first part of a nominal sentence | ARB-201 | nahw-081 |
+| the sweetness of faith | حَلَاوَة الإِيمَان (ḥalāwat al-īmān) | the sweetness of faith — when ṣalāh is enjoyable rather than a burden | HDT-201 | arbh-095 |
 | the tool of exclusivity | أَدَاة الحَصْر (adāt al-ḥaṣr) | the tool of exclusivity — إِنَّمَا | HDT-201 | arbh-027 |
 | the word about which the information is being given | مُسْنَد إِلَيْهِ (musnad ilayhi) | the word about which the information is being given | ARB-201 | nahw-083 |
 | the word being described in a التَّوْصِيفِيّ phrase | مَوْصُوف (mawṣūf) | the word being described in a التَّوْصِيفِيّ phrase | ARB-201 | nahw-130 |
@@ -133,27 +163,74 @@ None. Regenerated on every build.
 | the “primary” اِسْم | جَامِد (jāmid) | the “primary” اِسْم — not derived from anything, and nothing is derive | ARB-201 | nahw-038 |
 | the “root” اِسْم | مَصْدَر (maṣdar) | the “root” اِسْم — an اِسْم from which many words are derived | ARB-201 | nahw-039 |
 | third person | غَائِب (ghāʾib) | third person | ARB-201 | sarf-004 |
+| to abide forever | خَلَدَ | to abide forever | VOCAB | voc-158 |
 | to appear | طَلَعَ | to appear | VOCAB | voc-032 |
 | to be many | كَثُرَ | to be many | VOCAB | voc-005 |
 | to be of many types | تَنَوَّعَ | to be of many types | VOCAB | voc-001 |
 | to be pleased (with) | رَضِيَ | to be pleased (with) | VOCAB | voc-030 |
+| to be sound | صَلَحَ | to be sound, to be right | VOCAB | voc-176 |
+| to bear | تَحَمَّلَ | to bear, to endure | VOCAB | voc-064 |
+| to build | بَنَى | to build | VOCAB | voc-138 |
 | to clarify | تَبْيِين (tabyīn) | to clarify — one of the primary jobs of the Prophet ﷺ | HDT-201 | arb-014 |
+| to come | أَتَى | to come | VOCAB | voc-072 |
 | to come earlier | تَقَدَّمَ | to come earlier, to precede | VOCAB | voc-011 |
 | to come later | تَأَخَّرَ | to come later, to be delayed | VOCAB | voc-013 |
+| to compel | أَكْرَهَ | to compel, to force | VOCAB | voc-074 |
 | to compete | تَطَاوَلَ | to compete | VOCAB | voc-040 |
 | to connect | أَسْنَدَ | to connect | VOCAB | voc-034 |
 | to convey | أَدَّى | to convey, to deliver | VOCAB | voc-025 |
 | to count | أَحْصَى | to count, to enumerate | VOCAB | voc-009 |
+| to create | خَلَقَ | to create | VOCAB | voc-160 |
+| to cure | أَبْرَأَ | to cure, to heal | VOCAB | voc-086 |
+| to disbelieve | كَفَرَ | to disbelieve | VOCAB | voc-188 |
+| to divide among themselves | تَقَاسَمَ | to divide among themselves; to swear to one another | VOCAB | voc-092 |
+| to enter | دَخَلَ | to enter | VOCAB | voc-162 |
+| to envy | حَسَدَ | to envy | VOCAB | voc-150 |
+| to establish | أَقَامَ | to establish, to set up; to perform (the prayer) | VOCAB | voc-140 |
+| to fabricate | اِفْتَرَى | to fabricate, to slander | VOCAB | voc-098 |
+| to fall | وَقَعَ | to fall; to occur | VOCAB | voc-070 |
 | to follow | اِقْتَدَى | to follow, to take as a model | VOCAB | voc-017 |
+| to gather | حَشَرَ | to gather, to assemble | VOCAB | voc-152 |
 | to give birth | وَلَدَ | to give birth | VOCAB | voc-038 |
+| to go out | خَرَجَ | to go out | VOCAB | voc-156 |
+| to greet with salām | سَلَّمَ | to greet with salām; to submit; to hand over | VOCAB | voc-136 |
+| to grow old | كَبِرَ | to grow old | VOCAB | voc-078 |
+| to hurl or plunge someone into | أَقْحَمَ | to hurl or plunge someone into | VOCAB | voc-094 |
+| to incline | مَالَ | to incline, to lean toward | VOCAB | voc-096 |
+| to judge | حَكَمَ | to judge, to rule | VOCAB | voc-154 |
+| to kill | قَتَلَ | to kill | VOCAB | voc-182 |
+| to leave | تَرَكَ | to leave, to abandon | VOCAB | voc-148 |
 | to make someone radiant | نَضَّرَ | to make someone radiant | VOCAB | voc-021 |
+| to mention | ذَكَرَ | to mention, to remember | VOCAB | voc-164 |
+| to pass | مَضَى | to pass, to go on | VOCAB | voc-084 |
+| to perceive | شَعَرَ | to perceive, to be aware | VOCAB | voc-170 |
+| to perform the pilgrimage | حَجَّ | to perform the pilgrimage | VOCAB | voc-142 |
 | to persist in | وَاظَبَ (wāẓaba) | to persist in, to do consistently — the word that makes a sunnah مُؤَك | HDT-201 | qud-118 |
+| to plot | مَكَرَ | to plot, to scheme | VOCAB | voc-190 |
+| to pray | صَلَّى | to pray | VOCAB | voc-134 |
+| to prepare | أَعَدَّ | to prepare | VOCAB | voc-066 |
 | to preserve | وَعَى | to preserve, to memorise | VOCAB | voc-023 |
+| to prostrate | سَجَدَ | to prostrate | VOCAB | voc-168 |
+| to provide sustenance | رَزَقَ | to provide sustenance | VOCAB | voc-166 |
+| to reach | بَلَغَ | to reach, to attain | VOCAB | voc-146 |
+| to refuse | أَبَى | to refuse | VOCAB | voc-090 |
 | to rely on | اِعْتَمَدَ | to rely on | VOCAB | voc-019 |
 | to see | رَأَى | to see | VOCAB | voc-036 |
 | to seek what is good | اِسْتَخَارَ | to seek what is good | VOCAB | voc-015 |
+| to send | بَعَثَ | to send; to resurrect | VOCAB | voc-080 |
+| to sit | قَعَدَ | to sit | VOCAB | voc-184 |
+| to speak the truth | صَدَقَ | to speak the truth | VOCAB | voc-174 |
+| to split | صَدَعَ | to split, to crack; with بِ, to proclaim openly | VOCAB | voc-076 |
+| to spread out | بَسَطَ | to spread out, to extend | VOCAB | voc-144 |
+| to stand firm | ثَبَتَ | to stand firm, to be steadfast | VOCAB | voc-068 |
+| to thank | شَكَرَ | to thank | VOCAB | voc-172 |
+| to transgress | فَسَقَ | to transgress, to act immorally | VOCAB | voc-180 |
+| to travel a path | سَلَكَ | to travel a path, to follow a road | VOCAB | voc-082 |
+| to treat medically | دَاوَى | to treat medically | VOCAB | voc-088 |
 | to will | شَاءَ | to will, to want | VOCAB | voc-003 |
+| to worship | عَبَدَ | to worship | VOCAB | voc-178 |
 | to write | صَنَّفَ | to write, to compose | VOCAB | voc-007 |
+| to write | كَتَبَ | to write | VOCAB | voc-186 |
 | undue difficulty | حَرَج (ḥaraj) | undue difficulty — the principle exempting a woman from undoing her br | HDT-201 | qud-196 |
 | which operand goes first when operators are at the same level | Associativity | which operand goes first when operators are at the same level | ICS-H32 | pyth-021 |
 | which operator python evaluates first when they differ in level | Precedence | which operator Python evaluates first when they differ in level | ICS-H32 | pyth-020 |
