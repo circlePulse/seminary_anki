@@ -2,43 +2,44 @@
 
 Read this first, then `skill/SKILL.md` in full, then `registry/courses.json`.
 
-## Where this now lives
+## GitHub is the source of truth
 
-This project has moved out of a chat sandbox and onto the user's own machine, run
-through **Claude Code** in the Claude Desktop app. That changes the most important
-thing about it: **the folder you are working in is permanent.** It is not rebuilt
-each session and it does not disappear when the conversation ends.
+This project runs in a **Claude Code cloud session**. The workspace you are in is
+**ephemeral** — it is discarded when the session ends, and only files explicitly
+delivered to the user survive it.
 
-Everything below assumes that. If you find yourself about to reconstruct state from
-an `.apkg`, from Notion, or from the conversation — stop. The files are on disk.
+So the remote at `github.com/circlePulse/seminary_anki` is the source of truth, and
+this is the whole discipline:
 
-Two constraints that come with the setup:
+> **Pull at the start of every session. Push at the end of every session.**
+> Work that is not pushed is lost when the session ends, silently.
 
-- Reaching local files needs the Claude Desktop app open and connected.
-- **Run sessions locally, not in the cloud.** In a cloud session only files that are
-  explicitly delivered are kept; working files are discarded when the session ends.
-  That is precisely the failure mode this move is meant to end.
+That is not a best practice here, it is the only persistence there is. If a push
+fails — auth, conflict, anything — **say so loudly and do not end the session
+quietly.** The user needs to know the work did not survive. This project has already
+lost five weeks once to an unpushed workspace; the difference now is that you have
+git and credentials and can actually close the loop.
 
-Connectors — Notion in particular — stay linked across sessions, so fetching the
-class notes works the same way it always has.
+The three files that matter most — `ids.lock.json`, `delivered.json`, `decks/*.json`
+— are plain text and are committed. Everything in `build/` is regenerable and stays
+gitignored.
 
-## First run, once
+## First session only: seed the remote
 
-1. Confirm the folder is a git repo with history: `git log --oneline | head`.
-   You should see about 19 commits, most recent first.
-2. `git remote -v` — the remote is `github.com/circlePulse/seminary_anki`.
-   **It is roughly five weeks and 18 commits behind this folder.** It holds the state
-   of 2026-09-10: ~330 notes, no Python deck, no World Religions deck, none of the
-   delta machinery.
-3. **Push, and do not pull first.** A merge or rebase against that stale remote is a
-   good way to lose five weeks. `git push origin main` — force it if the remote has
-   diverged, after checking nothing on it is newer than this folder.
-4. `pip install genanki` if it isn't present, then `./build.sh`. It should report
-   1,081 ids, none lost, and no pending deliveries.
+The remote currently holds the state of 2026-09-10 — about 330 notes, no Python deck,
+no World Religions deck, none of the delta machinery. It is **18 commits behind** the
+zip the user is giving you.
 
-From then on: **commit and push at the end of every session.** Git is right there
-now; the reason this drifted before was that pushing was a manual step outside the
-tool doing the work. It no longer is.
+1. Start from the zip, not from a clone. It contains the full history.
+2. `git log --oneline | head` — about 19 commits, newest first.
+3. **Push without pulling.** A merge or rebase against that stale remote would fold
+   five weeks of work into a September snapshot. Force the push after confirming
+   nothing on the remote is newer than the zip.
+4. `git log --oneline origin/main | head` to confirm the remote now matches.
+5. `pip install genanki`, then `./build.sh` — expect 1,081 ids, none lost, no pending
+   deliveries.
+
+Every session after this one starts with a normal pull.
 
 ## What this is
 
@@ -70,9 +71,11 @@ Current state: **1,081 notes across 10 decks.**
 2. Read the domain packs for that course before drafting.
 3. Edit `decks/X.json`. Ids are append-only — see below.
 4. `python3 skill/scripts/generate_deck.py decks/X.json --delta`
-5. Tell the user the `.apkg` is in `build/` and what is in it — how many new, how many
-   changed. They import it from there; no download step any more.
-6. `./build.sh` to regenerate the registry, then commit and push.
+5. **Deliver the `.apkg` to the user.** In a cloud session anything left in `build/`
+   is discarded — it has to be handed over explicitly or it does not exist. Say what
+   is in it: how many new, how many changed.
+6. `./build.sh` to regenerate the registry.
+7. **Commit and push.** Confirm the push succeeded before ending the session.
 
 ## Three files you cannot afford to lose
 
@@ -87,8 +90,10 @@ Current state: **1,081 notes across 10 decks.**
 - **`decks/*.json`** — the source. Never rebuild a deck from Notion, from an `.apkg`,
   or from the conversation.
 
-Now that these sit on a real disk, back them up like any other work. They are the
-only thing here that cannot be regenerated.
+These are the only things here that cannot be regenerated, and in a cloud session
+they exist only in the commit you push. An unpushed change to `ids.lock.json` is the
+worst possible thing to lose: the next session would reassign ids, and every note
+would import as a duplicate with its review history orphaned.
 
 ## Deliver only what changed
 
