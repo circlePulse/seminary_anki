@@ -1275,7 +1275,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "qud-110",
-   "text": "فَرْض: {{c1::مَا ثَبَتَ بِدَلِيلٍ قَطْعِيٍّ}} {{c2::لَا شُبْهَةَ فِيهِ}}",
+   "text": "<div class=\"arabic\">فَرْض: {{c1::مَا ثَبَتَ بِدَلِيلٍ قَطْعِيٍّ}} {{c2::لَا شُبْهَةَ فِيهِ}}</div>",
    "extra": "That which is established by a definitive proof, in which there is no doubt.",
    "tags": [
     "quduri",
@@ -1312,7 +1312,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "سُنَّة مُؤَكَّدَة: {{c1::مَا وَاظَبَ عَلَيْهِ النَّبِيُّ ﷺ}} {{c2::مَعَ تَرْكِهِ أَحْيَانًا}}",
+   "text": "<div class=\"arabic\">سُنَّة مُؤَكَّدَة: {{c1::مَا وَاظَبَ عَلَيْهِ النَّبِيُّ ﷺ}} {{c2::مَعَ تَرْكِهِ أَحْيَانًا}}</div>",
    "extra": "What the Prophet ﷺ persisted in, while leaving it on occasion.",
    "tags": [
     "quduri",
@@ -1338,7 +1338,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "سُنَّة غَيْر مُؤَكَّدَة: {{c1::مَا فَعَلَهُ النَّبِيُّ ﷺ مَرَّةً}} {{c2::وَتَرَكَهُ أُخْرَى}}",
+   "text": "<div class=\"arabic\">سُنَّة غَيْر مُؤَكَّدَة: {{c1::مَا فَعَلَهُ النَّبِيُّ ﷺ مَرَّةً}} {{c2::وَتَرَكَهُ أُخْرَى}}</div>",
    "extra": "What the Prophet ﷺ did at one time and left at another.",
    "tags": [
     "quduri",
@@ -1405,7 +1405,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "tah-002",
-   "text": "طَهَارَة اِصْطِلَاحًا: {{c1::النَّظَافَةُ عَنِ النَّجَاسَةِ}} {{c2::حَقِيقِيَّةً كَانَتْ أَوْ حُكْمِيَّةً}}",
+   "text": "<div class=\"arabic\">طَهَارَة اِصْطِلَاحًا: {{c1::النَّظَافَةُ عَنِ النَّجَاسَةِ}} {{c2::حَقِيقِيَّةً كَانَتْ أَوْ حُكْمِيَّةً}}</div>",
    "extra": "Cleanliness from impurity, whether that impurity be actual or ritual.",
    "tags": [
     "quduri",

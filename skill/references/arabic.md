@@ -67,9 +67,24 @@ defaults to `dir="auto"`, which resolves from the first strong character in its
 content — that is the entire point of it. Set `direction` explicitly only on a class
 like `.ar` used on known-Arabic content.
 
-**Block-level Arabic** (a whole matn, a full-Arabic table cell) uses
-`<div class="arabic">`; block elements establish their own direction, so isolation is
-automatic there.
+**A line that is entirely Arabic goes in one `<div class="arabic">` — never per-run
+`<bdi>`.** This covers a whole matn, a vocabulary paradigm, a singular/plural pair, an
+Arabic definition with blanks, and a full-Arabic table cell. The card's base direction
+is LTR, and isolates inside an LTR line are laid out **left to right**, so
+`<bdi>تَحَمَّلَ</bdi> — {{c1::<bdi>يَتَحَمَّلُ</bdi>}} — …` puts the مَاضِي on the
+*left*: backwards to a reader of Arabic. 63 vocab cards shipped like this and were
+fixed on 2026-10-01. A bare all-Arabic line without any wrapper reads in the right
+order until a blank sits at either end. That blank then drifts to the wrong side,
+because a trailing or leading `[...]` resolves against the LTR card, not the Arabic.
+
+```html
+<div class="arabic">نَصَرَ — {{c1::يَنْصُرُ}} — {{c2::اُنْصُرْ}} — {{c3::نَصْر}}</div>
+<div class="arabic">{{c2::كِتَاب}} (مُفْرَد) — {{c1::كُتُب}} (جَمْع)</div>
+```
+
+The مَاضِي (or the مُفْرَد) is written first and renders rightmost. `<bdi>` is only
+for an Arabic run inside a line that also has Latin text. `generate_deck.py` warns
+(`RTL — …`) when an all-Arabic field sits outside the block.
 
 - Rendering (BiDi, `direction: ltr`, dark mode, fonts) is a template concern — keep it out of card content and solve it once in the CSS. See §15.
 

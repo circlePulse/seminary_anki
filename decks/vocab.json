@@ -19,7 +19,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-002",
-   "text": "تَنَوَّعَ — {{c1::يَتَنَوَّعُ}} — {{c2::تَنَوَّعْ}} — {{c3::تَنَوُّع}}",
+   "text": "<div class=\"arabic\">تَنَوَّعَ — {{c1::يَتَنَوَّعُ}} — {{c2::تَنَوَّعْ}} — {{c3::تَنَوُّع}}</div>",
    "extra": "to be of many types · Form V",
    "tags": [
     "vocab",
@@ -42,7 +42,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-004",
-   "text": "شَاءَ — {{c1::يَشَاءُ}} — {{c2::شَأْ}} — {{c3::مَشِيئَة}}",
+   "text": "<div class=\"arabic\">شَاءَ — {{c1::يَشَاءُ}} — {{c2::شَأْ}} — {{c3::مَشِيئَة}}</div>",
    "extra": "to will, to want · Form I (hollow)",
    "tags": [
     "vocab",
@@ -65,7 +65,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-006",
-   "text": "كَثُرَ — {{c1::يَكْثُرُ}} — {{c2::اُكْثُرْ}} — {{c3::كَثْرَة}}",
+   "text": "<div class=\"arabic\">كَثُرَ — {{c1::يَكْثُرُ}} — {{c2::اُكْثُرْ}} — {{c3::كَثْرَة}}</div>",
    "extra": "to be many · Form I",
    "tags": [
     "vocab",
@@ -88,7 +88,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-008",
-   "text": "صَنَّفَ — {{c1::يُصَنِّفُ}} — {{c2::صَنِّفْ}} — {{c3::تَصْنِيف}}",
+   "text": "<div class=\"arabic\">صَنَّفَ — {{c1::يُصَنِّفُ}} — {{c2::صَنِّفْ}} — {{c3::تَصْنِيف}}</div>",
    "extra": "to write, to compose · Form II",
    "tags": [
     "vocab",
@@ -111,7 +111,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-010",
-   "text": "أَحْصَى — {{c1::يُحْصِي}} — {{c2::أَحْصِ}} — {{c3::إِحْصَاء}}",
+   "text": "<div class=\"arabic\">أَحْصَى — {{c1::يُحْصِي}} — {{c2::أَحْصِ}} — {{c3::إِحْصَاء}}</div>",
    "extra": "to count, to enumerate · Form IV (defective)",
    "tags": [
     "vocab",
@@ -134,7 +134,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-012",
-   "text": "تَقَدَّمَ — {{c1::يَتَقَدَّمُ}} — {{c2::تَقَدَّمْ}} — {{c3::تَقَدُّم}}",
+   "text": "<div class=\"arabic\">تَقَدَّمَ — {{c1::يَتَقَدَّمُ}} — {{c2::تَقَدَّمْ}} — {{c3::تَقَدُّم}}</div>",
    "extra": "to come earlier, to precede · Form V",
    "tags": [
     "vocab",
@@ -157,7 +157,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-014",
-   "text": "تَأَخَّرَ — {{c1::يَتَأَخَّرُ}} — {{c2::تَأَخَّرْ}} — {{c3::تَأَخُّر}}",
+   "text": "<div class=\"arabic\">تَأَخَّرَ — {{c1::يَتَأَخَّرُ}} — {{c2::تَأَخَّرْ}} — {{c3::تَأَخُّر}}</div>",
    "extra": "to come later, to be delayed · Form V",
    "tags": [
     "vocab",
@@ -180,7 +180,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-016",
-   "text": "اِسْتَخَارَ — {{c1::يَسْتَخِيرُ}} — {{c2::اِسْتَخِرْ}} — {{c3::اِسْتِخَارَة}}",
+   "text": "<div class=\"arabic\">اِسْتَخَارَ — {{c1::يَسْتَخِيرُ}} — {{c2::اِسْتَخِرْ}} — {{c3::اِسْتِخَارَة}}</div>",
    "extra": "to seek what is good · Form X",
    "tags": [
     "vocab",
@@ -203,7 +203,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-018",
-   "text": "اِقْتَدَى — {{c1::يَقْتَدِي}} — {{c2::اِقْتَدِ}} — {{c3::اِقْتِدَاء}}",
+   "text": "<div class=\"arabic\">اِقْتَدَى — {{c1::يَقْتَدِي}} — {{c2::اِقْتَدِ}} — {{c3::اِقْتِدَاء}}</div>",
    "extra": "to follow, to take as a model · Form VIII (defective)",
    "tags": [
     "vocab",
@@ -226,7 +226,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-020",
-   "text": "اِعْتَمَدَ — {{c1::يَعْتَمِدُ}} — {{c2::اِعْتَمِدْ}} — {{c3::اِعْتِمَاد}}",
+   "text": "<div class=\"arabic\">اِعْتَمَدَ — {{c1::يَعْتَمِدُ}} — {{c2::اِعْتَمِدْ}} — {{c3::اِعْتِمَاد}}</div>",
    "extra": "to rely on · Form VIII",
    "tags": [
     "vocab",
@@ -249,7 +249,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-022",
-   "text": "نَضَّرَ — {{c1::يُنَضِّرُ}} — {{c2::نَضِّرْ}} — {{c3::تَنْضِير}}",
+   "text": "<div class=\"arabic\">نَضَّرَ — {{c1::يُنَضِّرُ}} — {{c2::نَضِّرْ}} — {{c3::تَنْضِير}}</div>",
    "extra": "to make someone radiant · Form II",
    "tags": [
     "vocab",
@@ -272,7 +272,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-024",
-   "text": "وَعَى — {{c1::يَعِي}} — {{c2::عِ}} — {{c3::وَعْي}}",
+   "text": "<div class=\"arabic\">وَعَى — {{c1::يَعِي}} — {{c2::عِ}} — {{c3::وَعْي}}</div>",
    "extra": "to preserve, to memorise · Form I (assimilated + defective)",
    "tags": [
     "vocab",
@@ -295,7 +295,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-026",
-   "text": "أَدَّى — {{c1::يُؤَدِّي}} — {{c2::أَدِّ}} — {{c3::تَأْدِيَة}}",
+   "text": "<div class=\"arabic\">أَدَّى — {{c1::يُؤَدِّي}} — {{c2::أَدِّ}} — {{c3::تَأْدِيَة}}</div>",
    "extra": "to convey, to deliver · Form II (defective)",
    "tags": [
     "vocab",
@@ -318,7 +318,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "voc-028",
-   "text": "{{c2::زُمْرَة}} (مُفْرَد) — {{c1::زُمَر}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::زُمْرَة}} (مُفْرَد) — {{c1::زُمَر}} (جَمْع)</div>",
    "extra": "a company or group of people",
    "tags": [
     "vocab",
@@ -354,7 +354,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "رَضِيَ — {{c1::يَرْضَى}} — {{c2::اِرْضَ}} — {{c3::رِضًا}}",
+   "text": "<div class=\"arabic\">رَضِيَ — {{c1::يَرْضَى}} — {{c2::اِرْضَ}} — {{c3::رِضًا}}</div>",
    "extra": "to be pleased (with) · Form I (defective)",
    "tags": [
     "vocab",
@@ -381,7 +381,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "طَلَعَ — {{c1::يَطْلُعُ}} — {{c2::اُطْلُعْ}} — {{c3::طُلُوع}}",
+   "text": "<div class=\"arabic\">طَلَعَ — {{c1::يَطْلُعُ}} — {{c2::اُطْلُعْ}} — {{c3::طُلُوع}}</div>",
    "extra": "to appear · Form I",
    "tags": [
     "vocab",
@@ -408,7 +408,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "أَسْنَدَ — {{c1::يُسْنِدُ}} — {{c2::أَسْنِدْ}} — {{c3::إِسْنَاد}}",
+   "text": "<div class=\"arabic\">أَسْنَدَ — {{c1::يُسْنِدُ}} — {{c2::أَسْنِدْ}} — {{c3::إِسْنَاد}}</div>",
    "extra": "to connect · Form IV",
    "tags": [
     "vocab",
@@ -435,7 +435,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "رَأَى — {{c1::يَرَى}} — {{c2::رَ}} — {{c3::رُؤْيَة}}",
+   "text": "<div class=\"arabic\">رَأَى — {{c1::يَرَى}} — {{c2::رَ}} — {{c3::رُؤْيَة}}</div>",
    "extra": "to see · Form I (hamzated + defective) · The أَمْر is irregular — a single letter.",
    "tags": [
     "vocab",
@@ -462,7 +462,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "وَلَدَ — {{c1::يَلِدُ}} — {{c2::لِدْ}} — {{c3::وِلَادَة}}",
+   "text": "<div class=\"arabic\">وَلَدَ — {{c1::يَلِدُ}} — {{c2::لِدْ}} — {{c3::وِلَادَة}}</div>",
    "extra": "to give birth · Form I (assimilated)",
    "tags": [
     "vocab",
@@ -489,7 +489,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "تَطَاوَلَ — {{c1::يَتَطَاوَلُ}} — {{c2::تَطَاوَلْ}} — {{c3::تَطَاوُل}}",
+   "text": "<div class=\"arabic\">تَطَاوَلَ — {{c1::يَتَطَاوَلُ}} — {{c2::تَطَاوَلْ}} — {{c3::تَطَاوُل}}</div>",
    "extra": "to compete · Form VI",
    "tags": [
     "vocab",
@@ -516,7 +516,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c2::أَثَر}} (مُفْرَد) — {{c1::آثَار}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::أَثَر}} (مُفْرَد) — {{c1::آثَار}} (جَمْع)</div>",
    "extra": "a trace",
    "tags": [
     "vocab",
@@ -543,7 +543,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c2::رُكْبَة}} (مُفْرَد) — {{c1::رُكَب}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::رُكْبَة}} (مُفْرَد) — {{c1::رُكَب}} (جَمْع)</div>",
    "extra": "a knee",
    "tags": [
     "vocab",
@@ -570,7 +570,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c2::فَخِذ}} (مُفْرَد) — {{c1::أَفْخَاذ}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::فَخِذ}} (مُفْرَد) — {{c1::أَفْخَاذ}} (جَمْع)</div>",
    "extra": "a thigh",
    "tags": [
     "vocab",
@@ -597,7 +597,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c2::أَمَارَة}} (مُفْرَد) — {{c1::أَمَارَات}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::أَمَارَة}} (مُفْرَد) — {{c1::أَمَارَات}} (جَمْع)</div>",
    "extra": "a sign — synonym of عَلَامَة",
    "tags": [
     "vocab",
@@ -624,7 +624,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c2::حَافٍ}} (مُفْرَد) — {{c1::حُفَاة}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::حَافٍ}} (مُفْرَد) — {{c1::حُفَاة}} (جَمْع)</div>",
    "extra": "someone with no shoes; barefoot",
    "tags": [
     "vocab",
@@ -651,7 +651,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c2::عَارٍ}} (مُفْرَد) — {{c1::عُرَاة}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::عَارٍ}} (مُفْرَد) — {{c1::عُرَاة}} (جَمْع)</div>",
    "extra": "someone who is unclothed",
    "tags": [
     "vocab",
@@ -678,7 +678,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c2::عَالٍ}} (مُفْرَد) — {{c1::عَالَة}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::عَالٍ}} (مُفْرَد) — {{c1::عَالَة}} (جَمْع)</div>",
    "extra": "someone who is poor",
    "tags": [
     "vocab",
@@ -705,7 +705,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c2::رَاعٍ}} (مُفْرَد) — {{c1::رِعَاء}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::رَاعٍ}} (مُفْرَد) — {{c1::رِعَاء}} (جَمْع)</div>",
    "extra": "a shepherd · رِعَاء is the plural in the ḥadīth; رُعَاة is also common.",
    "tags": [
     "vocab",
@@ -732,7 +732,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c2::شَاة}} (مُفْرَد) — {{c1::شَاء}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::شَاة}} (مُفْرَد) — {{c1::شَاء}} (جَمْع)</div>",
    "extra": "a sheep · شَاء is the plural in the ḥadīth; شِيَاه is also common.",
    "tags": [
     "vocab",
@@ -814,7 +814,7 @@
    "tier": 1,
    "id": "voc-065",
    "session": "sep30",
-   "text": "<bdi>تَحَمَّلَ</bdi> — {{c1::<bdi>يَتَحَمَّلُ</bdi>}} — {{c2::<bdi>تَحَمَّلْ</bdi>}} — {{c3::<bdi>تَحَمُّل</bdi>}}",
+   "text": "<div class=\"arabic\">تَحَمَّلَ — {{c1::يَتَحَمَّلُ}} — {{c2::تَحَمَّلْ}} — {{c3::تَحَمُّل}}</div>",
    "extra": "to bear, to endure · Form V · your <bdi>تَحَمُّل</bdi> is the maṣdar",
    "tags": [
     "vocab",
@@ -841,7 +841,7 @@
    "tier": 1,
    "id": "voc-067",
    "session": "sep30",
-   "text": "<bdi>أَعَدَّ</bdi> — {{c1::<bdi>يُعِدُّ</bdi>}} — {{c2::<bdi>أَعِدَّ</bdi>}} — {{c3::<bdi>إِعْدَاد</bdi>}}",
+   "text": "<div class=\"arabic\">أَعَدَّ — {{c1::يُعِدُّ}} — {{c2::أَعِدَّ}} — {{c3::إِعْدَاد}}</div>",
    "extra": "to prepare · Form IV · your <bdi>أُعِدَّ</bdi> is the passive — “it was prepared”",
    "tags": [
     "vocab",
@@ -868,7 +868,7 @@
    "tier": 1,
    "id": "voc-069",
    "session": "sep30",
-   "text": "<bdi>ثَبَتَ</bdi> — {{c1::<bdi>يَثْبُتُ</bdi>}} — {{c2::<bdi>اُثْبُتْ</bdi>}} — {{c3::<bdi>ثَبَات</bdi>}}",
+   "text": "<div class=\"arabic\">ثَبَتَ — {{c1::يَثْبُتُ}} — {{c2::اُثْبُتْ}} — {{c3::ثَبَات}}</div>",
    "extra": "to stand firm, to be steadfast · Form I · your <bdi>الثَّبات</bdi> is the maṣdar",
    "tags": [
     "vocab",
@@ -895,7 +895,7 @@
    "tier": 1,
    "id": "voc-071",
    "session": "sep30",
-   "text": "<bdi>وَقَعَ</bdi> — {{c1::<bdi>يَقَعُ</bdi>}} — {{c2::<bdi>قَعْ</bdi>}} — {{c3::<bdi>وُقُوع</bdi>}}",
+   "text": "<div class=\"arabic\">وَقَعَ — {{c1::يَقَعُ}} — {{c2::قَعْ}} — {{c3::وُقُوع}}</div>",
    "extra": "to fall; to occur · Form I",
    "tags": [
     "vocab",
@@ -922,7 +922,7 @@
    "tier": 1,
    "id": "voc-073",
    "session": "sep30",
-   "text": "<bdi>أَتَى</bdi> — {{c1::<bdi>يَأْتِي</bdi>}} — {{c2::<bdi>اِئْتِ</bdi>}} — {{c3::<bdi>إِتْيَان</bdi>}}",
+   "text": "<div class=\"arabic\">أَتَى — {{c1::يَأْتِي}} — {{c2::اِئْتِ}} — {{c3::إِتْيَان}}</div>",
    "extra": "to come · Form I · your <bdi>الإتيان</bdi> is the maṣdar",
    "tags": [
     "vocab",
@@ -949,7 +949,7 @@
    "tier": 1,
    "id": "voc-075",
    "session": "sep30",
-   "text": "<bdi>أَكْرَهَ</bdi> — {{c1::<bdi>يُكْرِهُ</bdi>}} — {{c2::<bdi>أَكْرِهْ</bdi>}} — {{c3::<bdi>إِكْرَاه</bdi>}}",
+   "text": "<div class=\"arabic\">أَكْرَهَ — {{c1::يُكْرِهُ}} — {{c2::أَكْرِهْ}} — {{c3::إِكْرَاه}}</div>",
    "extra": "to compel, to force · Form IV",
    "tags": [
     "vocab",
@@ -976,7 +976,7 @@
    "tier": 1,
    "id": "voc-077",
    "session": "sep30",
-   "text": "<bdi>صَدَعَ</bdi> — {{c1::<bdi>يَصْدَعُ</bdi>}} — {{c2::<bdi>اِصْدَعْ</bdi>}} — {{c3::<bdi>صَدْع</bdi>}}",
+   "text": "<div class=\"arabic\">صَدَعَ — {{c1::يَصْدَعُ}} — {{c2::اِصْدَعْ}} — {{c3::صَدْع}}</div>",
    "extra": "to split, to crack; with <bdi>بِ</bdi>, to proclaim openly · Form I",
    "tags": [
     "vocab",
@@ -1003,7 +1003,7 @@
    "tier": 1,
    "id": "voc-079",
    "session": "sep30",
-   "text": "<bdi>كَبِرَ</bdi> — {{c1::<bdi>يَكْبَرُ</bdi>}} — {{c2::<bdi>اِكْبَرْ</bdi>}} — {{c3::<bdi>كِبَر</bdi>}}",
+   "text": "<div class=\"arabic\">كَبِرَ — {{c1::يَكْبَرُ}} — {{c2::اِكْبَرْ}} — {{c3::كِبَر}}</div>",
    "extra": "to grow old · Form I · <bdi>كَبُرَ / يَكْبُرُ</bdi> is the other verb — to be large",
    "tags": [
     "vocab",
@@ -1030,7 +1030,7 @@
    "tier": 1,
    "id": "voc-081",
    "session": "sep30",
-   "text": "<bdi>بَعَثَ</bdi> — {{c1::<bdi>يَبْعَثُ</bdi>}} — {{c2::<bdi>اِبْعَثْ</bdi>}} — {{c3::<bdi>بَعْث</bdi>}}",
+   "text": "<div class=\"arabic\">بَعَثَ — {{c1::يَبْعَثُ}} — {{c2::اِبْعَثْ}} — {{c3::بَعْث}}</div>",
    "extra": "to send; to resurrect · Form I",
    "tags": [
     "vocab",
@@ -1057,7 +1057,7 @@
    "tier": 1,
    "id": "voc-083",
    "session": "sep30",
-   "text": "<bdi>سَلَكَ</bdi> — {{c1::<bdi>يَسْلُكُ</bdi>}} — {{c2::<bdi>اُسْلُكْ</bdi>}} — {{c3::<bdi>سُلُوك</bdi>}}",
+   "text": "<div class=\"arabic\">سَلَكَ — {{c1::يَسْلُكُ}} — {{c2::اُسْلُكْ}} — {{c3::سُلُوك}}</div>",
    "extra": "to travel a path, to follow a road · Form I",
    "tags": [
     "vocab",
@@ -1084,7 +1084,7 @@
    "tier": 1,
    "id": "voc-085",
    "session": "sep30",
-   "text": "<bdi>مَضَى</bdi> — {{c1::<bdi>يَمْضِي</bdi>}} — {{c2::<bdi>اِمْضِ</bdi>}} — {{c3::<bdi>مُضِيّ</bdi>}}",
+   "text": "<div class=\"arabic\">مَضَى — {{c1::يَمْضِي}} — {{c2::اِمْضِ}} — {{c3::مُضِيّ}}</div>",
    "extra": "to pass, to go on · Form I · your <bdi>يَمضِيَ</bdi> is the subjunctive",
    "tags": [
     "vocab",
@@ -1111,7 +1111,7 @@
    "tier": 1,
    "id": "voc-087",
    "session": "sep30",
-   "text": "<bdi>أَبْرَأَ</bdi> — {{c1::<bdi>يُبْرِئُ</bdi>}} — {{c2::<bdi>أَبْرِئْ</bdi>}} — {{c3::<bdi>إِبْرَاء</bdi>}}",
+   "text": "<div class=\"arabic\">أَبْرَأَ — {{c1::يُبْرِئُ}} — {{c2::أَبْرِئْ}} — {{c3::إِبْرَاء}}</div>",
    "extra": "to cure, to heal · Form IV · your <bdi>يُبرِؤُ</bdi> is the muḍāriʿ",
    "tags": [
     "vocab",
@@ -1138,7 +1138,7 @@
    "tier": 1,
    "id": "voc-089",
    "session": "sep30",
-   "text": "<bdi>دَاوَى</bdi> — {{c1::<bdi>يُدَاوِي</bdi>}} — {{c2::<bdi>دَاوِ</bdi>}} — {{c3::<bdi>مُدَاوَاة</bdi>}}",
+   "text": "<div class=\"arabic\">دَاوَى — {{c1::يُدَاوِي}} — {{c2::دَاوِ}} — {{c3::مُدَاوَاة}}</div>",
    "extra": "to treat medically · Form III",
    "tags": [
     "vocab",
@@ -1165,7 +1165,7 @@
    "tier": 1,
    "id": "voc-091",
    "session": "sep30",
-   "text": "<bdi>أَبَى</bdi> — {{c1::<bdi>يَأْبَى</bdi>}} — {{c2::<bdi>اِئْبَ</bdi>}} — {{c3::<bdi>إِبَاء</bdi>}}",
+   "text": "<div class=\"arabic\">أَبَى — {{c1::يَأْبَى}} — {{c2::اِئْبَ}} — {{c3::إِبَاء}}</div>",
    "extra": "to refuse · Form I",
    "tags": [
     "vocab",
@@ -1192,7 +1192,7 @@
    "tier": 1,
    "id": "voc-093",
    "session": "sep30",
-   "text": "<bdi>تَقَاعَسَ</bdi> — {{c1::<bdi>يَتَقَاعَسُ</bdi>}} — {{c2::<bdi>تَقَاعَسْ</bdi>}} — {{c3::<bdi>تَقَاعُس</bdi>}}",
+   "text": "<div class=\"arabic\">تَقَاعَسَ — {{c1::يَتَقَاعَسُ}} — {{c2::تَقَاعَسْ}} — {{c3::تَقَاعُس}}</div>",
    "extra": "to hold back, to hesitate · Form VI · in the ḥadīth of the boy and the king, <bdi>فَتَقَاعَسَتْ</bdi> — the mother held back from the trench",
    "tags": [
     "vocab",
@@ -1219,7 +1219,7 @@
    "tier": 1,
    "id": "voc-095",
    "session": "sep30",
-   "text": "<bdi>أَقْحَمَ</bdi> — {{c1::<bdi>يُقْحِمُ</bdi>}} — {{c2::<bdi>أَقْحِمْ</bdi>}} — {{c3::<bdi>إِقْحَام</bdi>}}",
+   "text": "<div class=\"arabic\">أَقْحَمَ — {{c1::يُقْحِمُ}} — {{c2::أَقْحِمْ}} — {{c3::إِقْحَام}}</div>",
    "extra": "to hurl or plunge someone into · Form IV · your <bdi>أقحموه</bdi> carries an object pronoun",
    "tags": [
     "vocab",
@@ -1246,7 +1246,7 @@
    "tier": 1,
    "id": "voc-097",
    "session": "sep30",
-   "text": "<bdi>مَالَ</bdi> — {{c1::<bdi>يَمِيلُ</bdi>}} — {{c2::<bdi>مِلْ</bdi>}} — {{c3::<bdi>مَيْل</bdi>}}",
+   "text": "<div class=\"arabic\">مَالَ — {{c1::يَمِيلُ}} — {{c2::مِلْ}} — {{c3::مَيْل}}</div>",
    "extra": "to incline, to lean toward · Form I · your <bdi>يميلون</bdi> is the muḍāriʿ plural",
    "tags": [
     "vocab",
@@ -1273,7 +1273,7 @@
    "tier": 1,
    "id": "voc-099",
    "session": "sep30",
-   "text": "<bdi>اِفْتَرَى</bdi> — {{c1::<bdi>يَفْتَرِي</bdi>}} — {{c2::<bdi>اِفْتَرِ</bdi>}} — {{c3::<bdi>اِفْتِرَاء</bdi>}}",
+   "text": "<div class=\"arabic\">اِفْتَرَى — {{c1::يَفْتَرِي}} — {{c2::اِفْتَرِ}} — {{c3::اِفْتِرَاء}}</div>",
    "extra": "to fabricate, to slander · Form VIII · your <bdi>إفترا</bdi> is the maṣdar, <bdi>اِفْتِرَاء</bdi>",
    "tags": [
     "vocab",
@@ -1300,7 +1300,7 @@
    "tier": 1,
    "id": "voc-101",
    "session": "sep30",
-   "text": "{{c2::<bdi>شَرَف</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>أَشْرَاف</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::شَرَف}} (مُفْرَد) — {{c1::أَشْرَاف}} (جَمْع)</div>",
    "extra": "honour, nobility, high standing",
    "tags": [
     "vocab",
@@ -1327,7 +1327,7 @@
    "tier": 1,
    "id": "voc-103",
    "session": "sep30",
-   "text": "{{c2::<bdi>جَنْب</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>جُنُوب</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::جَنْب}} (مُفْرَد) — {{c1::جُنُوب}} (جَمْع)</div>",
    "extra": "a side, a flank",
    "tags": [
     "vocab",
@@ -1354,7 +1354,7 @@
    "tier": 1,
    "id": "voc-105",
    "session": "sep30",
-   "text": "{{c2::<bdi>عُذْر</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>أَعْذَار</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::عُذْر}} (مُفْرَد) — {{c1::أَعْذَار}} (جَمْع)</div>",
    "extra": "an excuse",
    "tags": [
     "vocab",
@@ -1381,7 +1381,7 @@
    "tier": 1,
    "id": "voc-107",
    "session": "sep30",
-   "text": "{{c2::<bdi>أَسِير</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>أَسْرَى</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::أَسِير}} (مُفْرَد) — {{c1::أَسْرَى}} (جَمْع)</div>",
    "extra": "a captive, a prisoner",
    "tags": [
     "vocab",
@@ -1408,7 +1408,7 @@
    "tier": 1,
    "id": "voc-109",
    "session": "sep30",
-   "text": "{{c2::<bdi>إِرْب</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>آرَاب</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::إِرْب}} (مُفْرَد) — {{c1::آرَاب}} (جَمْع)</div>",
    "extra": "a need, a want · also attested as “a limb” — the sense depends on the passage",
    "tags": [
     "vocab",
@@ -1435,7 +1435,7 @@
    "tier": 1,
    "id": "voc-111",
    "session": "sep30",
-   "text": "{{c2::<bdi>بَوَّاب</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>بَوَّابُونَ</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::بَوَّاب}} (مُفْرَد) — {{c1::بَوَّابُونَ}} (جَمْع)</div>",
    "extra": "a doorkeeper, a gatekeeper",
    "tags": [
     "vocab",
@@ -1462,7 +1462,7 @@
    "tier": 1,
    "id": "voc-113",
    "session": "sep30",
-   "text": "{{c2::<bdi>صَدْمَة</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>صَدَمَات</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::صَدْمَة}} (مُفْرَد) — {{c1::صَدَمَات}} (جَمْع)</div>",
    "extra": "a collision, a shock, a blow",
    "tags": [
     "vocab",
@@ -1489,7 +1489,7 @@
    "tier": 1,
    "id": "voc-115",
    "session": "sep30",
-   "text": "{{c2::<bdi>رَاهِب</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>رُهْبَان</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::رَاهِب}} (مُفْرَد) — {{c1::رُهْبَان}} (جَمْع)</div>",
    "extra": "a monk",
    "tags": [
     "vocab",
@@ -1516,7 +1516,7 @@
    "tier": 1,
    "id": "voc-117",
    "session": "sep30",
-   "text": "{{c2::<bdi>أَكْمَه</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>كُمْه</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::أَكْمَه}} (مُفْرَد) — {{c1::كُمْه}} (جَمْع)</div>",
    "extra": "one born blind",
    "tags": [
     "vocab",
@@ -1543,7 +1543,7 @@
    "tier": 1,
    "id": "voc-119",
    "session": "sep30",
-   "text": "{{c2::<bdi>أَبْرَص</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>بُرْص</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::أَبْرَص}} (مُفْرَد) — {{c1::بُرْص}} (جَمْع)</div>",
    "extra": "a leper",
    "tags": [
     "vocab",
@@ -1570,7 +1570,7 @@
    "tier": 1,
    "id": "voc-121",
    "session": "sep30",
-   "text": "{{c2::<bdi>أَدَاة</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>أَدَوَات</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::أَدَاة}} (مُفْرَد) — {{c1::أَدَوَات}} (جَمْع)</div>",
    "extra": "an instrument, a tool",
    "tags": [
     "vocab",
@@ -1597,7 +1597,7 @@
    "tier": 1,
    "id": "voc-123",
    "session": "sep30",
-   "text": "{{c2::<bdi>مِنْشَار</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>مَنَاشِير</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::مِنْشَار}} (مُفْرَد) — {{c1::مَنَاشِير}} (جَمْع)</div>",
    "extra": "a saw",
    "tags": [
     "vocab",
@@ -1624,7 +1624,7 @@
    "tier": 1,
    "id": "voc-125",
    "session": "sep30",
-   "text": "{{c2::<bdi>نَفَر</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>أَنْفَار</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::نَفَر}} (مُفْرَد) — {{c1::أَنْفَار}} (جَمْع)</div>",
    "extra": "a small group of men",
    "tags": [
     "vocab",
@@ -1651,7 +1651,7 @@
    "tier": 1,
    "id": "voc-127",
    "session": "sep30",
-   "text": "{{c2::<bdi>ذِرْوَة</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>ذُرًى</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::ذِرْوَة}} (مُفْرَد) — {{c1::ذُرًى}} (جَمْع)</div>",
    "extra": "a summit, a peak",
    "tags": [
     "vocab",
@@ -1678,7 +1678,7 @@
    "tier": 1,
    "id": "voc-129",
    "session": "sep30",
-   "text": "{{c2::<bdi>دِعَايَة</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>دِعَايَات</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::دِعَايَة}} (مُفْرَد) — {{c1::دِعَايَات}} (جَمْع)</div>",
    "extra": "propaganda, promotion, publicity",
    "tags": [
     "vocab",
@@ -1705,7 +1705,7 @@
    "tier": 1,
    "id": "voc-131",
    "session": "sep30",
-   "text": "{{c2::<bdi>رِيَاسَة</bdi>}} (<bdi>مُفْرَد</bdi>) — {{c1::<bdi>رِيَاسَات</bdi>}} (<bdi>جَمْع</bdi>)",
+   "text": "<div class=\"arabic\">{{c2::رِيَاسَة}} (مُفْرَد) — {{c1::رِيَاسَات}} (جَمْع)</div>",
    "extra": "leadership, chieftaincy",
    "tags": [
     "vocab",
@@ -1759,7 +1759,7 @@
    "tier": 1,
    "id": "voc-135",
    "session": "sep30",
-   "text": "<bdi>صَلَّى</bdi> — {{c1::<bdi>يُصَلِّي</bdi>}} — {{c2::<bdi>صَلِّ</bdi>}} — {{c3::<bdi>صَلَاة</bdi>}}",
+   "text": "<div class=\"arabic\">صَلَّى — {{c1::يُصَلِّي}} — {{c2::صَلِّ}} — {{c3::صَلَاة}}</div>",
    "extra": "to pray · Form II · the maṣdar is <bdi>صَلَاة</bdi>, not the regular Form II <bdi>تَصْلِيَة</bdi>",
    "tags": [
     "vocab",
@@ -1788,7 +1788,7 @@
    "tier": 1,
    "id": "voc-137",
    "session": "sep30",
-   "text": "<bdi>سَلَّمَ</bdi> — {{c1::<bdi>يُسَلِّمُ</bdi>}} — {{c2::<bdi>سَلِّمْ</bdi>}} — {{c3::<bdi>تَسْلِيم</bdi>}}",
+   "text": "<div class=\"arabic\">سَلَّمَ — {{c1::يُسَلِّمُ}} — {{c2::سَلِّمْ}} — {{c3::تَسْلِيم}}</div>",
    "extra": "to greet with salām; to submit; to hand over · Form II",
    "tags": [
     "vocab",
@@ -1817,7 +1817,7 @@
    "tier": 1,
    "id": "voc-139",
    "session": "sep30",
-   "text": "<bdi>بَنَى</bdi> — {{c1::<bdi>يَبْنِي</bdi>}} — {{c2::<bdi>اِبْنِ</bdi>}} — {{c3::<bdi>بِنَاء</bdi>}}",
+   "text": "<div class=\"arabic\">بَنَى — {{c1::يَبْنِي}} — {{c2::اِبْنِ}} — {{c3::بِنَاء}}</div>",
    "extra": "to build · Form I · <bdi>بُنِيَ</bdi> — “was built” — is the passive that opens the ḥadīth of the five pillars",
    "tags": [
     "vocab",
@@ -1846,7 +1846,7 @@
    "tier": 1,
    "id": "voc-141",
    "session": "sep30",
-   "text": "<bdi>أَقَامَ</bdi> — {{c1::<bdi>يُقِيمُ</bdi>}} — {{c2::<bdi>أَقِمْ</bdi>}} — {{c3::<bdi>إِقَامَة</bdi>}}",
+   "text": "<div class=\"arabic\">أَقَامَ — {{c1::يُقِيمُ}} — {{c2::أَقِمْ}} — {{c3::إِقَامَة}}</div>",
    "extra": "to establish, to set up; to perform (the prayer) · Form IV · <bdi>إِقَام الصَّلَاة</bdi> in the ḥadīth of the five pillars",
    "tags": [
     "vocab",
@@ -1875,7 +1875,7 @@
    "tier": 1,
    "id": "voc-143",
    "session": "sep30",
-   "text": "<bdi>حَجَّ</bdi> — {{c1::<bdi>يَحُجُّ</bdi>}} — {{c2::<bdi>حُجَّ</bdi>}} — {{c3::<bdi>حَجّ</bdi>}}",
+   "text": "<div class=\"arabic\">حَجَّ — {{c1::يَحُجُّ}} — {{c2::حُجَّ}} — {{c3::حَجّ}}</div>",
    "extra": "to perform the pilgrimage · Form I",
    "tags": [
     "vocab",
@@ -1904,7 +1904,7 @@
    "tier": 1,
    "id": "voc-145",
    "session": "sep30",
-   "text": "<bdi>بَسَطَ</bdi> — {{c1::<bdi>يَبْسُطُ</bdi>}} — {{c2::<bdi>اُبْسُطْ</bdi>}} — {{c3::<bdi>بَسْط</bdi>}}",
+   "text": "<div class=\"arabic\">بَسَطَ — {{c1::يَبْسُطُ}} — {{c2::اُبْسُطْ}} — {{c3::بَسْط}}</div>",
    "extra": "to spread out, to extend · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -1933,7 +1933,7 @@
    "tier": 1,
    "id": "voc-147",
    "session": "sep30",
-   "text": "<bdi>بَلَغَ</bdi> — {{c1::<bdi>يَبْلُغُ</bdi>}} — {{c2::<bdi>اُبْلُغْ</bdi>}} — {{c3::<bdi>بُلُوغ</bdi>}}",
+   "text": "<div class=\"arabic\">بَلَغَ — {{c1::يَبْلُغُ}} — {{c2::اُبْلُغْ}} — {{c3::بُلُوغ}}</div>",
    "extra": "to reach, to attain · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -1962,7 +1962,7 @@
    "tier": 1,
    "id": "voc-149",
    "session": "sep30",
-   "text": "<bdi>تَرَكَ</bdi> — {{c1::<bdi>يَتْرُكُ</bdi>}} — {{c2::<bdi>اُتْرُكْ</bdi>}} — {{c3::<bdi>تَرْك</bdi>}}",
+   "text": "<div class=\"arabic\">تَرَكَ — {{c1::يَتْرُكُ}} — {{c2::اُتْرُكْ}} — {{c3::تَرْك}}</div>",
    "extra": "to leave, to abandon · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -1991,7 +1991,7 @@
    "tier": 1,
    "id": "voc-151",
    "session": "sep30",
-   "text": "<bdi>حَسَدَ</bdi> — {{c1::<bdi>يَحْسُدُ</bdi>}} — {{c2::<bdi>اُحْسُدْ</bdi>}} — {{c3::<bdi>حَسَد</bdi>}}",
+   "text": "<div class=\"arabic\">حَسَدَ — {{c1::يَحْسُدُ}} — {{c2::اُحْسُدْ}} — {{c3::حَسَد}}</div>",
    "extra": "to envy · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · يَحْسِدُ is also attested",
    "tags": [
     "vocab",
@@ -2020,7 +2020,7 @@
    "tier": 1,
    "id": "voc-153",
    "session": "sep30",
-   "text": "<bdi>حَشَرَ</bdi> — {{c1::<bdi>يَحْشُرُ</bdi>}} — {{c2::<bdi>اُحْشُرْ</bdi>}} — {{c3::<bdi>حَشْر</bdi>}}",
+   "text": "<div class=\"arabic\">حَشَرَ — {{c1::يَحْشُرُ}} — {{c2::اُحْشُرْ}} — {{c3::حَشْر}}</div>",
    "extra": "to gather, to assemble · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · يَحْشِرُ is also attested",
    "tags": [
     "vocab",
@@ -2049,7 +2049,7 @@
    "tier": 1,
    "id": "voc-155",
    "session": "sep30",
-   "text": "<bdi>حَكَمَ</bdi> — {{c1::<bdi>يَحْكُمُ</bdi>}} — {{c2::<bdi>اُحْكُمْ</bdi>}} — {{c3::<bdi>حُكْم</bdi>}}",
+   "text": "<div class=\"arabic\">حَكَمَ — {{c1::يَحْكُمُ}} — {{c2::اُحْكُمْ}} — {{c3::حُكْم}}</div>",
    "extra": "to judge, to rule · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2078,7 +2078,7 @@
    "tier": 1,
    "id": "voc-157",
    "session": "sep30",
-   "text": "<bdi>خَرَجَ</bdi> — {{c1::<bdi>يَخْرُجُ</bdi>}} — {{c2::<bdi>اُخْرُجْ</bdi>}} — {{c3::<bdi>خُرُوج</bdi>}}",
+   "text": "<div class=\"arabic\">خَرَجَ — {{c1::يَخْرُجُ}} — {{c2::اُخْرُجْ}} — {{c3::خُرُوج}}</div>",
    "extra": "to go out · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2107,7 +2107,7 @@
    "tier": 1,
    "id": "voc-159",
    "session": "sep30",
-   "text": "<bdi>خَلَدَ</bdi> — {{c1::<bdi>يَخْلُدُ</bdi>}} — {{c2::<bdi>اُخْلُدْ</bdi>}} — {{c3::<bdi>خُلُود</bdi>}}",
+   "text": "<div class=\"arabic\">خَلَدَ — {{c1::يَخْلُدُ}} — {{c2::اُخْلُدْ}} — {{c3::خُلُود}}</div>",
    "extra": "to abide forever · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2136,7 +2136,7 @@
    "tier": 1,
    "id": "voc-161",
    "session": "sep30",
-   "text": "<bdi>خَلَقَ</bdi> — {{c1::<bdi>يَخْلُقُ</bdi>}} — {{c2::<bdi>اُخْلُقْ</bdi>}} — {{c3::<bdi>خَلْق</bdi>}}",
+   "text": "<div class=\"arabic\">خَلَقَ — {{c1::يَخْلُقُ}} — {{c2::اُخْلُقْ}} — {{c3::خَلْق}}</div>",
    "extra": "to create · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2165,7 +2165,7 @@
    "tier": 1,
    "id": "voc-163",
    "session": "sep30",
-   "text": "<bdi>دَخَلَ</bdi> — {{c1::<bdi>يَدْخُلُ</bdi>}} — {{c2::<bdi>اُدْخُلْ</bdi>}} — {{c3::<bdi>دُخُول</bdi>}}",
+   "text": "<div class=\"arabic\">دَخَلَ — {{c1::يَدْخُلُ}} — {{c2::اُدْخُلْ}} — {{c3::دُخُول}}</div>",
    "extra": "to enter · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2194,7 +2194,7 @@
    "tier": 1,
    "id": "voc-165",
    "session": "sep30",
-   "text": "<bdi>ذَكَرَ</bdi> — {{c1::<bdi>يَذْكُرُ</bdi>}} — {{c2::<bdi>اُذْكُرْ</bdi>}} — {{c3::<bdi>ذِكْر</bdi>}}",
+   "text": "<div class=\"arabic\">ذَكَرَ — {{c1::يَذْكُرُ}} — {{c2::اُذْكُرْ}} — {{c3::ذِكْر}}</div>",
    "extra": "to mention, to remember · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2223,7 +2223,7 @@
    "tier": 1,
    "id": "voc-167",
    "session": "sep30",
-   "text": "<bdi>رَزَقَ</bdi> — {{c1::<bdi>يَرْزُقُ</bdi>}} — {{c2::<bdi>اُرْزُقْ</bdi>}} — {{c3::<bdi>رِزْق</bdi>}}",
+   "text": "<div class=\"arabic\">رَزَقَ — {{c1::يَرْزُقُ}} — {{c2::اُرْزُقْ}} — {{c3::رِزْق}}</div>",
    "extra": "to provide sustenance · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · رِزْق is also the provision itself",
    "tags": [
     "vocab",
@@ -2252,7 +2252,7 @@
    "tier": 1,
    "id": "voc-169",
    "session": "sep30",
-   "text": "<bdi>سَجَدَ</bdi> — {{c1::<bdi>يَسْجُدُ</bdi>}} — {{c2::<bdi>اُسْجُدْ</bdi>}} — {{c3::<bdi>سُجُود</bdi>}}",
+   "text": "<div class=\"arabic\">سَجَدَ — {{c1::يَسْجُدُ}} — {{c2::اُسْجُدْ}} — {{c3::سُجُود}}</div>",
    "extra": "to prostrate · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2281,7 +2281,7 @@
    "tier": 1,
    "id": "voc-171",
    "session": "sep30",
-   "text": "<bdi>شَعَرَ</bdi> — {{c1::<bdi>يَشْعُرُ</bdi>}} — {{c2::<bdi>اُشْعُرْ</bdi>}} — {{c3::<bdi>شُعُور</bdi>}}",
+   "text": "<div class=\"arabic\">شَعَرَ — {{c1::يَشْعُرُ}} — {{c2::اُشْعُرْ}} — {{c3::شُعُور}}</div>",
    "extra": "to perceive, to be aware · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2310,7 +2310,7 @@
    "tier": 1,
    "id": "voc-173",
    "session": "sep30",
-   "text": "<bdi>شَكَرَ</bdi> — {{c1::<bdi>يَشْكُرُ</bdi>}} — {{c2::<bdi>اُشْكُرْ</bdi>}} — {{c3::<bdi>شُكْر</bdi>}}",
+   "text": "<div class=\"arabic\">شَكَرَ — {{c1::يَشْكُرُ}} — {{c2::اُشْكُرْ}} — {{c3::شُكْر}}</div>",
    "extra": "to thank · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2339,7 +2339,7 @@
    "tier": 1,
    "id": "voc-175",
    "session": "sep30",
-   "text": "<bdi>صَدَقَ</bdi> — {{c1::<bdi>يَصْدُقُ</bdi>}} — {{c2::<bdi>اُصْدُقْ</bdi>}} — {{c3::<bdi>صِدْق</bdi>}}",
+   "text": "<div class=\"arabic\">صَدَقَ — {{c1::يَصْدُقُ}} — {{c2::اُصْدُقْ}} — {{c3::صِدْق}}</div>",
    "extra": "to speak the truth · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2368,7 +2368,7 @@
    "tier": 1,
    "id": "voc-177",
    "session": "sep30",
-   "text": "<bdi>صَلَحَ</bdi> — {{c1::<bdi>يَصْلُحُ</bdi>}} — {{c2::<bdi>اُصْلُحْ</bdi>}} — {{c3::<bdi>صَلَاح</bdi>}}",
+   "text": "<div class=\"arabic\">صَلَحَ — {{c1::يَصْلُحُ}} — {{c2::اُصْلُحْ}} — {{c3::صَلَاح}}</div>",
    "extra": "to be sound, to be right · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · صَلُحَ, bāb كَرُمَ, is also attested",
    "tags": [
     "vocab",
@@ -2397,7 +2397,7 @@
    "tier": 1,
    "id": "voc-179",
    "session": "sep30",
-   "text": "<bdi>عَبَدَ</bdi> — {{c1::<bdi>يَعْبُدُ</bdi>}} — {{c2::<bdi>اُعْبُدْ</bdi>}} — {{c3::<bdi>عِبَادَة</bdi>}}",
+   "text": "<div class=\"arabic\">عَبَدَ — {{c1::يَعْبُدُ}} — {{c2::اُعْبُدْ}} — {{c3::عِبَادَة}}</div>",
    "extra": "to worship · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2426,7 +2426,7 @@
    "tier": 1,
    "id": "voc-181",
    "session": "sep30",
-   "text": "<bdi>فَسَقَ</bdi> — {{c1::<bdi>يَفْسُقُ</bdi>}} — {{c2::<bdi>اُفْسُقْ</bdi>}} — {{c3::<bdi>فِسْق</bdi>}}",
+   "text": "<div class=\"arabic\">فَسَقَ — {{c1::يَفْسُقُ}} — {{c2::اُفْسُقْ}} — {{c3::فِسْق}}</div>",
    "extra": "to transgress, to act immorally · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · يَفْسِقُ is also attested",
    "tags": [
     "vocab",
@@ -2455,7 +2455,7 @@
    "tier": 1,
    "id": "voc-183",
    "session": "sep30",
-   "text": "<bdi>قَتَلَ</bdi> — {{c1::<bdi>يَقْتُلُ</bdi>}} — {{c2::<bdi>اُقْتُلْ</bdi>}} — {{c3::<bdi>قَتْل</bdi>}}",
+   "text": "<div class=\"arabic\">قَتَلَ — {{c1::يَقْتُلُ}} — {{c2::اُقْتُلْ}} — {{c3::قَتْل}}</div>",
    "extra": "to kill · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2484,7 +2484,7 @@
    "tier": 1,
    "id": "voc-185",
    "session": "sep30",
-   "text": "<bdi>قَعَدَ</bdi> — {{c1::<bdi>يَقْعُدُ</bdi>}} — {{c2::<bdi>اُقْعُدْ</bdi>}} — {{c3::<bdi>قُعُود</bdi>}}",
+   "text": "<div class=\"arabic\">قَعَدَ — {{c1::يَقْعُدُ}} — {{c2::اُقْعُدْ}} — {{c3::قُعُود}}</div>",
    "extra": "to sit · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2513,7 +2513,7 @@
    "tier": 1,
    "id": "voc-187",
    "session": "sep30",
-   "text": "<bdi>كَتَبَ</bdi> — {{c1::<bdi>يَكْتُبُ</bdi>}} — {{c2::<bdi>اُكْتُبْ</bdi>}} — {{c3::<bdi>كِتَابَة</bdi>}}",
+   "text": "<div class=\"arabic\">كَتَبَ — {{c1::يَكْتُبُ}} — {{c2::اُكْتُبْ}} — {{c3::كِتَابَة}}</div>",
    "extra": "to write · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2542,7 +2542,7 @@
    "tier": 1,
    "id": "voc-189",
    "session": "sep30",
-   "text": "<bdi>كَفَرَ</bdi> — {{c1::<bdi>يَكْفُرُ</bdi>}} — {{c2::<bdi>اُكْفُرْ</bdi>}} — {{c3::<bdi>كُفْر</bdi>}}",
+   "text": "<div class=\"arabic\">كَفَرَ — {{c1::يَكْفُرُ}} — {{c2::اُكْفُرْ}} — {{c3::كُفْر}}</div>",
    "extra": "to disbelieve · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",
@@ -2571,7 +2571,7 @@
    "tier": 1,
    "id": "voc-191",
    "session": "sep30",
-   "text": "<bdi>مَكَرَ</bdi> — {{c1::<bdi>يَمْكُرُ</bdi>}} — {{c2::<bdi>اُمْكُرْ</bdi>}} — {{c3::<bdi>مَكْر</bdi>}}",
+   "text": "<div class=\"arabic\">مَكَرَ — {{c1::يَمْكُرُ}} — {{c2::اُمْكُرْ}} — {{c3::مَكْر}}</div>",
    "extra": "to plot, to scheme · bāb <bdi>نَصَرَ يَنْصُرُ</bdi>",
    "tags": [
     "vocab",

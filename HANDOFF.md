@@ -124,7 +124,7 @@ once, and both times was objecting to files that had no reason to exist.
    question mark. Feels easy, gets graded Good, teaches nothing. Now linted.
 3. **No binary-choice fronts.** "Explicitly or implicitly typed?" is a coin flip and
    makes self-grading meaningless.
-4. **Isolate inline Arabic in `<bdi>`.** Bare Arabic in an English sentence makes the
+4. **Isolate inline Arabic in `<bdi>`; put all-Arabic lines in `<div class="arabic">`.** Bare Arabic in an English sentence makes the
    neutral characters around it — punctuation, parentheses, cloze delimiters — resolve
    RTL and render on the wrong side. See `skill/references/arabic.md`. Do not force
    `direction: rtl` on `<bdi>`; it defaults to `dir=auto` and that is the point.
@@ -141,6 +141,10 @@ once, and both times was objecting to files that had no reason to exist.
   The user is having this done separately. The verification rule: stripping the tags
   back out must leave the text byte-identical. Afterwards those decks will show a
   large delta, which is correct.
+  **Mixed lines only.** A line that is entirely Arabic (a paradigm, a singular/plural
+  pair, an Arabic definition with blanks) goes in one `<div class="arabic">`, never
+  per-run `<bdi>`. Per-run isolates in the LTR card put the مَاضِي on the left; 101
+  cards were fixed for exactly this on 2026-10-01. The build now warns (`RTL — …`).
 - **Notetypes are still named `Seminary Basic` / `Bidirectional` / `Cloze`** and now
   hold Python and religious-studies cards. Renaming is one line under the pinned ids.
 - **`qud-051`–`qud-104`** carry session tag `sep09`, which is wrong; the real class

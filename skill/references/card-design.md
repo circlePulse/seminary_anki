@@ -266,15 +266,18 @@ A word learned in one form is a word you can't read in any other. The requiremen
 
 These are **not** one card. "Give all four principal parts of نَصَرَ" is a compound card that fails as a unit and tells you nothing about which form you missed. Use a cloze paradigm — one deletion per form, siblings buried, each independently answerable from the base form (§7):
 
-```
-نَصَرَ — {{c1::يَنْصُرُ}} — {{c2::اُنْصُرْ}} — {{c3::نَصْرٌ}}
+```html
+<div class="arabic">نَصَرَ — {{c1::يَنْصُرُ}} — {{c2::اُنْصُرْ}} — {{c3::نَصْرٌ}}</div>
 ```
 
 For isms, cloze both directions in one note — producing a broken plural and recognising one are different skills, and both are needed:
 
+```html
+<div class="arabic">{{c2::كِتَاب}} (مُفْرَد) — {{c1::كُتُب}} (جَمْع)</div>
 ```
-{{c2::كِتَاب}} (مُفْرَد) — {{c1::كُتُب}} (جَمْع)
-```
+
+The wrapper is not optional: without it the line is laid out in the card's
+left-to-right flow and the مَاضِي/مُفْرَد lands on the wrong side (see `arabic.md`).
 
 The meaning is a **separate bidirectional note**, not a field on the paradigm. Paradigm and gloss are different retrievals and belong on different cards.
 

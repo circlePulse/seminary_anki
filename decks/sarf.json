@@ -266,7 +266,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c2::صِيغَة}} (مُفْرَد) — {{c1::صِيَغ}} (جَمْع)",
+   "text": "<div class=\"arabic\">{{c2::صِيغَة}} (مُفْرَد) — {{c1::صِيَغ}} (جَمْع)</div>",
    "extra": "form of a conjugated verb",
    "tags": [
     "sarf",
@@ -550,7 +550,7 @@
   {
    "type": "cloze",
    "tier": 2,
-   "text": "فَتَحَ — {{c1::يَفْتَحُ}} — {{c2::اِفْتَحْ}} — {{c3::فَتْح}}",
+   "text": "<div class=\"arabic\">فَتَحَ — {{c1::يَفْتَحُ}} — {{c2::اِفْتَحْ}} — {{c3::فَتْح}}</div>",
    "extra": "to open",
    "tags": [
     "sarf",
@@ -1977,7 +1977,7 @@
    "id": "sarf-164",
    "session": "sep30",
    "front": "Which four particles negate the <bdi>مُضَارِع</bdi>?",
-   "back": "<bdi>لَمْ</bdi>, <bdi>مَا</bdi>, <bdi>لَا</bdi>, <bdi>لَنْ</bdi>",
+   "back": "<div class=\"arabic\">لَمْ, مَا, لَا, لَنْ</div>",
    "tags": [
     "sarf",
     "nafy",

@@ -262,6 +262,23 @@ def _unisolated_arabic(field):
     return not ("<bdi" in field or 'class="ar"' in field or 'class="arabic"' in field)
 
 
+def _ltr_arabic_line(field):
+    """
+    A field that is entirely Arabic — a paradigm, a run of forms, an Arabic
+    definition with blanks — left in the card's left-to-right flow. Per-run <bdi>
+    isolates are laid out left to right, so the first form lands on the LEFT; and a
+    blank at either end of a bare line drifts to the wrong side. The whole line
+    belongs in one <div class="arabic">.
+    """
+    if not _ARABIC.search(field) or field.lstrip().startswith('<div class="arabic">'):
+        return False
+    bare = re.sub(r"\{\{c\d+::([^}]*?)(::[^}]*)?\}\}", r"\1", field)
+    bare = re.sub(r"<[^>]+>", "", bare)
+    if _LATIN.search(bare):
+        return False
+    return field.count("<bdi>") >= 2 or "{{c" in field or bool(re.search(r"[—–()\[\]]", bare))
+
+
 def orphan_reference(front):
     """
     Test 2: a card has to be answerable when it surfaces shuffled, months later,
@@ -372,7 +389,7 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
             return None
 
     deck = genanki.Deck(STAGING_DECK_ID, STAGING_DECK_NAME)
-    giveaways, orphans, bidi, counts = [], [], [], {"basic": 0, "bidir": 0, "cloze": 0, "tier2": 0}
+    giveaways, orphans, bidi, ltr, counts = [], [], [], [], {"basic": 0, "bidir": 0, "cloze": 0, "tier2": 0}
     for c, kind, fields, tags in selected:
         deck.add_note(genanki.Note(MODELS[kind], fields, tags=tags,
                                    guid=note_guid(data["course"], c, None)))
@@ -384,6 +401,8 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
             orphans.append(c["id"])
         if any(_unisolated_arabic(x) for x in fields):
             bidi.append(c["id"])
+        if any(_ltr_arabic_line(x) for x in fields[:2]):
+            ltr.append(c["id"])
 
     os.makedirs(outdir, exist_ok=True)
     stamp = datetime.datetime.now().strftime("%Y-%m-%d_%H%M")
@@ -409,6 +428,9 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
     if bidi:
         print(f"  BIDI — Arabic mixed with Latin and not wrapped in <bdi>: "
               f"{len(bidi)} note(s), e.g. {', '.join(bidi[:6])}")
+    if ltr:
+        print(f"  RTL — all-Arabic line not in <div class=\"arabic\"> (renders left to "
+              f"right): {len(ltr)} note(s), e.g. {', '.join(ltr[:6])}")
     return path
 
 

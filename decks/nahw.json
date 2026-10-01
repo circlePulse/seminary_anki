@@ -223,7 +223,7 @@
   {
    "type": "cloze",
    "tier": 2,
-   "text": "وَضَعَ — {{c1::يَضَعُ}} — {{c2::ضَعْ}} — {{c3::وَضْع}}",
+   "text": "<div class=\"arabic\">وَضَعَ — {{c1::يَضَعُ}} — {{c2::ضَعْ}} — {{c3::وَضْع}}</div>",
    "extra": "to place; to assign",
    "tags": [
     "nahw",
@@ -606,7 +606,7 @@
   {
    "type": "cloze",
    "tier": 2,
-   "text": "رَكَّبَ — {{c1::يُرَكِّبُ}} — {{c2::رَكِّبْ}} — {{c3::تَرْكِيب}}",
+   "text": "<div class=\"arabic\">رَكَّبَ — {{c1::يُرَكِّبُ}} — {{c2::رَكِّبْ}} — {{c3::تَرْكِيب}}</div>",
    "extra": "to assemble; to compose",
    "tags": [
     "nahw",

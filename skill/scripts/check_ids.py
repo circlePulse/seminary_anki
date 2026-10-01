@@ -45,8 +45,10 @@ MIN_DECK_FOR_CHECK = 8
 def fingerprint(card):
     """Hash of the card's primary field — what the id is supposed to point at."""
     first = card.get("front") or card.get("term") or card.get("text") or ""
-    first = re.sub(r"<[^>]+>", " ", first)
-    first = re.sub(r"\s+", " ", first).strip().lower()
+    # Tags and whitespace are dropped entirely, so a markup-only edit (wrapping a run
+    # in <bdi>, moving a line into <div class="arabic">) never reads as a new card.
+    first = re.sub(r"<[^>]+>", "", first)
+    first = re.sub(r"\s+", "", first).lower()
     return hashlib.sha1(first.encode("utf-8")).hexdigest()[:12]
 
 
@@ -107,7 +109,9 @@ def main():
                 n_tracked = len([i for i in old_fp if i in fps[name]])
                 if (n_tracked >= MIN_DECK_FOR_CHECK
                         and len(changed) / n_tracked > RENUMBER_FRACTION):
-                    errors.append(
+                    # --update is the documented way to accept a deliberate mass
+                    # rewrite; vanished or moved ids still fail regardless.
+                    (warnings if update else errors).append(
                         f"{name}: {len(changed)}/{n_tracked} ids now point at a "
                         f"different card.\n"
                         f"    That is the signature of a RENUMBER, not of editing — "
