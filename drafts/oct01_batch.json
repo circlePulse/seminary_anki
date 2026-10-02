@@ -1,0 +1,674 @@
+{
+ "nahw": [
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-146",
+   "text": "Two categories of <bdi>حَرْف عَامِل</bdi>: {{c1::<bdi>حُرُوف الجَرّ</bdi>}}, which make the <bdi>اِسْم</bdi> they act on <bdi>مَجْرُور</bdi>; and {{c2::<bdi>الحُرُوف المُشَبَّهَة بِالفِعْل</bdi>}} (<bdi>إِنَّ</bdi> and her sisters), which put the <bdi>مُبْتَدَأ</bdi> into <bdi>نَصْب</bdi> and leave the <bdi>خَبَر</bdi> in <bdi>رَفْع</bdi>",
+   "extra": "Both change the <bdi>إِعْرَاب</bdi> of the words after them — the mark of a <bdi>حَرْف عَامِل</bdi>.",
+   "tags": [
+    "nahw",
+    "huroof",
+    "spine",
+    "placement",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-147",
+   "term": "بِـ",
+   "meaning": "with — a <bdi>حَرْف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-148",
+   "term": "تَـ ، وَ",
+   "meaning": "by — in an oath; both are <bdi>حُرُوف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-149",
+   "term": "كَـ",
+   "meaning": "like — a <bdi>حَرْف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-150",
+   "term": "لِـ",
+   "meaning": "for — a <bdi>حَرْف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-151",
+   "term": "مُنْذُ ، مُذْ",
+   "meaning": "since — both <bdi>حُرُوف جَرّ</bdi>; <bdi>مُذْ</bdi> is also glossed “for”",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-152",
+   "term": "خَلَا ، حَاشَا ، عَدَا",
+   "meaning": "besides, except — all three <bdi>حُرُوف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-153",
+   "term": "رُبَّ",
+   "meaning": "many a — a <bdi>حَرْف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-154",
+   "term": "مِنْ",
+   "meaning": "from — a <bdi>حَرْف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-155",
+   "term": "فِي",
+   "meaning": "in; regarding — a <bdi>حَرْف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-156",
+   "term": "عَنْ",
+   "meaning": "away from; about, regarding — a <bdi>حَرْف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-157",
+   "term": "عَلَى",
+   "meaning": "on — a <bdi>حَرْف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-158",
+   "term": "حَتَّى",
+   "meaning": "until, up to — a <bdi>حَرْف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-159",
+   "term": "إِلَى",
+   "meaning": "towards, up to — a <bdi>حَرْف جَرّ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "jarr",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-160",
+   "term": "<bdi>الحُرُوفُ المُشَبَّهَةُ بِالفِعْلِ</bdi> (al-ḥurūf al-mushabbahah bi-l-fiʿl)",
+   "meaning": "the particles that resemble a verb — <bdi>إِنَّ</bdi> and her sisters",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-161",
+   "term": "<bdi>النَّوَاسِخ</bdi> (al-nawāsikh)",
+   "meaning": "words that change the grammatical positioning of the <bdi>مُبْتَدَأ</bdi> and <bdi>خَبَر</bdi> — from <bdi>نَسْخ</bdi>, abrogation",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-162",
+   "front": "By their effect on the <bdi>مُبْتَدَأ</bdi> and <bdi>خَبَر</bdi>, to which class of words do <bdi>إِنَّ</bdi> and her sisters belong?",
+   "back": "<bdi>النَّوَاسِخ</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "placement"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-163",
+   "front": "Before what do <bdi>إِنَّ</bdi> and her sisters appear?",
+   "back": "A <bdi>مُبْتَدَأ</bdi> and <bdi>خَبَر</bdi> — a nominal sentence",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-164",
+   "text": "<bdi>إِنَّ</bdi> and her sisters put the <bdi>مُبْتَدَأ</bdi> into {{c1::<bdi>نَصْب</bdi>}} and leave the <bdi>خَبَر</bdi> in {{c2::<bdi>رَفْع</bdi>}}",
+   "extra": "",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "irab",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-165",
+   "front": "Once <bdi>إِنَّ</bdi> enters a nominal sentence, what are its <bdi>مُبْتَدَأ</bdi> and <bdi>خَبَر</bdi> called?",
+   "back": "<bdi>اِسْمُ إِنَّ</bdi> and <bdi>خَبَرُ إِنَّ</bdi> — named after the particle, so <bdi>اِسْمُ كَأَنَّ</bdi>, <bdi>خَبَرُ لَيْتَ</bdi> and so on",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-166",
+   "front": "Why are <bdi>إِنَّ</bdi> and her sisters sometimes called <bdi>الحُرُوف النَّاصِبَة</bdi>?",
+   "back": "Because they put the <bdi>مُبْتَدَأ</bdi> into <bdi>نَصْب</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-167",
+   "text": "A <bdi>حَرْف نَاصِب</bdi> such as <bdi>لَنْ</bdi> puts {{c1::a <bdi>مُضَارِع</bdi> verb}} into <bdi>نَصْب</bdi>; <bdi>إِنَّ</bdi> and her sisters, also called <bdi>الحُرُوف النَّاصِبَة</bdi>, put {{c2::the <bdi>مُبْتَدَأ</bdi> of a nominal sentence}} into it",
+   "extra": "Same name, different targets — the ṣarf particle governs a verb, these govern a nominal sentence.",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "contrast"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-168",
+   "text": "<div class=\"arabic\">الحُرُوفُ المُشَبَّهَةُ بِالفِعْلِ: {{c1::إِنَّ}} — {{c2::أَنَّ}} — {{c3::كَأَنَّ}} — {{c4::لٰكِنَّ}} — {{c5::لَيْتَ}} — {{c6::لَعَلَّ}}</div>",
+   "extra": "Six in all: <bdi>إِنَّ</bdi> and her five sisters — the whole list is to be memorised.",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "spine",
+    "enumeration"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-169",
+   "term": "إِنَّ",
+   "meaning": "certainly, verily, indeed — a <bdi>حَرْف مُشَبَّه بِالفِعْل</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-170",
+   "term": "أَنَّ",
+   "meaning": "that — a <bdi>حَرْف مُشَبَّه بِالفِعْل</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-171",
+   "term": "كَأَنَّ",
+   "meaning": "as if — a <bdi>حَرْف مُشَبَّه بِالفِعْل</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-172",
+   "term": "لٰكِنَّ",
+   "meaning": "but, however — a <bdi>حَرْف مُشَبَّه بِالفِعْل</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-173",
+   "term": "لَيْتَ",
+   "meaning": "if only, I wish — a <bdi>حَرْف مُشَبَّه بِالفِعْل</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-174",
+   "term": "لَعَلَّ",
+   "meaning": "maybe, hopefully, perhaps — a <bdi>حَرْف مُشَبَّه بِالفِعْل</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-175",
+   "front": "What does <bdi>أَنَّ</bdi> allow a <bdi>جُمْلَة اِسْمِيَّة</bdi> to do?",
+   "back": "Fill a role normally taken by a single <bdi>اِسْم</bdi> — for example, serve as a <bdi>مَفْعُول</bdi>",
+   "tags": [
+    "nahw",
+    "huroof",
+    "inna",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-176",
+   "term": "<bdi>ضَمِير</bdi> (ḍamīr)",
+   "meaning": "a word used in place of a name — plural <bdi>ضَمَائِر</bdi>",
+   "tags": [
+    "nahw",
+    "damair",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01",
+   "science": "نَحْو"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-177",
+   "text": "<div class=\"arabic\">{{c3::وَاحِدٌ مُذَكَّرٌ غَائِبٌ}}: {{c1::هُوَ}} — {{c2::ـهُ}}</div>",
+   "extra": "he · his / him — 3rd person, masculine, singular",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-178",
+   "text": "<div class=\"arabic\">{{c3::تَثْنِيَةٌ غَائِبٌ (مُذَكَّرٌ وَمُؤَنَّثٌ)}}: {{c1::هُمَا}} — {{c2::ـهُمَا}}</div>",
+   "extra": "they two (m. or f.) · their / them — 3rd person, dual: one form for both genders",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-179",
+   "text": "<div class=\"arabic\">{{c3::جَمْعٌ مُذَكَّرٌ غَائِبٌ}}: {{c1::هُمْ}} — {{c2::ـهُمْ}}</div>",
+   "extra": "they (m.) · their / them — 3rd person, masculine, plural",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-180",
+   "text": "<div class=\"arabic\">{{c3::وَاحِدٌ مُؤَنَّثٌ غَائِبٌ}}: {{c1::هِيَ}} — {{c2::ـهَا}}</div>",
+   "extra": "she · her — 3rd person, feminine, singular",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-181",
+   "text": "<div class=\"arabic\">{{c3::جَمْعٌ مُؤَنَّثٌ غَائِبٌ}}: {{c1::هُنَّ}} — {{c2::ـهُنَّ}}</div>",
+   "extra": "they (f.) · their / them — 3rd person, feminine, plural",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-182",
+   "text": "<div class=\"arabic\">{{c3::وَاحِدٌ مُذَكَّرٌ مُخَاطَبٌ}}: {{c1::أَنْتَ}} — {{c2::ـكَ}}</div>",
+   "extra": "you (m.) · your / you — 2nd person, masculine, singular",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-183",
+   "text": "<div class=\"arabic\">{{c3::تَثْنِيَةٌ مُخَاطَبٌ (مُذَكَّرٌ وَمُؤَنَّثٌ)}}: {{c1::أَنْتُمَا}} — {{c2::ـكُمَا}}</div>",
+   "extra": "you two (m. or f.) · your / you — 2nd person, dual: one form for both genders",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-184",
+   "text": "<div class=\"arabic\">{{c3::جَمْعٌ مُذَكَّرٌ مُخَاطَبٌ}}: {{c1::أَنْتُمْ}} — {{c2::ـكُمْ}}</div>",
+   "extra": "you all (m.) · your / you — 2nd person, masculine, plural",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-185",
+   "text": "<div class=\"arabic\">{{c3::وَاحِدٌ مُؤَنَّثٌ مُخَاطَبٌ}}: {{c1::أَنْتِ}} — {{c2::ـكِ}}</div>",
+   "extra": "you (f.) · your / you — 2nd person, feminine, singular",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-186",
+   "text": "<div class=\"arabic\">{{c3::جَمْعٌ مُؤَنَّثٌ مُخَاطَبٌ}}: {{c1::أَنْتُنَّ}} — {{c2::ـكُنَّ}}</div>",
+   "extra": "you all (f.) · your / you — 2nd person, feminine, plural",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-187",
+   "text": "<div class=\"arabic\">{{c3::وَاحِدٌ مُتَكَلِّمٌ}}: {{c1::أَنَا}} — {{c2::ـِي / ـنِي}}</div>",
+   "extra": "I · my / me — 1st person, singular, m. or f.",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-188",
+   "text": "<div class=\"arabic\">{{c3::جَمْعٌ مُتَكَلِّمٌ}}: {{c1::نَحْنُ}} — {{c2::ـنَا}}</div>",
+   "extra": "we · our / us — 1st person, dual and plural, m. or f.",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-189",
+   "front": "Which numbers does <bdi>نَحْنُ</bdi> cover?",
+   "back": "Dual and plural — <bdi>جَمْعٌ مُتَكَلِّمٌ</bdi> takes in both",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-190",
+   "front": "What does each attached form of <bdi>أَنَا</bdi> mean — <bdi>ـِي</bdi> and <bdi>ـنِي</bdi>?",
+   "back": "<bdi>ـِي</bdi> is “my”, on a noun; <bdi>ـنِي</bdi> is “me”, on a verb",
+   "tags": [
+    "nahw",
+    "damair",
+    "chart",
+    "contrast"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  }
+ ],
+ "sarf_edits": {
+  "sarf-003": {
+   "science": "صَرْف"
+  }
+ }
+}
