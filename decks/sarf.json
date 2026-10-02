@@ -8,8 +8,8 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "What is صَرْف?",
-   "back": "Arabic morphology — the science that gives us the words themselves; نَحْو then tells us what to do with them",
+   "front": "What is <bdi>صَرْف</bdi>?",
+   "back": "Arabic morphology — the science that gives us the words themselves; <bdi>نَحْو</bdi> then tells us what to do with them",
    "tags": [
     "sarf",
     "definition"
@@ -20,7 +20,7 @@
    "type": "basic",
    "tier": 1,
    "front": "What are the two components of a verb?",
-   "back": "The فِعْل (the verb itself) and the ضَمِير (the pronoun)",
+   "back": "The <bdi>فِعْل</bdi> (the verb itself) and the <bdi>ضَمِير</bdi> (the pronoun)",
    "tags": [
     "sarf",
     "structure"
@@ -43,7 +43,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "غَائِب (ghāʾib)",
+   "term": "<bdi>غَائِب</bdi> (ghāʾib)",
    "meaning": "third person",
    "tags": [
     "sarf",
@@ -54,7 +54,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "مُخَاطَب (mukhāṭab)",
+   "term": "<bdi>مُخَاطَب</bdi> (mukhāṭab)",
    "meaning": "second person",
    "tags": [
     "sarf",
@@ -65,7 +65,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "مُتَكَلِّم (mutakallim)",
+   "term": "<bdi>مُتَكَلِّم</bdi> (mutakallim)",
    "meaning": "first person",
    "tags": [
     "sarf",
@@ -76,7 +76,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "Person: third is {{c1::غَائِب}}, second is {{c2::مُخَاطَب}}, first is {{c3::مُتَكَلِّم}}",
+   "text": "Person: third is {{c1::<bdi>غَائِب</bdi>}}, second is {{c2::<bdi>مُخَاطَب</bdi>}}, first is {{c3::<bdi>مُتَكَلِّم</bdi>}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -87,7 +87,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "مُذَكَّر (mudhakkar)",
+   "term": "<bdi>مُذَكَّر</bdi> (mudhakkar)",
    "meaning": "masculine",
    "tags": [
     "sarf",
@@ -98,7 +98,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "مُؤَنَّث (muʾannath)",
+   "term": "<bdi>مُؤَنَّث</bdi> (muʾannath)",
    "meaning": "feminine",
    "tags": [
     "sarf",
@@ -110,7 +110,7 @@
    "type": "basic",
    "tier": 1,
    "front": "What are the two terms for <b>singular</b>?",
-   "back": "مُفْرَد or وَاحِد",
+   "back": "<bdi>مُفْرَد</bdi> or <bdi>وَاحِد</bdi>",
    "tags": [
     "sarf",
     "terminology"
@@ -122,7 +122,7 @@
    "type": "basic",
    "tier": 1,
    "front": "What are the two terms for <b>dual</b>?",
-   "back": "مُثَنَّى or تَثْنِيَة",
+   "back": "<bdi>مُثَنَّى</bdi> or <bdi>تَثْنِيَة</bdi>",
    "tags": [
     "sarf",
     "terminology"
@@ -133,7 +133,7 @@
    "type": "basic",
    "tier": 1,
    "front": "What are the two terms for <b>plural</b>?",
-   "back": "جَمْع or مَجْمُوع",
+   "back": "<bdi>جَمْع</bdi> or <bdi>مَجْمُوع</bdi>",
    "tags": [
     "sarf",
     "terminology"
@@ -143,7 +143,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "Number: {{c1::مُفْرَد / وَاحِد::singular}}, {{c2::مُثَنَّى / تَثْنِيَة::dual}}, {{c3::جَمْع / مَجْمُوع::plural}}",
+   "text": "Number: {{c1::<bdi>مُفْرَد</bdi> / <bdi>وَاحِد</bdi>::singular}}, {{c2::<bdi>مُثَنَّى</bdi> / <bdi>تَثْنِيَة</bdi>::dual}}, {{c3::<bdi>جَمْع</bdi> / <bdi>مَجْمُوع</bdi>::plural}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -154,8 +154,8 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "What does مُفْرَد mean in صَرْف, and how does that differ from its use in نَحْو?",
-   "back": "In صَرْف it means <b>singular</b> (number); in نَحْو it means <b>a single word</b> (= كَلِمَة)",
+   "front": "What does <bdi>مُفْرَد</bdi> mean in <bdi>صَرْف</bdi>, and how does that differ from its use in <bdi>نَحْو</bdi>?",
+   "back": "In <bdi>صَرْف</bdi> it means <b>singular</b> (number); in <bdi>نَحْو</bdi> it means <b>a single word</b> (= <bdi>كَلِمَة</bdi>)",
    "tags": [
     "sarf",
     "nahw",
@@ -167,7 +167,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "ضَمِير مُتَّصِل (ḍamīr muttaṣil)",
+   "term": "<bdi>ضَمِير مُتَّصِل</bdi> (ḍamīr muttaṣil)",
    "meaning": "an attached pronoun",
    "tags": [
     "sarf",
@@ -178,7 +178,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "ضَمِير مُنْفَصِل (ḍamīr munfaṣil)",
+   "term": "<bdi>ضَمِير مُنْفَصِل</bdi> (ḍamīr munfaṣil)",
    "meaning": "a separated, standalone pronoun",
    "tags": [
     "sarf",
@@ -189,7 +189,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "An attached pronoun is a {{c1::ضَمِير مُتَّصِل}}; a separated one is a {{c2::ضَمِير مُنْفَصِل}}",
+   "text": "An attached pronoun is a {{c1::<bdi>ضَمِير مُتَّصِل</bdi>}}; a separated one is a {{c2::<bdi>ضَمِير مُنْفَصِل</bdi>}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -200,7 +200,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "ضَمِير الفَاعِل (ḍamīr al-fāʿil)",
+   "term": "<bdi>ضَمِير الفَاعِل</bdi> (ḍamīr al-fāʿil)",
    "meaning": "the pronoun in its role as doer of the action — one category of attached pronoun",
    "tags": [
     "sarf",
@@ -211,7 +211,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "ضَمِير مُسْتَتِر (ḍamīr mustatir)",
+   "term": "<bdi>ضَمِير مُسْتَتِر</bdi> (ḍamīr mustatir)",
    "meaning": "a hidden pronoun — contained within the verb, not written",
    "tags": [
     "sarf",
@@ -222,7 +222,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "ضَمِير بَارِز (ḍamīr bāriz)",
+   "term": "<bdi>ضَمِير بَارِز</bdi> (ḍamīr bāriz)",
    "meaning": "a visible pronoun — attached to the verb as a suffix",
    "tags": [
     "sarf",
@@ -233,7 +233,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "The {{c1::مُسْتَتِر::hidden}} pronoun sits inside the verb; the {{c2::بَارِز::visible}} pronoun is attached as a suffix",
+   "text": "The {{c1::<bdi>مُسْتَتِر</bdi>::hidden}} pronoun sits inside the verb; the {{c2::<bdi>بَارِز</bdi>::visible}} pronoun is attached as a suffix",
    "extra": "",
    "tags": [
     "sarf",
@@ -245,8 +245,8 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "Under which category of attached pronoun do مُسْتَتِر and بَارِز fall?",
-   "back": "ضَمِير الفَاعِل — the pronoun as doer",
+   "front": "Under which category of attached pronoun do <bdi>مُسْتَتِر</bdi> and <bdi>بَارِز</bdi> fall?",
+   "back": "<bdi>ضَمِير الفَاعِل</bdi> — the pronoun as doer",
    "tags": [
     "sarf",
     "placement"
@@ -256,7 +256,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "صِيغَة (ṣīghah)",
+   "term": "<bdi>صِيغَة</bdi> (ṣīghah)",
    "meaning": "each form of the verb taken with a particular pronoun",
    "tags": [
     "sarf",
@@ -278,7 +278,7 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "How many صِيَغ are there in a full conjugation?",
+   "front": "How many <bdi>صِيَغ</bdi> are there in a full conjugation?",
    "back": "14",
    "tags": [
     "sarf"
@@ -288,8 +288,8 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "In which two صِيَغ is the pronoun مُسْتَتِر?",
-   "back": "هُوَ and هِيَ",
+   "front": "In which two <bdi>صِيَغ</bdi> is the pronoun <bdi>مُسْتَتِر</bdi>?",
+   "back": "<bdi>هُوَ</bdi> and <bdi>هِيَ</bdi>",
    "tags": [
     "sarf",
     "criterion"
@@ -299,7 +299,7 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "Why is the pronoun in هُوَ counted as مُسْتَتِر?",
+   "front": "Why is the pronoun in <bdi>هُوَ</bdi> counted as <bdi>مُسْتَتِر</bdi>?",
    "back": "Because nothing is added to the verb at all",
    "tags": [
     "sarf"
@@ -309,8 +309,8 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "A تاء <i>is</i> added in هِيَ — so why is its pronoun still counted as مُسْتَتِر?",
-   "back": "Because that تاء ساكنة is a عَلَامَة التَّأْنِيث, a sign of femininity, not a ضَمِير",
+   "front": "A <bdi>تاء</bdi> <i>is</i> added in <bdi>هِيَ</bdi> — so why is its pronoun still counted as <bdi>مُسْتَتِر</bdi>?",
+   "back": "Because that <bdi>تاء ساكنة</bdi> is a <bdi>عَلَامَة التَّأْنِيث</bdi>, a sign of femininity, not a <bdi>ضَمِير</bdi>",
    "tags": [
     "sarf",
     "criterion"
@@ -320,7 +320,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "عَلَامَة التَّأْنِيث (ʿalāmat al-taʾnīth)",
+   "term": "<bdi>عَلَامَة التَّأْنِيث</bdi> (ʿalāmat al-taʾnīth)",
    "meaning": "a sign of femininity — not a pronoun",
    "tags": [
     "sarf",
@@ -332,7 +332,7 @@
    "type": "basic",
    "tier": 1,
    "front": "How does the third person feminine <b>dual</b> differ from the feminine singular in what it adds?",
-   "back": "It keeps the تاء as a sign of femininity <b>and</b> adds the pronoun أَلِف on top of it",
+   "back": "It keeps the <bdi>تاء</bdi> as a sign of femininity <b>and</b> adds the pronoun <bdi>أَلِف</bdi> on top of it",
    "tags": [
     "sarf",
     "criterion"
@@ -342,8 +342,8 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "Which parts of a conjugated verb count as ضَمِير بَارِز?",
-   "back": "The added suffixes — أَلِف, وَاو, نُون, and the rest",
+   "front": "Which parts of a conjugated verb count as <bdi>ضَمِير بَارِز</bdi>?",
+   "back": "The added suffixes — <bdi>أَلِف</bdi>, <bdi>وَاو</bdi>, <bdi>نُون</bdi>, and the rest",
    "tags": [
     "sarf"
    ],
@@ -352,7 +352,7 @@
   {
    "type": "cloze",
    "tier": 2,
-   "text": "Within a person, feminine singular is marked by {{c1::ـَة}}, the dual by {{c2::ـَانِ / ـَتَانِ}}, masculine plural by {{c3::ـُونَ}}, feminine plural by {{c4::ـَات}}",
+   "text": "Within a person, feminine singular is marked by {{c1::<bdi>ـَة</bdi>}}, the dual by {{c2::<bdi>ـَانِ</bdi> / <bdi>ـَتَانِ</bdi>}}, masculine plural by {{c3::<bdi>ـُونَ</bdi>}}, feminine plural by {{c4::<bdi>ـَات</bdi>}}",
    "extra": "Read off the ṣiyagh chart; not stated in the lecture.",
    "tags": [
     "sarf",
@@ -363,7 +363,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::الغَائِبُ}} — {{c2::third person, masculine, singular — “he / it”}}",
+   "text": "{{c1::<bdi>الغَائِبُ</bdi>}} — {{c2::third person, masculine, singular — “he / it”}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -374,7 +374,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::الغَائِبَانِ}} — {{c2::third person, masculine, dual — “they” (two males)}}",
+   "text": "{{c1::<bdi>الغَائِبَانِ</bdi>}} — {{c2::third person, masculine, dual — “they” (two males)}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -385,7 +385,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::الغَائِبُونَ}} — {{c2::third person, masculine, plural — “they” (males)}}",
+   "text": "{{c1::<bdi>الغَائِبُونَ</bdi>}} — {{c2::third person, masculine, plural — “they” (males)}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -396,7 +396,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::الغَائِبَةُ}} — {{c2::third person, feminine, singular — “she / it”}}",
+   "text": "{{c1::<bdi>الغَائِبَةُ</bdi>}} — {{c2::third person, feminine, singular — “she / it”}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -407,7 +407,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::الغَائِبَتَانِ}} — {{c2::third person, feminine, dual — “they” (two females)}}",
+   "text": "{{c1::<bdi>الغَائِبَتَانِ</bdi>}} — {{c2::third person, feminine, dual — “they” (two females)}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -418,7 +418,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::الغَائِبَاتُ}} — {{c2::third person, feminine, plural — “they” (females)}}",
+   "text": "{{c1::<bdi>الغَائِبَاتُ</bdi>}} — {{c2::third person, feminine, plural — “they” (females)}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -429,7 +429,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::المُخَاطَبُ}} — {{c2::second person, masculine, singular — “you” (m/s)}}",
+   "text": "{{c1::<bdi>المُخَاطَبُ</bdi>}} — {{c2::second person, masculine, singular — “you” (m/s)}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -440,7 +440,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::المُخَاطَبَانِ}} — {{c2::second person, masculine, dual — “you” (m/d)}}",
+   "text": "{{c1::<bdi>المُخَاطَبَانِ</bdi>}} — {{c2::second person, masculine, dual — “you” (m/d)}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -451,7 +451,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::المُخَاطَبُونَ}} — {{c2::second person, masculine, plural — “you” (m/p)}}",
+   "text": "{{c1::<bdi>المُخَاطَبُونَ</bdi>}} — {{c2::second person, masculine, plural — “you” (m/p)}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -462,7 +462,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::المُخَاطَبَةُ}} — {{c2::second person, feminine, singular — “you” (f/s)}}",
+   "text": "{{c1::<bdi>المُخَاطَبَةُ</bdi>}} — {{c2::second person, feminine, singular — “you” (f/s)}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -473,7 +473,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::المُخَاطَبَتَانِ}} — {{c2::second person, feminine, dual — “you” (f/d)}}",
+   "text": "{{c1::<bdi>المُخَاطَبَتَانِ</bdi>}} — {{c2::second person, feminine, dual — “you” (f/d)}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -484,7 +484,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::المُخَاطَبَاتُ}} — {{c2::second person, feminine, plural — “you” (f/p)}}",
+   "text": "{{c1::<bdi>المُخَاطَبَاتُ</bdi>}} — {{c2::second person, feminine, plural — “you” (f/p)}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -495,7 +495,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::المُتَكَلِّمُ}} — {{c2::first person, singular, masculine or feminine — “I”}}",
+   "text": "{{c1::<bdi>المُتَكَلِّمُ</bdi>}} — {{c2::first person, singular, masculine or feminine — “I”}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -506,7 +506,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "{{c1::المُتَكَلِّمُونَ}} — {{c2::first person, dual or plural, masculine or feminine — “we”}}",
+   "text": "{{c1::<bdi>المُتَكَلِّمُونَ</bdi>}} — {{c2::first person, dual or plural, masculine or feminine — “we”}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -518,7 +518,7 @@
    "type": "basic",
    "tier": 1,
    "front": "Which person makes <b>no</b> gender distinction?",
-   "back": "The first — المُتَكَلِّم and المُتَكَلِّمُونَ each cover both",
+   "back": "The first — <bdi>المُتَكَلِّم</bdi> and <bdi>المُتَكَلِّمُونَ</bdi> each cover both",
    "tags": [
     "sarf",
     "siyagh",
@@ -529,8 +529,8 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "Which صِيغَة covers both dual <b>and</b> plural?",
-   "back": "المُتَكَلِّمُونَ — “we”",
+   "front": "Which <bdi>صِيغَة</bdi> covers both dual <b>and</b> plural?",
+   "back": "<bdi>المُتَكَلِّمُونَ</bdi> — “we”",
    "tags": [
     "sarf",
     "siyagh"
@@ -540,7 +540,7 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "What does فَتَحَ mean?",
+   "front": "What does <bdi>فَتَحَ</bdi> mean?",
    "back": "to open",
    "tags": [
     "sarf",
@@ -562,7 +562,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "الغَائِبُ — {{c1::فَتَحَ}} — ({{c2::هُوَ}}) — “he / it opened”",
+   "text": "<bdi>الغَائِبُ</bdi> — {{c1::<bdi>فَتَحَ</bdi>}} — ({{c2::<bdi>هُوَ</bdi>}}) — “he / it opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -573,7 +573,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "الغَائِبَانِ — {{c1::فَتَحَا}} — ({{c2::ا}}) — “they (m/d) opened”",
+   "text": "<bdi>الغَائِبَانِ</bdi> — {{c1::<bdi>فَتَحَا</bdi>}} — ({{c2::<bdi>ا</bdi>}}) — “they (m/d) opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -584,7 +584,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "الغَائِبُونَ — {{c1::فَتَحُوْا}} — ({{c2::و}}) — “they (m/p) opened”",
+   "text": "<bdi>الغَائِبُونَ</bdi> — {{c1::<bdi>فَتَحُوْا</bdi>}} — ({{c2::<bdi>و</bdi>}}) — “they (m/p) opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -595,7 +595,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "الغَائِبَةُ — {{c1::فَتَحَتْ}} — ({{c2::هِيَ}}) — “she / it opened”",
+   "text": "<bdi>الغَائِبَةُ</bdi> — {{c1::<bdi>فَتَحَتْ</bdi>}} — ({{c2::<bdi>هِيَ</bdi>}}) — “she / it opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -606,7 +606,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "الغَائِبَتَانِ — {{c1::فَتَحَتَا}} — ({{c2::ا}}) — “they (f/d) opened”",
+   "text": "<bdi>الغَائِبَتَانِ</bdi> — {{c1::<bdi>فَتَحَتَا</bdi>}} — ({{c2::<bdi>ا</bdi>}}) — “they (f/d) opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -617,7 +617,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "الغَائِبَاتُ — {{c1::فَتَحْنَ}} — ({{c2::ن}}) — “they (f/p) opened”",
+   "text": "<bdi>الغَائِبَاتُ</bdi> — {{c1::<bdi>فَتَحْنَ</bdi>}} — ({{c2::<bdi>ن</bdi>}}) — “they (f/p) opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -628,7 +628,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "المُخَاطَبُ — {{c1::فَتَحْتَ}} — ({{c2::تَ}}) — “you (m/s) opened”",
+   "text": "<bdi>المُخَاطَبُ</bdi> — {{c1::<bdi>فَتَحْتَ</bdi>}} — ({{c2::<bdi>تَ</bdi>}}) — “you (m/s) opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -639,7 +639,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "المُخَاطَبَانِ — {{c1::فَتَحْتُمَا}} — ({{c2::تُمَا}}) — “you (m/d) opened”",
+   "text": "<bdi>المُخَاطَبَانِ</bdi> — {{c1::<bdi>فَتَحْتُمَا</bdi>}} — ({{c2::<bdi>تُمَا</bdi>}}) — “you (m/d) opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -650,7 +650,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "المُخَاطَبُونَ — {{c1::فَتَحْتُمْ}} — ({{c2::تُمْ}}) — “you (m/p) opened”",
+   "text": "<bdi>المُخَاطَبُونَ</bdi> — {{c1::<bdi>فَتَحْتُمْ</bdi>}} — ({{c2::<bdi>تُمْ</bdi>}}) — “you (m/p) opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -661,7 +661,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "المُخَاطَبَةُ — {{c1::فَتَحْتِ}} — ({{c2::تِ}}) — “you (f/s) opened”",
+   "text": "<bdi>المُخَاطَبَةُ</bdi> — {{c1::<bdi>فَتَحْتِ</bdi>}} — ({{c2::<bdi>تِ</bdi>}}) — “you (f/s) opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -672,7 +672,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "المُخَاطَبَتَانِ — {{c1::فَتَحْتُمَا}} — ({{c2::تُمَا}}) — “you (f/d) opened”",
+   "text": "<bdi>المُخَاطَبَتَانِ</bdi> — {{c1::<bdi>فَتَحْتُمَا</bdi>}} — ({{c2::<bdi>تُمَا</bdi>}}) — “you (f/d) opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -683,7 +683,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "المُخَاطَبَاتُ — {{c1::فَتَحْتُنَّ}} — ({{c2::تُنَّ}}) — “you (f/p) opened”",
+   "text": "<bdi>المُخَاطَبَاتُ</bdi> — {{c1::<bdi>فَتَحْتُنَّ</bdi>}} — ({{c2::<bdi>تُنَّ</bdi>}}) — “you (f/p) opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -694,7 +694,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "المُتَكَلِّمُ — {{c1::فَتَحْتُ}} — ({{c2::تُ}}) — “I opened”",
+   "text": "<bdi>المُتَكَلِّمُ</bdi> — {{c1::<bdi>فَتَحْتُ</bdi>}} — ({{c2::<bdi>تُ</bdi>}}) — “I opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -705,7 +705,7 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "المُتَكَلِّمُونَ — {{c1::فَتَحْنَا}} — ({{c2::نَا}}) — “we opened”",
+   "text": "<bdi>المُتَكَلِّمُونَ</bdi> — {{c1::<bdi>فَتَحْنَا</bdi>}} — ({{c2::<bdi>نَا</bdi>}}) — “we opened”",
    "extra": "",
    "tags": [
     "sarf",
@@ -716,8 +716,8 @@
   {
    "type": "basic",
    "tier": 2,
-   "front": "Which two صِيَغ share an identical مَاضِي form?",
-   "back": "المُخَاطَبَانِ and المُخَاطَبَتَانِ — both فَتَحْتُمَا",
+   "front": "Which two <bdi>صِيَغ</bdi> share an identical <bdi>مَاضِي</bdi> form?",
+   "back": "<bdi>المُخَاطَبَانِ</bdi> and <bdi>المُخَاطَبَتَانِ</bdi> — both <bdi>فَتَحْتُمَا</bdi>",
    "tags": [
     "sarf",
     "madi"
@@ -727,7 +727,7 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "مَاضِي (māḍī)",
+   "term": "<bdi>مَاضِي</bdi> (māḍī)",
    "meaning": "the past tense",
    "tags": [
     "sarf",
@@ -738,7 +738,7 @@
   {
    "type": "basic",
    "tier": 1,
-   "front": "Which four مَاضِي forms end in a تاء and are indistinguishable without tashkīl?",
+   "front": "Which four <bdi>مَاضِي</bdi> forms end in a <bdi>تاء</bdi> and are indistinguishable without tashkīl?",
    "back": "فَعَلَتْ، فَعَلْتَ، فَعَلْتِ، فَعَلْتُ",
    "tags": [
     "sarf",
@@ -749,8 +749,8 @@
   {
    "type": "cloze",
    "tier": 1,
-   "text": "Written bare, all four are فعلت: {{c1::فَعَلَتْ::sukūn}} is <i>she</i>; {{c2::فَعَلْتَ::fatḥah}} is <i>you (m/s)</i>; {{c3::فَعَلْتِ::kasrah}} is <i>you (f/s)</i>; {{c4::فَعَلْتُ::ḍammah}} is <i>I</i>",
-   "extra": "The vowel on the تاء is the only thing carrying person and gender here.",
+   "text": "Written bare, all four are <bdi>فعلت</bdi>: {{c1::<bdi>فَعَلَتْ</bdi>::sukūn}} is <i>she</i>; {{c2::<bdi>فَعَلْتَ</bdi>::fatḥah}} is <i>you (m/s)</i>; {{c3::<bdi>فَعَلْتِ</bdi>::kasrah}} is <i>you (f/s)</i>; {{c4::<bdi>فَعَلْتُ</bdi>::ḍammah}} is <i>I</i>",
+   "extra": "The vowel on the <bdi>تاء</bdi> is the only thing carrying person and gender here.",
    "tags": [
     "sarf",
     "madi",
@@ -763,8 +763,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-069",
-   "front": "When a وَاو pronoun is the last letter of a word, what always follows it?",
-   "back": "A silent أَلِف — as in فَتَحُوْا",
+   "front": "When a <bdi>وَاو</bdi> pronoun is the last letter of a word, what always follows it?",
+   "back": "A silent <bdi>أَلِف</bdi> — as in <bdi>فَتَحُوْا</bdi>",
    "tags": [
     "sarf",
     "madi",
@@ -776,8 +776,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-070",
-   "front": "Which two tenses does المُضَارِع cover?",
-   "back": "الحَال (present) and المُسْتَقْبَل (future)",
+   "front": "Which two tenses does <bdi>المُضَارِع</bdi> cover?",
+   "back": "<bdi>الحَال</bdi> (present) and <bdi>المُسْتَقْبَل</bdi> (future)",
    "tags": [
     "sarf",
     "mudari"
@@ -788,7 +788,7 @@
    "type": "bidir",
    "tier": 1,
    "id": "sarf-071",
-   "term": "الحَال (al-ḥāl)",
+   "term": "<bdi>الحَال</bdi> (al-ḥāl)",
    "meaning": "the present tense",
    "tags": [
     "sarf",
@@ -801,7 +801,7 @@
    "type": "bidir",
    "tier": 1,
    "id": "sarf-072",
-   "term": "المُسْتَقْبَل (al-mustaqbal)",
+   "term": "<bdi>المُسْتَقْبَل</bdi> (al-mustaqbal)",
    "meaning": "the future tense",
    "tags": [
     "sarf",
@@ -814,7 +814,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-073",
-   "text": "الحَال has two types: {{c1::present habitual::regularly}} — “Zaid walks” — and {{c2::present continuous::right now}} — “Zaid is walking”",
+   "text": "<bdi>الحَال</bdi> has two types: {{c1::present habitual::regularly}} — “Zaid walks” — and {{c2::present continuous::right now}} — “Zaid is walking”",
    "extra": "",
    "tags": [
     "sarf",
@@ -853,7 +853,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-076",
-   "text": "Each صِيغَة has four components: {{c1::الفِعْل::the verb}}, {{c2::الضَّمِير::the pronoun}}, {{c3::حَرْف المُضَارِع::the prefix}}, and {{c4::عَلَامَة الإِعْرَاب::the state marker}}",
+   "text": "Each <bdi>صِيغَة</bdi> has four components: {{c1::<bdi>الفِعْل</bdi>::the verb}}, {{c2::<bdi>الضَّمِير</bdi>::the pronoun}}, {{c3::<bdi>حَرْف المُضَارِع</bdi>::the prefix}}, and {{c4::<bdi>عَلَامَة الإِعْرَاب</bdi>::the state marker}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -867,7 +867,7 @@
    "tier": 1,
    "id": "sarf-077",
    "term": "حَرْف المُضَارِع",
-   "meaning": "the مُضَارِع prefix — also called عَلَامَة المُضَارِع",
+   "meaning": "the <bdi>مُضَارِع</bdi> prefix — also called <bdi>عَلَامَة المُضَارِع</bdi>",
    "tags": [
     "sarf",
     "mudari",
@@ -879,7 +879,7 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-078",
-   "front": "What is the other name for حَرْف المُضَارِع?",
+   "front": "What is the other name for <bdi>حَرْف المُضَارِع</bdi>?",
    "back": "عَلَامَة المُضَارِع",
    "tags": [
     "sarf",
@@ -904,7 +904,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-080",
-   "text": "Breaking down يَفْتَحُوْنَ: {{c1::يَ::prefix}} is the حَرْف المُضَارِع, {{c2::فْتَحُ::verb}} is the فِعْل, {{c3::وْ::pronoun}} is the ضَمِير, and {{c4::نَ::marker}} is the عَلَامَة الإِعْرَاب",
+   "text": "Breaking down <bdi>يَفْتَحُوْنَ</bdi>: {{c1::<bdi>يَ</bdi>::prefix}} is the <bdi>حَرْف المُضَارِع</bdi>, {{c2::<bdi>فْتَحُ</bdi>::verb}} is the <bdi>فِعْل</bdi>, {{c3::<bdi>وْ</bdi>::pronoun}} is the <bdi>ضَمِير</bdi>, and {{c4::<bdi>نَ</bdi>::marker}} is the <bdi>عَلَامَة الإِعْرَاب</bdi>",
    "extra": "Read right to left.",
    "tags": [
     "sarf",
@@ -917,7 +917,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-081",
-   "text": "المُضَارِع of فَتَحَ — الغَائِبُ — {{c1::يَفْتَحُ}} — ({{c2::هُوَ}}) — “he opens / is opening / will open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>الغَائِبُ</bdi> — {{c1::<bdi>يَفْتَحُ</bdi>}} — ({{c2::<bdi>هُوَ</bdi>}}) — “he opens / is opening / will open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -930,7 +930,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-082",
-   "text": "المُضَارِع of فَتَحَ — الغَائِبَانِ — {{c1::يَفْتَحَانِ}} — ({{c2::ا}}) — “they (m/d) open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>الغَائِبَانِ</bdi> — {{c1::<bdi>يَفْتَحَانِ</bdi>}} — ({{c2::<bdi>ا</bdi>}}) — “they (m/d) open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -943,7 +943,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-083",
-   "text": "المُضَارِع of فَتَحَ — الغَائِبُونَ — {{c1::يَفْتَحُوْنَ}} — ({{c2::و}}) — “they (m/p) open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>الغَائِبُونَ</bdi> — {{c1::<bdi>يَفْتَحُوْنَ</bdi>}} — ({{c2::<bdi>و</bdi>}}) — “they (m/p) open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -956,7 +956,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-084",
-   "text": "المُضَارِع of فَتَحَ — الغَائِبَةُ — {{c1::تَفْتَحُ}} — ({{c2::هِيَ}}) — “she opens”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>الغَائِبَةُ</bdi> — {{c1::<bdi>تَفْتَحُ</bdi>}} — ({{c2::<bdi>هِيَ</bdi>}}) — “she opens”",
    "extra": "",
    "tags": [
     "sarf",
@@ -969,7 +969,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-085",
-   "text": "المُضَارِع of فَتَحَ — الغَائِبَتَانِ — {{c1::تَفْتَحَانِ}} — ({{c2::ا}}) — “they (f/d) open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>الغَائِبَتَانِ</bdi> — {{c1::<bdi>تَفْتَحَانِ</bdi>}} — ({{c2::<bdi>ا</bdi>}}) — “they (f/d) open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -982,7 +982,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-086",
-   "text": "المُضَارِع of فَتَحَ — الغَائِبَاتُ — {{c1::يَفْتَحْنَ}} — ({{c2::نَ}}) — “they (f/p) open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>الغَائِبَاتُ</bdi> — {{c1::<bdi>يَفْتَحْنَ</bdi>}} — ({{c2::<bdi>نَ</bdi>}}) — “they (f/p) open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -995,7 +995,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-087",
-   "text": "المُضَارِع of فَتَحَ — المُخَاطَبُ — {{c1::تَفْتَحُ}} — ({{c2::أَنْتَ}}) — “you (m/s) open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>المُخَاطَبُ</bdi> — {{c1::<bdi>تَفْتَحُ</bdi>}} — ({{c2::<bdi>أَنْتَ</bdi>}}) — “you (m/s) open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -1008,7 +1008,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-088",
-   "text": "المُضَارِع of فَتَحَ — المُخَاطَبَانِ — {{c1::تَفْتَحَانِ}} — ({{c2::ا}}) — “you (m/d) open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>المُخَاطَبَانِ</bdi> — {{c1::<bdi>تَفْتَحَانِ</bdi>}} — ({{c2::<bdi>ا</bdi>}}) — “you (m/d) open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -1021,7 +1021,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-089",
-   "text": "المُضَارِع of فَتَحَ — المُخَاطَبُونَ — {{c1::تَفْتَحُوْنَ}} — ({{c2::و}}) — “you (m/p) open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>المُخَاطَبُونَ</bdi> — {{c1::<bdi>تَفْتَحُوْنَ</bdi>}} — ({{c2::<bdi>و</bdi>}}) — “you (m/p) open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -1034,7 +1034,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-090",
-   "text": "المُضَارِع of فَتَحَ — المُخَاطَبَةُ — {{c1::تَفْتَحِيْنَ}} — ({{c2::ي}}) — “you (f/s) open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>المُخَاطَبَةُ</bdi> — {{c1::<bdi>تَفْتَحِيْنَ</bdi>}} — ({{c2::<bdi>ي</bdi>}}) — “you (f/s) open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -1047,7 +1047,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-091",
-   "text": "المُضَارِع of فَتَحَ — المُخَاطَبَتَانِ — {{c1::تَفْتَحَانِ}} — ({{c2::ا}}) — “you (f/d) open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>المُخَاطَبَتَانِ</bdi> — {{c1::<bdi>تَفْتَحَانِ</bdi>}} — ({{c2::<bdi>ا</bdi>}}) — “you (f/d) open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -1060,7 +1060,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-092",
-   "text": "المُضَارِع of فَتَحَ — المُخَاطَبَاتُ — {{c1::تَفْتَحْنَ}} — ({{c2::نَ}}) — “you (f/p) open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>المُخَاطَبَاتُ</bdi> — {{c1::<bdi>تَفْتَحْنَ</bdi>}} — ({{c2::<bdi>نَ</bdi>}}) — “you (f/p) open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -1073,7 +1073,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-093",
-   "text": "المُضَارِع of فَتَحَ — المُتَكَلِّمُ — {{c1::أَفْتَحُ}} — ({{c2::أَنَا}}) — “I open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>المُتَكَلِّمُ</bdi> — {{c1::<bdi>أَفْتَحُ</bdi>}} — ({{c2::<bdi>أَنَا</bdi>}}) — “I open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -1086,7 +1086,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-094",
-   "text": "المُضَارِع of فَتَحَ — المُتَكَلِّمُونَ — {{c1::نَفْتَحُ}} — ({{c2::نَحْنُ}}) — “we open”",
+   "text": "<bdi>المُضَارِع</bdi> of <bdi>فَتَحَ</bdi> — <bdi>المُتَكَلِّمُونَ</bdi> — {{c1::<bdi>نَفْتَحُ</bdi>}} — ({{c2::<bdi>نَحْنُ</bdi>}}) — “we open”",
    "extra": "",
    "tags": [
     "sarf",
@@ -1099,8 +1099,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-095",
-   "front": "How many مُضَارِع conjugations carry no pronoun suffix, and which are they?",
-   "back": "Five — هُوَ، هِيَ، أَنْتَ، أَنَا، نَحْنُ",
+   "front": "How many <bdi>مُضَارِع</bdi> conjugations carry no pronoun suffix, and which are they?",
+   "back": "Five — <bdi>هُوَ، هِيَ، أَنْتَ، أَنَا، نَحْنُ</bdi>",
    "tags": [
     "sarf",
     "mudari",
@@ -1113,7 +1113,7 @@
    "tier": 2,
    "id": "sarf-096",
    "front": "What term do the notes give for the five conjugations with no suffix?",
-   "back": "الأَفْعَال الخَمْسَة <i>(see draft — this label conventionally names the five نُون-ending forms instead)</i>",
+   "back": "<bdi>الأَفْعَال الخَمْسَة</bdi> <i>(see draft — this label conventionally names the five <bdi>نُون</bdi>-ending forms instead)</i>",
    "tags": [
     "sarf",
     "mudari"
@@ -1124,8 +1124,8 @@
    "type": "bidir",
    "tier": 1,
    "id": "sarf-097",
-   "term": "نُون النِّسْوَة (nūn al-niswah)",
-   "meaning": "the نُون of the two feminine plurals — it counts as the ضَمِير itself",
+   "term": "<bdi>نُون النِّسْوَة</bdi> (nūn al-niswah)",
+   "meaning": "the <bdi>نُون</bdi> of the two feminine plurals — it counts as the <bdi>ضَمِير</bdi> itself",
    "tags": [
     "sarf",
     "mudari",
@@ -1137,8 +1137,8 @@
    "type": "bidir",
    "tier": 1,
    "id": "sarf-098",
-   "term": "نُون الإِعْرَاب (nūn al-iʿrāb)",
-   "meaning": "the نُون that marks the grammatical state at the end of a مُضَارِع conjugation",
+   "term": "<bdi>نُون الإِعْرَاب</bdi> (nūn al-iʿrāb)",
+   "meaning": "the <bdi>نُون</bdi> that marks the grammatical state at the end of a <bdi>مُضَارِع</bdi> conjugation",
    "tags": [
     "sarf",
     "mudari",
@@ -1150,7 +1150,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-099",
-   "text": "{{c1::نُون النِّسْوَة}} is the ضَمِير itself and those two conjugations have {{c2::no عَلَامَة إِعْرَاب at all}}; {{c3::نُون الإِعْرَاب}} is what the remaining conjugations end with",
+   "text": "{{c1::<bdi>نُون النِّسْوَة</bdi>}} is the <bdi>ضَمِير</bdi> itself and those two conjugations have {{c2::no <bdi>عَلَامَة إِعْرَاب</bdi> at all}}; {{c3::<bdi>نُون الإِعْرَاب</bdi>}} is what the remaining conjugations end with",
    "extra": "Two different nūns at the end of a verb — this is the pair to keep apart.",
    "tags": [
     "sarf",
@@ -1164,8 +1164,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-100",
-   "front": "Which two conjugations carry نُون النِّسْوَة?",
-   "back": "The two feminine plurals — الغَائِبَاتُ (يَفْتَحْنَ) and المُخَاطَبَاتُ (تَفْتَحْنَ)",
+   "front": "Which two conjugations carry <bdi>نُون النِّسْوَة</bdi>?",
+   "back": "The two feminine plurals — <bdi>الغَائِبَاتُ</bdi> (<bdi>يَفْتَحْنَ</bdi>) and <bdi>المُخَاطَبَاتُ</bdi> (<bdi>تَفْتَحْنَ</bdi>)",
    "tags": [
     "sarf",
     "mudari"
@@ -1176,8 +1176,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-101",
-   "front": "What is a وَزْن, generically?",
-   "back": "The pattern of a word when placed on فَ عَيْن لَام",
+   "front": "What is a <bdi>وَزْن</bdi>, generically?",
+   "back": "The pattern of a word when placed on <bdi>فَ عَيْن لَام</bdi>",
    "tags": [
     "sarf",
     "wazn"
@@ -1188,7 +1188,7 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-102",
-   "front": "Which words can be put on the وَزْن pattern?",
+   "front": "Which words can be put on the <bdi>وَزْن</bdi> pattern?",
    "back": "All of them",
    "tags": [
     "sarf",
@@ -1200,8 +1200,8 @@
    "type": "bidir",
    "tier": 1,
    "id": "sarf-103",
-   "term": "بَاب / أَبْوَاب (bāb / abwāb)",
-   "meaning": "the categories verbs are divided into, by the vowel combinations of the عَيْن الكَلِمَة",
+   "term": "<bdi>بَاب</bdi> / <bdi>أَبْوَاب</bdi> (bāb / abwāb)",
+   "meaning": "the categories verbs are divided into, by the vowel combinations of the <bdi>عَيْن الكَلِمَة</bdi>",
    "tags": [
     "sarf",
     "abwaab",
@@ -1213,8 +1213,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-104",
-   "front": "On what basis are verbs of family one divided into أَبْوَاب?",
-   "back": "The combinations of the vowel on the عَيْن الكَلِمَة",
+   "front": "On what basis are verbs of family one divided into <bdi>أَبْوَاب</bdi>?",
+   "back": "The combinations of the vowel on the <bdi>عَيْن الكَلِمَة</bdi>",
    "tags": [
     "sarf",
     "abwaab",
@@ -1226,8 +1226,8 @@
    "type": "bidir",
    "tier": 1,
    "id": "sarf-105",
-   "term": "ثُلَاثِي مُجَرَّد (thulāthī mujarrad)",
-   "meaning": "family one — the هُوَ form carries no extra letter",
+   "term": "<bdi>ثُلَاثِي مُجَرَّد</bdi> (thulāthī mujarrad)",
+   "meaning": "family one — the <bdi>هُوَ</bdi> form carries no extra letter",
    "tags": [
     "sarf",
     "abwaab",
@@ -1239,8 +1239,8 @@
    "type": "bidir",
    "tier": 1,
    "id": "sarf-106",
-   "term": "ثُلَاثِي مَزِيد فِيه (thulāthī mazīd fīh)",
-   "meaning": "families two and above — the هُوَ form does carry extra letters",
+   "term": "<bdi>ثُلَاثِي مَزِيد فِيه</bdi> (thulāthī mazīd fīh)",
+   "meaning": "families two and above — the <bdi>هُوَ</bdi> form does carry extra letters",
    "tags": [
     "sarf",
     "abwaab",
@@ -1252,7 +1252,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-107",
-   "text": "{{c1::ثُلَاثِي مُجَرَّد}} — the هُوَ form has {{c2::no extra letter}}; {{c3::ثُلَاثِي مَزِيد فِيه}} — the هُوَ form {{c4::does have extra letters}}",
+   "text": "{{c1::<bdi>ثُلَاثِي مُجَرَّد</bdi>}} — the <bdi>هُوَ</bdi> form has {{c2::no extra letter}}; {{c3::<bdi>ثُلَاثِي مَزِيد فِيه</bdi>}} — the <bdi>هُوَ</bdi> form {{c4::does have extra letters}}",
    "extra": "",
    "tags": [
     "sarf",
@@ -1266,7 +1266,7 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-108",
-   "front": "To what does بَاب refer, across the families?",
+   "front": "To what does <bdi>بَاب</bdi> refer, across the families?",
    "back": "To families two and above, and also to the sub-combinations within family one",
    "tags": [
     "sarf",
@@ -1279,7 +1279,7 @@
    "type": "cloze",
    "tier": 1,
    "id": "sarf-109",
-   "text": "The six أَبْوَاب of ثُلَاثِي مُجَرَّد, in order of commonality: (1) {{c1::نَصَرَ يَنْصُرُ}} (2) {{c2::ضَرَبَ يَضْرِبُ}} (3) {{c3::فَتَحَ يَفْتَحُ}} (4) {{c4::سَمِعَ يَسْمَعُ}} (5) {{c5::كَرُمَ يَكْرُمُ}} (6) {{c6::حَسِبَ يَحْسِبُ}}",
+   "text": "The six <bdi>أَبْوَاب</bdi> of <bdi>ثُلَاثِي مُجَرَّد</bdi>, in order of commonality: (1) {{c1::<bdi>نَصَرَ يَنْصُرُ</bdi>}} (2) {{c2::<bdi>ضَرَبَ يَضْرِبُ</bdi>}} (3) {{c3::<bdi>فَتَحَ يَفْتَحُ</bdi>}} (4) {{c4::<bdi>سَمِعَ يَسْمَعُ</bdi>}} (5) {{c5::<bdi>كَرُمَ يَكْرُمُ</bdi>}} (6) {{c6::<bdi>حَسِبَ يَحْسِبُ</bdi>}}",
    "extra": "This order has to be memorised.",
    "tags": [
     "sarf",
@@ -1292,7 +1292,7 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-110",
-   "front": "Which بَاب is the <b>most</b> common?",
+   "front": "Which <bdi>بَاب</bdi> is the <b>most</b> common?",
    "back": "نَصَرَ يَنْصُرُ",
    "tags": [
     "sarf",
@@ -1304,7 +1304,7 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-111",
-   "front": "Which بَاب is the <b>least</b> common of the six?",
+   "front": "Which <bdi>بَاب</bdi> is the <b>least</b> common of the six?",
    "back": "حَسِبَ يَحْسِبُ",
    "tags": [
     "sarf",
@@ -1316,8 +1316,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-112",
-   "front": "Which بَاب has the vowel pattern <b>fatḥah → ḍammah</b> on the عَيْن?",
-   "back": "نَصَرَ يَنْصُرُ — number 1 in order of commonality",
+   "front": "Which <bdi>بَاب</bdi> has the vowel pattern <b>fatḥah → ḍammah</b> on the <bdi>عَيْن</bdi>?",
+   "back": "<bdi>نَصَرَ يَنْصُرُ</bdi> — number 1 in order of commonality",
    "tags": [
     "sarf",
     "abwaab"
@@ -1328,8 +1328,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-113",
-   "front": "Which بَاب has the vowel pattern <b>fatḥah → kasrah</b> on the عَيْن?",
-   "back": "ضَرَبَ يَضْرِبُ — number 2 in order of commonality",
+   "front": "Which <bdi>بَاب</bdi> has the vowel pattern <b>fatḥah → kasrah</b> on the <bdi>عَيْن</bdi>?",
+   "back": "<bdi>ضَرَبَ يَضْرِبُ</bdi> — number 2 in order of commonality",
    "tags": [
     "sarf",
     "abwaab"
@@ -1340,8 +1340,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-114",
-   "front": "Which بَاب has the vowel pattern <b>fatḥah → fatḥah</b> on the عَيْن?",
-   "back": "فَتَحَ يَفْتَحُ — number 3 in order of commonality",
+   "front": "Which <bdi>بَاب</bdi> has the vowel pattern <b>fatḥah → fatḥah</b> on the <bdi>عَيْن</bdi>?",
+   "back": "<bdi>فَتَحَ يَفْتَحُ</bdi> — number 3 in order of commonality",
    "tags": [
     "sarf",
     "abwaab"
@@ -1352,8 +1352,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-115",
-   "front": "Which بَاب has the vowel pattern <b>kasrah → fatḥah</b> on the عَيْن?",
-   "back": "سَمِعَ يَسْمَعُ — number 4 in order of commonality",
+   "front": "Which <bdi>بَاب</bdi> has the vowel pattern <b>kasrah → fatḥah</b> on the <bdi>عَيْن</bdi>?",
+   "back": "<bdi>سَمِعَ يَسْمَعُ</bdi> — number 4 in order of commonality",
    "tags": [
     "sarf",
     "abwaab"
@@ -1364,8 +1364,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-116",
-   "front": "Which بَاب has the vowel pattern <b>ḍammah → ḍammah</b> on the عَيْن?",
-   "back": "كَرُمَ يَكْرُمُ — number 5 in order of commonality",
+   "front": "Which <bdi>بَاب</bdi> has the vowel pattern <b>ḍammah → ḍammah</b> on the <bdi>عَيْن</bdi>?",
+   "back": "<bdi>كَرُمَ يَكْرُمُ</bdi> — number 5 in order of commonality",
    "tags": [
     "sarf",
     "abwaab"
@@ -1376,8 +1376,8 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-117",
-   "front": "Which بَاب has the vowel pattern <b>kasrah → kasrah</b> on the عَيْن?",
-   "back": "حَسِبَ يَحْسِبُ — number 6 in order of commonality",
+   "front": "Which <bdi>بَاب</bdi> has the vowel pattern <b>kasrah → kasrah</b> on the <bdi>عَيْن</bdi>?",
+   "back": "<bdi>حَسِبَ يَحْسِبُ</bdi> — number 6 in order of commonality",
    "tags": [
     "sarf",
     "abwaab"
@@ -1402,7 +1402,7 @@
    "tier": 1,
    "id": "sarf-119",
    "front": "Which three vowel combinations do <b>not</b> occur?",
-   "back": "فَعِلَ–يَفْعُلُ, فَعُلَ–يَفْعَلُ, and فَعُلَ–يَفْعِلُ",
+   "back": "<bdi>فَعِلَ–يَفْعُلُ</bdi>, <bdi>فَعُلَ–يَفْعَلُ</bdi>, and <bdi>فَعُلَ–يَفْعِلُ</bdi>",
    "tags": [
     "sarf",
     "abwaab",
@@ -1414,7 +1414,7 @@
    "type": "basic",
    "tier": 1,
    "id": "sarf-120",
-   "front": "Which is the only بَاب whose مَاضِي carries a ḍammah on the عَيْن?",
+   "front": "Which is the only <bdi>بَاب</bdi> whose <bdi>مَاضِي</bdi> carries a ḍammah on the <bdi>عَيْن</bdi>?",
    "back": "كَرُمَ يَكْرُمُ",
    "tags": [
     "sarf",

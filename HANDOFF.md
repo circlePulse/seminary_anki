@@ -137,10 +137,13 @@ once, and both times was objecting to files that had no reason to exist.
 
 ## Pending
 
-- **~530 fields need `<bdi>` wrapping** — cards written before rule 4 was recorded.
-  The user is having this done separately. The verification rule: stripping the tags
-  back out must leave the text byte-identical. Afterwards those decks will show a
-  large delta, which is correct.
+- **~400 fields still need `<bdi>` wrapping** — cards written before rule 4 was recorded.
+  `skill/scripts/wrap_arabic.py decks/X.json` does it (report only; add `--write`), and
+  refuses to write unless stripping the tags back out leaves the text byte-identical.
+  **Sarf is done** (139 fields, 2026-10-02, after the user hit a scrambled sarf-080). Still
+  to do, as of that date: nahw 172, quduri 124, arbaeen 47, arbaeen_ahadith 33, vocab 14,
+  arbaeen2 6, riyad 4. Each deck shows a large delta afterwards, which is correct.
+  Offered to the user; do these only on their go-ahead.
   **Mixed lines only.** A line that is entirely Arabic (a paradigm, a singular/plural
   pair, an Arabic definition with blanks) goes in one `<div class="arabic">`, never
   per-run `<bdi>`. Per-run isolates in the LTR card put the مَاضِي on the left; 101

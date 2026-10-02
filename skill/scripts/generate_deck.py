@@ -256,11 +256,15 @@ def _unisolated_arabic(field):
     """
     Arabic and Latin on the same line, with the Arabic left unwrapped. The neutral
     characters between them resolve against the wrong run and render on the wrong
-    side. Warning only — cards written before this rule are grandfathered.
+    side. Warning only — cards written before this rule are grandfathered. A field with
+    one run wrapped and another left bare is still flagged: it is the bare run that
+    breaks. `wrap_arabic.py` does the wrapping.
     """
     if not (_ARABIC.search(field) and _LATIN.search(field)):
         return False
-    return not ("<bdi" in field or 'class="ar"' in field or 'class="arabic"' in field)
+    rest = re.sub(r'<bdi>.*?</bdi>|<span class="ar">.*?</span>|<div class="arabic">.*?</div>',
+                  "", field, flags=re.S)
+    return bool(_ARABIC.search(rest))
 
 
 def _ltr_arabic_line(field):

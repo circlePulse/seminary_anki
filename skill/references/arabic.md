@@ -86,6 +86,12 @@ The مَاضِي (or the مُفْرَد) is written first and renders rightmost.
 for an Arabic run inside a line that also has Latin text. `generate_deck.py` warns
 (`RTL — …`) when an all-Arabic field sits outside the block.
 
+`skill/scripts/wrap_arabic.py decks/X.json --write` applies both rules to a whole
+deck. It wraps mixed lines run by run, puts all-Arabic lines that hold a blank, dash
+or bracket in the block, and leaves already-isolated runs alone. A hyphen or en dash
+written tight between Arabic letters (`ق‑د‑ر`, `فَعِلَ–يَفْعُلُ`) stays inside one
+run, so a root or a maḍī–muḍāriʿ pair keeps its right-to-left order.
+
 - Rendering (BiDi, `direction: ltr`, dark mode, fonts) is a template concern — keep it out of card content and solve it once in the CSS. See §15.
 
 ### Transliteration convention
