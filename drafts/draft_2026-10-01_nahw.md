@@ -1,6 +1,6 @@
 # Draft — naḥw, 2026-10-01 (45 notes + 1 label on an existing ṣarf card)
 
-Status: **awaiting review**. Nothing is generated until you approve.
+Status: **approved and delivered 2026-10-02 01:01.**
 
 Source: Tasheel al-Nahw ch. 1. The ḥarf section now has **حُرُوف الجَرّ** and **إِنَّ and her sisters**, and §1.6 has the personal pronouns and the chart.
 

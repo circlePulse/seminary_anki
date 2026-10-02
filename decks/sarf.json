@@ -31,13 +31,14 @@
   {
    "type": "bidir",
    "tier": 1,
-   "term": "ضَمِير (ḍamīr)",
+   "term": "<bdi>ضَمِير</bdi> (ḍamīr)",
    "meaning": "the pronoun — the person, gender, and number of the one carrying out the action",
    "tags": [
     "sarf",
     "terminology"
    ],
-   "id": "sarf-003"
+   "id": "sarf-003",
+   "science": "صَرْف"
   },
   {
    "type": "bidir",

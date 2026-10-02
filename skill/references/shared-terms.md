@@ -29,9 +29,16 @@ When a collision is discovered, the card that was written first is *also* wrong 
 | فِعْل | صَرْف | the verbal element of a conjugated form, as against the ضَمِير | labelled |
 | صَرْف | نَحْو | defined in §1.1 as one of the three sciences | intentional duplicate, both decks |
 | مَاضِي | نَحْو / صَرْف | same sense in both — no conflict | watch |
+| ضَمِير | صَرْف | the pronoun element of a conjugated verb — person, gender, number (sarf-003) | labelled |
+| ضَمِير | نَحْو | a word used in place of a name (nahw-176) | labelled |
 | مَصْدَر | نَحْو / فِقْه | the grammar sense, used inside a fiqh lesson (مَذْهَب is a ظَرْف مَكَانِي or a مَصْدَر) — same meaning, no conflict yet | watch |
 
 ## Watch list — collisions that have not landed yet
+
+- **حَرْف نَاصِب / الحُرُوف النَّاصِبَة** — صَرْف: a particle that puts a مُضَارِع into نَصْب
+  (أَنْ، لَنْ…). نَحْو: another name for إِنَّ and her sisters, which put the مُبْتَدَأ into
+  نَصْب. Kept apart by the contrast card nahw-166. Label both if either is ever carded as
+  a bare term.
 
 These will collide as the courses progress. Add the label at the moment the second sense is taught, and go back and label the first.
 

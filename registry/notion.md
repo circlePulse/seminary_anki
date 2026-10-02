@@ -95,6 +95,12 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-10-02: IOK Arabic, the حُرُوف الجَرّ (meanings only, per the user's note),
+إِنَّ and her sisters (full list), and §1.6 pronouns with the chart (nahw-146–190). The
+chart's `ADD TESTS` note is done. In Notion both ḥarf lists sit under غَيْر عَامِل, but
+they are عَامِل, and the cards file them there. The user hasn't asked for the Notion
+nesting to be moved.
+
 Carded on 2026-09-30: the Ḥadīth 2 body, the World Religions lecture of 09/29, the
 Qudūrī water section, and Riyāḍ's chapter of repentance. For the next pass on any
 of these pages, compare against the deck rather than trusting a `START HERE` marker.

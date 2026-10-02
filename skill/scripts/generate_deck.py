@@ -248,6 +248,7 @@ _BARE = re.compile(r'\b(call|calls|called|say|says|said)\s+it\b(?!\s+(on|to|in|w
 
 
 _ARABIC = re.compile(r'[\u0600-\u06FF]')
+_SCIENCE = re.compile(r'<div class="science">.*?</div>')
 _LATIN = re.compile(r'[A-Za-z]')
 
 
@@ -399,9 +400,11 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
             giveaways.append(c["id"])
         if orphan_reference(fields[0]):
             orphans.append(c["id"])
-        if any(_unisolated_arabic(x) for x in fields):
+        # the science label is its own block above the field, not part of the line
+        unlabelled = [_SCIENCE.sub("", x) for x in fields]
+        if any(_unisolated_arabic(x) for x in unlabelled):
             bidi.append(c["id"])
-        if any(_ltr_arabic_line(x) for x in fields[:2]):
+        if any(_ltr_arabic_line(x) for x in unlabelled[:2]):
             ltr.append(c["id"])
 
     os.makedirs(outdir, exist_ok=True)

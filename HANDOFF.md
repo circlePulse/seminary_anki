@@ -37,15 +37,15 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,191 notes across 10 decks.**
+Current state: **1,236 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | quduri | 228 | HDT-201 |
 | vocab | 192 | VOCAB |
+| nahw | 190 | ARB-201 |
 | sarf | 169 | ARB-201 |
 | arbaeen_ahadith | 158 | HDT-201 |
-| nahw | 145 | ARB-201 |
 | wrel | 110 | RELSTD-5B |
 | pyth | 106 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
