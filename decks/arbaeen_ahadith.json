@@ -479,8 +479,8 @@
    "type": "cloze",
    "tier": 1,
    "id": "arbh-041",
-   "text": "Guarding the intention — {{c1::beginning::before}}: take a moment to be intentional; {{c2::middle::during}}: remind yourself; {{c3::end::after}}: seek istighfār for any deficiency",
-   "extra": "“Beginning, middle, end.”",
+   "text": "Guarding the intention, per the ḥadīth on intentions — before an act: {{c1::take a moment to be intentional}}; during it: {{c2::remind yourself of the intention}}; after it: {{c3::seek istighfār for any deficiency}}",
+   "extra": "",
    "tags": [
     "arbaeen",
     "h01",

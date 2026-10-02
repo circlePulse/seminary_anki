@@ -157,6 +157,10 @@ once, and both times was objecting to files that had no reason to exist.
   changed, so it waits for the user's go-ahead.
 - **Gloss collision: "to write"** — صَنَّفَ (voc-007) and كَتَبَ (voc-186). Suggested
   fix: voc-007 becomes "to author, to compose (a book)". Awaiting the user.
+- **sarf-073's hints give its answers away.** "regularly" points to *present habitual* and
+  "right now" to *present continuous*, and each example sentence gives it away a second time.
+  arbh-041 had the same defect and was rewritten on 2026-10-02 to blank the content
+  instead of the labels. sarf-073 was flagged to the user and is awaiting their go-ahead.
 - **Ḥadīth 2's matn is deliberately uncarded.** The user doesn't need to memorise it.
 - **The Sep 24 "front names nothing" fix may never have reached the user's Anki.** On
   2026-09-30 they still saw "this ḥadīth" on Ḥadīth 1 cards. The 9 Ḥadīth 1 cards were
