@@ -37,10 +37,11 @@ changes between courses is which **domain pack** gets read. Read this file fully
 
 ## Post-import steps for the user
 
-Every deck lands in the staging deck `Seminary::_Inbox` for manual sorting. Two actions after import:
+Every deck lands in the staging deck `Seminary::_Inbox` for manual sorting. After import:
 
-1. Browse → `tag:tier2 -is:suspended` → **Ctrl+J** to suspend. (genanki cannot ship suspended cards; this is the one manual step that replaces it.)
-2. Tools → Manage Note Types → confirm no suffixed types (`Basic+`) appeared.
+1. Tools → Manage Note Types → confirm no suffixed types (`Basic+`) appeared.
+
+**Every card is active.** The user said so on 2026-10-06. Draft everything as Tier 1, and never tell the user to suspend anything. What `card-design.md` §3 would put in Tier 2 goes in Tier 1 instead; it is still never dropped. The 22 notes drafted as Tier 2 before that date keep their `tier2` tag, which is now only a label.
 
 ## Reference map
 

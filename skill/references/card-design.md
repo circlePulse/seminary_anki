@@ -108,6 +108,11 @@ Will need to be produced cold. Generated active.
 
 ### Tier 2 — Secondary
 
+> **Not used in this collection.** On 2026-10-06 the user said every card should be
+> active. Material that fits the description below is drafted as Tier 1. Nothing ships
+> suspended, and the suspend step is never given. The rest of this section is kept for
+> the reasoning about never dropping material.
+
 Plausibly asked, plausibly examinable, lower yield. **Generated as real cards**, tagged `tier2`, and delivered suspended — so they exist in the collection, are findable by search, and can be unsuspended in a batch before an exam or when a topic turns out to matter.
 
 - Scholar opinions mentioned once in passing

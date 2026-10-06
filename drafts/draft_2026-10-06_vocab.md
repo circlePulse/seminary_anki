@@ -1,6 +1,6 @@
 # Draft — vocabulary, 2026-10-06 (38 notes)
 
-Status: **awaiting approval.**
+Status: **approved and delivered 2026-10-06 17:18.** The user answered "All cards should be active" (all 38 are Tier 1). Neither question was answered, so حَسَبَ stays "according to" and the list has no source tag.
 
 Source: a 21-word list pasted into the chat on 2026-10-06. It is not in Notion.
 

@@ -37,12 +37,12 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,236 notes across 10 decks.**
+Current state: **1,274 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
+| vocab | 230 | VOCAB |
 | quduri | 228 | HDT-201 |
-| vocab | 192 | VOCAB |
 | nahw | 190 | ARB-201 |
 | sarf | 169 | ARB-201 |
 | arbaeen_ahadith | 158 | HDT-201 |
@@ -132,7 +132,10 @@ once, and both times was objecting to files that had no reason to exist.
    injection* for code injection, *kebob_case* for snake_case, a verb form that does
    not exist. Correct mechanical slips and say so; never silently resolve a
    substantive ambiguity.
-6. **Filenames carry a timestamp to the minute.** Two deliveries for the same deck on
+6. **Every card is active.** The user said so on 2026-10-06. Draft nothing as Tier 2,
+   and never tell them to suspend anything. The 22 older `tier2` notes keep the tag as a
+   label only.
+7. **Filenames carry a timestamp to the minute.** Two deliveries for the same deck on
    the same day once overwrote each other before the user had imported the first.
 
 ## Pending
@@ -164,6 +167,10 @@ once, and both times was objecting to files that had no reason to exist.
   "right now" to *present continuous*, and each example sentence gives it away a second time.
   arbh-041 had the same defect and was rewritten on 2026-10-02 to blank the content
   instead of the labels. sarf-073 was flagged to the user and is awaiting their go-ahead.
+- **The 2026-10-06 vocabulary list (voc-193–230) has no source tag**, because the user didn't
+  say which text it came from. **voc-218 حَسَبَ is carded as "according to"**, which is
+  unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count", fits the same vowels and would collide
+  with أَحْصَى (voc-009).
 - **Ḥadīth 2's matn is deliberately uncarded.** The user doesn't need to memorise it.
 - **The Sep 24 "front names nothing" fix may never have reached the user's Anki.** On
   2026-09-30 they still saw "this ḥadīth" on Ḥadīth 1 cards. The 9 Ḥadīth 1 cards were

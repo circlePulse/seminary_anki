@@ -41,8 +41,8 @@ course / topic / session / source are applied to every card automatically;
 per-card "source" overrides the file-level one. "expected_count" is checked
 against the approved draft and is a hard failure if it disagrees.
 
-genanki cannot ship suspended cards. Tier 2 notes are tagged `tier2`; after
-import, Browse -> `tag:tier2 -is:suspended` -> Ctrl+J.
+Tier 2 notes are tagged `tier2`. Since 2026-10-06 the user keeps every card active,
+so new cards are all tier 1, and the tag on older notes is only a label.
 """
 
 import argparse
@@ -427,7 +427,8 @@ def build(data, outdir, deck_name, delta=False, dry_run=False, delivered_path=No
     print(f"  wrote {path}  ({len(selected)} notes: basic {counts['basic']}, "
           f"bidir {counts['bidir']}, cloze {counts['cloze']})")
     if counts["tier2"]:
-        print(f"  {counts['tier2']} tier2 — after import: `tag:tier2 -is:suspended` → Ctrl+J")
+        print(f"  {counts['tier2']} tagged tier2 — a label only: the user keeps every card "
+              f"active, so do not tell them to suspend")
     if giveaways:
         print(f"  REVIEW (possible giveaway fronts): {', '.join(giveaways)}")
     if orphans:
