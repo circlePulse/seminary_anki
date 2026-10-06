@@ -1,0 +1,515 @@
+{
+ "vocab": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-193",
+   "term": "تَسْلِيَة",
+   "meaning": "consolation, solace — also amusement, a pastime",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-194",
+   "text": "<div class=\"arabic\">{{c2::تَسْلِيَة}} (مُفْرَد) — {{c1::تَسْلِيَات}} (جَمْع)</div>",
+   "extra": "consolation, solace · the maṣdar of <bdi>سَلَّى</bdi>, to console",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-195",
+   "term": "اِنْقَضَى",
+   "meaning": "to come to an end, to elapse",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-196",
+   "text": "<div class=\"arabic\">اِنْقَضَى — {{c1::يَنْقَضِي}} — {{c2::اِنْقَضِ}} — {{c3::اِنْقِضَاء}}</div>",
+   "extra": "to come to an end, to elapse · Form VII (defective) · your <bdi>يَنْقَضِيَ</bdi> is the muḍāriʿ in naṣb — the fatḥah shows on the yāʾ, as after <bdi>أَنْ</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-197",
+   "term": "اِخْتَارَ",
+   "meaning": "to choose, to select",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-198",
+   "text": "<div class=\"arabic\">اِخْتَارَ — {{c1::يَخْتَارُ}} — {{c2::اِخْتَرْ}} — {{c3::اِخْتِيَار}}</div>",
+   "extra": "to choose, to select · Form VIII (hollow) · the alif is hamzat al-waṣl, so no hamza under it",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-199",
+   "term": "رُخْصَة",
+   "meaning": "a dispensation, a concession — an allowance that eases a ruling",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-200",
+   "text": "<div class=\"arabic\">{{c2::رُخْصَة}} (مُفْرَد) — {{c1::رُخَص}} (جَمْع)</div>",
+   "extra": "a dispensation, a concession · its opposite is <bdi>عَزِيمَة</bdi>, the ruling in its original strictness",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-201",
+   "term": "اِمْتَنَعَ",
+   "meaning": "to refrain, to abstain (from — <bdi>عَنْ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-202",
+   "text": "<div class=\"arabic\">اِمْتَنَعَ — {{c1::يَمْتَنِعُ}} — {{c2::اِمْتَنِعْ}} — {{c3::اِمْتِنَاع}}</div>",
+   "extra": "to refrain, to abstain · Form VIII",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-203",
+   "term": "آثَرَ",
+   "meaning": "to prefer, to give precedence to (over — <bdi>عَلَى</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-204",
+   "text": "<div class=\"arabic\">آثَرَ — {{c1::يُؤْثِرُ}} — {{c2::آثِرْ}} — {{c3::إِيثَار}}</div>",
+   "extra": "to prefer, to give precedence to · Form IV (hamzated) · <bdi>وَيُؤْثِرُونَ عَلَى أَنْفُسِهِمْ</bdi>, they prefer others over themselves (59:9) · not <bdi>أَثَّرَ</bdi>, to influence",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-205",
+   "term": "قِسْمَة",
+   "meaning": "division, apportionment — also one's allotted share",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-206",
+   "text": "<div class=\"arabic\">{{c2::قِسْمَة}} (مُفْرَد) — {{c1::قِسَم}} (جَمْع)</div>",
+   "extra": "division, apportionment",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-207",
+   "term": "لَا جَرَمَ",
+   "meaning": "undoubtedly, inevitably — a fixed expression, usually followed by <bdi>أَنَّ</bdi>",
+   "tags": [
+    "vocab",
+    "particles"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-208",
+   "term": "رَاسِخ",
+   "meaning": "firmly rooted, firmly grounded",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-209",
+   "text": "<div class=\"arabic\">{{c2::رَاسِخ}} (مُفْرَد) — {{c1::رَاسِخُونَ}} (جَمْع)</div>",
+   "extra": "firmly rooted, firmly grounded · <bdi>وَالرَّاسِخُونَ فِي العِلْمِ</bdi>, those firmly grounded in knowledge (3:7)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-210",
+   "term": "تَصَوَّرَ",
+   "meaning": "to imagine, to conceive (of)",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-211",
+   "text": "<div class=\"arabic\">تَصَوَّرَ — {{c1::يَتَصَوَّرُ}} — {{c2::تَصَوَّرْ}} — {{c3::تَصَوُّر}}</div>",
+   "extra": "to imagine, to conceive · Form V · your <bdi>يَتَصَوَّرُ</bdi> is the muḍāriʿ",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-212",
+   "term": "أَطَاقَ",
+   "meaning": "to be capable of, to have the strength for",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-213",
+   "text": "<div class=\"arabic\">أَطَاقَ — {{c1::يُطِيقُ}} — {{c2::أَطِقْ}} — {{c3::إِطَاقَة}}</div>",
+   "extra": "to be capable of, to have the strength for · Form IV (hollow) · your <bdi>يُطَاقُ</bdi> is the passive muḍāriʿ — <bdi>مَا لَا يُطَاقُ</bdi>, what cannot be borne · the noun is <bdi>طَاقَة</bdi>, capacity",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-214",
+   "term": "مَهْمَا",
+   "meaning": "whatever, no matter what — a conditional word",
+   "tags": [
+    "vocab",
+    "particles"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-215",
+   "term": "المُرَاد",
+   "meaning": "what is meant, the intended sense — of a word or a text",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-216",
+   "term": "اِحْتَمَلَ",
+   "meaning": "to admit of, to allow for (a meaning) — also to put up with (harm)",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-217",
+   "text": "<div class=\"arabic\">اِحْتَمَلَ — {{c1::يَحْتَمِلُ}} — {{c2::اِحْتَمِلْ}} — {{c3::اِحْتِمَال}}</div>",
+   "extra": "to admit of, to allow for · Form VIII · your <bdi>يحتمل</bdi> reads <bdi>يَحْتَمِلُ</bdi>, “it admits of”, or passive <bdi>يُحْتَمَلُ</bdi>, “it is possible”",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-218",
+   "term": "حَسَبَ",
+   "meaning": "according to, in proportion to",
+   "tags": [
+    "vocab",
+    "particles"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-219",
+   "term": "مَشَقَّة",
+   "meaning": "hardship, strain",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-220",
+   "text": "<div class=\"arabic\">{{c2::مَشَقَّة}} (مُفْرَد) — {{c1::مَشَاقّ}} (جَمْع)</div>",
+   "extra": "hardship, strain · your <bdi>المَشَاقّ</bdi> is the plural · the legal maxim <bdi>المَشَقَّةُ تَجْلِبُ التَّيْسِيرَ</bdi>, hardship brings ease",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-221",
+   "term": "حَثّ",
+   "meaning": "urging, encouragement (toward — <bdi>عَلَى</bdi>)",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-222",
+   "text": "<div class=\"arabic\">حَثَّ — {{c1::يَحُثُّ}} — {{c2::حُثَّ}} — {{c3::حَثّ}}</div>",
+   "extra": "to urge, to encourage · Form I (doubled) · the <bdi>أَمْر</bdi> is also <bdi>اُحْثُثْ</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-223",
+   "term": "مَآل",
+   "meaning": "the final outcome, where a matter ends up",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-224",
+   "text": "<div class=\"arabic\">{{c2::مَآل}} (مُفْرَد) — {{c1::مَآلَات}} (جَمْع)</div>",
+   "extra": "the final outcome, where a matter ends up",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-225",
+   "term": "تَبَرَّمَ",
+   "meaning": "to be fed up, to be irritated (with — <bdi>بِـ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-226",
+   "text": "<div class=\"arabic\">تَبَرَّمَ — {{c1::يَتَبَرَّمُ}} — {{c2::تَبَرَّمْ}} — {{c3::تَبَرُّم}}</div>",
+   "extra": "to be fed up, to be irritated · Form V",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-227",
+   "term": "فَاتَ",
+   "meaning": "to slip away, to be missed — of a chance or a time",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-228",
+   "text": "<div class=\"arabic\">فَاتَ — {{c1::يَفُوتُ}} — {{c2::فُتْ}} — {{c3::فَوْت}}</div>",
+   "extra": "to slip away, to be missed — of a chance or a time · Form I (hollow) · the maṣdar is also <bdi>فَوَات</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-229",
+   "term": "أَيْقَنَ",
+   "meaning": "to be certain, to be convinced (of — <bdi>بِـ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-230",
+   "text": "<div class=\"arabic\">أَيْقَنَ — {{c1::يُوقِنُ}} — {{c2::أَيْقِنْ}} — {{c3::إِيقَان}}</div>",
+   "extra": "to be certain, to be convinced · Form IV (assimilated) · the yāʾ becomes wāw after the ḍammah of the muḍāriʿ · the noun is <bdi>يَقِين</bdi>, certainty",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct06",
+   "source": "Vocabulary list supplied 2026-10-06"
+  }
+ ]
+}
