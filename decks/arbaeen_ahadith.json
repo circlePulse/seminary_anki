@@ -3,7 +3,7 @@
  "topic": "arbaeen-ahadith",
  "session": "sep16",
  "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
- "expected_count": 158,
+ "expected_count": 199,
  "cards": [
   {
    "type": "basic",
@@ -2115,6 +2115,598 @@
    ],
    "session": "sep30",
    "source": "Arbaʿīn Ḥadīth 2 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-159",
+   "front": "Who narrates the ḥadīth of creation in the womb (Arbaʿīn 4)?",
+   "back": "ʿAbdullāh ibn Masʿūd RA — one of the best-known Companions",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-160",
+   "front": "What is the kunya of ʿAbdullāh ibn Masʿūd RA?",
+   "back": "Abū ʿAbd al-Raḥmān — <bdi>أَبُو عَبْدِ الرَّحْمَنِ</bdi>",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-161",
+   "front": "How early did ʿAbdullāh ibn Masʿūd RA accept Islam?",
+   "back": "Among the very first to accept it",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-162",
+   "text": "ʿAbdullāh ibn Masʿūd RA served the Prophet ﷺ as {{c1::his personal attendant}}: he would {{c2::carry his shoes}}, {{c3::cover him while he bathed}}, and {{c4::wake him when he slept}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-163",
+   "front": "For what was ʿAbdullāh ibn Masʿūd RA among the best of the Companions?",
+   "back": "Reciting the Qurʾān",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-164",
+   "text": "The Companions learned the Qurʾān {{c1::ten verses}} at a time, and did not move on until {{c2::they had understood them and put them into practice}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator",
+    "quran"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-165",
+   "front": "When the Prophet ﷺ asked ʿAbdullāh ibn Masʿūd RA to recite to him, which sūrah did he recite?",
+   "back": "Sūrat al-Nisāʾ",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator",
+    "quran"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-166",
+   "front": "At which verse did the Prophet ﷺ stop ʿAbdullāh ibn Masʿūd RA's recitation of al-Nisāʾ?",
+   "back": "<div class=\"arabic\">فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَى هَٰؤُلَاءِ شَهِيدًا</div>“So how will it be when We bring from every community a witness, and bring you, O Muḥammad, as a witness against these?” — al-Nisāʾ 4:41",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator",
+    "quran"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-167",
+   "front": "When ʿAbdullāh ibn Masʿūd RA reached al-Nisāʾ 4:41 — “how will it be when We bring from every community a witness…” — how did the Prophet ﷺ respond?",
+   "back": "His eyes overflowed with tears, and he said, “That is enough now”",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator",
+    "quran"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-168",
+   "front": "Whose manners did ʿAbdullāh ibn Masʿūd RA closely resemble?",
+   "back": "The Prophet's ﷺ",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-169",
+   "text": "ʿAbdullāh ibn Masʿūd RA made {{c1::both hijrahs — to Abyssinia and to Madinah}}, and fought in {{c2::every battle}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-170",
+   "front": "What part did ʿAbdullāh ibn Masʿūd RA play in the death of Abū Jahl at Badr?",
+   "back": "He finished him off — two young men of the Anṣār had already struck Abū Jahl down, and Ibn Masʿūd found him dying",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-171",
+   "front": "Where did ʿUmar RA send ʿAbdullāh ibn Masʿūd RA, and to do what?",
+   "back": "To Kufa, to teach",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-172",
+   "front": "Roughly how many ḥadīth did ʿAbdullāh ibn Masʿūd RA narrate?",
+   "back": "About 840 — the figure usually given is 848",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-173",
+   "front": "To which Companion do the Ḥanafīs trace their madhhab?",
+   "back": "ʿAbdullāh ibn Masʿūd RA",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "narrator"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-174",
+   "front": "How does ʿAbdullāh ibn Masʿūd RA describe the Prophet ﷺ as he opens the ḥadīth of creation in the womb?",
+   "back": "“The truthful, the one believed” — <bdi>الصَّادِقُ المَصْدُوقُ</bdi>",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "text"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — the text in translation"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-175",
+   "text": "In the ḥadīth of creation in the womb, each person's creation is gathered in the womb as {{c1::a <bdi>نُطْفَة</bdi> (nuṭfah)}} for forty days, then becomes {{c2::an <bdi>عَلَقَة</bdi> (ʿalaqah)}} for the same, then {{c3::a <bdi>مُضْغَة</bdi> (muḍghah)}} for the same",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "text",
+    "stages",
+    "spine"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-176",
+   "front": "In the ḥadīth of creation in the womb, after how many days is the soul breathed into the fetus?",
+   "back": "120 — three stages of forty days each",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "text",
+    "soul"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-177",
+   "front": "In the ḥadīth of creation in the womb, who breathes the soul into the fetus?",
+   "back": "The angel sent to it",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "text",
+    "soul"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — the text in translation"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-178",
+   "text": "In the ḥadīth of creation in the womb, the angel is commanded to write four things: {{c1::sustenance — <bdi>رِزْق</bdi>}}, {{c2::lifespan — <bdi>أَجَل</bdi>}}, {{c3::deeds — <bdi>عَمَل</bdi>}}, and {{c4::whether wretched or happy — <bdi>شَقِيّ أَمْ سَعِيد</bdi>}}",
+   "extra": "In the order of the ḥadīth.",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "text",
+    "decree",
+    "spine"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-179",
+   "front": "In the ḥadīth of creation in the womb, what does the Prophet ﷺ say just before describing how people's lives end?",
+   "back": "He swears an oath: “By Allah, besides whom there is no god”",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "text",
+    "endings"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — the text in translation"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-180",
+   "text": "In the ḥadīth of creation in the womb, one of you does the deeds of the people of Paradise until there is only {{c1::a forearm's length — <bdi>ذِرَاع</bdi>}} between him and it; then {{c2::what has been written overtakes him}}, and {{c3::he does the deeds of the people of the Fire and enters it}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "text",
+    "endings"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-181",
+   "front": "In the ḥadīth of creation in the womb, what is the reverse of the one who does the deeds of the people of Paradise and ends in the Fire?",
+   "back": "One who does the deeds of the people of the Fire until only a forearm's length remains; then what is written overtakes him, and he does the deeds of the people of Paradise and enters it",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "text",
+    "endings",
+    "contrast"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-182",
+   "front": "Which collections relate the ḥadīth of creation in the womb?",
+   "back": "Both al-Bukhārī and Muslim — it is <bdi>مُتَّفَقٌ عَلَيْهِ</bdi> (muttafaq ʿalayh)",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "text"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-183",
+   "front": "The ḥadīth of creation in the womb describes the fetus's stages. What is that description counted as evidence of?",
+   "back": "The Prophet's ﷺ prophethood — it is one of its proofs",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "stages"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-184",
+   "front": "In the ḥadīth of creation in the womb, what is the <bdi>نُطْفَة</bdi> (nuṭfah)?",
+   "back": "The mixture of male and female fluid in the womb — usually translated “drop”",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "stages"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-185",
+   "front": "In modern terms, what do some take the <bdi>نُطْفَة</bdi> stage of the ḥadīth of creation in the womb to be?",
+   "back": "The zygote — the sperm and the egg combined",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "stages"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-186",
+   "front": "What does <bdi>عَلَقَة</bdi> (ʿalaqah), the second stage in the ḥadīth of creation in the womb, mean?",
+   "back": "A suspended or clinging thing; a clot",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "stages"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-187",
+   "front": "What happens to the embryo during the <bdi>عَلَقَة</bdi> stage of the ḥadīth of creation in the womb, in modern terms?",
+   "back": "The fertilized egg implants in the wall of the uterus and clings to it",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "stages"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-188",
+   "front": "What does <bdi>مُضْغَة</bdi> (muḍghah), the third stage in the ḥadīth of creation in the womb, mean?",
+   "back": "A chewed lump; a lump of flesh — what the embryo looks like at that stage",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "stages"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-189",
+   "front": "Besides the ḥadīth of creation in the womb, where are the stages <bdi>نُطْفَة</bdi>, <bdi>عَلَقَة</bdi> and <bdi>مُضْغَة</bdi> described?",
+   "back": "In the Qurʾān — e.g. al-Muʾminūn 23:13–14",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "stages"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-190",
+   "front": "Why is the breathing-in of the soul, in the ḥadīth of creation in the womb, taken as the moment the fetus is given life?",
+   "back": "Because the soul — <bdi>الرُّوح</bdi> — is what gives a human being life",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "soul",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-191",
+   "text": "Two definitions of the soul, <bdi>الرُّوح</bdi>: al-Nawawī — {{c1::a delicate substance interwoven with the human body}}; al-Ghazālī — {{c2::an independent substance that traverses the body}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "soul",
+    "contrast"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-192",
+   "front": "How much knowledge of the soul, <bdi>الرُّوح</bdi>, have we been given?",
+   "back": "Very little — <bdi>وَمَا أُوتِيتُمْ مِنَ العِلْمِ إِلَّا قَلِيلًا</bdi> (al-Isrāʾ 17:85)",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "soul"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-193",
+   "front": "In the ḥadīth of creation in the womb, what does the <bdi>رِزْق</bdi> written for each person cover?",
+   "back": "Everything they will receive: wealth, food, water, shelter, clothing and provisions",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "decree"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-194",
+   "front": "What follows from a person's <bdi>رِزْق</bdi> being written before birth?",
+   "back": "They will receive neither more nor less than what was decided",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "decree",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-195",
+   "front": "What follows from a person's <bdi>أَجَل</bdi>, their lifespan, being written before birth?",
+   "back": "They will not leave this world a moment earlier or later than decided",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "decree",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-196",
+   "front": "In the ḥadīth of creation in the womb, which of a person's deeds are written?",
+   "back": "All of them — good or bad, big or small, public or private",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "decree"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-197",
+   "front": "In the ḥadīth of creation in the womb, what does “wretched or happy” — <bdi>شَقِيّ أَمْ سَعِيد</bdi> — refer to?",
+   "back": "Where the person will end up in the hereafter: their salvation, or not",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "decree"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-198",
+   "front": "What should the endings described in the ḥadīth of creation in the womb make us feel about our own?",
+   "back": "Uneasy — never complacent because we are doing well now; no one knows how they will leave",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "endings"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-199",
+   "front": "In light of the ḥadīth of creation in the womb, what should we ask of Allah about our end?",
+   "back": "His help to a good ending — <bdi>حُسْن الخَاتِمَة</bdi> — and His protection from a bad one — <bdi>سُوء الخَاتِمَة</bdi>",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "endings"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes"
   }
  ]
 }

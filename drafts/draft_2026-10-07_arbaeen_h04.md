@@ -1,6 +1,6 @@
 # Draft — Arbaʿīn Ḥadīth 4, 2026-10-07 (41 notes)
 
-Status: **awaiting approval.**
+Status: **approved ("looks good") and delivered 2026-10-07 00:49.**
 
 Sources:
 - The Ḥadīth 4 section of the Arbaʿīn/Qudūrī page in Notion: narrator, embryonic development, what is

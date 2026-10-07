@@ -37,15 +37,15 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,274 notes across 10 decks.**
+Current state: **1,315 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | vocab | 230 | VOCAB |
+| arbaeen_ahadith | 199 | HDT-201 |
 | quduri | 228 | HDT-201 |
 | nahw | 190 | ARB-201 |
 | sarf | 169 | ARB-201 |
-| arbaeen_ahadith | 158 | HDT-201 |
 | wrel | 110 | RELSTD-5B |
 | pyth | 106 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
@@ -177,10 +177,10 @@ once, and both times was objecting to files that had no reason to exist.
   user doesn't need to memorise it, so don't card it. They are writing the class notes in
   Notion and will say when to scan. Card the notes then, not the matn. Cards may quote
   the matn where a note needs it.
-  **When they say scan, also card the ḥadīth's English translation as if it were notes**
-  (user, 2026-10-07): ask questions on what it says, never on reciting the Arabic. If the
-  notes carry no translation, say so before supplying one. Do nothing on Ḥadīth 4 until
-  they give the word.
+  **Carded 2026-10-07 (arbh-159–199)**, from the notes plus the English translation, which
+  the user asked to have carded as if it were notes. The notes had no translation, so Claude
+  wrote one; it is in the same file and the user hasn't checked it. The 9 cards sourced "the
+  text in translation" rest on it. Do the same for later ḥadīth unless told otherwise.
 - **The Sep 24 "front names nothing" fix may never have reached the user's Anki.** On
   2026-09-30 they still saw "this ḥadīth" on Ḥadīth 1 cards. The 9 Ḥadīth 1 cards were
   re-sent with `--resend`. The other 9 from that fix (arb-038, qud-087, qud-109,

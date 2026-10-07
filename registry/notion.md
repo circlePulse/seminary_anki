@@ -95,6 +95,10 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-10-07: Arbaʿīn Ḥadīth 4 in full (arbh-159–199), with the narrator, the stages,
+the soul, what is written and the example. The translation Claude supplied is carded alongside
+the notes. Its matn is saved in `texts/arbaeen_h04.md`.
+
 Carded on 2026-10-02: IOK Arabic, the حُرُوف الجَرّ (meanings only, per the user's note),
 إِنَّ and her sisters (full list), and §1.6 pronouns with the chart (nahw-146–190). The
 chart's `ADD TESTS` note is done. In Notion both ḥarf lists sit under غَيْر عَامِل, but
