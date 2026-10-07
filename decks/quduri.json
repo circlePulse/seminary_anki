@@ -3,7 +3,7 @@
  "topic": "quduri",
  "session": "sep09",
  "source": "Qudūrī — Intro to Qudūrī, class notes 2026-09-09",
- "expected_count": 228,
+ "expected_count": 235,
  "cards": [
   {
    "type": "basic",
@@ -2912,8 +2912,8 @@
    "type": "basic",
    "tier": 1,
    "id": "qud-224",
-   "front": "How much may water mixed with a pure liquid change and remain usable?",
-   "back": "At least two of its three <bdi>أَوْصَاف</bdi> must remain — one may change, not more",
+   "front": "A pure liquid with all three qualities of its own — taste, colour and smell — is mixed into water. When does it overwhelm the water?",
+   "back": "Once two of the water's <bdi>أَوْصَاف</bdi> have changed — one may change, not two",
    "tags": [
     "quduri",
     "tahara",
@@ -2929,7 +2929,7 @@
    "tier": 1,
    "id": "qud-225",
    "front": "What is the ruling on flowing water (<bdi>جَارٍ</bdi>) into which najāsah falls?",
-   "back": "It remains usable",
+   "back": "It remains usable — unless signs of the najāsah appear in it",
    "tags": [
     "quduri",
     "tahara",
@@ -2961,7 +2961,7 @@
    "tier": 1,
    "id": "qud-227",
    "front": "What is the ruling on a large quantity (<bdi>كَثِير</bdi>) of standing water into which najāsah falls?",
-   "back": "It remains usable",
+   "back": "It remains usable — unless signs of the najāsah appear in it",
    "tags": [
     "quduri",
     "tahara",
@@ -2977,7 +2977,7 @@
    "tier": 1,
    "id": "qud-228",
    "front": "For the Aḥnāf, what counts as a large quantity of standing water?",
-   "back": "10 × 10 arm-lengths (<bdi>ذِرَاع</bdi>) in area, deep enough that scooping water does not expose the ground",
+   "back": "10 × 10 arm-lengths (<bdi>ذِرَاع</bdi>) in area, or 36 arm-lengths in circumference",
    "tags": [
     "quduri",
     "tahara",
@@ -2988,6 +2988,118 @@
    ],
    "session": "sep30",
    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-229",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30, revised 2026-10-07",
+   "front": "A pure liquid with only two qualities of its own is mixed into water. When does it overwhelm the water?",
+   "back": "Once one of the water's <bdi>أَوْصَاف</bdi> has changed"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-230",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30, revised 2026-10-07",
+   "front": "Water mixed with a pure solid (<bdi>جَامِد</bdi>) stays usable while what remains?",
+   "back": "Both parts of its <bdi>طَبْع</bdi> — its thinness (<bdi>رِقَّة</bdi>) and its flowing (<bdi>سَيَلَان</bdi>)"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-231",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "najasah",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30, revised 2026-10-07",
+   "front": "Why does flowing water (<bdi>جَارٍ</bdi>) stay usable when najāsah falls into it?",
+   "back": "It moves on — scoop from it twice and it is never the same water"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-232",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "mixed",
+    "najasah",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30, revised 2026-10-07",
+   "front": "For the Aḥnāf, how deep must a large quantity of standing water be?",
+   "back": "Deep enough that leaning down to scoop water for wuḍūʾ does not expose the bottom"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-233",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30, revised 2026-10-07",
+   "front": "At what point does water become <bdi>مُسْتَعْمَل</bdi>?",
+   "back": "As soon as it separates from the body"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-234",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "makruh"
+   ],
+   "session": "oct07",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30, revised 2026-10-07",
+   "front": "What water is <bdi>طَهُور</bdi> but disliked to use?",
+   "back": "A small quantity that a cat, or a similar animal, has drunk from"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-235",
+   "tags": [
+    "quduri",
+    "tahara",
+    "water",
+    "makruh",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah, water, class notes 2026-09-30, revised 2026-10-07",
+   "front": "Why is water a cat has drunk from still <bdi>طَهُور</bdi>, though disliked?",
+   "back": "Cats are an exception, because they live among people"
   }
  ]
 }

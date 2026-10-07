@@ -1,6 +1,6 @@
 # Draft — Qudūrī water revisions and Ḥadīth 4 lessons, 2026-10-07
 
-Status: **awaiting approval.**
+Status: **approved and delivered 2026-10-07 19:52.** The user confirmed the abortion stages were backwards in their notes.
 
 Source: the Arbaʿīn/Qudūrī page re-fetched on 2026-10-07 and diffed against the version carded that morning.
 The diff was read in full. Changes: a new *Lessons* block under Ḥadīth 4, and eight edits to the water section.

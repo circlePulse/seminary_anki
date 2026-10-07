@@ -3,7 +3,7 @@
  "topic": "arbaeen-ahadith",
  "session": "sep16",
  "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
- "expected_count": 199,
+ "expected_count": 221,
  "cards": [
   {
    "type": "basic",
@@ -2471,7 +2471,7 @@
    "tier": 1,
    "id": "arbh-183",
    "front": "The ḥadīth of creation in the womb describes the fetus's stages. What is that description counted as evidence of?",
-   "back": "The Prophet's ﷺ prophethood — it is one of its proofs",
+   "back": "The Prophet's ﷺ prophethood — it is one of the proofs of prophethood, which are a whole field of study",
    "tags": [
     "arbaeen",
     "h04",
@@ -2707,6 +2707,320 @@
    ],
    "session": "oct07",
    "source": "Arbaʿīn Ḥadīth 4 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-200",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "lessons"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "What lesson about resurrection is drawn from the ḥadīth of creation in the womb?",
+   "back": "Certainty in it: the One who makes us through so complex a process, a sign of His might, can also bring us back from the dead"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-201",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "lessons"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "What lesson about doing important things is drawn from the ḥadīth of creation in the womb?",
+   "back": "Be careful and deliberate, and take your time — there is no need to rush or be hasty"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-202",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "lessons",
+    "abortion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "Based on the ḥadīth of creation in the womb, when do the majority of scholars hold that life begins?",
+   "back": "120 days after conception — the basis for understanding the ruling on abortion"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-203",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "How does Mufti Muhammad ibn Adam's fatwa on abortion define abortion?",
+   "back": "Expelling the fetus from the womb, by drugs or by suction"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-204",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "What principle does Mufti Muhammad ibn Adam's fatwa on abortion put first and foremost?",
+   "back": "Islam regards human life as sacred, wherever that life exists"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-205",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "What status does the Sharīʿah give a human body after death?",
+   "back": "As sacred as it was before death"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-206",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion",
+    "spine"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "Into which two stages does Mufti Muhammad ibn Adam's fatwa on abortion divide its ruling?",
+   "back": "Before the soul enters the fetus (the first 120 days), and after"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-207",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "Per Mufti Muhammad ibn Adam's fatwa on abortion, what is the ruling on abortion after the soul has entered the fetus (after 120 days)?",
+   "back": "Totally unlawful and tantamount to murder — the scholars have unanimously condemned it"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-208",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "Per Mufti Muhammad ibn Adam's fatwa on abortion, when have some scholars given a <bdi>رُخْصَة</bdi> to abort after the soul has entered?",
+   "back": "When the mother's life is in certain and absolute danger"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-209",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "On what juristic principle does the <bdi>رُخْصَة</bdi> to abort, when the mother's life is in certain danger, rest?",
+   "back": "Faced with two evils, choose the lesser — a principle of uṣūl al-fiqh and the qawāʿid"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-210",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "When the mother's life conflicts with her unborn child's, why is hers saved?",
+   "back": "She is established in life, with duties and responsibilities; the child is still in the womb"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-211",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "Per Mufti Muhammad ibn Adam's fatwa on abortion, why is abortion unlawful even before the soul enters the fetus?",
+   "back": "The fetus is part of the mother's body — like her own life and organs, a trust from the Creator that she has no right to abort"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-212",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "Abortion before the soul enters the fetus is not murder. What sin is it?",
+   "back": "Violating the rights of one's own organs"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-213",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "text": "Circumstances that can allow abortion before the soul enters the fetus: {{c1::conception through rape}}; {{c2::danger to the mother's life or health}}; {{c3::repeated pregnancies severely damaging her health}}",
+   "extra": "Not a closed list. From Mufti Muhammad ibn Adam's fatwa on abortion."
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-214",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "abortion",
+    "contrast"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "Per Mufti Muhammad ibn Adam's fatwa on abortion, which pregnancy is not a reason for abortion, though rape can be?",
+   "back": "Pregnancy from unlawful intimacy"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-215",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "qadar"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "What has been recorded in <bdi>اللَّوْح المَحْفُوظ</bdi>, the Preserved Tablet?",
+   "back": "Everything that has happened, is happening and will happen — good or bad from our perspective"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-216",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "qadar"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "text": "Nothing happens without the will and decree of Allah — even {{c1::all human actions, good and bad, and the intentions and thoughts behind them}} are brought into existence by Him"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-217",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "qadar",
+    "terminology"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "What is the human share of choice — the choice to do something or not — called?",
+   "back": "<bdi>كَسْب</bdi> (kasb) — acquisition"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-218",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "qadar",
+    "criterion"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "What follows from human beings having <bdi>كَسْب</bdi> (kasb)?",
+   "back": "They are legally responsible, and deserve reward or punishment"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-219",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "qadar"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "text": "The position of Ahl al-Sunnah wa-l-Jamāʿah on human choice lies between {{c1::coercion}} and {{c2::absolute free will}} — we can choose between the choices before us"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-220",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "qadar"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "Why should one not delve too deeply into qadar?",
+   "back": "It is beyond our understanding — it confused even the Companions"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-221",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "qadar"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "What does science not fully understand that parallels the limits of understanding qadar?",
+   "back": "How thoughts form, turn into intentions, and turn into actions"
   }
  ]
 }

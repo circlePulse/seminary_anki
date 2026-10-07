@@ -95,6 +95,11 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Revised on 2026-10-07 (evening): the Ḥadīth 4 *Lessons* block (arbh-200–221), and eight
+clarifications to the Qudūrī water section (qud-224/225/227/228 edited, qud-229–235 new). The user's
+abortion notes have the two stages swapped. The user confirmed it, so the cards follow Mufti Muhammad
+ibn Adam's fatwa. Notion still has the swapped version, which is left alone per the convention above.
+
 Carded on 2026-10-07: Arbaʿīn Ḥadīth 4 in full (arbh-159–199), with the narrator, the stages,
 the soul, what is written and the example. The translation Claude supplied is carded alongside
 the notes. Its matn is saved in `texts/arbaeen_h04.md`.
