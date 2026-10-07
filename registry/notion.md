@@ -81,7 +81,9 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
   does not already cover, and check against the deck before trusting any marker.
 - **Transcription slips are common** (*prompt injection* for code injection,
   *kebob_case* for snake_case). Corrections go on the cards, not in Notion; the
-  notes still carry the originals.
+  notes still carry the originals. Edit Notion only when the user asks, as they did
+  for the swapped abortion stages on 2026-10-07. Make the smallest exact edit, then
+  re-fetch to check it.
 - **Notes are sometimes mid-edit.** A trailing toggle can stop mid-word (the
   Qudūrī water section once ended at `Ri`, and an hour later it ran to a full
   classification). Re-fetch right before drafting, card up to the last complete
@@ -98,7 +100,8 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 Revised on 2026-10-07 (evening): the Ḥadīth 4 *Lessons* block (arbh-200–221), and eight
 clarifications to the Qudūrī water section (qud-224/225/227/228 edited, qud-229–235 new). The user's
 abortion notes have the two stages swapped. The user confirmed it, so the cards follow Mufti Muhammad
-ibn Adam's fatwa. Notion still has the swapped version, which is left alone per the convention above.
+ibn Adam's fatwa. At the user's request, the two stage headings were then swapped in Notion as well
+(2026-10-07), so the page now matches the cards.
 
 Carded on 2026-10-07: Arbaʿīn Ḥadīth 4 in full (arbh-159–199), with the narrator, the stages,
 the soul, what is written and the example. The translation Claude supplied is carded alongside
