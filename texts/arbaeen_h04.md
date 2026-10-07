@@ -16,3 +16,23 @@ edition reads وَشَقِيٍّ أَمْ سَعِيدٍ, in the genitive after 
 رَوَاهُ الْبُخَارِيُّ، وَمُسْلِمٌ.
 
 </div>
+
+## Translation
+
+Claude's translation of the text above, written 2026-10-07 because the class notes carry none. The
+user hasn't checked it yet. Per the user's instruction, the cards sourced "Arbaʿīn Ḥadīth 4 — the text
+in translation" ask what it says.
+
+> On the authority of Abū ʿAbd al-Raḥmān ʿAbdullāh ibn Masʿūd (may Allah be pleased with him), who
+> said: The Messenger of Allah ﷺ, the truthful, the one believed, told us: "Each one of you has his
+> creation gathered in his mother's womb for forty days as a drop (*nuṭfah*). Then he becomes a
+> clinging thing (*ʿalaqah*) for the same length of time, then a lump of flesh (*muḍghah*) for the same
+> length of time. Then the angel is sent to him and breathes the soul into him. He is commanded with
+> four words: to write down his provision, his lifespan, his deeds, and whether he is wretched or
+> happy. By Allah, besides whom there is no god, one of you does the deeds of the people of Paradise
+> until there is only a forearm's length between him and it. Then what has been written overtakes him,
+> and he does the deeds of the people of the Fire and enters it. And one of you does the deeds of the
+> people of the Fire until there is only a forearm's length between him and it. Then what has been
+> written overtakes him, and he does the deeds of the people of Paradise and enters it."
+>
+> Related by al-Bukhārī and Muslim.

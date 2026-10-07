@@ -19,7 +19,8 @@ import json
 import re
 import sys
 
-AR = "؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿"
+# ﷺ (U+FDFA) is left out: a lone ligature after an English word needs no isolate
+AR = "\u0600-\u06FF\u0750-\u077F\uFB50-\uFDF9\uFDFB-\uFDFF\uFE70-\uFEFF"
 _AR = re.compile(f"[{AR}]")
 _LATIN = re.compile(r"[A-Za-z]")
 # a run: Arabic letters, joined by spaces or by a hyphen/en dash written tight
