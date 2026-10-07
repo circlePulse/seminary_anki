@@ -172,6 +172,10 @@ once, and both times was objecting to files that had no reason to exist.
   unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count", fits the same vowels and would collide
   with أَحْصَى (voc-009).
 - **Ḥadīth 2's matn is deliberately uncarded.** The user doesn't need to memorise it.
+- **Ḥadīth 4's matn is saved in `texts/arbaeen_h04.md`** for reference (2026-10-07). The
+  user doesn't need to memorise it, so don't card it. They are writing the class notes in
+  Notion and will say when to scan. Card the notes then, not the matn. Cards may quote
+  the matn where a note needs it.
 - **The Sep 24 "front names nothing" fix may never have reached the user's Anki.** On
   2026-09-30 they still saw "this ḥadīth" on Ḥadīth 1 cards. The 9 Ḥadīth 1 cards were
   re-sent with `--resend`. The other 9 from that fix (arb-038, qud-087, qud-109,
