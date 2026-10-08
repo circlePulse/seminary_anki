@@ -1,0 +1,576 @@
+{
+ "edits": {
+  "nahw-129": {
+   "science": "نَحْو",
+   "term": "<bdi>صِفَة</bdi> (ṣifah)",
+   "meaning": "the describing word in a <bdi>التَّوْصِيفِيّ</bdi> phrase"
+  }
+ },
+ "new": {
+  "nahw": [
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "nahw-191",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "term": "<bdi>الأَفْعَال النَّاقِصَة</bdi> (al-afʿāl al-nāqiṣah)",
+    "meaning": "the incomplete verbs — <bdi>كَانَ</bdi> and her sisters"
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "nahw-192",
+    "tags": [
+     "nahw",
+     "kana",
+     "irab",
+     "criterion"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "text": "<bdi>كَانَ</bdi> and her sisters keep the <bdi>مُبْتَدَأ</bdi> in {{c1::<bdi>رَفْع</bdi>}}, as {{c2::<bdi>اِسْم كَانَ</bdi>}}, and put the <bdi>خَبَر</bdi> in {{c3::<bdi>نَصْب</bdi>}}, as {{c4::<bdi>خَبَر كَانَ</bdi>}}",
+    "extra": "Each takes its own verb's name: <bdi>اِسْم صَارَ</bdi>, <bdi>خَبَر لَيْسَ</bdi>, and so on."
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "nahw-193",
+    "tags": [
+     "nahw",
+     "kana",
+     "irab",
+     "contrast"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "text": "{{c1::<bdi>كَانَ</bdi>}} and her sisters keep the <bdi>مُبْتَدَأ</bdi> in <bdi>رَفْع</bdi> and put the <bdi>خَبَر</bdi> in <bdi>نَصْب</bdi>; {{c2::<bdi>إِنَّ</bdi>}} and her sisters do the reverse — the <bdi>مُبْتَدَأ</bdi> in <bdi>نَصْب</bdi>, the <bdi>خَبَر</bdi> in <bdi>رَفْع</bdi>",
+    "extra": "One family is verbs, the other particles — and their effects are mirror images."
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "nahw-194",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "front": "When <bdi>كَانَ</bdi> or one of her sisters is used as an ordinary verb, what is it called?",
+    "back": "<bdi>تَامَّة</bdi> (tāmmah) — complete, as against <bdi>نَاقِصَة</bdi>"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "nahw-195",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "term": "كَانَ",
+    "meaning": "was — the head of <bdi>الأَفْعَال النَّاقِصَة</bdi>"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "nahw-196",
+    "tags": [
+     "nahw",
+     "kana",
+     "criterion"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "front": "What does <bdi>كَانَ</bdi> give a <bdi>مُضَارِع</bdi> that follows it?",
+    "back": "A past continuous or habitual meaning — <bdi>كَانَ يَكْتُبُ</bdi>, “he was writing” or “he used to write”"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "nahw-197",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "term": "صَارَ",
+    "meaning": "became — going from one state to another; a sister of <bdi>كَانَ</bdi>"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "nahw-198",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology",
+     "times"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "term": "أَصْبَحَ",
+    "meaning": "to happen in the morning — or simply “became”; a sister of <bdi>كَانَ</bdi>"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "nahw-199",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology",
+     "times"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "term": "أَمْسَى",
+    "meaning": "to happen in the evening — or simply “became”; a sister of <bdi>كَانَ</bdi>"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "nahw-200",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology",
+     "times"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "term": "أَضْحَى",
+    "meaning": "to happen at midmorning — or simply “became”; a sister of <bdi>كَانَ</bdi>"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "nahw-201",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology",
+     "times"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "term": "ظَلَّ",
+    "meaning": "to happen during the day — or simply “became”; a sister of <bdi>كَانَ</bdi>"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "nahw-202",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology",
+     "times"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "term": "بَاتَ",
+    "meaning": "to happen during the night — or simply “became”; a sister of <bdi>كَانَ</bdi>"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "nahw-203",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "term": "مَا دَامَ",
+    "meaning": "as long as — a sister of <bdi>كَانَ</bdi>"
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "nahw-204",
+    "tags": [
+     "nahw",
+     "kana",
+     "enumeration"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "text": "Four sisters of <bdi>كَانَ</bdi> mean “always, continuously”: {{c1::<bdi>مَا زَالَ</bdi>}}, {{c2::<bdi>مَا بَرِحَ</bdi>}}, {{c3::<bdi>مَا فَتِئَ</bdi>}}, {{c4::<bdi>مَا انْفَكَّ</bdi>}}",
+    "extra": "Same meaning, so they are learned as one set rather than as four cards with one gloss."
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "nahw-205",
+    "tags": [
+     "nahw",
+     "kana"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "front": "What do <bdi>مَا زَالَ</bdi>, <bdi>مَا بَرِحَ</bdi>, <bdi>مَا فَتِئَ</bdi> and <bdi>مَا انْفَكَّ</bdi> mean, as sisters of <bdi>كَانَ</bdi>?",
+    "back": "Always, continuously — all four mean the same"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "nahw-206",
+    "tags": [
+     "nahw",
+     "kana",
+     "terminology"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "term": "لَيْسَ",
+    "meaning": "is not, not — a sister of <bdi>كَانَ</bdi>"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "nahw-207",
+    "tags": [
+     "nahw",
+     "kana",
+     "criterion"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "front": "Which of <bdi>كَانَ</bdi>'s sisters have only a past tense?",
+    "back": "<bdi>مَا دَامَ</bdi> and <bdi>لَيْسَ</bdi>"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "nahw-208",
+    "tags": [
+     "nahw",
+     "kana"
+    ],
+    "session": "oct01",
+    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+    "front": "What is sometimes prefixed to the <bdi>خَبَر</bdi> of <bdi>لَيْسَ</bdi>?",
+    "back": "<bdi>بِـ</bdi> — as in <bdi>أَلَيْسَ اللهُ بِكَافٍ عَبْدَهُ</bdi> (al-Zumar 39:36)"
+   }
+  ],
+  "sarf": [
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-170",
+    "tags": [
+     "sarf",
+     "amr"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "front": "The <bdi>أَمْر</bdi>, the imperative, is formed for which person only?",
+    "back": "The <bdi>مُخَاطَب</bdi> — the second person"
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "sarf-171",
+    "tags": [
+     "sarf",
+     "amr",
+     "spine"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "text": "To form the <bdi>أَمْر</bdi> of a family-one verb from its <bdi>مُضَارِع</bdi>: {{c1::remove the <bdi>حَرْف المُضَارِع</bdi>}}; {{c2::add a <bdi>هَمْزَة الوَصْل</bdi>}}; {{c3::make the ending <bdi>مَجْزُوم</bdi>}}",
+    "extra": "<div class=\"arabic\">تَنْصُرُ ← اُنْصُرْ — تَنْصُرُونَ ← اُنْصُرُوا</div>"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-172",
+    "tags": [
+     "sarf",
+     "amr",
+     "criterion"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "front": "When does the <bdi>هَمْزَة الوَصْل</bdi> of the <bdi>أَمْر</bdi> take a ḍammah?",
+    "back": "When the verb's <bdi>عَيْن</bdi> has a ḍammah — <bdi>اُنْصُرْ</bdi>; otherwise it takes a kasrah — <bdi>اِضْرِبْ</bdi>, <bdi>اِفْتَحْ</bdi>"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-173",
+    "tags": [
+     "sarf",
+     "amr"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "front": "How is a command — “he should …” — given to the third person?",
+    "back": "With <bdi>لَام الأَمْر</bdi>: a <bdi>لَام</bdi> with a kasrah before the <bdi>مُضَارِع</bdi>, which it makes <bdi>مَجْزُوم</bdi> — <bdi>لِيَنْصُرْ</bdi>, “let him help”"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-174",
+    "tags": [
+     "sarf",
+     "amr",
+     "criterion"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "front": "What vowel does <bdi>لَام الأَمْر</bdi> take after <bdi>وَ</bdi> or <bdi>فَـ</bdi>?",
+    "back": "A sukūn — <bdi>فَلْيَعْبُدُوا رَبَّ هَٰذَا البَيْتِ</bdi> (Quraysh 106:3)"
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "sarf-175",
+    "tags": [
+     "sarf",
+     "amr",
+     "majhul"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "text": "<bdi>لَام الأَمْر</bdi> works with passive verbs too: from <bdi>لِيَنْصُرْ</bdi>, “let him help”, comes {{c1::<bdi>لِيُنْصَرْ</bdi>}}, “let him be helped”",
+    "extra": ""
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-176",
+    "tags": [
+     "sarf",
+     "nahy"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "front": "How is the <bdi>نَهْي</bdi>, the negative command, formed?",
+    "back": "Put <bdi>لَا النَّاهِيَة</bdi> before the <bdi>مُضَارِع</bdi> and make it <bdi>مَجْزُوم</bdi> — <bdi>لَا تَنْصُرْ</bdi>"
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "sarf-177",
+    "tags": [
+     "sarf",
+     "nahy",
+     "nafy",
+     "contrast"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "text": "Before a <bdi>مُضَارِع</bdi>, {{c1::<bdi>لَا النَّاهِيَة</bdi>}} makes it <bdi>مَجْزُوم</bdi> — a prohibition; {{c2::<bdi>لَا النَّافِيَة</bdi>}} leaves it as it is — a negation",
+    "extra": "<bdi>لَا تَنْصُرْ</bdi>, “don't help”; <bdi>لَا تَنْصُرُ</bdi>, “you don't help” or “you won't help”."
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-178",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "criterion"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "front": "Why are <bdi>اِسْم الفَاعِل</bdi> and <bdi>اِسْم المَفْعُول</bdi> <bdi>مُشْتَقّ</bdi>?",
+    "back": "They are derived from the <bdi>مَصْدَر</bdi>"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-179",
+    "tags": [
+     "sarf",
+     "mushtaqq"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "science": "صَرْف",
+    "front": "In what sense are <bdi>اِسْم الفَاعِل</bdi> and <bdi>اِسْم المَفْعُول</bdi> each a <bdi>صِفَة</bdi>?",
+    "back": "As descriptive words — not the <bdi>صِفَة</bdi> of a <bdi>تَوْصِيفِيّ</bdi> phrase in naḥw"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "sarf-180",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "terminology"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "term": "<bdi>اِسْم الفَاعِل</bdi> (ism al-fāʿil)",
+    "meaning": "the active participle — a derived noun for the doer of the action, e.g. <bdi>نَاصِر</bdi>"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "sarf-181",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "terminology"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "term": "<bdi>اِسْم المَفْعُول</bdi> (ism al-mafʿūl)",
+    "meaning": "the passive participle — a derived noun for the one the action is done to, e.g. <bdi>مَنْصُور</bdi>"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-182",
+    "tags": [
+     "sarf",
+     "mushtaqq"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "front": "How do <bdi>اِسْم الفَاعِل</bdi> and <bdi>اِسْم المَفْعُول</bdi> behave grammatically?",
+    "back": "Like any <bdi>اِسْم</bdi> — they follow its rules and are inflected like one"
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "sarf-183",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "contrast"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "text": "{{c1::<bdi>الفَاعِل</bdi>}} is the doer as a part of a verbal sentence — a naḥw role; {{c2::<bdi>اِسْم الفَاعِل</bdi>}} is a derived noun that names the doer — a ṣarf pattern",
+    "extra": "Same root word, two sciences, two different things."
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "sarf-184",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "terminology"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "term": "<bdi>الصِّفَة المُشَبَّهَة بِاسْم الفَاعِل</bdi> (al-ṣifah al-mushabbahah)",
+    "meaning": "the adjective resembling the active participle — a long-term or intrinsic quality; an emphatic way of being the doer"
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "sarf-185",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "awzan"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "text": "Common patterns of <bdi>الصِّفَة المُشَبَّهَة</bdi>: {{c1::<bdi>فَعِيل</bdi>}}, {{c2::<bdi>فَعُول</bdi>}}, and {{c3::<bdi>فَعْلَان</bdi>}}, feminine {{c4::<bdi>فَعْلَى</bdi>}}",
+    "extra": ""
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-186",
+    "tags": [
+     "sarf",
+     "mushtaqq"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "front": "In some cases, what can <bdi>الصِّفَة المُشَبَّهَة</bdi> stand for?",
+    "back": "An <bdi>اِسْم المَفْعُول</bdi> — the one acted on, as a long-term or intrinsic quality"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "sarf-187",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "terminology"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "term": "<bdi>اِسْم المُبَالَغَة</bdi> (ism al-mubālaghah)",
+    "meaning": "the noun of exaggeration — a hyperbolic, emphatic adjective"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "sarf-188",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "terminology"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "term": "<bdi>اِسْم التَّفْضِيل</bdi> (ism al-tafḍīl)",
+    "meaning": "the noun of preference — the comparative and superlative, e.g. <bdi>أَكْبَر</bdi>, greater or greatest"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "sarf-189",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "terminology"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "term": "<bdi>اِسْم الظَّرْف</bdi> (ism al-ẓarf)",
+    "meaning": "the noun of time or place — names when or where an action happens"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "sarf-190",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "terminology"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "term": "<bdi>اِسْم الآلَة</bdi> (ism al-ālah)",
+    "meaning": "the noun of instrument — a tool used for an action, e.g. <bdi>مِفْتَاح</bdi>, a tool for opening"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-191",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "criterion"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "front": "What do <bdi>الصِّفَة المُشَبَّهَة</bdi>, <bdi>اِسْم المُبَالَغَة</bdi>, <bdi>اِسْم التَّفْضِيل</bdi>, <bdi>اِسْم الظَّرْف</bdi> and <bdi>اِسْم الآلَة</bdi> have in common?",
+    "back": "Each is formed only from <bdi>ثُلَاثِيّ مُجَرَّد</bdi> verbs"
+   }
+  ]
+ }
+}
