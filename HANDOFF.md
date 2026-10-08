@@ -37,15 +37,15 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,344 notes across 10 decks.**
+Current state: **1,385 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | quduri | 235 | HDT-201 |
 | vocab | 230 | VOCAB |
 | arbaeen_ahadith | 221 | HDT-201 |
-| nahw | 190 | ARB-201 |
-| sarf | 169 | ARB-201 |
+| nahw | 208 | ARB-201 |
+| sarf | 192 | ARB-201 |
 | wrel | 110 | RELSTD-5B |
 | pyth | 106 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
@@ -144,7 +144,7 @@ once, and both times was objecting to files that had no reason to exist.
   `skill/scripts/wrap_arabic.py decks/X.json` does it (report only; add `--write`), and
   refuses to write unless stripping the tags back out leaves the text byte-identical.
   **Sarf is done** (139 fields, 2026-10-02, after the user hit a scrambled sarf-080). Still
-  to do, as of 2026-10-07: nahw 172, quduri 118, arbaeen 34, vocab 14, arbaeen_ahadith 10,
+  to do, as of 2026-10-08: nahw 170, quduri 118, arbaeen 34, vocab 14, arbaeen_ahadith 10,
   arbaeen2 6, riyad 4. These are lower than first counted because a field whose only Arabic
   is ﷺ no longer counts. Each deck shows a large delta afterwards, which is correct.
   Offered to the user; do these only on their go-ahead.
@@ -158,7 +158,8 @@ once, and both times was objecting to files that had no reason to exist.
   date was never recorded.
 - **The 2026-09-30 batch carries placeholder session tags.** The Ḥadīth 2 body
   (arbh-111–158) and the repentance cards (riyad-005–010) are tagged `sep30`, but their
-  class dates are unknown. The user said this can be fixed later.
+  class dates are unknown. The user said this can be fixed later. Two more are best guesses: kāna
+  (nahw-191–208) is tagged `oct01`, and the 2026-10-08 ṣarf batch (sarf-170–192) is tagged `oct08`.
 - **Ḥadīth 3's cards (arbh-052–110) show Ḥadīth 1's source line.** The deck-level
   `source` was never updated when Ḥadīth 3 was added. Fixing it re-sends all 59 as
   changed, so it waits for the user's go-ahead.

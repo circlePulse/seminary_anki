@@ -35,7 +35,7 @@ Collisions that will land and need labelling on **both** sides when they do
 |---|---|---|
 | حَرْف | Ṣarf using it for *letter of the alphabet* | `nahw` — حَرْف as particle |
 | مَصْدَر | Ṣarf teaching the verbal noun as the 4th principal part | `nahw-039` — "root ism" |
-| تَامّ / نَاقِص | Ṣarf teaching complete vs. defective verbs | `nahw` — the compounds |
+| تَامّ / نَاقِص | Ṣarf teaching complete vs. defective verbs | `nahw` — the compounds, and كَانَ's family (nahw-191, nahw-194) |
 | عِلْم | مَعْرِفَة being carded with the gloss "knowledge" | `quduri` — الْعِلْم in the fiqh definition |
 | جَامِع | الجامع الصحيح as a collection genre | `quduri` — definition criterion |
 | حَال | Naḥw teaching الحَال as the circumstantial accusative | `sarf` — the present tense |

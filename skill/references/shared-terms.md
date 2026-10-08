@@ -31,6 +31,8 @@ When a collision is discovered, the card that was written first is *also* wrong 
 | مَاضِي | نَحْو / صَرْف | same sense in both — no conflict | watch |
 | ضَمِير | صَرْف | the pronoun element of a conjugated verb — person, gender, number (sarf-003) | labelled |
 | ضَمِير | نَحْو | a word used in place of a name (nahw-176) | labelled |
+| صِفَة | نَحْو | the describing word in a التَّوْصِيفِيّ phrase (nahw-129) | labelled 2026-10-08 |
+| صِفَة | صَرْف | a descriptive word — اِسْم الفَاعِل, اِسْم المَفْعُول and the like (sarf-179) | labelled |
 | مَصْدَر | نَحْو / فِقْه | the grammar sense, used inside a fiqh lesson (مَذْهَب is a ظَرْف مَكَانِي or a مَصْدَر) — same meaning, no conflict yet | watch |
 
 ## Watch list — collisions that have not landed yet
@@ -44,8 +46,12 @@ These will collide as the courses progress. Add the label at the moment the seco
 
 - **حَرْف** — نَحْو: a particle (word class). صَرْف: a letter of the alphabet. This one is certain to come up.
 - **مَصْدَر** — نَحْو: the "root ism" from which words derive. صَرْف: the verbal noun, fourth principal part.
-- **تَامّ / نَاقِص** — نَحْو: complete vs. incomplete compound. صَرْف: complete vs. defective verb.
-- **اِسْم** — نَحْو: word class. صَرْف: اسم فاعل, اسم مفعول and the other derived nouns.
+- **تَامّ / نَاقِص** — نَحْو: complete vs. incomplete compound, and since 2026-10-08 also كَانَ's family
+  (الأَفْعَال النَّاقِصَة, and تَامَّة when used as an ordinary verb). Inside naḥw the full phrase keeps
+  them apart. صَرْف: complete vs. defective verb is still to come; label both sides when it lands.
+- **اِسْم** — نَحْو: word class. صَرْف: اسم فاعل, اسم مفعول and the other derived nouns. Landed
+  2026-10-08 (sarf-178–192), always as compound names, so it never collides with bare اِسْم and needs no
+  label. Watch only if a ṣarf card ever uses bare اِسْم for a derived noun.
 - **جَمْع** — صَرْف: plural. Also appears in ḥadīth terminology in other senses.
 - **عِلْم** — فِقْه: "knowledge" in the technical definition. Will collide with the English gloss of مَعْرِفَة if that is ever carded (see the gloss index in `card-design.md` §8).
 - **جَامِع** — فِقْه/method: a sound definition is *comprehensive*. Also the name of a ḥadīth-collection genre (الجامع الصحيح).

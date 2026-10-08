@@ -107,6 +107,14 @@ Carded on 2026-10-07: Arbaʿīn Ḥadīth 4 in full (arbh-159–199), with the n
 the soul, what is written and the example. The translation Claude supplied is carded alongside
 the notes. Its matn is saved in `texts/arbaeen_h04.md`.
 
+Carded on 2026-10-08: IOK Arabic. Kāna and her sisters (nahw-191–208) had been in the notes since
+before 2026-10-02 and was missed then. The six new ṣarf topics are the amr and nahy, ism fāʿil and
+mafʿūl, ism mubālagha, tafḍīl, ẓarf and ālah (sarf-170–192). Three mistakes in the notes were corrected
+in Notion at the user's request:
+- after وَ or فَـ, لَام الأَمْر takes a sukūn, not a kasrah;
+- اِسْم الظَّرْف's own patterns are only thulāthī; from other verbs it takes the ism mafʿūl's form;
+- "harf majzoom laam" became "harf jaazim laam", and kāna's "{name of particle}" became "{name of verb}".
+
 Carded on 2026-10-02: IOK Arabic, the حُرُوف الجَرّ (meanings only, per the user's note),
 إِنَّ and her sisters (full list), and §1.6 pronouns with the chart (nahw-146–190). The
 chart's `ADD TESTS` note is done. In Notion both ḥarf lists sit under غَيْر عَامِل, but

@@ -569,7 +569,21 @@
     "session": "oct08",
     "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
     "front": "What do <bdi>الصِّفَة المُشَبَّهَة</bdi>, <bdi>اِسْم المُبَالَغَة</bdi>, <bdi>اِسْم التَّفْضِيل</bdi>, <bdi>اِسْم الظَّرْف</bdi> and <bdi>اِسْم الآلَة</bdi> have in common?",
-    "back": "Each is formed only from <bdi>ثُلَاثِيّ مُجَرَّد</bdi> verbs"
+    "back": "Their own patterns come only from <bdi>ثُلَاثِيّ مُجَرَّد</bdi> verbs"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "sarf-192",
+    "tags": [
+     "sarf",
+     "mushtaqq",
+     "criterion"
+    ],
+    "session": "oct08",
+    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
+    "front": "From a verb that is not <bdi>ثُلَاثِيّ مُجَرَّد</bdi>, how is <bdi>اِسْم الظَّرْف</bdi> formed?",
+    "back": "On the pattern of its <bdi>اِسْم المَفْعُول</bdi> — <bdi>مُجْتَمَع</bdi>, a meeting place, from <bdi>اِجْتَمَعَ</bdi>"
    }
   ]
  }

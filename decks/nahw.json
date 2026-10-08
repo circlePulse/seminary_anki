@@ -3,7 +3,7 @@
  "topic": "tasheel-ch1",
  "session": "sep03",
  "source": "Tasheel al-Nahw ch.1 §1.1–1.2 — class notes 2026-09-03",
- "expected_count": 190,
+ "expected_count": 208,
  "cards": [
   {
    "type": "bidir",
@@ -1553,15 +1553,16 @@
    "type": "bidir",
    "tier": 1,
    "id": "nahw-129",
-   "term": "صِفَة (ṣifah)",
-   "meaning": "the describing word in a التَّوْصِيفِيّ phrase",
+   "term": "<bdi>صِفَة</bdi> (ṣifah)",
+   "meaning": "the describing word in a <bdi>التَّوْصِيفِيّ</bdi> phrase",
    "tags": [
     "nahw",
     "murakkab",
     "naqis",
     "terminology"
    ],
-   "session": "sep17"
+   "session": "sep17",
+   "science": "نَحْو"
   },
   {
    "type": "bidir",
@@ -2449,6 +2450,263 @@
    ],
    "session": "oct01",
    "source": "Tasheel al-Nahw ch. 1 — the ḥarf, §1.6 pronouns — class notes 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-191",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "term": "<bdi>الأَفْعَال النَّاقِصَة</bdi> (al-afʿāl al-nāqiṣah)",
+   "meaning": "the incomplete verbs — <bdi>كَانَ</bdi> and her sisters"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-192",
+   "tags": [
+    "nahw",
+    "kana",
+    "irab",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "text": "<bdi>كَانَ</bdi> and her sisters keep the <bdi>مُبْتَدَأ</bdi> in {{c1::<bdi>رَفْع</bdi>}}, as {{c2::<bdi>اِسْم كَانَ</bdi>}}, and put the <bdi>خَبَر</bdi> in {{c3::<bdi>نَصْب</bdi>}}, as {{c4::<bdi>خَبَر كَانَ</bdi>}}",
+   "extra": "Each takes its own verb's name: <bdi>اِسْم صَارَ</bdi>, <bdi>خَبَر لَيْسَ</bdi>, and so on."
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-193",
+   "tags": [
+    "nahw",
+    "kana",
+    "irab",
+    "contrast"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "text": "{{c1::<bdi>كَانَ</bdi>}} and her sisters keep the <bdi>مُبْتَدَأ</bdi> in <bdi>رَفْع</bdi> and put the <bdi>خَبَر</bdi> in <bdi>نَصْب</bdi>; {{c2::<bdi>إِنَّ</bdi>}} and her sisters do the reverse — the <bdi>مُبْتَدَأ</bdi> in <bdi>نَصْب</bdi>, the <bdi>خَبَر</bdi> in <bdi>رَفْع</bdi>",
+   "extra": "One family is verbs, the other particles — and their effects are mirror images."
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-194",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "front": "When <bdi>كَانَ</bdi> or one of her sisters is used as an ordinary verb, what is it called?",
+   "back": "<bdi>تَامَّة</bdi> (tāmmah) — complete, as against <bdi>نَاقِصَة</bdi>"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-195",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "term": "كَانَ",
+   "meaning": "was — the head of <bdi>الأَفْعَال النَّاقِصَة</bdi>"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-196",
+   "tags": [
+    "nahw",
+    "kana",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "front": "What does <bdi>كَانَ</bdi> give a <bdi>مُضَارِع</bdi> that follows it?",
+   "back": "A past continuous or habitual meaning — <bdi>كَانَ يَكْتُبُ</bdi>, “he was writing” or “he used to write”"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-197",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "term": "صَارَ",
+   "meaning": "became — going from one state to another; a sister of <bdi>كَانَ</bdi>"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-198",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology",
+    "times"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "term": "أَصْبَحَ",
+   "meaning": "to happen in the morning — or simply “became”; a sister of <bdi>كَانَ</bdi>"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-199",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology",
+    "times"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "term": "أَمْسَى",
+   "meaning": "to happen in the evening — or simply “became”; a sister of <bdi>كَانَ</bdi>"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-200",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology",
+    "times"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "term": "أَضْحَى",
+   "meaning": "to happen at midmorning — or simply “became”; a sister of <bdi>كَانَ</bdi>"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-201",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology",
+    "times"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "term": "ظَلَّ",
+   "meaning": "to happen during the day — or simply “became”; a sister of <bdi>كَانَ</bdi>"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-202",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology",
+    "times"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "term": "بَاتَ",
+   "meaning": "to happen during the night — or simply “became”; a sister of <bdi>كَانَ</bdi>"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-203",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "term": "مَا دَامَ",
+   "meaning": "as long as — a sister of <bdi>كَانَ</bdi>"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-204",
+   "tags": [
+    "nahw",
+    "kana",
+    "enumeration"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "text": "Four sisters of <bdi>كَانَ</bdi> mean “always, continuously”: {{c1::<bdi>مَا زَالَ</bdi>}}, {{c2::<bdi>مَا بَرِحَ</bdi>}}, {{c3::<bdi>مَا فَتِئَ</bdi>}}, {{c4::<bdi>مَا انْفَكَّ</bdi>}}",
+   "extra": "Same meaning, so they are learned as one set rather than as four cards with one gloss."
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-205",
+   "tags": [
+    "nahw",
+    "kana"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "front": "What do <bdi>مَا زَالَ</bdi>, <bdi>مَا بَرِحَ</bdi>, <bdi>مَا فَتِئَ</bdi> and <bdi>مَا انْفَكَّ</bdi> mean, as sisters of <bdi>كَانَ</bdi>?",
+   "back": "Always, continuously — all four mean the same"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-206",
+   "tags": [
+    "nahw",
+    "kana",
+    "terminology"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "term": "لَيْسَ",
+   "meaning": "is not, not — a sister of <bdi>كَانَ</bdi>"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-207",
+   "tags": [
+    "nahw",
+    "kana",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "front": "Which of <bdi>كَانَ</bdi>'s sisters have only a past tense?",
+   "back": "<bdi>مَا دَامَ</bdi> and <bdi>لَيْسَ</bdi>"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-208",
+   "tags": [
+    "nahw",
+    "kana"
+   ],
+   "session": "oct01",
+   "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
+   "front": "What is sometimes prefixed to the <bdi>خَبَر</bdi> of <bdi>لَيْسَ</bdi>?",
+   "back": "<bdi>بِـ</bdi> — as in <bdi>أَلَيْسَ اللهُ بِكَافٍ عَبْدَهُ</bdi> (al-Zumar 39:36)"
   }
  ]
 }

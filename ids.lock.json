@@ -1,6 +1,6 @@
 {
  "_comment": "APPEND-ONLY. An id here must never change or disappear. It is the only link between a regenerated deck and notes that already carry review history in Anki.",
- "generated": "2026-10-07",
+ "generated": "2026-10-08",
  "decks": {
   "arbaeen": {
    "course": "HDT-201",
@@ -620,7 +620,7 @@
   "nahw": {
    "course": "ARB-201",
    "topic": "tasheel-ch1",
-   "count": 190,
+   "count": 208,
    "ids": [
     "nahw-001",
     "nahw-002",
@@ -811,7 +811,25 @@
     "nahw-187",
     "nahw-188",
     "nahw-189",
-    "nahw-190"
+    "nahw-190",
+    "nahw-191",
+    "nahw-192",
+    "nahw-193",
+    "nahw-194",
+    "nahw-195",
+    "nahw-196",
+    "nahw-197",
+    "nahw-198",
+    "nahw-199",
+    "nahw-200",
+    "nahw-201",
+    "nahw-202",
+    "nahw-203",
+    "nahw-204",
+    "nahw-205",
+    "nahw-206",
+    "nahw-207",
+    "nahw-208"
    ],
    "fp": {
     "nahw-001": "0beceffed699",
@@ -1003,7 +1021,25 @@
     "nahw-187": "1720b9de929d",
     "nahw-188": "e2d04653d278",
     "nahw-189": "130353a87a13",
-    "nahw-190": "6c7b941a40a4"
+    "nahw-190": "6c7b941a40a4",
+    "nahw-191": "c7821676fa7f",
+    "nahw-192": "25fe3036f38f",
+    "nahw-193": "70fc07ca2073",
+    "nahw-194": "3f50cdd6d68d",
+    "nahw-195": "3f58fa51cfca",
+    "nahw-196": "4f6b9b9f3a28",
+    "nahw-197": "7b27e3141577",
+    "nahw-198": "e80ef8e42c48",
+    "nahw-199": "3455da941714",
+    "nahw-200": "7aba6b788fb8",
+    "nahw-201": "154f5aaa17f9",
+    "nahw-202": "6c73122b3a58",
+    "nahw-203": "6abad690ad24",
+    "nahw-204": "fc6790ce3d5b",
+    "nahw-205": "fbcec85048b4",
+    "nahw-206": "855fa25c17aa",
+    "nahw-207": "dbff84e697a0",
+    "nahw-208": "15583678105d"
    }
   },
   "pyth": {
@@ -1738,7 +1774,7 @@
   "sarf": {
    "course": "ARB-201",
    "topic": "sarf",
-   "count": 169,
+   "count": 192,
    "ids": [
     "sarf-001",
     "sarf-002",
@@ -1908,7 +1944,30 @@
     "sarf-166",
     "sarf-167",
     "sarf-168",
-    "sarf-169"
+    "sarf-169",
+    "sarf-170",
+    "sarf-171",
+    "sarf-172",
+    "sarf-173",
+    "sarf-174",
+    "sarf-175",
+    "sarf-176",
+    "sarf-177",
+    "sarf-178",
+    "sarf-179",
+    "sarf-180",
+    "sarf-181",
+    "sarf-182",
+    "sarf-183",
+    "sarf-184",
+    "sarf-185",
+    "sarf-186",
+    "sarf-187",
+    "sarf-188",
+    "sarf-189",
+    "sarf-190",
+    "sarf-191",
+    "sarf-192"
    ],
    "fp": {
     "sarf-001": "1a64db4ea843",
@@ -2079,7 +2138,30 @@
     "sarf-166": "dd6f7623806a",
     "sarf-167": "56b418765238",
     "sarf-168": "3f0ece62fcf2",
-    "sarf-169": "5adb4008585d"
+    "sarf-169": "5adb4008585d",
+    "sarf-170": "a79fac95664c",
+    "sarf-171": "08fac70e6c89",
+    "sarf-172": "746f425df138",
+    "sarf-173": "0b9a0140f246",
+    "sarf-174": "bce1af1b6d61",
+    "sarf-175": "7c53f8cfc3fd",
+    "sarf-176": "ecfd9f7fcf00",
+    "sarf-177": "681d5c475f83",
+    "sarf-178": "3590cd5b47f5",
+    "sarf-179": "e068f8707130",
+    "sarf-180": "9b379028a4ec",
+    "sarf-181": "3e3254f4a6f7",
+    "sarf-182": "61a66f708bac",
+    "sarf-183": "aad9cea27506",
+    "sarf-184": "56e131d84858",
+    "sarf-185": "a035a370bdad",
+    "sarf-186": "8ec7a6f7f48c",
+    "sarf-187": "d8d465d6f46e",
+    "sarf-188": "eb7059bad3a9",
+    "sarf-189": "4be069511643",
+    "sarf-190": "4d26d7230a63",
+    "sarf-191": "0634f412d2f2",
+    "sarf-192": "457145d29063"
    }
   },
   "vocab": {

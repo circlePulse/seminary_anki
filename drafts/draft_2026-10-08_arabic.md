@@ -1,13 +1,16 @@
 # Draft — Arabic, 2026-10-08
 
-Status: **awaiting approval.**
+Status: **approved and delivered 2026-10-08.** The user replied "Yes, correct the mistakes I made based on
+your knowledge, you know better". So the sukūn on لَام الأَمْر stands. sarf-191 now says *their own patterns* come
+only from ثُلَاثِيّ مُجَرَّد, which is true of all five. sarf-192 is new: from any other verb, ism al-ẓarf takes
+the ism mafʿūl's form. Both mistakes were also corrected in Notion.
 
 Source: the IOK Arabic page, fetched and read in full on 2026-10-08 and compared with the 2026-10-02
 fetch. Tasheel is unchanged since then. Ṣarf gained six topics at the end: the amr and nahy,
 ism fāʿil and mafʿūl, ism mubālagha, ism tafḍīl, ism ẓarf and ism ālah. Nothing above them changed.
 
 - **nahw:** 18 new (nahw-191–208), 1 changed (nahw-129: a science label)
-- **sarf:** 22 new (sarf-170–191)
+- **sarf:** 23 new (sarf-170–192)
 
 ## Check this first
 
@@ -107,4 +110,5 @@ ism fāʿil and mafʿūl, ism mubālagha, ism tafḍīl, ism ẓarf and ism āla
 | sarf-188 | bidir | <bdi>اِسْم التَّفْضِيل</bdi> (ism al-tafḍīl) | the noun of preference — the comparative and superlative, e.g. <bdi>أَكْبَر</bdi>, greater or greatest |
 | sarf-189 | bidir | <bdi>اِسْم الظَّرْف</bdi> (ism al-ẓarf) | the noun of time or place — names when or where an action happens |
 | sarf-190 | bidir | <bdi>اِسْم الآلَة</bdi> (ism al-ālah) | the noun of instrument — a tool used for an action, e.g. <bdi>مِفْتَاح</bdi>, a tool for opening |
-| sarf-191 | basic | What do <bdi>الصِّفَة المُشَبَّهَة</bdi>, <bdi>اِسْم المُبَالَغَة</bdi>, <bdi>اِسْم التَّفْضِيل</bdi>, <bdi>اِسْم الظَّرْف</bdi> and <bdi>اِسْم الآلَة</bdi> have in common? | Each is formed only from <bdi>ثُلَاثِيّ مُجَرَّد</bdi> verbs |
+| sarf-191 | basic | What do <bdi>الصِّفَة المُشَبَّهَة</bdi>, <bdi>اِسْم المُبَالَغَة</bdi>, <bdi>اِسْم التَّفْضِيل</bdi>, <bdi>اِسْم الظَّرْف</bdi> and <bdi>اِسْم الآلَة</bdi> have in common? | Their own patterns come only from <bdi>ثُلَاثِيّ مُجَرَّد</bdi> verbs |
+| sarf-192 | basic | From a verb that is not <bdi>ثُلَاثِيّ مُجَرَّد</bdi>, how is <bdi>اِسْم الظَّرْف</bdi> formed? | On the pattern of its <bdi>اِسْم المَفْعُول</bdi> — <bdi>مُجْتَمَع</bdi>, a meeting place, from <bdi>اِجْتَمَعَ</bdi> |
