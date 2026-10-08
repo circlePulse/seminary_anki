@@ -14,7 +14,7 @@ edit** instead of creating a parallel one. See `skill/references/working-files.m
 | 2026-09-08 | Riyāḍ al-Ṣāliḥīn beyond the four intro facts | `riyad` | chapter of repentance done 09-30; rest open |
 | 2026-09-16 | Ḥanafī legal values — فَرْض, مُؤَكَّدَة, غَيْر مُؤَكَّدَة so far | `quduri` — legal-values | open |
 | 2026-09-21 | Rest of the سُنَن of wuḍūʾ | `quduri` — sunan spine | resolved 09-23, all nine |
-| 2026-09-23 | Kitāb al-Ṭahārah beyond ghusl — tayammum, wells, water | `quduri` | water done 09-30; tayammum, wells open |
+| 2026-09-23 | Kitāb al-Ṭahārah beyond ghusl — tayammum, wells, water | `quduri` | water done 09-30; wells and suʾr done 10-08; tayammum open |
 | 2026-09-17 | Two more types of مُرَكَّب نَاقِص | `nahw` — مُرَكَّب نَاقِص spine | open |
 | 2026-09-30 | Qadar in depth — "will talk more about this in Aqidah" (Ḥadīth 2) | `arbaeen_ahadith` — qadar cards, or an ʿaqīdah deck if one is started | partly met by the Ḥadīth 4 lessons (arbh-215–221: kasb, the middle position); depth still open |
 

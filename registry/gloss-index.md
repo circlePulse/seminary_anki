@@ -81,6 +81,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | blowing the water back out of the nostrils | الاِسْتِنْثَار (al-istinthār) | blowing the water back out of the nostrils | HDT-201 | qud-159 |
 | but | لٰكِنَّ | but, however — a حَرْف مُشَبَّه بِالفِعْل | ARB-201 | nahw-172 |
 | by | تَـ ، وَ | by — in an oath; both are حُرُوف جَرّ | ARB-201 | nahw-148 |
+| carrion | مَيْتَة (maytah) | carrion — an animal that died without being slaughtered | HDT-201 | qud-238 |
 | causative | حَرْف عَامِل (ʿāmil) | causative — a ḥarf which influences the إِعْرَاب of the word after it | ARB-201 | nahw-071 |
 | certainly | إِنَّ | certainly, verily, indeed — a حَرْف مُشَبَّه بِالفِعْل | ARB-201 | nahw-169 |
 | children respecting their parents | Filial piety | children respecting their parents, caring for them, and making sure th | RELSTD-5B | wrel-082 |
@@ -112,6 +113,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | indefinite | نَكِرَة (nakirah) | indefinite | ARB-201 | nahw-110 |
 | is not | لَيْسَ | is not, not — a sister of كَانَ | ARB-201 | nahw-206 |
 | leadership | رِيَاسَة | leadership, chieftaincy | VOCAB | voc-130 |
+| leftover drinking water | السُّؤْر (al-suʾr) | leftover drinking water — what is left in a container after someone dr | HDT-201 | qud-252 |
 | like | كَـ | like — a حَرْف جَرّ | ARB-201 | nahw-149 |
 | linguistically | لُغَةً (lughatan) | linguistically — a definition by the word's ordinary language sense | HDT-201 | qud-004 |
 | major ritual impurity | الحَدَث الأَكْبَر | major ritual impurity | HDT-201 | tah-009 |

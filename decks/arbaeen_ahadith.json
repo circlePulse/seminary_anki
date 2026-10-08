@@ -3,7 +3,7 @@
  "topic": "arbaeen-ahadith",
  "session": "sep16",
  "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
- "expected_count": 221,
+ "expected_count": 222,
  "cards": [
   {
    "type": "basic",
@@ -3021,6 +3021,20 @@
    "source": "Arbaʿīn Ḥadīth 4 — class notes",
    "front": "What does science not fully understand that parallels the limits of understanding qadar?",
    "back": "How thoughts form, turn into intentions, and turn into actions"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-222",
+   "tags": [
+    "arbaeen",
+    "h04",
+    "endings"
+   ],
+   "session": "oct07",
+   "source": "Arbaʿīn Ḥadīth 4 — class notes",
+   "front": "Which saying of the Prophet ﷺ makes a person's ending decisive for their deeds?",
+   "back": "“Actions are judged by their endings” — <bdi>إِنَّمَا الأَعْمَالُ بِالخَوَاتِيمِ</bdi> (al-Bukhārī)"
   }
  ]
 }

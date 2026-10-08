@@ -1,6 +1,6 @@
 # Draft — Qudūrī: assorted points, wells, suʾr — 2026-10-08
 
-Status: **awaiting approval.**
+Status: **approved ("looks good") and delivered 2026-10-08 05:13.**
 
 Source: the Arbaʿīn/Qudūrī page, re-fetched on 2026-10-08 and diffed against the 2026-10-07 evening
 fetch. The diff was read in full. Qudūrī gained three sections after the water diagram: *Assorted

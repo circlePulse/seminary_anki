@@ -169,7 +169,7 @@
   "arbaeen_ahadith": {
    "course": "HDT-201",
    "topic": "arbaeen-ahadith",
-   "count": 221,
+   "count": 222,
    "ids": [
     "arbh-001",
     "arbh-002",
@@ -391,7 +391,8 @@
     "arbh-218",
     "arbh-219",
     "arbh-220",
-    "arbh-221"
+    "arbh-221",
+    "arbh-222"
    ],
    "fp": {
     "arbh-001": "ca1429b96863",
@@ -614,7 +615,8 @@
     "arbh-218": "795ebc29f873",
     "arbh-219": "aceef301139d",
     "arbh-220": "43453f8dc1fe",
-    "arbh-221": "94bc8fb5d3f9"
+    "arbh-221": "94bc8fb5d3f9",
+    "arbh-222": "5d4ff171aae2"
    }
   },
   "nahw": {
@@ -1266,7 +1268,7 @@
   "quduri": {
    "course": "HDT-201",
    "topic": "quduri",
-   "count": 235,
+   "count": 257,
    "ids": [
     "qud-001",
     "qud-002",
@@ -1502,7 +1504,29 @@
     "qud-232",
     "qud-233",
     "qud-234",
-    "qud-235"
+    "qud-235",
+    "qud-236",
+    "qud-237",
+    "qud-238",
+    "qud-239",
+    "qud-240",
+    "qud-241",
+    "qud-242",
+    "qud-243",
+    "qud-244",
+    "qud-245",
+    "qud-246",
+    "qud-247",
+    "qud-248",
+    "qud-249",
+    "qud-250",
+    "qud-251",
+    "qud-252",
+    "qud-253",
+    "qud-254",
+    "qud-255",
+    "qud-256",
+    "qud-257"
    ],
    "fp": {
     "qud-001": "5b59ac26cdf8",
@@ -1739,7 +1763,29 @@
     "qud-232": "e17c5b2e9bff",
     "qud-233": "187d14a04414",
     "qud-234": "ebaa8d6c9031",
-    "qud-235": "884f70e6fa43"
+    "qud-235": "884f70e6fa43",
+    "qud-236": "b1e6cfced60e",
+    "qud-237": "06b29678e722",
+    "qud-238": "a613e53258a1",
+    "qud-239": "9a483d1f0325",
+    "qud-240": "b0d8e177b2bc",
+    "qud-241": "96767a4cb326",
+    "qud-242": "895f008e34dd",
+    "qud-243": "3a437cd294c6",
+    "qud-244": "40de1c212dc9",
+    "qud-245": "608b797aeb90",
+    "qud-246": "82a02a6d80f0",
+    "qud-247": "915cbb038958",
+    "qud-248": "9d10bc62d21d",
+    "qud-249": "7acd7a7e5693",
+    "qud-250": "38a7b2deb63d",
+    "qud-251": "22cbffd555ad",
+    "qud-252": "cad6ab6359b1",
+    "qud-253": "e45c7c434a74",
+    "qud-254": "113071631000",
+    "qud-255": "e4af150fa7c4",
+    "qud-256": "5e50f0452693",
+    "qud-257": "0df7fd8295d9"
    }
   },
   "riyad": {
