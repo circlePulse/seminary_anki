@@ -1,0 +1,343 @@
+{
+ "new": {
+  "quduri": [
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "qud-236",
+    "tags": [
+     "quduri",
+     "tahara",
+     "water",
+     "najasah"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "text": "Two kinds of animal do not corrupt the water they die in: those with {{c1::no flowing blood}} — a fly, a scorpion — and those that {{c2::live in water, born in it and staying in it}} — a fish, a frog",
+    "extra": ""
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-237",
+    "tags": [
+     "quduri",
+     "tahara",
+     "water",
+     "najasah",
+     "criterion"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "Why does an animal with no flowing blood not make water impure by dying in it?",
+    "back": "Because it is the blood that makes a carcass impure"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "qud-238",
+    "tags": [
+     "quduri",
+     "tahara",
+     "najasah",
+     "terminology"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "term": "<bdi>مَيْتَة</bdi> (maytah)",
+    "meaning": "carrion — an animal that died without being slaughtered"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-239",
+    "tags": [
+     "quduri",
+     "tahara",
+     "najasah"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "Which parts of a <bdi>مَيْتَة</bdi> are pure?",
+    "back": "Its hair and its bones"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-240",
+    "tags": [
+     "quduri",
+     "tahara",
+     "najasah"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "Water used to be stored in leather. What makes an animal hide pure?",
+    "back": "Tanning — <bdi>دِبَاغ</bdi>"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-241",
+    "tags": [
+     "quduri",
+     "tahara",
+     "najasah",
+     "criterion"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "Which two hides does tanning not purify?",
+    "back": "The pig's and the human being's"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-242",
+    "tags": [
+     "quduri",
+     "tahara",
+     "wells"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "Why are the rulings of wells still studied?",
+    "back": "For the principles behind them — and some places in the world still rely on wells"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-243",
+    "tags": [
+     "quduri",
+     "tahara",
+     "wells"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "How is a well purified when impurity falls into it?",
+    "back": "By drawing its water out — <bdi>نَزْح</bdi>; removing the water in it is what purifies it"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-244",
+    "tags": [
+     "quduri",
+     "tahara",
+     "wells",
+     "criterion"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "What kind of well does drawing out all its water (<bdi>نَزْح</bdi>) assume?",
+    "back": "One not fed by a spring — essentially a storage hole in the ground"
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "qud-245",
+    "tags": [
+     "quduri",
+     "tahara",
+     "wells",
+     "spine"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "text": "An animal falls into a well and dies. If it is small — a mouse, a small bird, a gecko — {{c1::20 to 30}} buckets are drawn out, by the bucket's size; if medium — a chicken, a cat — {{c2::40 to 50}}; if large — a human, a sheep, a dog — {{c3::all the water}}",
+    "extra": ""
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-246",
+    "tags": [
+     "quduri",
+     "tahara",
+     "wells",
+     "criterion"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "Whatever the size of the animal that died in a well, when is all its water drawn out?",
+    "back": "When the animal has bloated or started to come apart"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-247",
+    "tags": [
+     "quduri",
+     "tahara",
+     "wells"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "How is a spring-fed well, which cannot be emptied, purified?",
+    "back": "By drawing out about as much water as it held"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-248",
+    "tags": [
+     "quduri",
+     "tahara",
+     "wells"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "How much did Muḥammad al-Shaybānī say to draw from a spring-fed well, and on what did he base it?",
+    "back": "200 to 300 buckets — from the wells he saw in Baghdad"
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "qud-249",
+    "tags": [
+     "quduri",
+     "tahara",
+     "wells"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "text": "For Abū Ḥanīfah, if a dead animal is found in a well and no one knows when it fell in, those who made wuḍūʾ from it repeat {{c1::one day and night}} of prayers if it has not bloated, and {{c2::three days and nights}} if it has bloated or come apart",
+    "extra": ""
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-250",
+    "tags": [
+     "quduri",
+     "tahara",
+     "wells"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "Besides repeating prayers, what must be done when a well whose water was used turns out to hold a dead animal?",
+    "back": "Everything its water touched must be purified"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-251",
+    "tags": [
+     "quduri",
+     "tahara",
+     "wells",
+     "contrast"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "What do Abū Yūsuf and Muḥammad hold about repeating prayers when a dead animal is found in a well and no one knows when it fell in?",
+    "back": "Nothing need be repeated until it is established when it fell in"
+   },
+   {
+    "type": "bidir",
+    "tier": 1,
+    "id": "qud-252",
+    "tags": [
+     "quduri",
+     "tahara",
+     "sur",
+     "terminology"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "term": "<bdi>السُّؤْر</bdi> (al-suʾr)",
+    "meaning": "leftover drinking water — what is left in a container after someone drinks from it"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-253",
+    "tags": [
+     "quduri",
+     "tahara",
+     "sur",
+     "criterion"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "What general rule decides whether an animal's <bdi>سُؤْر</bdi> is pure?",
+    "back": "Whether its meat is ḥalāl to eat: if it is, its saliva — and so its suʾr — is pure; if not, impure"
+   },
+   {
+    "type": "cloze",
+    "tier": 1,
+    "id": "qud-254",
+    "tags": [
+     "quduri",
+     "tahara",
+     "sur",
+     "spine"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "text": "Rulings on <bdi>سُؤْر</bdi>: {{c1::pure — <bdi>طَاهِر</bdi>}} for humans and animals ḥalāl to eat; {{c2::impure — <bdi>نَجِس</bdi>}} for animals that are not, such as the dog, the pig and beasts of prey; {{c3::disliked — <bdi>مَكْرُوه</bdi>}} for animals that commonly live in houses, such as the cat; {{c4::doubtful — <bdi>مَشْكُوك فِيهِ</bdi>}} for the donkey and the mule",
+    "extra": ""
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-255",
+    "tags": [
+     "quduri",
+     "tahara",
+     "sur"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "Water a cat has drunk from is at hand, and so is other water. Which is better to use?",
+    "back": "The other water — a house animal's suʾr is disliked, though usable"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-256",
+    "tags": [
+     "quduri",
+     "tahara",
+     "sur",
+     "criterion"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "Why is the <bdi>سُؤْر</bdi> of the donkey and the mule doubtful?",
+    "back": "The reports about it conflict"
+   },
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "qud-257",
+    "tags": [
+     "quduri",
+     "tahara",
+     "sur"
+    ],
+    "session": "oct07",
+    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
+    "front": "If the only water available is a donkey's or a mule's <bdi>سُؤْر</bdi>, what should one do?",
+    "back": "Make wuḍūʾ with it, and also make tayammum"
+   }
+  ],
+  "arbaeen_ahadith": [
+   {
+    "type": "basic",
+    "tier": 1,
+    "id": "arbh-222",
+    "tags": [
+     "arbaeen",
+     "h04",
+     "endings"
+    ],
+    "session": "oct07",
+    "source": "Arbaʿīn Ḥadīth 4 — class notes",
+    "front": "Which saying of the Prophet ﷺ makes a person's ending decisive for their deeds?",
+    "back": "“Actions are judged by their endings” — <bdi>إِنَّمَا الأَعْمَالُ بِالخَوَاتِيمِ</bdi> (al-Bukhārī)"
+   }
+  ]
+ }
+}
