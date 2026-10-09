@@ -37,7 +37,7 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,408 notes across 10 decks.**
+Current state: **1,435 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
@@ -45,7 +45,7 @@ Current state: **1,408 notes across 10 decks.**
 | vocab | 230 | VOCAB |
 | arbaeen_ahadith | 222 | HDT-201 |
 | nahw | 208 | ARB-201 |
-| sarf | 192 | ARB-201 |
+| sarf | 219 | ARB-201 |
 | wrel | 110 | RELSTD-5B |
 | pyth | 106 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
@@ -173,6 +173,12 @@ once, and both times was objecting to files that had no reason to exist.
   say which text it came from. **voc-218 حَسَبَ is carded as "according to"**, which is
   unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count", fits the same vowels and would collide
   with أَحْصَى (voc-009).
+- **The derived-noun charts are uncarded (2026-10-09).** Your note says "(memorize singular, dual, plural
+  charts for each)", but the chart is only a screenshot (CleanShot 2026-10-08 5.52 PM), filed under ism ālah.
+  The network blocks `prod-files-secure.s3.us-west-2.amazonaws.com`. Card it once the user allows that host
+  or pastes the chart as text.
+- **The nūn al-tawkīd chart (sarf-219) was built by Claude** from the rules in the notes, on فَتَحَ. The
+  notes say "memorize chart" but contain none. It's flagged for checking against the teacher's chart.
 - **Ḥadīth 2's matn is deliberately uncarded.** The user doesn't need to memorise it.
 - **Ḥadīth 4's matn is saved in `texts/arbaeen_h04.md`** for reference (2026-10-07). The
   user doesn't need to memorise it, so don't card it. They are writing the class notes in

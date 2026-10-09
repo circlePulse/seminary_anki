@@ -107,6 +107,11 @@ Carded on 2026-10-07: Arbaʿīn Ḥadīth 4 in full (arbh-159–199), with the n
 the soul, what is written and the example. The translation Claude supplied is carded alongside
 the notes. Its matn is saved in `texts/arbaeen_h04.md`.
 
+Carded on 2026-10-09: IOK Arabic. The 10-08 additions to ism mubālagha, tafḍīl, ẓarf and ālah, and the new
+topic nūn al-tawkīd (sarf-193–219). The derived-noun singular/dual/plural chart is only a screenshot and
+the S3 host is blocked, so it is uncarded; see the HANDOFF pending list. Two corrections are on the cards
+only, not in Notion: the alif is added to the feminine *plural*, and the nūn takes a kasrah after an alif.
+
 Carded on 2026-10-08 (later): Qudūrī's three sections after the water diagram — *Assorted points*,
 *Rulings of wells*, *ʿassuʾur* — as qud-236–257, and one new Ḥadīth 4 lesson line ("actions are
 judged by their end", arbh-222). The notes had no errors this time. Examples and the Abū Ḥanīfah

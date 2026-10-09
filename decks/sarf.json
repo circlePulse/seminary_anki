@@ -3,7 +3,7 @@
  "topic": "sarf",
  "session": "sep08",
  "source": "IOK Arabic — Ṣarf section, class notes to 2026-09-08",
- "expected_count": 192,
+ "expected_count": 219,
  "cards": [
   {
    "type": "basic",
@@ -2370,6 +2370,380 @@
    "source": "IOK Arabic — Ṣarf: the amr and nahy, the derived nouns — class notes 2026-10-08",
    "front": "From a verb that is not <bdi>ثُلَاثِيّ مُجَرَّد</bdi>, how is <bdi>اِسْم الظَّرْف</bdi> formed?",
    "back": "On the pattern of its <bdi>اِسْم المَفْعُول</bdi> — <bdi>مُجْتَمَع</bdi>, a meeting place, from <bdi>اِجْتَمَعَ</bdi>"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-193",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "terminology"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "What is <bdi>اِسْم المُبَالَغَة</bdi> also called?",
+   "back": "<bdi>صِيغَة المُبَالَغَة</bdi> (ṣīghat al-mubālaghah)"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-194",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "How does <bdi>اِسْم المُبَالَغَة</bdi> relate to <bdi>اِسْم الفَاعِل</bdi>?",
+   "back": "It is the ism fāʿil with more intensity — <bdi>عَالِم</bdi>, one who knows; <bdi>عَلَّام</bdi>, one who knows a great deal"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-195",
+   "tags": [
+    "sarf",
+    "mushtaqq"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "How many forms of <bdi>اِسْم المُبَالَغَة</bdi> can a single root yield?",
+   "back": "Sometimes several — <bdi>عَلِمَ</bdi> gives both <bdi>عَلَّام</bdi> and <bdi>عَلِيم</bdi>"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-196",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "awzan"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "text": "Some patterns of <bdi>اِسْم المُبَالَغَة</bdi>: {{c1::<bdi>فَعَّال</bdi>}}, {{c2::<bdi>مِفْعَال</bdi>}}, {{c3::<bdi>فَعُول</bdi>}}, {{c4::<bdi>فَعِيل</bdi>}} — and there are more",
+   "extra": ""
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-197",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "awzan",
+    "contrast"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "A word on <bdi>فَعِيل</bdi> or <bdi>فَعُول</bdi> could be <bdi>الصِّفَة المُشَبَّهَة</bdi> or <bdi>اِسْم المُبَالَغَة</bdi>. What tells them apart?",
+   "back": "The meaning: a long-term, intrinsic quality makes it <bdi>الصِّفَة المُشَبَّهَة</bdi> — <bdi>كَرِيم</bdi>, generous by nature; the ism fāʿil's action with more intensity makes it <bdi>اِسْم المُبَالَغَة</bdi> — <bdi>غَفُور</bdi>, forgiving a great deal"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-198",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "awzan",
+    "contrast"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "Which two derived nouns share the pattern <bdi>مِفْعَال</bdi>?",
+   "back": "<bdi>اِسْم المُبَالَغَة</bdi>, as in <bdi>مِقْدَام</bdi>, very bold; and <bdi>اِسْم الآلَة</bdi>, as in <bdi>مِفْتَاح</bdi>, a key"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-199",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "awzan"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "What is the pattern of <bdi>اِسْم التَّفْضِيل</bdi>?",
+   "back": "<bdi>أَفْعَلُ</bdi> — <bdi>أَكْبَرُ</bdi>, greater or greatest"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-200",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "How is the comparative or superlative expressed for a <bdi>مَزِيد فِيه</bdi> verb?",
+   "back": "With <bdi>أَكْثَرُ</bdi> (more in number) or <bdi>أَشَدُّ</bdi> (more in intensity), followed by the verb's <bdi>مَصْدَر</bdi> — <bdi>أَكْثَرُ اسْتِغْفَارًا</bdi>"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-201",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "terminology"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "What does <bdi>ظَرْف</bdi> literally mean?",
+   "back": "A container"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-202",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "awzan"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "text": "Patterns of <bdi>اِسْم الظَّرْف</bdi>: {{c1::<bdi>مَفْعِل</bdi>}}, {{c2::<bdi>مَفْعَل</bdi>}}, {{c3::<bdi>مَفْعَلَة</bdi>}}",
+   "extra": "<bdi>مَجْلِس</bdi>, a sitting place; <bdi>مَكْتَب</bdi>, an office; <bdi>مَدْرَسَة</bdi>, a school."
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-203",
+   "tags": [
+    "sarf",
+    "mushtaqq"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "What rule decides which pattern an <bdi>اِسْم الظَّرْف</bdi> takes?",
+   "back": "None that is hard and fast — each word's pattern is learned with the word"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-204",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "awzan"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "text": "Patterns of <bdi>اِسْم الآلَة</bdi>: {{c1::<bdi>مِفْعَل</bdi>}}, {{c2::<bdi>مِفْعَلَة</bdi>}}, {{c3::<bdi>مِفْعَال</bdi>}}",
+   "extra": "<bdi>مِبْرَد</bdi>, a file; <bdi>مِكْنَسَة</bdi>, a broom; <bdi>مِفْتَاح</bdi>, a key. Rule of thumb: unvowelled, a word that could be either this or <bdi>اِسْم الظَّرْف</bdi> is more likely <bdi>اِسْم الظَّرْف</bdi> — guess that first, it is the more common."
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-205",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "terminology"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "term": "<bdi>نُون التَّوْكِيد</bdi> (nūn al-tawkīd)",
+   "meaning": "the nūn of emphasis — added to a verb to make it emphatic"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-206",
+   "tags": [
+    "sarf",
+    "tawkid"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "What does <bdi>نُون التَّوْكِيد</bdi> do to the time a <bdi>مُضَارِع</bdi> refers to?",
+   "back": "Restricts it to the future"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-207",
+   "tags": [
+    "sarf",
+    "tawkid"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "What often comes with <bdi>نُون التَّوْكِيد</bdi>, though it isn't required?",
+   "back": "<bdi>لَام التَّوْكِيد</bdi>, the lām of emphasis — <bdi>لَيَفْتَحَنَّ</bdi>"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-208",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "spine"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "text": "<bdi>نُون التَّوْكِيد</bdi> comes in two kinds: {{c1::<bdi>الثَّقِيلَة</bdi>}}, with a shaddah — <bdi>لَيَفْتَحَنَّ</bdi> — and {{c2::<bdi>الخَفِيفَة</bdi>}}, without one — <bdi>لَيَفْتَحَنْ</bdi>",
+   "extra": ""
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-209",
+   "tags": [
+    "sarf",
+    "tawkid"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "What is <bdi>نُون التَّوْكِيد الخَفِيفَة</bdi> mostly used for?",
+   "back": "Flow — it is the rarer of the two"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-210",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "quran"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "Where does <bdi>نُون التَّوْكِيد الخَفِيفَة</bdi> appear in the Qurʾān?",
+   "back": "Twice: <bdi>لَنَسْفَعًا بِالنَّاصِيَةِ</bdi> (96:15), and <bdi>وَلَيَكُونًا مِنَ الصَّاغِرِينَ</bdi> (12:32), right after <bdi>لَيُسْجَنَنَّ</bdi> with the heavy nūn"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-211",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "Which forms cannot take <bdi>نُون التَّوْكِيد الخَفِيفَة</bdi>?",
+   "back": "The duals and the feminine plurals"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-212",
+   "tags": [
+    "sarf",
+    "tawkid"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "What problem does <bdi>نُون التَّوْكِيد</bdi> cause in pronunciation?",
+   "back": "<bdi>اِلْتِقَاء السَّاكِنَيْن</bdi> — two sukūns meeting"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-213",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "With <bdi>نُون التَّوْكِيد</bdi>, what happens to the verb's lām in the forms with no suffix?",
+   "back": "Its ḍammah becomes a fatḥah — <bdi>يَفْتَحُ</bdi> → <bdi>يَفْتَحَنَّ</bdi>"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-214",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "With <bdi>نُون التَّوْكِيد</bdi>, what happens to the <bdi>نُون الإِعْرَاب</bdi>?",
+   "back": "It drops — <bdi>يَفْتَحُونَ</bdi> → <bdi>يَفْتَحُنَّ</bdi>"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-215",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "With <bdi>نُون التَّوْكِيد</bdi>, what happens to the pronouns wāw and yāʾ?",
+   "back": "They drop, and the vowel before them stays — <bdi>يَفْتَحُنَّ</bdi>, <bdi>تَفْتَحِنَّ</bdi>"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-216",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "Why does the dual keep its alif before <bdi>نُون التَّوْكِيد</bdi>, despite the two sukūns meeting?",
+   "back": "So that it isn't confused with the singular — <bdi>يَفْتَحَانِّ</bdi>, not <bdi>يَفْتَحَنَّ</bdi>"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-217",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "With <bdi>نُون التَّوْكِيد</bdi>, what is added to the feminine plural?",
+   "back": "An alif after its nūn — <bdi>يَفْتَحْنَانِّ</bdi>"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-218",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "front": "What vowel does <bdi>نُون التَّوْكِيد الثَّقِيلَة</bdi> take?",
+   "back": "A fatḥah — except after an alif (the dual and the feminine plural), where it takes a kasrah: <bdi>يَفْتَحَانِّ</bdi>, <bdi>يَفْتَحْنَانِّ</bdi>"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-219",
+   "tags": [
+    "sarf",
+    "tawkid",
+    "table"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08",
+   "text": "<div class=\"arabic\">يَفْتَحُ ← {{c1::يَفْتَحَنَّ}}<br>يَفْتَحَانِ ← {{c2::يَفْتَحَانِّ}}<br>يَفْتَحُونَ ← {{c3::يَفْتَحُنَّ}}<br>تَفْتَحِينَ ← {{c4::تَفْتَحِنَّ}}<br>يَفْتَحْنَ ← {{c5::يَفْتَحْنَانِّ}}</div>",
+   "extra": "With <bdi>نُون التَّوْكِيد الثَّقِيلَة</bdi>. The other nine forms follow these five shapes."
   }
  ]
 }

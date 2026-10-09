@@ -1,6 +1,6 @@
 # Draft — Arabic, 2026-10-09
 
-Status: **awaiting approval.**
+Status: **approved ("Looks good") and delivered 2026-10-09 01:34.**
 
 Source: the IOK Arabic page, fetched on 2026-10-09 and compared line by line with the 2026-10-02 fetch,
 setting aside what was carded on 2026-10-08. New since then, all in Ṣarf: additions under ism mubālagha,
