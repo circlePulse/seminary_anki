@@ -61,8 +61,21 @@ def wrap_line(line):
     return line
 
 
+_BLOCK = re.compile(r'<div class="(?:arabic|science)">.*?</div>|<pre.*?</pre>', re.S)
+
+
 def wrap_field(v):
-    return "".join(p if _BR.fullmatch(p) else wrap_line(p) for p in _BR.split(v))
+    # a <br> inside an Arabic block is part of that block, not a line break of the field:
+    # park the blocks, split the rest into lines, then put the blocks back untouched
+    blocks = []
+
+    def park(m):
+        blocks.append(m.group(0))
+        return f"\x00{len(blocks) - 1}\x00"
+
+    parked = _BLOCK.sub(park, v)
+    out = "".join(p if _BR.fullmatch(p) else wrap_line(p) for p in _BR.split(parked))
+    return re.sub(r"\x00(\d+)\x00", lambda m: blocks[int(m.group(1))], out)
 
 
 def _strip_added(s):
