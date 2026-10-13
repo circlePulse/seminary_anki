@@ -119,6 +119,20 @@ td.arabic, th.arabic { direction: rtl; font-size: 22px; line-height: 1.9; }
 
 **Font stack, in priority order:** Scheherazade New and Amiri are the two worth installing — both are proper Naskh with reliable tashkīl positioning. Traditional Arabic (Windows) and Geeza Pro (macOS/iOS) are the built-in fallbacks. Arial is last resort and renders vowel marks poorly.
 
+**Every template side is wrapped in `<div dir="ltr">`** (since 2026-10-13). Some Anki clients put
+`dir="auto"` on the card's container, which takes the direction from the first strong letter and
+overrides the `.card` CSS. A card that opens with Arabic (a bare term, a paradigm line, a science
+label) then flips right-to-left, and every mixed line on it scrambles: كَانَ jumps to the left end of
+"a sister of كَانَ". That was 450 notes. An element's own `dir` attribute beats an ancestor's
+`dir="auto"`, so the wrapper restores the LTR base; the Arabic blocks inside keep their CSS `rtl`.
+Never remove it.
+
+**Template or CSS changes reach the user only inside a package that contains a note of each
+notetype.** The notetype travels with its notes. Build one with
+`generate_deck.py decks/nahw.json --delta --resend nahw-208,nahw-199,nahw-192` (one basic, one
+bidirectional, one cloze). Anki applies the newer notetype on import unless the import option
+"Update notetypes" is set to Never.
+
 **Markup:** wrap Arabic in `<span class="arabic">` inside mixed sentences, `<div class="arabic">` for full-Arabic content. The LTR base direction on `.card` plus RTL on those spans is what keeps punctuation from jumping.
 
 Three variables, one override block. Compare to declaring the full palette twice or three times, where every future color change means editing three places and one of them silently drifts.

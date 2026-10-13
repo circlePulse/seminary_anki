@@ -121,13 +121,20 @@ td.arabic, th.arabic { direction: rtl; font-size: 22px; line-height: 1.9; }
 
 SRC = '<div class="source">{{Source}}</div>'
 
+# Every side sits inside an element that states its direction outright. Some Anki clients put
+# dir="auto" on the card's container, which takes the direction from the first strong letter
+# and overrides the .card CSS: a card that opens with Arabic (a bare term, a paradigm, a science
+# label) then flips right-to-left and scrambles every mixed line on it. An element's own dir
+# attribute beats an ancestor's dir="auto"; the Arabic blocks inside keep their CSS rtl.
+LTR = lambda html: f'<div dir="ltr">{html}</div>'
+
 MODEL_BASIC_DEF = genanki.Model(
     MODEL_BASIC, NAME_BASIC,
     fields=[{"name": "Front"}, {"name": "Back"}, {"name": "Source"}],
     templates=[{
         "name": "Card 1",
-        "qfmt": "{{Front}}",
-        "afmt": '{{FrontSide}}<hr id="answer">{{Back}}' + SRC,
+        "qfmt": LTR("{{Front}}"),
+        "afmt": LTR('{{FrontSide}}<hr id="answer">{{Back}}' + SRC),
     }],
     css=CSS,
 )
@@ -137,11 +144,11 @@ MODEL_BIDIR_DEF = genanki.Model(
     fields=[{"name": "Term"}, {"name": "Meaning"}, {"name": "Source"}],
     templates=[
         {"name": "Term to Meaning",
-         "qfmt": "{{Term}}",
-         "afmt": '{{FrontSide}}<hr id="answer">{{Meaning}}' + SRC},
+         "qfmt": LTR("{{Term}}"),
+         "afmt": LTR('{{FrontSide}}<hr id="answer">{{Meaning}}' + SRC)},
         {"name": "Meaning to Term",
-         "qfmt": "{{Meaning}}",
-         "afmt": '{{FrontSide}}<hr id="answer">{{Term}}' + SRC},
+         "qfmt": LTR("{{Meaning}}"),
+         "afmt": LTR('{{FrontSide}}<hr id="answer">{{Term}}' + SRC)},
     ],
     css=CSS,
 )
@@ -152,8 +159,8 @@ MODEL_CLOZE_DEF = genanki.Model(
     fields=[{"name": "Text"}, {"name": "Extra"}, {"name": "Source"}],
     templates=[{
         "name": "Cloze",
-        "qfmt": "{{cloze:Text}}",
-        "afmt": "{{cloze:Text}}<br>{{Extra}}" + SRC,
+        "qfmt": LTR("{{cloze:Text}}"),
+        "afmt": LTR("{{cloze:Text}}<br>{{Extra}}" + SRC),
     }],
     css=CSS,
 )

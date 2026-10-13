@@ -86,6 +86,11 @@ The مَاضِي (or the مُفْرَد) is written first and renders rightmost.
 for an Arabic run inside a line that also has Latin text. `generate_deck.py` warns
 (`RTL — …`) when an all-Arabic field sits outside the block.
 
+**The card's own base direction is set in the templates, not here.** Every side sits in a
+`<div dir="ltr">`, because some clients auto-detect direction from the first letter and a card
+opening with Arabic would otherwise flip whole (see `notetypes.md`). Content rules above assume
+that LTR base.
+
 `skill/scripts/wrap_arabic.py decks/X.json --write` applies both rules to a whole
 deck. It wraps mixed lines run by run, puts all-Arabic lines that hold a blank, dash
 or bracket in the block, and leaves already-isolated runs alone. A hyphen or en dash

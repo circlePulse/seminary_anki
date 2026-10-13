@@ -127,7 +127,11 @@ once, and both times was objecting to files that had no reason to exist.
 4. **Isolate inline Arabic in `<bdi>`; put all-Arabic lines in `<div class="arabic">`.** Bare Arabic in an English sentence makes the
    neutral characters around it — punctuation, parentheses, cloze delimiters — resolve
    RTL and render on the wrong side. See `skill/references/arabic.md`. Do not force
-   `direction: rtl` on `<bdi>`; it defaults to `dir=auto` and that is the point.
+   `direction: rtl` on `<bdi>`; it defaults to `dir=auto` and that is the point. The templates
+   wrap every side in `<div dir="ltr">`, because some Anki clients auto-detect the card's direction
+   from its first letter. On 2026-10-13 that flipped 450 notes that open with Arabic. Never remove
+   the wrapper. A template change reaches the user only in a package holding one note of each
+   notetype (`--resend`; see `skill/references/notetypes.md`).
 5. **Flag, don't guess.** The user's notes contain transcription slips — *prompt
    injection* for code injection, *kebob_case* for snake_case, a verb form that does
    not exist. Correct mechanical slips and say so; never silently resolve a
