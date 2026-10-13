@@ -1,6 +1,6 @@
 # Draft — vocabulary, 2026-10-13 (61 notes)
 
-Status: **awaiting approval.**
+Status: **approved ("Looks good") and delivered 2026-10-13 17:01.** The four readings to confirm were not answered, so they stand as drafted.
 
 Source: a 26-word list pasted into the chat on 2026-10-13, and 8 more words sent later that day (34 in all). It is not in Notion.
 
