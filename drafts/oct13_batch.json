@@ -1,0 +1,645 @@
+{
+ "vocab": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-231",
+   "term": "أَدْنَى",
+   "meaning": "nearer or nearest; lower or lowest — the least",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-232",
+   "text": "<div class=\"arabic\">{{c2::أَدْنَى}} (مُذَكَّر) — {{c1::دُنْيَا}} (مُؤَنَّث)</div>",
+   "extra": "nearer or nearest; lower or lowest · the ism tafḍīl of <bdi>دَنَا</bdi>, to come near — hence <bdi>الدُّنْيَا</bdi>, the nearer, lower life",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-233",
+   "term": "ضَرَاعَة",
+   "meaning": "humble supplication — abasing oneself before Allah",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-234",
+   "term": "اِفْتِقَار",
+   "meaning": "neediness — utter dependence (on — <bdi>إِلَى</bdi>)",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-235",
+   "text": "<div class=\"arabic\">اِفْتَقَرَ — {{c1::يَفْتَقِرُ}} — {{c2::اِفْتَقِرْ}} — {{c3::اِفْتِقَار}}</div>",
+   "extra": "to be in need (of) · Form VIII · the alif of <bdi>الاِفْتِقَار</bdi> is hamzat al-waṣl, so no hamza under it",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-236",
+   "term": "كُلْفَة",
+   "meaning": "a burden, a cost — the effort or trouble a thing takes",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-237",
+   "text": "<div class=\"arabic\">{{c2::كُلْفَة}} (مُفْرَد) — {{c1::كُلَف}} (جَمْع)</div>",
+   "extra": "a burden, a cost",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-238",
+   "term": "حَوْل",
+   "meaning": "might, power to act — also, a full year (as in zakāh)",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-239",
+   "term": "سَبَب",
+   "meaning": "a cause, a means",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-240",
+   "text": "<div class=\"arabic\">{{c2::سَبَب}} (مُفْرَد) — {{c1::أَسْبَاب}} (جَمْع)</div>",
+   "extra": "a cause, a means",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-241",
+   "term": "مَأْرَبَة",
+   "meaning": "an aim, a purpose",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-242",
+   "text": "<div class=\"arabic\">{{c2::مَأْرَبَة}} (مُفْرَد) — {{c1::مَآرِب}} (جَمْع)</div>",
+   "extra": "an aim, a purpose · <bdi>وَلِيَ فِيهَا مَآرِبُ أُخْرَى</bdi>, and I have other uses for it (20:18)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-243",
+   "term": "نَيْل",
+   "meaning": "attaining, obtaining",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-244",
+   "text": "<div class=\"arabic\">نَالَ — {{c1::يَنَالُ}} — {{c2::نَلْ}} — {{c3::نَيْل}}</div>",
+   "extra": "to attain, to obtain · Form I (hollow)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-245",
+   "term": "عُدَّة",
+   "meaning": "equipment, gear — what one prepares, as for war",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-246",
+   "text": "<div class=\"arabic\">{{c2::عُدَّة}} (مُفْرَد) — {{c1::عُدَد}} (جَمْع)</div>",
+   "extra": "equipment, gear · not <bdi>عِدَّة</bdi>, a woman's waiting period",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-247",
+   "term": "سِلَاح",
+   "meaning": "a weapon, arms",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-248",
+   "text": "<div class=\"arabic\">{{c2::سِلَاح}} (مُفْرَد) — {{c1::أَسْلِحَة}} (جَمْع)</div>",
+   "extra": "a weapon, arms",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-249",
+   "term": "تَحْرِيض",
+   "meaning": "inciting, rousing (to fight — <bdi>عَلَى</bdi>)",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-250",
+   "text": "<div class=\"arabic\">حَرَّضَ — {{c1::يُحَرِّضُ}} — {{c2::حَرِّضْ}} — {{c3::تَحْرِيض}}</div>",
+   "extra": "to incite, to rouse · Form II · <bdi>يَا أَيُّهَا النَّبِيُّ حَرِّضِ المُؤْمِنِينَ عَلَى القِتَالِ</bdi> (8:65)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-251",
+   "term": "أَلْهَى",
+   "meaning": "to distract, to divert (from — <bdi>عَنْ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-252",
+   "text": "<div class=\"arabic\">أَلْهَى — {{c1::يُلْهِي}} — {{c2::أَلْهِ}} — {{c3::إِلْهَاء}}</div>",
+   "extra": "to distract, to divert · Form IV (defective) · <bdi>أَلْهَاكُمُ التَّكَاثُرُ</bdi> (102:1) · your <bdi>الها</bdi> read as <bdi>أَلْهَى</bdi>, <bdi>ا</bdi> for <bdi>ى</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-253",
+   "term": "<bdi>الرَّاجِح</bdi> (al-rājiḥ)",
+   "meaning": "the preponderant — the stronger of two possibilities or views",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-254",
+   "term": "<bdi>المَرْجُوح</bdi> (al-marjūḥ)",
+   "meaning": "the outweighed — the weaker of two possibilities or views",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-255",
+   "term": "مُطَابَقَة",
+   "meaning": "correspondence — matching something exactly",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-256",
+   "text": "<div class=\"arabic\">طَابَقَ — {{c1::يُطَابِقُ}} — {{c2::طَابِقْ}} — {{c3::مُطَابَقَة}}</div>",
+   "extra": "to correspond to, to match · Form III",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-257",
+   "term": "<bdi>الوَاقِع</bdi> (al-wāqiʿ)",
+   "meaning": "reality — the actual state of affairs",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-258",
+   "term": "اِسْتِوَاء",
+   "meaning": "evenness — two things being equal, level with each other",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-259",
+   "text": "<div class=\"arabic\">اِسْتَوَى — {{c1::يَسْتَوِي}} — {{c2::اِسْتَوِ}} — {{c3::اِسْتِوَاء}}</div>",
+   "extra": "to be equal, to be level · Form VIII (defective)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-260",
+   "term": "أَصْل",
+   "meaning": "an origin, a root — the basis a thing rests on",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-261",
+   "text": "<div class=\"arabic\">{{c2::أَصْل}} (مُفْرَد) — {{c1::أُصُول}} (جَمْع)</div>",
+   "extra": "an origin, a root · <bdi>أُصُول الفِقْه</bdi>, the foundations of fiqh",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-262",
+   "term": "فَرْع",
+   "meaning": "a branch — what grows out of an <bdi>أَصْل</bdi>",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-263",
+   "text": "<div class=\"arabic\">{{c2::فَرْع}} (مُفْرَد) — {{c1::فُرُوع}} (جَمْع)</div>",
+   "extra": "a branch · in fiqh, the detailed rulings built on the <bdi>أُصُول</bdi>",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-264",
+   "term": "فُجُور",
+   "meaning": "wickedness, flagrant sinning",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-265",
+   "text": "<div class=\"arabic\">فَجَرَ — {{c1::يَفْجُرُ}} — {{c2::اُفْجُرْ}} — {{c3::فُجُور}}</div>",
+   "extra": "to sin flagrantly · Form I · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · <bdi>وَإِنَّ الكَذِبَ يَهْدِي إِلَى الفُجُورِ</bdi>, and lying leads to wickedness",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-266",
+   "term": "أَوْصَلَ",
+   "meaning": "to bring to, to lead to; to deliver",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-267",
+   "text": "<div class=\"arabic\">أَوْصَلَ — {{c1::يُوصِلُ}} — {{c2::أَوْصِلْ}} — {{c3::إِيصَال}}</div>",
+   "extra": "to bring to, to lead to; to deliver · Form IV (assimilated) · your <bdi>بوصل</bdi> read as <bdi>يُوصِلُ</bdi>, <bdi>ب</bdi> for <bdi>ي</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-268",
+   "term": "رَابَ",
+   "meaning": "to make (someone) doubt, to unsettle",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-269",
+   "text": "<div class=\"arabic\">رَابَ — {{c1::يَرِيبُ}} — {{c2::رِبْ}} — {{c3::رَيْب}}</div>",
+   "extra": "to make · Form I (hollow) · <bdi>دَعْ مَا يَرِيبُكَ إِلَى مَا لَا يَرِيبُكَ</bdi> — also narrated <bdi>يُرِيبُكَ</bdi>, from <bdi>أَرَابَ</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-270",
+   "term": "طُمَأْنِينَة",
+   "meaning": "tranquility, peace of mind",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-271",
+   "text": "<div class=\"arabic\">اِطْمَأَنَّ — {{c1::يَطْمَئِنُّ}} — {{c2::اِطْمَئِنَّ}} — {{c3::اِطْمِئْنَان}}</div>",
+   "extra": "to be at peace, to be reassured · quadriliteral, pattern <bdi>اِفْعَلَلَّ</bdi> · <bdi>طُمَأْنِينَة</bdi> is its ism maṣdar · <bdi>فَإِنَّ الصِّدْقَ طُمَأْنِينَةٌ</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-272",
+   "term": "كَوْن",
+   "meaning": "being, existence — also, the universe",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-273",
+   "text": "<div class=\"arabic\">كَانَ — {{c1::يَكُونُ}} — {{c2::كُنْ}} — {{c3::كَوْن}}</div>",
+   "extra": "to be · Form I (hollow)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-274",
+   "term": "قَلِقَ",
+   "meaning": "to be anxious, to be restless",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-275",
+   "text": "<div class=\"arabic\">قَلِقَ — {{c1::يَقْلَقُ}} — {{c2::اِقْلَقْ}} — {{c3::قَلَق}}</div>",
+   "extra": "to be anxious, to be restless · Form I · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · if your <bdi>يقلق</bdi> is <bdi>يُقْلِقُ</bdi>, it is <bdi>أَقْلَقَ</bdi>, to make anxious",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-276",
+   "term": "اِرْتِيَاب",
+   "meaning": "doubt, suspicion",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-277",
+   "text": "<div class=\"arabic\">اِرْتَابَ — {{c1::يَرْتَابُ}} — {{c2::اِرْتَبْ}} — {{c3::اِرْتِيَاب}}</div>",
+   "extra": "to doubt, to suspect · Form VIII (hollow) · same root as <bdi>يَرِيبُ</bdi> and <bdi>رِيبَة</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  }
+ ]
+}
