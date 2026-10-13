@@ -640,6 +640,196 @@
    ],
    "session": "oct13",
    "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-278",
+   "term": "اِسْتَحَقَّ",
+   "meaning": "to deserve, to merit, to be entitled to",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-279",
+   "text": "<div class=\"arabic\">اِسْتَحَقَّ — {{c1::يَسْتَحِقُّ}} — {{c2::اِسْتَحِقَّ}} — {{c3::اِسْتِحْقَاق}}</div>",
+   "extra": "to deserve, to merit, to be entitled to · Form X (doubled) · your <bdi>يَسْتَحِقُّونَ</bdi> is the muḍāriʿ, 3rd person masculine plural",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-280",
+   "term": "إِنْصَاف",
+   "meaning": "fairness, equity — giving someone their due",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-281",
+   "text": "<div class=\"arabic\">أَنْصَفَ — {{c1::يُنْصِفُ}} — {{c2::أَنْصِفْ}} — {{c3::إِنْصَاف}}</div>",
+   "extra": "to treat fairly, to do justice to · Form IV · Form IV has hamzat al-qaṭʿ, so the hamza in your <bdi>الإنصاف</bdi> is right",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-282",
+   "term": "نَوْع",
+   "meaning": "a kind, a type, a sort",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-283",
+   "text": "<div class=\"arabic\">{{c2::نَوْع}} (مُفْرَد) — {{c1::أَنْوَاع}} (جَمْع)</div>",
+   "extra": "a kind, a type, a sort",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-284",
+   "term": "قِبْطِيّ",
+   "meaning": "a Copt — one of the native Christian people of Egypt",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-285",
+   "text": "<div class=\"arabic\">{{c2::قِبْطِيّ}} (مُفْرَد) — {{c1::قِبْط}} (جَمْع)</div>",
+   "extra": "a Copt · <bdi>القِبْط</bdi>, the Copts — also <bdi>أَقْبَاط</bdi>",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-286",
+   "term": "قُوت",
+   "meaning": "sustenance — enough food to live on",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-287",
+   "text": "<div class=\"arabic\">{{c2::قُوت}} (مُفْرَد) — {{c1::أَقْوَات}} (جَمْع)</div>",
+   "extra": "sustenance · your <bdi>قوط</bdi> read as <bdi>قُوت</bdi>, <bdi>ط</bdi> for <bdi>ت</bdi> · <bdi>قُوتُ يَوْمِهِ</bdi>, a day's sustenance",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-288",
+   "term": "مَغْرُور",
+   "meaning": "deluded, self-deceived — conceited",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-289",
+   "text": "<div class=\"arabic\">{{c2::مَغْرُور}} (مُفْرَد) — {{c1::مَغْرُورُونَ}} (جَمْع)</div>",
+   "extra": "deluded, self-deceived · the ism mafʿūl of <bdi>غَرَّ يَغُرُّ</bdi>, to delude — hence <bdi>الغُرُور</bdi>, delusion",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-290",
+   "term": "عَامَلَ",
+   "meaning": "to deal with, to treat (someone)",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-291",
+   "text": "<div class=\"arabic\">عَامَلَ — {{c1::يُعَامِلُ}} — {{c2::عَامِلْ}} — {{c3::مُعَامَلَة}}</div>",
+   "extra": "to deal with, to treat · Form III · the plural of its maṣdar, <bdi>مُعَامَلَات</bdi>, is fiqh's category of dealings (qud-024)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct13",
+   "source": "Vocabulary list supplied 2026-10-13"
   }
  ]
 }

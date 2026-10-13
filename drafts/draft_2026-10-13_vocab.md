@@ -1,8 +1,8 @@
-# Draft — vocabulary, 2026-10-13 (47 notes)
+# Draft — vocabulary, 2026-10-13 (61 notes)
 
 Status: **awaiting approval.**
 
-Source: a 26-word list pasted into the chat on 2026-10-13. It is not in Notion.
+Source: a 26-word list pasted into the chat on 2026-10-13, and 8 more words sent later that day (34 in all). It is not in Notion.
 
 ## Check this first
 
@@ -12,6 +12,8 @@ Source: a 26-word list pasted into the chat on 2026-10-13. It is not in Notion.
    الصِّدْقُ يَهْدِي إِلَى البِرِّ, truthfulness leads to righteousness.
 3. **يقلق** is unvowelled. It's carded as قَلِقَ يَقْلَقُ, to be anxious. If yours was يُقْلِقُ ("it unsettles"),
    that's أَقْلَقَ, and the extra on the card says so.
+4. **قوط** is read as **قُوت**, sustenance (قُوتُ يَوْمِهِ), with ط written for ت. If you meant القُوط, the Goths
+   (it sits next to القِبْط), or قَطُّ, "never", tell me.
 
 ## Decisions you should know about
 
@@ -32,7 +34,11 @@ Source: a 26-word list pasted into the chat on 2026-10-13. It is not in Notion.
 - **Two senses kept apart:**
   - حَوْل is power, and also a full year in zakāh.
   - عُدَّة (equipment) is not عِدَّة (a woman's waiting period); the plural card notes this.
-- **Gloss index:** none of the 26 glosses collides with an existing card.
+- **إمتنع is already in the deck** from 6 Oct: اِمْتَنَعَ, voc-201/202. It isn't carded twice. Its alif is hamzat
+  al-waṣl (اِمْتَنَعَ), so no hamza goes under it. By contrast, the hamza in your الإنصاف is right, because Form IV
+  has hamzat al-qaṭʿ.
+- **القِبْط** is a collective noun, so its card pairs the singular قِبْطِيّ with the collective قِبْط (also أَقْبَاط).
+- **Gloss index:** none of the 33 new glosses collides with an existing card.
 - **Where these seem to come from:** يَرِيبُ, طُمَأْنِينَة, اِرْتِيَاب and الفُجُور point to the ḥadīth on truthfulness
   (دَعْ مَا يَرِيبُكَ…, إِنَّ الصِّدْقَ يَهْدِي إِلَى البِرِّ…). Tell me the text and I'll tag the list.
 - **Session tag `oct13`. All Tier 1.**
@@ -88,3 +94,17 @@ Source: a 26-word list pasted into the chat on 2026-10-13. It is not in Notion.
 | voc-275 | cloze | <div class="arabic">قَلِقَ — {{c1::يَقْلَقُ}} — {{c2::اِقْلَقْ}} — {{c3::قَلَق}}</div> | to be anxious, to be restless · Form I · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · if your <bdi>يقلق</bdi> is <bdi>يُقْلِقُ</bdi>, it is <bdi>أَقْلَقَ</bdi>, to make anxious |
 | voc-276 | bidir | اِرْتِيَاب | doubt, suspicion |
 | voc-277 | cloze | <div class="arabic">اِرْتَابَ — {{c1::يَرْتَابُ}} — {{c2::اِرْتَبْ}} — {{c3::اِرْتِيَاب}}</div> | to doubt, to suspect · Form VIII (hollow) · same root as <bdi>يَرِيبُ</bdi> and <bdi>رِيبَة</bdi> |
+| voc-278 | bidir | اِسْتَحَقَّ | to deserve, to merit, to be entitled to |
+| voc-279 | cloze | <div class="arabic">اِسْتَحَقَّ — {{c1::يَسْتَحِقُّ}} — {{c2::اِسْتَحِقَّ}} — {{c3::اِسْتِحْقَاق}}</div> | to deserve, to merit, to be entitled to · Form X (doubled) · your <bdi>يَسْتَحِقُّونَ</bdi> is the muḍāriʿ, 3rd person masculine plural |
+| voc-280 | bidir | إِنْصَاف | fairness, equity — giving someone their due |
+| voc-281 | cloze | <div class="arabic">أَنْصَفَ — {{c1::يُنْصِفُ}} — {{c2::أَنْصِفْ}} — {{c3::إِنْصَاف}}</div> | to treat fairly, to do justice to · Form IV · Form IV has hamzat al-qaṭʿ, so the hamza in your <bdi>الإنصاف</bdi> is right |
+| voc-282 | bidir | نَوْع | a kind, a type, a sort |
+| voc-283 | cloze | <div class="arabic">{{c2::نَوْع}} (مُفْرَد) — {{c1::أَنْوَاع}} (جَمْع)</div> | a kind, a type, a sort |
+| voc-284 | bidir | قِبْطِيّ | a Copt — one of the native Christian people of Egypt |
+| voc-285 | cloze | <div class="arabic">{{c2::قِبْطِيّ}} (مُفْرَد) — {{c1::قِبْط}} (جَمْع)</div> | a Copt · <bdi>القِبْط</bdi>, the Copts — also <bdi>أَقْبَاط</bdi> |
+| voc-286 | bidir | قُوت | sustenance — enough food to live on |
+| voc-287 | cloze | <div class="arabic">{{c2::قُوت}} (مُفْرَد) — {{c1::أَقْوَات}} (جَمْع)</div> | sustenance · your <bdi>قوط</bdi> read as <bdi>قُوت</bdi>, <bdi>ط</bdi> for <bdi>ت</bdi> · <bdi>قُوتُ يَوْمِهِ</bdi>, a day's sustenance |
+| voc-288 | bidir | مَغْرُور | deluded, self-deceived — conceited |
+| voc-289 | cloze | <div class="arabic">{{c2::مَغْرُور}} (مُفْرَد) — {{c1::مَغْرُورُونَ}} (جَمْع)</div> | deluded, self-deceived · the ism mafʿūl of <bdi>غَرَّ يَغُرُّ</bdi>, to delude — hence <bdi>الغُرُور</bdi>, delusion |
+| voc-290 | bidir | عَامَلَ | to deal with, to treat (someone) |
+| voc-291 | cloze | <div class="arabic">عَامَلَ — {{c1::يُعَامِلُ}} — {{c2::عَامِلْ}} — {{c3::مُعَامَلَة}}</div> | to deal with, to treat · Form III · the plural of its maṣdar, <bdi>مُعَامَلَات</bdi>, is fiqh's category of dealings (qud-024) |
