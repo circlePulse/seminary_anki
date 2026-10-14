@@ -1613,8 +1613,8 @@
    "tier": 1,
    "id": "sarf-135",
    "session": "sep30",
-   "text": "{{c1::<bdi>مَبْنِيّ</bdi>}}: the <bdi>حُرُوف</bdi> and the <bdi>فِعْل مَاضِي</bdi>. {{c2::<bdi>مُعْرَب</bdi>}}: the <bdi>مُضَارِع</bdi> and the <bdi>أَسْمَاء</bdi>",
-   "extra": "",
+   "text": "<bdi>مَبْنِيّ</bdi>: {{c1::every <bdi>حَرْف</bdi>, and the <bdi>مَاضِي</bdi> and the <bdi>أَمْر</bdi>}}, and {{c2::some}} <bdi>أَسْمَاء</bdi>. <bdi>مُعْرَب</bdi>: the <bdi>مُضَارِع</bdi>, and {{c2::most}} <bdi>أَسْمَاء</bdi>",
+   "extra": "a <bdi>مَبْنِيّ اِسْم</bdi> resembles a <bdi>حَرْف</bdi> — Tasheel ch. 2 (nahw-224, nahw-225)",
    "tags": [
     "sarf",
     "irab",

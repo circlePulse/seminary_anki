@@ -1,6 +1,6 @@
 # Draft — World Religions II, 10/01–10/13 (81 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-14 and delivered.**
 
 Source: the 10/01, 10/08 and 10/13 headings of the World Religions II page, as fetched on 2026-10-14. Each card
 carries its class date as its session tag, and a reading names its text in the source line.

@@ -1,9 +1,9 @@
 {
  "course": "ARB-201",
- "topic": "tasheel-ch1",
+ "topic": "tasheel",
  "session": "sep03",
  "source": "Tasheel al-Nahw ch.1 §1.1–1.2 — class notes 2026-09-03",
- "expected_count": 208,
+ "expected_count": 225,
  "cards": [
   {
    "type": "bidir",
@@ -2707,6 +2707,244 @@
    "source": "Tasheel al-Nahw ch. 1 — the fiʿl: kāna and her sisters — class notes (in Notion by 2026-10-02)",
    "front": "What is sometimes prefixed to the <bdi>خَبَر</bdi> of <bdi>لَيْسَ</bdi>?",
    "back": "<bdi>بِـ</bdi> — as in <bdi>أَلَيْسَ اللهُ بِكَافٍ عَبْدَهُ</bdi> (al-Zumar 39:36)"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-209",
+   "front": "What causes <bdi>إِعْرَاب</bdi>, the change at the end of a <bdi>مُعْرَب</bdi> word?",
+   "back": "External factors: the words that govern it, its <bdi>عَوَامِل</bdi>. The term is the maṣdar of <bdi>أَعْرَبَ يُعْرِبُ</bdi>.",
+   "tags": [
+    "nahw",
+    "irab",
+    "definition"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-210",
+   "front": "What are the four <bdi>أَنْوَاع البِنَاء</bdi>, the endings a <bdi>مَبْنِيّ</bdi> word can be fixed on?",
+   "back": "<bdi>سُكُون</bdi>, <bdi>فَتْحَة</bdi>, <bdi>كَسْرَة</bdi> and <bdi>ضَمَّة</bdi> — <bdi>كَمْ</bdi> is <bdi>مَبْنِيّ</bdi> on sukūn, <bdi>أَيْنَ</bdi> on fatḥah, <bdi>هَؤُلَاءِ</bdi> on kasrah, <bdi>حَيْثُ</bdi> on ḍammah",
+   "tags": [
+    "nahw",
+    "irab",
+    "enumeration"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-211",
+   "front": "What are the four <bdi>أَنْوَاع الإِعْرَاب</bdi>?",
+   "back": "<bdi>رَفْع</bdi>, <bdi>نَصْب</bdi>, <bdi>جَرّ</bdi> and <bdi>جَزْم</bdi> — a word in each is <bdi>مَرْفُوع</bdi>, <bdi>مَنْصُوب</bdi>, <bdi>مَجْرُور</bdi> or <bdi>مَجْزُوم</bdi>",
+   "tags": [
+    "nahw",
+    "irab",
+    "enumeration"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-212",
+   "front": "What are the two kinds of <bdi>عَلَامَة الإِعْرَاب</bdi>?",
+   "back": "<bdi>بِالحَرَكَات</bdi>, by vowel signs: ḍammah, fatḥah, kasrah, sukūn. <bdi>بِالحُرُوف</bdi>, by letters such as <bdi>و</bdi> or <bdi>ا</bdi>, where only the changing letter is the sign: <bdi>مُسْلِمُونَ</bdi>, <bdi>مُسْلِمِينَ</bdi>.",
+   "tags": [
+    "nahw",
+    "irab",
+    "signs"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-213",
+   "front": "What is the sign of each of the four <bdi>إِعْرَاب</bdi> states?",
+   "back": "<bdi>رَفْع</bdi>: a ḍammah · <bdi>نَصْب</bdi>: a fatḥah · <bdi>جَرّ</bdi>: a kasrah · <bdi>جَزْم</bdi>: a sukūn — each can be replaced by a substitute, such as a letter",
+   "tags": [
+    "nahw",
+    "irab",
+    "signs"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-214",
+   "front": "Which <bdi>إِعْرَاب</bdi> state belongs only to the <bdi>اِسْم</bdi>, and which only to the <bdi>فِعْل</bdi>?",
+   "back": "<bdi>جَرّ</bdi> only to the <bdi>اِسْم</bdi>, and <bdi>جَزْم</bdi> only to the <bdi>فِعْل</bdi>. Both share <bdi>رَفْع</bdi> and <bdi>نَصْب</bdi>.",
+   "tags": [
+    "nahw",
+    "irab",
+    "criterion"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-215",
+   "term": "<bdi>إِعْرَاب لَفْظِيّ</bdi> (iʿrāb lafẓī)",
+   "meaning": "the iʿrāb a <bdi>مُعْرَب</bdi> word carries on its own ending — as opposed to the iʿrāb of a position",
+   "tags": [
+    "nahw",
+    "irab",
+    "terminology"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-216",
+   "term": "<bdi>إِعْرَاب مَحَلِّيّ</bdi> (iʿrāb maḥallī)",
+   "meaning": "iʿrāb of position — a <bdi>مَبْنِيّ</bdi> word fills a slot that has a state, but can't show it",
+   "tags": [
+    "nahw",
+    "irab",
+    "terminology"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-217",
+   "front": "Why does a <bdi>مَبْنِيّ اِسْم</bdi> still have <bdi>إِعْرَاب مَحَلِّيّ</bdi>?",
+   "back": "Every <bdi>اِسْم</bdi> in a sentence fills a position that has a grammatical state. The <bdi>مَبْنِيّ</bdi> word can't show it, so its state is one of position: in <bdi>جَاءَ هَذَا</bdi>, <bdi>هَذَا</bdi> is <bdi>مَبْنِيّ</bdi> but stands in the place of <bdi>رَفْع</bdi>, as the <bdi>فَاعِل</bdi>.",
+   "tags": [
+    "nahw",
+    "irab",
+    "criterion"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-218",
+   "term": "<bdi>إِعْرَاب ظَاهِر</bdi> (iʿrāb ẓāhir)",
+   "meaning": "visible iʿrāb — the ending of a <bdi>مُعْرَب</bdi> word shows its state",
+   "tags": [
+    "nahw",
+    "irab",
+    "terminology"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-219",
+   "term": "<bdi>إِعْرَاب مُقَدَّر</bdi> (iʿrāb muqaddar)",
+   "meaning": "hidden iʿrāb — a <bdi>مُعْرَب</bdi> word whose ending can't show its state",
+   "tags": [
+    "nahw",
+    "irab",
+    "terminology"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-220",
+   "front": "Which words have <bdi>إِعْرَاب مُقَدَّر</bdi>?",
+   "back": "The <bdi>اِسْم مَقْصُور</bdi>, ending in an alif (<bdi>الفَتَى</bdi>); the <bdi>اِسْم مَنْقُوص</bdi>, ending in a <bdi>ي</bdi> after a kasrah (<bdi>القَاضِي</bdi>); an <bdi>اِسْم</bdi> joined to the speaker's <bdi>ي</bdi> (<bdi>كِتَابِي</bdi>); and a <bdi>مُضَارِع</bdi> ending in a weak letter (<bdi>يَسْعَى</bdi>, <bdi>يَدْعُو</bdi>, <bdi>يَرْمِي</bdi>).",
+   "tags": [
+    "nahw",
+    "irab",
+    "enumeration"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-221",
+   "front": "Why does <bdi>الفَتَى</bdi> never show its state, while <bdi>القَاضِي</bdi> shows one of the three?",
+   "back": "<bdi>الفَتَى</bdi> ends in an alif, which can't carry any vowel, so all three states are <bdi>مُقَدَّر</bdi>. The <bdi>ي</bdi> of <bdi>القَاضِي</bdi> carries a fatḥah (<bdi>رَأَيْتُ القَاضِيَ</bdi>), but a ḍammah or kasrah on it is too heavy, so <bdi>رَفْع</bdi> and <bdi>جَرّ</bdi> are <bdi>مُقَدَّر</bdi>.",
+   "tags": [
+    "nahw",
+    "irab",
+    "criterion"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-222",
+   "front": "What does a parser mean by <bdi>لَا مَحَلَّ لَهُ مِنَ الإِعْرَاب</bdi>, said of a <bdi>حَرْف</bdi>?",
+   "back": "That it has no place in iʿrāb at all: a <bdi>حَرْف</bdi> is always <bdi>مَبْنِيّ</bdi>, and never fills a position that has a grammatical state.",
+   "tags": [
+    "nahw",
+    "irab",
+    "huroof"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-223",
+   "front": "Which two endings make a <bdi>مُضَارِع مَبْنِيّ</bdi>, and on what is it built?",
+   "back": "<bdi>نُون النِّسْوَة</bdi>, on sukūn (<bdi>يَكْتُبْنَ</bdi>); and <bdi>نُون التَّوْكِيد</bdi> joined directly, on fatḥah (<bdi>لَيَكْتُبَنَّ</bdi>)",
+   "tags": [
+    "nahw",
+    "irab",
+    "fil"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-224",
+   "front": "Why is the relative pronoun <bdi>الَّذِي مَبْنِيّ</bdi>?",
+   "back": "It resembles a <bdi>حَرْف</bdi> in dependence: it needs other words, its <bdi>صِلَة</bdi>, to complete its meaning. This is <bdi>الشَّبَه الافْتِقَارِيّ</bdi>.",
+   "tags": [
+    "nahw",
+    "irab",
+    "ism"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-225",
+   "front": "Why are pronouns such as <bdi>تُ</bdi> and <bdi>نَا مَبْنِيّ</bdi>?",
+   "back": "They resemble a <bdi>حَرْف</bdi> in form: each is built of fewer than three letters. This is <bdi>الشَّبَه الوَضْعِيّ</bdi>.",
+   "tags": [
+    "nahw",
+    "irab",
+    "ism"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13"
   }
  ]
 }

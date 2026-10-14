@@ -40,7 +40,8 @@ Each ḥadīth section opens with its narrator's biography, and Ḥadīth 2 open
 a vocab list.
 
 **Riyadh** points to Arbaʿīn for al-Nawawī's biography. It has an intro, then one
-toggle per chapter (repentance, then Kitāb al-Jihād, which is still empty).
+toggle per chapter. As of 2026-10-14 the only chapter is repentance; the empty Kitāb al-Jihād toggle is gone.
+The vocabulary lists the user pastes into chat come from this class's reading (Bāb al-Ṣabr, Bāb al-Ṣidq).
 
 **Tazkiyah** covers *Bidāyah* → *Tongue* (lying, breaking promises, backbiting).
 It uses bullets, not toggles.
@@ -55,7 +56,7 @@ carded. The user said so on 2026-09-30.
 |---|---|---|
 | World Religions II | `3a5737ec4b8a80b4a050ff5e3082d024` | RELSTD-5B → `wrel` |
 | Python Programming and Libraries (Accelerated) | `3a5737ec4b8a80568691d464ac953688` | ICS-H32 → `pyth` |
-| Calculus II (info block says Math 1B, Pre-Calculus II) | `3a5737ec4b8a80508bc1d5409415cb2a` | none: the page has no notes yet |
+| Calculus II (info block says Math 1B, Pre-Calculus II) | `3a5737ec4b8a80508bc1d5409415cb2a` | none: a *Review* section of formulas since 10-08, on hold at the user's word (2026-10-14) |
 | UCI General | `3a5737ec4b8a807580c5faf8babade0c` | not course notes |
 
 Every UCI course page opens with *Info* (section codes, times, links) and *Todos*
@@ -93,9 +94,26 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 
 ## Uncarded as of 2026-09-30 (after the evening batch)
 
-- Tazkiyah: all of it. There is no course entry or deck yet.
+- Tazkiyah: all of it. There is no course entry or deck yet. The user put it on hold on 2026-10-14
+  ("don't do … tazkiya yet"), along with Calculus II.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
+
+Carded on 2026-10-14, from a scan of every page the user asked for:
+- **IOK Arabic, Tasheel ch. 2, al-muʿrab wa-l-mabnī** (nahw-209–225). The CLAUDE note "add the categories" was
+  read as the words whose iʿrāb is مُقَدَّر. The deck's topic is now `tasheel`, so its files are named that way.
+- **sarf-135**, corrected: some أَسْمَاء are مَبْنِيّ.
+- **World Religions** 10/01, 10/08 (in class, and the Mencius and Xunzi readings) and 10/13 (wrel-111–191). The
+  CLAUDE note asked for a definition of Mozi's universal consequentialism.
+- **Python** topics after Loops: Functions through Tests (pyth-107–192).
+
+Corrections on the cards only:
+- **Naḥw:** "faa'il" for fiʿl; جَزْم "marfoo'".
+- **World Religions:** Mengzi "3th" century, and the missing fourth sprout.
+- **Python:** a slice's stop defaulting to -1; `.write()` overwriting the file.
+
+The other pages had nothing new: Riyāḍ, Durūs, and Arbaʿīn/Qudūrī apart from Ḥadīth 6's narrator. The old
+`START HERE` marker in Qudūrī's nullifiers of wuḍūʾ has been removed by the user.
 
 Revised on 2026-10-07 (evening): the Ḥadīth 4 *Lessons* block (arbh-200–221), and eight
 clarifications to the Qudūrī water section (qud-224/225/227/228 edited, qud-229–235 new). The user's

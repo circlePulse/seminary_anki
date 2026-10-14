@@ -94,6 +94,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | away from | عَنْ | away from; about, regarding — a حَرْف جَرّ | ARB-201 | nahw-156 |
 | became | صَارَ | became — going from one state to another; a sister of كَانَ | ARB-201 | nahw-197 |
 | being | كَوْن | being, existence — also, the universe | VOCAB | voc-272 |
+| benevolence | Ren | benevolence — the desire to do good; very simply, care for others | RELSTD-5B | wrel-122 |
 | besides | خَلَا ، حَاشَا ، عَدَا | besides, except — all three حُرُوف جَرّ | ARB-201 | nahw-152 |
 | blowing the water back out of the nostrils | الاِسْتِنْثَار (al-istinthār) | blowing the water back out of the nostrils | HDT-201 | qud-159 |
 | breaches of decorum | خَوَارِم المُرُوءَة (khawārim al-murūʾah) | breaches of decorum — conduct unbecoming of a person of standing, judg | VOCAB | voc-296 |
@@ -131,6 +132,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | from | مِنْ | from — a حَرْف جَرّ | ARB-201 | nahw-154 |
 | growth | نَمَاء | growth, increase — as of wealth or crops | VOCAB | voc-310 |
 | hardship | مَشَقَّة | hardship, strain | VOCAB | voc-219 |
+| hidden iʿrāb | إِعْرَاب مُقَدَّر (iʿrāb muqaddar) | hidden iʿrāb — a مُعْرَب word whose ending can't show its state | ARB-201 | nahw-219 |
 | honour | شَرَف | honour, nobility, high standing | VOCAB | voc-100 |
 | hope | التَّرَجِّي (al-tarajjī) | hope — wanting what you think is possible | ARB-201 | nahw-096 |
 | humble supplication | ضَرَاعَة | humble supplication — abasing oneself before Allah | VOCAB | voc-233 |
@@ -141,6 +143,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | inciting | تَحْرِيض | inciting, rousing (to fight — عَلَى) | VOCAB | voc-249 |
 | indefinite | نَكِرَة (nakirah) | indefinite | ARB-201 | nahw-110 |
 | is not | لَيْسَ | is not, not — a sister of كَانَ | ARB-201 | nahw-206 |
+| iʿrāb of position | إِعْرَاب مَحَلِّيّ (iʿrāb maḥallī) | iʿrāb of position — a مَبْنِيّ word fills a slot that has a state, but | ARB-201 | nahw-216 |
 | leadership | رِيَاسَة | leadership, chieftaincy | VOCAB | voc-130 |
 | leftover drinking water | السُّؤْر (al-suʾr) | leftover drinking water — what is left in a container after someone dr | HDT-201 | qud-252 |
 | like | كَـ | like — a حَرْف جَرّ | ARB-201 | nahw-149 |
@@ -168,6 +171,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | refraining | كَفّ | refraining, holding back (from — عَنْ) — also, the palm of the hand | VOCAB | voc-294 |
 | reputation | سُمْعَة | reputation — also, doing good so that people hear of it (beside رِيَاء | VOCAB | voc-315 |
 | rinsing the mouth | المَضْمَضَة (al-maḍmaḍah) | rinsing the mouth | HDT-201 | qud-157 |
+| ritual | Li | ritual — doing everything according to the proper rites | RELSTD-5B | wrel-124 |
 | ritual or legal impurity | نَجَاسَة حُكْمِيَّة | ritual or legal impurity | HDT-201 | tah-006 |
 | robert bellah's 1985 concept for americans who mix and choose their own religion | Sheilaism | Robert Bellah's 1985 concept for Americans who mix and choose their ow | RELSTD-5B | wrel-050 |
 | rules and regulations of worship and its related actions | عِبَادَات (ʿibādāt) | rules and regulations of worship and its related actions, such as puri | HDT-201 | qud-023 |
@@ -204,6 +208,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | the interrogative | الاِسْتِفْهَام (al-istifhām) | the interrogative — asking a question | ARB-201 | nahw-094 |
 | the ism being pointed to | مُشَار إِلَيْهِ (mushār ilayhi) | the ism being pointed to | ARB-201 | nahw-142 |
 | the ism that does the pointing in an إِشَارِيّ phrase | اِسْم الإِشَارَة (ism al-ishārah) | the ism that does the pointing in an إِشَارِيّ phrase | ARB-201 | nahw-141 |
+| the iʿrāb a مُعْرَب word carries on its own ending | إِعْرَاب لَفْظِيّ (iʿrāb lafẓī) | the iʿrāb a مُعْرَب word carries on its own ending — as opposed to the | ARB-201 | nahw-215 |
 | the negative command | النَّهْي (al-nahy) | the negative command | ARB-201 | nahw-067 |
 | the noun of exaggeration | اِسْم المُبَالَغَة (ism al-mubālaghah) | the noun of exaggeration — a hyperbolic, emphatic adjective | ARB-201 | sarf-187 |
 | the noun of instrument | اِسْم الآلَة (ism al-ālah) | the noun of instrument — a tool used for an action, e.g. مِفْتَاح, a t | ARB-201 | sarf-190 |
@@ -352,6 +357,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | unqualified water | مَاء مُطْلَق (māʾ muṭlaq) | unqualified water — water called simply “water”, as against qualified  | HDT-201 | qud-214 |
 | until | حَتَّى | until, up to — a حَرْف جَرّ | ARB-201 | nahw-158 |
 | urging | حَثّ | urging, encouragement (toward — عَلَى) | VOCAB | voc-221 |
+| visible iʿrāb | إِعْرَاب ظَاهِر (iʿrāb ẓāhir) | visible iʿrāb — the ending of a مُعْرَب word shows its state | ARB-201 | nahw-218 |
 | was | كَانَ | was — the head of الأَفْعَال النَّاقِصَة | ARB-201 | nahw-195 |
 | water already used for wuḍūʾ or ghusl | مَاء مُسْتَعْمَل (māʾ mustaʿmal) | water already used for wuḍūʾ or ghusl, and collected | HDT-201 | qud-212 |
 | what is meant | المُرَاد | what is meant, the intended sense — of a word or a text | VOCAB | voc-215 |

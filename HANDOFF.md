@@ -37,17 +37,17 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,542 notes across 10 decks.**
+Current state: **1,726 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | quduri | 257 | HDT-201 |
 | vocab | 337 | VOCAB |
 | arbaeen_ahadith | 222 | HDT-201 |
-| nahw | 208 | ARB-201 |
+| nahw | 225 | ARB-201 |
 | sarf | 219 | ARB-201 |
-| wrel | 110 | RELSTD-5B |
-| pyth | 106 | ICS-H32 |
+| wrel | 191 | RELSTD-5B |
+| pyth | 192 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
 | riyad | 10 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
@@ -184,15 +184,11 @@ once, and both times was objecting to files that had no reason to exist.
   that the 10-06 list (voc-193–230) is Bāb al-Ṣabr, tagged `riyad-sabr`. The 10-13 and 10-14 lists
   (voc-231–323) are Bāb al-Ṣidq, tagged `riyad-sidq`. Tag the next list by its chapter, and ask if it isn't
   obvious from the words.
-- **The 2026-10-14 notes scan left three drafts awaiting approval:**
-  - `draft_2026-10-14_nahw-ch2.md`: Tasheel ch. 2, nahw-209–225, plus a fix to sarf-135.
-  - `draft_2026-10-14_wrel.md`: World Religions 10/01–10/13, wrel-111–191.
-  - `draft_2026-10-14_pyth.md`: Python, Functions to Tests, pyth-107–192.
-
-  The scan also found three things still to settle. Calculus II now has a *Review* section of formulas, and
-  there is no deck for it. Tazkiyah has never been carded and has no deck either; the user has been asked
-  about both. Ḥadīth 6 has only its narrator so far, and the user is writing the notes. The page snapshots are
-  in the session scratchpad as `hdt201_v5.txt` and `arabic_oct14.txt`.
+- **Calculus II and Tazkiyah are on hold.** The user said "don't do calculus or tazkiya yet" on 2026-10-14.
+  Calculus II now has a *Review* section of formulas, and Tazkiyah has never been carded. Neither has a deck.
+  Don't card or draft either until the user asks.
+- **Ḥadīth 6 has only its narrator so far (2026-10-14).** The user is writing the notes and will say when to
+  scan. Its verbs are already in `vocab` (h06).
 - **voc-218 حَسَبَ is carded as "according to"**, which is unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count",
   fits the same vowels and would collide with أَحْصَى (voc-009).
 - **The 2026-10-13 vocabulary list (voc-231–291) carries four readings the user hasn't confirmed.** الها was

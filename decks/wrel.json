@@ -3,7 +3,7 @@
  "topic": "wrel",
  "session": "sep24",
  "source": "World Religions II — lecture and readings, 2026-09-24",
- "expected_count": 110,
+ "expected_count": 191,
  "cards": [
   {
    "type": "basic",
@@ -1456,6 +1456,1191 @@
    ],
    "session": "sep29",
    "source": "World Religions II — lecture, 2026-09-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-111",
+   "front": "Who compiled the Analects, and when?",
+   "back": "Confucius's disciples, after his death",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "analects"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-112",
+   "front": "In the Analects, what do the “gentleman” and the “petty person” stand for?",
+   "back": "The gentleman is always good — the model to follow; the petty person shows what not to do",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "analects"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-113",
+   "front": "Why is the Analects written in short, pithy sayings?",
+   "back": "It spoke to an almost completely illiterate population, so it was passed on by memory — each idea distilled to its simplest form",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "analects",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-114",
+   "front": "According to the 10/01 lecture, how do most religions present themselves?",
+   "back": "As universal and timeless",
+   "tags": [
+    "wrel",
+    "lecture",
+    "method"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-115",
+   "front": "What did Confucius's ethics draw on?",
+   "back": "Longstanding ideas of morality",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-116",
+   "front": "Which three things make up goodness, for Confucius?",
+   "back": "Xiao (filial piety), ren (benevolence) and li (ritual)",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "spine"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-117",
+   "front": "How are Confucian relationships ordered, and what does each side owe?",
+   "back": "All but one — friend and friend — are hierarchical. The subordinate must be dutiful; the superior must care for them and be kind. In filial piety, the parents are the superiors.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "xiao",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-118",
+   "front": "Which practice is part of filial piety, and central to Confucianism?",
+   "back": "Ancestor worship",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "xiao"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-119",
+   "front": "What does the Analects allow a child to do when their parents are in the wrong, and what must follow?",
+   "back": "Gently remonstrate with them. If they don't take it to heart, stay respectful, don't oppose them, and follow their lead diligently without resentment.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "xiao",
+    "quote"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-120",
+   "front": "What does Confucius say to do if your parents commit a crime and insist on it?",
+   "back": "Cover up for them — even by taking the blame yourself",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "xiao"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-121",
+   "front": "How did filial piety apply to a married woman?",
+   "back": "Her in-laws became like her parents, since a wife moved into her husband's house",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "xiao"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-122",
+   "term": "Ren",
+   "meaning": "benevolence — the desire to do good; very simply, care for others",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "concepts"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-123",
+   "text": "Ren in the Analects: “Ren is {{c1::to love people}}”; “When in public, comport yourself as if {{c2::you were receiving an important guest}}”; “Do not impose upon others {{c3::what you yourself do not desire}}”",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "quote"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-124",
+   "term": "Li",
+   "meaning": "ritual — doing everything according to the proper rites",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "concepts"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-125",
+   "front": "How far does li, Confucian ritual, reach?",
+   "back": "From grand state ceremonies to the proper way to fasten one's lapel",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-126",
+   "front": "Where do the rites of li come from, and what idea lies behind that?",
+   "back": "From older societies, especially the Zhou dynasty — the idea that old things are good",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "criterion"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-127",
+   "text": "Confucius's ethics held that society should be ruled by {{c1::a meritocracy of educated men}}; that all people have {{c2::the capacity for self-cultivation}}; and that society is {{c3::fundamentally unequal}}, bound by {{c4::reciprocal relationships}}",
+   "extra": "In those relationships, superiors are to be benevolent and subordinates are to obey.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "oct01",
+   "source": "World Religions II — lecture, 2026-10-01"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-128",
+   "text": "The case that Confucianism is not a religion: Confucius is {{c1::not a god or a divine force}}; you needn't {{c2::pray, go to a temple, or read a specific book}}; you needn't {{c3::worship anything or believe Confucius was a god}}; and you can {{c4::practise it as a philosophy}}",
+   "extra": "From a western perspective this “no” is the most common answer.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "definition"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — lecture, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-129",
+   "front": "What caveat weakens “Confucius is not a god” as a reason Confucianism isn't a religion?",
+   "back": "In East Asia there is no strict line between natural and supernatural, as there is in the West",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — lecture, 2026-10-08"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-130",
+   "text": "The case that Confucianism is a religion: after Confucius died, {{c1::more religious aspects were added}}; there are {{c2::temples to Confucius, with animal sacrifices and rituals}}; some people {{c3::pray to Confucius}}; and it {{c4::asks you to follow principles to achieve goodness}}, as a religion does",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "definition"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — lecture, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-131",
+   "front": "What did later temples to Confucius borrow from Buddhism?",
+   "back": "Ideas such as statues",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — lecture, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-132",
+   "front": "Who was Mengzi, and when did he live?",
+   "back": "A Confucian philosopher of the 4th century BCE",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "origins"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-133",
+   "front": "What was Mengzi's relationship to Kongzi (Confucius)?",
+   "back": "He never met him, but tried to practise and teach Kongzi's Way",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-134",
+   "front": "How is Mengzi ranked in China?",
+   "back": "Second only to Kongzi in importance",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-135",
+   "front": "What is the Mengzi, and where does the name “Mencius” come from?",
+   "back": "The collection of Mengzi's sayings; “Mencius” is the Jesuits' Latinisation",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-136",
+   "front": "How is the Mengzi divided?",
+   "back": "Into 7 books, each with an A and a B part, each divided again into short “chapters” — hence references like 2A6",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-137",
+   "front": "Whose teachings did Mengzi treat as the intellectual opponents of the Way?",
+   "back": "Yang Zhu's and Mozi's",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-138",
+   "front": "What did Mozi advocate?",
+   "back": "Universal consequentialism: judging every action only by its consequences for the benefit of all, with everyone's benefit counting equally — hence Mohist “impartial caring”",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "mozi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-139",
+   "front": "What does Yang Zhu seem to have taught, and how did Mengzi see him?",
+   "back": "That excessive sacrifice for others goes against human nature. Mengzi saw him as egotistical.",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-140",
+   "front": "Where did Mengzi agree with Yang Zhu, and where did he part ways?",
+   "back": "He agreed that humans have a nature they should follow, but argued that it contains virtuous inclinations — so ethical cultivation is tending that nature",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-141",
+   "front": "How did Mengzi think people can discover their moral inclinations?",
+   "back": "Through thought experiments",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-142",
+   "front": "What did Mengzi say destroys the goodness of human nature?",
+   "back": "A bad environment, and failure to cultivate oneself — the nature is good, but people are not necessarily good",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-143",
+   "front": "What did Mengzi see as a prerequisite for developing a good nature?",
+   "back": "Basic needs, such as food, being met",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-144",
+   "front": "What does advanced ethical cultivation require, for Mengzi?",
+   "back": "A teacher",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-145",
+   "front": "How did Mengzi disagree with the Mohists about love?",
+   "back": "They said love for all should be equally great; he said love for family, kin and those closer must be greater",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "mozi",
+    "contrast"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-146",
+   "front": "What did Mengzi say of basing one's actions on benefit or profit?",
+   "back": "That it is self-defeating",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-147",
+   "front": "In Mengzi's Book One, what does he tell a king who wants profit?",
+   "back": "That he should seek benevolence and righteousness instead",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-148",
+   "front": "What is Mengzi's point in the parable of the soldiers who ran fifty paces?",
+   "back": "Those who ran fifty paces, laughing at those who ran a hundred, had fled the battle just the same — said to a king who thought he governed well",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-149",
+   "front": "What did a king's pity for an ox being led to sacrifice show, according to Mengzi?",
+   "back": "That he has compassion",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-150",
+   "front": "Why did Mengzi compare that king to someone who can lift 500 lbs but not a feather?",
+   "back": "He showed kindness to the ox but not to his people — not because he can't, but because he won't",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-151",
+   "front": "What did Mengzi compare a king's wish to dominate by military force to?",
+   "back": "Climbing a tree to find a fish",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-152",
+   "front": "What would benevolent government bring a king, according to Mengzi?",
+   "back": "Everyone would want to come to his markets, fields and roads",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-153",
+   "front": "What does Mengzi call failing to give people a livelihood and then punishing them for crime?",
+   "back": "Trapping them",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-154",
+   "text": "A good livelihood, for Mengzi: “In good years, one is {{c1::always full}}. In years of famine, one {{c2::escapes death}}” — and one can {{c3::serve one's father and mother, and nurture one's wife and children}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "quote"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-155",
+   "front": "How did Mengzi answer a king who excused himself as fond of wealth, and then as fond of sex?",
+   "back": "If the ruler lets the common folk have the same — wealth, and the same privileges — that is in line with the Way",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-156",
+   "text": "Mengzi on the execution of King Zhou: one who violates benevolence is {{c1::a thief}}; one who violates righteousness is {{c2::a mutilator}}; such a person is {{c3::a mere fellow}} — “I have heard of the execution of the fellow Zhou, but not of the killing of one's ruler”",
+   "extra": "The point: a ruler who doesn't act properly is no longer a legitimate ruler.",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "quote"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-157",
+   "front": "In Mengzi 2A6, what follows if a ruler extends people's natural feeling for others into how he governs?",
+   "back": "He brings order to the whole world",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-158",
+   "text": "Mengzi's four sprouts (2A6): compassion is the sprout of {{c1::benevolence}}; disdain is the sprout of {{c2::righteousness}}; deference is the sprout of {{c3::propriety}}; approval and disapproval is the sprout of {{c4::wisdom}}",
+   "extra": "Your notes list three; the second, disdain (shame at wrongdoing), is from the text.",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "spine"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-159",
+   "front": "According to Mengzi 2A6, what follows if one “fills out” the four sprouts — and if one doesn't?",
+   "back": "Filled out, they are enough to care for all within the four seas; neglected, one can't even serve one's parents",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-160",
+   "front": "In Mengzi 6A1, what did Gaozi claim, and how did Mengzi answer?",
+   "back": "Gaozi: human nature has to be moulded into righteousness, as willow is made into bowls. Mengzi: then people must be violated to be made good — which makes benevolence and righteousness a misfortune.",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "gaozi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-161",
+   "front": "What is Gaozi's water analogy for human nature (Mengzi 6A2)?",
+   "back": "Human nature is like water, which flows out of whatever opening it's given — so it is neutral, neither good nor bad",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "gaozi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-162",
+   "front": "How did Mengzi turn Gaozi's water analogy around?",
+   "back": "Water naturally flows downward. It can be dammed or splashed upward, but that goes against its nature — so human nature is good.",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "gaozi",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-163",
+   "front": "In Mengzi 6A4, what did Gaozi claim about benevolence and righteousness?",
+   "back": "That benevolence is internal and righteousness external — Mengzi disagreed",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "gaozi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-164",
+   "front": "In Mengzi 6A6, how did Mengzi answer Gaozi's claim that human nature is neither good nor bad?",
+   "back": "All humans have the potential to be good",
+   "tags": [
+    "wrel",
+    "reading",
+    "mengzi",
+    "gaozi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Mencius (Mengzi), 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-165",
+   "front": "When did Xunzi live, relative to China's unification?",
+   "back": "He was one of the last exponents of Confucian thought before unification in 221 BCE",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi",
+    "origins"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-166",
+   "front": "In what form has Xunzi's thought come down?",
+   "back": "Essays",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-167",
+   "front": "How did Xunzi treat Confucianism's critics?",
+   "back": "He defended Confucianism against them, but learned from them and took in their insights — Zhuangzi's above all, though their views differed a great deal",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-168",
+   "front": "Which threat from within Confucianism did Xunzi see in Mengzi?",
+   "back": "The idea that human nature is good, which he thought did away with the need for ritual to guide behaviour",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi",
+    "contrast"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-169",
+   "front": "What did Xunzi mean by saying human nature is bad?",
+   "back": "Not that people delight in evil, but that they have no inborn guide to right conduct — so they need the external guide of ritual",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-170",
+   "front": "Where does Xunzi agree with Mengzi about goodness, and where does he differ?",
+   "back": "Everyone has the potential for it — but for Xunzi, reaching it is a very hard and arduous process",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi",
+    "contrast"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-171",
+   "front": "According to Xunzi (ch. 23), what are people born with?",
+   "back": "A desire for profit, other desires, and feelings of hate and dislike — and following them is bad",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-172",
+   "front": "Where does following human nature lead, for Xunzi?",
+   "back": "To strife in society, and eventually violence",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-173",
+   "front": "What does Xunzi say people need in order to reach righteousness?",
+   "back": "The transforming influence of teachers and models, and the guidance of ritual and righteousness — ritual no one knows from birth",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-174",
+   "front": "What is Xunzi's image of the crooked wood?",
+   "back": "Crooked wood must await steaming and straightening on the shaping frame; only then does it become straight. Mengzi had objected that shaping people, like turning willow into bowls, violates their nature.",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi",
+    "contrast"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-175",
+   "front": "Why did the ancients establish ritual, according to Xunzi?",
+   "back": "To be a good influence on the common people",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-176",
+   "front": "How does Xunzi disagree with Mengzi about learning?",
+   "back": "For Mengzi, learning brings out people's inherent good; for Xunzi, ritual and righteousness come from effort",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi",
+    "contrast"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-177",
+   "front": "How does Xunzi tell what comes from inborn nature?",
+   "back": "Desires come from it: they respond to stimulation with no delay between perception and reaction. So whatever has a delay is not from innate nature.",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-178",
+   "front": "Why does Xunzi say people's wish to be good shows their nature is bad?",
+   "back": "People desire what they lack",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi",
+    "criterion"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-179",
+   "front": "What does Xunzi ask of Mengzi's view of ritual?",
+   "back": "If human nature is good, why would ritual be needed at all? Mengzi would say ritual brings an already-good nature into line with Heaven.",
+   "tags": [
+    "wrel",
+    "reading",
+    "xunzi",
+    "contrast"
+   ],
+   "session": "oct08",
+   "source": "World Religions II — reading: Xunzi, 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-180",
+   "front": "What did Mengzi add to Confucianism about authority?",
+   "back": "That you don't always have to follow it",
+   "tags": [
+    "wrel",
+    "lecture",
+    "mengzi"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-181",
+   "front": "How were Mengzi's ideas received?",
+   "back": "They were hugely popular, and many of his statements became common sayings",
+   "tags": [
+    "wrel",
+    "lecture",
+    "mengzi"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-182",
+   "front": "What is Mengzi's well analogy meant to show?",
+   "back": "Everyone has a heart sensitive to others' suffering: anyone who saw a baby about to fall into a well would be alarmed — not to impress the parents or win a good name",
+   "tags": [
+    "wrel",
+    "lecture",
+    "mengzi",
+    "criterion"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-183",
+   "front": "What does Mengzi say of someone who wouldn't be alarmed by the baby at the well?",
+   "back": "That they are not a human being — the feeling is that fundamental",
+   "tags": [
+    "wrel",
+    "lecture",
+    "mengzi"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-184",
+   "front": "How did the ancient kings' compassion show itself, for Mengzi?",
+   "back": "In compassionate policies",
+   "tags": [
+    "wrel",
+    "lecture",
+    "mengzi"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-185",
+   "front": "How do Mengzi's priorities among xiao, li and ren differ from Kongzi's?",
+   "back": "Kongzi might put xiao and li above ren — not turning in one's parents. Mengzi weighs them differently: see his answer on the killing of King Zhou, and his hint to King Xuan of Qi that a bad government should be removed.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "mengzi",
+    "contrast"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-186",
+   "front": "What did Xunzi say about the sacrifice for rain?",
+   "back": "It has no special mechanism — performing it has no effect on the rain",
+   "tags": [
+    "wrel",
+    "lecture",
+    "xunzi"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-187",
+   "front": "If the rain sacrifice does nothing, why does Xunzi say we perform such rites?",
+   "back": "To give things proper form — though common people take them as contact with spirits. Practised society-wide, they make individuals and society good.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "xunzi",
+    "criterion"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-188",
+   "front": "Why does Xunzi's view of ritual move Confucianism further from being a “religion” in western eyes?",
+   "back": "He denies the rites any supernatural effect: they exist for form and moral formation",
+   "tags": [
+    "wrel",
+    "lecture",
+    "xunzi",
+    "definition"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-189",
+   "front": "What do Ban Zhao and Song Ruozhao discuss?",
+   "back": "The Confucian role for women",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "women"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-190",
+   "front": "Who founded Neo-Confucianism, and what was it?",
+   "back": "Zhu Xi — a revival of Confucianism after a decline",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "origins"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-191",
+   "front": "What did Zhu Xi's Neo-Confucianism focus on?",
+   "back": "The family as the foundational unit, and the practical application of moral principles",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism"
+   ],
+   "session": "oct13",
+   "source": "World Religions II — lecture, 2026-10-13"
   }
  ]
 }

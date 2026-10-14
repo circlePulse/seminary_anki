@@ -1,6 +1,6 @@
 # Draft — Tasheel al-Naḥw ch. 2, al-muʿrab wa-l-mabnī (17 new notes, 1 edit)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-14 and delivered.**
 
 Source: the new *Chapter 2* toggle on the IOK Arabic page, as fetched on 2026-10-14 (page last edited 10-13).
 The session tag `oct13` is the page's edit date, a best guess for the class.

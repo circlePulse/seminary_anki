@@ -1,6 +1,6 @@
 # Draft — ICS H32, Functions to Tests (86 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-14 and delivered.**
 
 Source: the topic toggles after *Loops* on the Python page (Functions, Scope, Format strings, Tuple, Sequence
 assignment, List, Type annotations, Files, Failure, Networking, Tests), as fetched on 2026-10-14. The page has no
