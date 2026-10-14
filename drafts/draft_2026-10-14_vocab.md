@@ -2,45 +2,46 @@
 
 Status: **awaiting approval.**
 
-Source: a 19-word list pasted into the chat on 2026-10-14. It is not in Notion. 18 words are carded; كاهٍ is held back (below).
+Source: a 19-word list pasted into the chat on 2026-10-14. It is not in Notion. 18 words are carded, and the
+19th, كاهٍ, is held back (below).
 
 ## Check this first
 
-1. **كاهٍ isn't carded:** I can't place it as written. My bet is **كَاهِن** (kāhin), a soothsayer (pl. كَهَنَة):
-   the *-in* is part of the word, not tanwīn. The commentaries gloss Heraclius's حَزَّاء as a كَاهِن, and he is in
-   this same chapter. The other candidate is **وَاهٍ**, flimsy, the grade for a very weak ḥadīth. Tell me which, or
-   send the sentence.
-2. **Where these come from:** this list and yesterday's both point to Riyāḍ al-Ṣāliḥīn, Bāb al-Ṣidq.
-   - Heraclius: تُرْجُمَان, and the commentaries' العَفَافُ: الكَفُّ عَنِ المَحَارِمِ وَخَوَارِمِ المُرُوءَةِ.
-   - The prophet who held back the sun: قَبِيلَة, لَزِقَتْ, عَجْزَنَا, خَلِفَات.
-   - Ḥakīm ibn Ḥizām's البَيِّعَانِ بِالخِيَارِ: الخِيَار, مُحِقَتْ.
+1. **The word كاهٍ isn't carded.** I can't place it as written. My bet is كَاهِن (kāhin), a soothsayer, with
+   the *-in* heard as tanwīn: the commentaries use that word to explain Heraclius being a حَزَّاء. The other
+   candidate is وَاهٍ (wāhin), flimsy, the grade for a very weak ḥadīth. Tell me which, or send the sentence.
+2. **The source looks like Riyāḍ al-Ṣāliḥīn, Bāb al-Ṣidq**, for this list and yesterday's:
+   - The Heraclius ḥadīth gives تُرْجُمَان (interpreter). The commentaries' definition of restraint gives the
+     words for refraining (الكَفّ) and for breaches of decorum (خَوَارِم المُرُوءَة).
+   - The prophet who held back the sun gives قَبِيلَة (tribe), لَزِقَتْ (stuck), عَجْز (inability) and
+     the plural of خَلِفَة (pregnant camel).
+   - The ḥadīth of the two parties to a sale gives الخِيَار (the option) and مُحِقَتْ (wiped out).
 
-   The 6 Oct list (تَسْلِيَة, تَبَرَّمَ, المَشَاقّ…) reads like Bāb al-Ṣabr. If that's right, I'll tag all three lists
-   to the Riyāḍ course.
+   The 6 Oct list reads like Bāb al-Ṣabr. If that's right, I'll tag all three lists to the Riyāḍ course.
 
 ## Decisions you should know about
 
-- **Slips corrected:**
-  - مروؤ → **مُرُوءَة**: the hamza sits on the line after a long ū, then ة.
-  - الفَسْق → **الفِسْق**: the maṣdar of فَسَقَ takes a kasrah.
-- **Already in the deck, so meaning card only:**
-  - **فِسْق**: فَسَقَ is voc-180, and its paradigm (voc-181) already ends in فِسْق.
-  - **أَدَاء**: أَدَّى is voc-025. Its paradigm (voc-026) gives the regular maṣdar تَأْدِيَة, and gains one note:
-    أَدَاء is its ism maṣdar, and the commoner noun. That edit is the one changed card in this batch.
-- **الكَفّ is carded as the maṣdar, refraining**, as in the definition of العَفَاف above. Its meaning card adds the
-  other common sense, the palm of the hand, so كَفَّيْهِ in wuḍūʾ doesn't catch you out.
-- **خوارم is carded as the phrase خَوَارِم المُرُوءَة**, with no singular card. It hardly occurs outside that phrase,
-  and its singular is given both as خَارِم and as خَارِمَة, so a card would have no single right answer.
-- **مُحِقَتْ and يُفَتِّشُونَ are carded under their verbs**, مَحَقَ and فَتَّشَ. The extra on each card names the
-  form you wrote.
-- **نَمَاء's paradigm ends in نَمَاء**, the word you learnt. Its extra gives the other maṣdar, نُمُوّ, and the variant
-  نَمَى يَنْمِي.
-- **Meaning card only, with no plural** for مُرُوءَة, خِيَار and سُمْعَة: their plurals aren't in use.
-- **Gloss index:** none of the 18 new meaning cards collides with an existing card. Two first glosses were changed to
-  keep it that way:
-  - أَمَل opens with "an expectation", because "hope" is nahw-096, التَّرَجِّي.
-  - كَفَّ is "to hold back", because "to refrain" is voc-201, اِمْتَنَعَ.
-- **Examples** come from the Qurʾān and from ḥadīth in this chapter: 2:276, 15:3, 28:4 and 49:13.
+- **Two slips corrected.** Your مروؤ is now مُرُوءَة: the hamza sits on the line after a long ū, then ة.
+  Your الفَسْق is now الفِسْق, because the maṣdar of فَسَقَ takes a kasrah.
+- **Two words get a meaning card only**, because their verbs are already in the deck:
+  - The noun فِسْق: its verb فَسَقَ is voc-180, and that paradigm (voc-181) already ends in فِسْق.
+  - The noun أَدَاء: its verb أَدَّى is voc-025. That paradigm (voc-026) gives the regular maṣdar تَأْدِيَة, and
+    it gains one note, that أَدَاء is its ism maṣdar and the commoner noun. This is the one changed card.
+- **Refraining is the sense carded for الكَفّ**, as in the definition of restraint above. Its meaning card adds
+  the other common sense, the palm of the hand, so that كَفَّيْهِ in wuḍūʾ doesn't catch you out.
+- **The phrase is carded, not the word:** خوارم goes in as خَوَارِم المُرُوءَة, with no singular card. It hardly
+  occurs outside that phrase, and its singular is given both as خَارِم and as خَارِمَة, so a card would have no
+  single right answer.
+- **Verbs are carded in their dictionary form.** Your مُحِقَتْ is under مَحَقَ, and your يُفَتِّشُونَ is
+  under فَتَّشَ. The extra on each card names the form you wrote.
+- **The paradigm for نَمَاء ends in نَمَاء**, the word you learnt. Its extra gives the other maṣdar, نُمُوّ, and
+  the variant نَمَى يَنْمِي.
+- **No plural card** for مُرُوءَة (decorum), خِيَار (option) or سُمْعَة (reputation): their plurals aren't in use.
+- **Gloss index:** none of the 18 new meaning cards collides with an existing card. Two glosses were chosen to keep
+  it that way:
+  - The gloss for أَمَل opens with "an expectation", because "hope" is the gloss for التَّرَجِّي (nahw-096).
+  - The gloss for كَفَّ is "to hold back", because "to refrain" is the gloss for اِمْتَنَعَ (voc-201).
+- **Examples** come from the Qurʾān (2:276, 15:3, 28:4, 49:13) and from ḥadīth in this chapter.
 - **Session tag `oct14`. All Tier 1.**
 
 ## Cards

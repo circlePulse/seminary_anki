@@ -141,6 +141,13 @@ once, and both times was objecting to files that had no reason to exist.
    label only.
 7. **Filenames carry a timestamp to the minute.** Two deliveries for the same deck on
    the same day once overwrote each other before the user had imported the first.
+8. **In chat replies and draft prose, open every paragraph and list item with an English word.** The Claude
+   app sets a block's direction from its first strong letter, and a whole list from its first item's. On
+   2026-10-14 a reply whose bullets opened with Arabic rendered right to left throughout ("it's all
+   backwards"). Inside a line, keep Arabic words apart with English, such as a gloss in parentheses:
+   `مُرُوءَة (decorum) or سُمْعَة (reputation)`. Never join them with only a comma or an arrow, because
+   Arabic–punctuation–Arabic becomes one right-to-left run and reverses the order. Write "your مروؤ is now
+   مُرُوءَة", not "مروؤ → مُرُوءَة".
 
 ## Pending
 
