@@ -1,23 +1,24 @@
-# Draft — vocabulary, 2026-10-14 (30 new notes, 1 edit)
+# Draft — vocabulary, 2026-10-14 (32 new notes, 1 edit)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-14 and delivered.**
 
-Source: a 19-word list pasted into the chat on 2026-10-14. It is not in Notion. 18 words are carded, and the
-19th, كاهٍ, is held back (below).
+Source: a 19-word list pasted into the chat on 2026-10-14. It is not in Notion. The user confirmed that it comes
+from Riyāḍ al-Ṣāliḥīn, Bāb al-Ṣidq, like the 10-13 list, and that the 10-06 list is Bāb al-Ṣabr. All three now
+carry a source tag: `riyad-sabr` (voc-193–230) and `riyad-sidq` (voc-231–323).
 
-## Check this first
+## Resolved with the user
 
-1. **The word كاهٍ isn't carded.** I can't place it as written. My bet is كَاهِن (kāhin), a soothsayer, with
-   the *-in* heard as tanwīn: the commentaries use that word to explain Heraclius being a حَزَّاء. The other
-   candidate is وَاهٍ (wāhin), flimsy, the grade for a very weak ḥadīth. Tell me which, or send the sentence.
-2. **The source looks like Riyāḍ al-Ṣāliḥīn, Bāb al-Ṣidq**, for this list and yesterday's:
+1. **The word كاهٍ is كَاهِن (kāhin), a soothsayer**, with the *-in* heard as tanwīn. It was held back from the
+   first draft, so it is carded last (voc-322–323) and the other ids didn't move. The other candidate had been
+   وَاهٍ (wāhin), flimsy.
+2. **The source is Riyāḍ al-Ṣāliḥīn, Bāb al-Ṣidq**, for this list and the 10-13 one:
    - The Heraclius ḥadīth gives تُرْجُمَان (interpreter). The commentaries' definition of restraint gives the
      words for refraining (الكَفّ) and for breaches of decorum (خَوَارِم المُرُوءَة).
    - The prophet who held back the sun gives قَبِيلَة (tribe), لَزِقَتْ (stuck), عَجْز (inability) and
      the plural of خَلِفَة (pregnant camel).
    - The ḥadīth of the two parties to a sale gives الخِيَار (the option) and مُحِقَتْ (wiped out).
 
-   The 6 Oct list reads like Bāb al-Ṣabr. If that's right, I'll tag all three lists to the Riyāḍ course.
+   The 6 Oct list is Bāb al-Ṣabr. Retagging the two older lists re-sends their 99 notes as changed.
 
 ## Decisions you should know about
 
@@ -37,7 +38,7 @@ Source: a 19-word list pasted into the chat on 2026-10-14. It is not in Notion. 
 - **The paradigm for نَمَاء ends in نَمَاء**, the word you learnt. Its extra gives the other maṣdar, نُمُوّ, and
   the variant نَمَى يَنْمِي.
 - **No plural card** for مُرُوءَة (decorum), خِيَار (option) or سُمْعَة (reputation): their plurals aren't in use.
-- **Gloss index:** none of the 18 new meaning cards collides with an existing card. Two glosses were chosen to keep
+- **Gloss index:** none of the 19 new meaning cards collides with an existing card. Two glosses were chosen to keep
   it that way:
   - The gloss for أَمَل opens with "an expectation", because "hope" is the gloss for التَّرَجِّي (nahw-096).
   - The gloss for كَفَّ is "to hold back", because "to refrain" is the gloss for اِمْتَنَعَ (voc-201).
@@ -78,6 +79,8 @@ Source: a 19-word list pasted into the chat on 2026-10-14. It is not in Notion. 
 | voc-319 | cloze | <div class="arabic">فَتَّشَ — {{c1::يُفَتِّشُ}} — {{c2::فَتِّشْ}} — {{c3::تَفْتِيش}}</div> | to search, to inspect closely · Form II · your <bdi>يُفَتِّشُونَ</bdi> is the muḍāriʿ, 3rd person masculine plural |
 | voc-320 | bidir | عَلَا | to rise, to be high — to rise above, to prevail (over — <bdi>عَلَى</bdi>) |
 | voc-321 | cloze | <div class="arabic">عَلَا — {{c1::يَعْلُو}} — {{c2::اُعْلُ}} — {{c3::عُلُوّ}}</div> | to rise, to be high · Form I (defective) · written with <bdi>ا</bdi>, not <bdi>ى</bdi>, because the root is <bdi>ع‑ل‑و</bdi> — unlike the preposition <bdi>عَلَى</bdi> · <bdi>إِنَّ فِرْعَوْنَ عَلَا فِي الأَرْضِ</bdi>, Pharaoh exalted himself in the land (28:4) |
+| voc-322 | bidir | كَاهِن | a soothsayer — one who claims to know the unseen and the future |
+| voc-323 | cloze | <div class="arabic">{{c2::كَاهِن}} (مُفْرَد) — {{c1::كُهَّان}} (جَمْع)</div> | a soothsayer · also <bdi>كَهَنَة</bdi> · his craft is <bdi>الكِهَانَة</bdi> · <bdi>وَلَا بِقَوْلِ كَاهِنٍ</bdi>, nor is it the word of a soothsayer (69:42) |
 
 ## Edit
 

@@ -37,12 +37,12 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,496 notes across 10 decks.**
+Current state: **1,528 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | quduri | 257 | HDT-201 |
-| vocab | 291 | VOCAB |
+| vocab | 323 | VOCAB |
 | arbaeen_ahadith | 222 | HDT-201 |
 | nahw | 208 | ARB-201 |
 | sarf | 219 | ARB-201 |
@@ -180,19 +180,15 @@ once, and both times was objecting to files that had no reason to exist.
   "right now" to *present continuous*, and each example sentence gives it away a second time.
   arbh-041 had the same defect and was rewritten on 2026-10-02 to blank the content
   instead of the labels. sarf-073 was flagged to the user and is awaiting their go-ahead.
-- **The 2026-10-06 vocabulary list (voc-193–230) has no source tag**, because the user didn't
-  say which text it came from. **voc-218 حَسَبَ is carded as "according to"**, which is
-  unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count", fits the same vowels and would collide
-  with أَحْصَى (voc-009).
+- **The vocabulary lists now follow the Riyāḍ class through the book.** The user confirmed on 2026-10-14
+  that the 10-06 list (voc-193–230) is Bāb al-Ṣabr, tagged `riyad-sabr`. The 10-13 and 10-14 lists
+  (voc-231–323) are Bāb al-Ṣidq, tagged `riyad-sidq`. Tag the next list by its chapter, and ask if it isn't
+  obvious from the words.
+- **voc-218 حَسَبَ is carded as "according to"**, which is unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count",
+  fits the same vowels and would collide with أَحْصَى (voc-009).
 - **The 2026-10-13 vocabulary list (voc-231–291) carries four readings the user hasn't confirmed.** الها was
   read as أَلْهَى, بوصل as يُوصِلُ, يقلق as قَلِقَ يَقْلَقُ, and قوط as قُوت (it could be القُوط, the Goths, or قَطُّ).
-  The user answered "looks good" without addressing them. The list has no source tag. Its words point to
-  Riyāḍ's chapter on truthfulness.
-- **The 2026-10-14 vocabulary list is drafted (voc-292–321, plus an edit to voc-026) and awaits approval**:
-  `drafts/draft_2026-10-14_vocab.md`. **كاهٍ is held back.** Claude's bet is كَاهِن, with the *-in* heard as
-  tanwīn; the other candidate is وَاهٍ. Its words come from Riyāḍ's Bāb al-Ṣidq: Heraclius, the prophet who held
-  back the sun, and البَيِّعَانِ بِالخِيَارِ. The 10-06 list reads like Bāb al-Ṣabr. Claude offered to tag all
-  three lists to the Riyāḍ course (HDT-202) once the user confirms.
+  The user answered "looks good" without addressing them.
 - **The derived-noun charts are uncarded (2026-10-09).** Your note says "(memorize singular, dual, plural
   charts for each)", but the chart is only a screenshot (CleanShot 2026-10-08 5.52 PM), filed under ism ālah.
   The network blocks `prod-files-secure.s3.us-west-2.amazonaws.com`. Card it once the user allows that host
