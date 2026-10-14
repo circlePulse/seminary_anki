@@ -44,6 +44,8 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | a personal ḥadīth collection kept by a companion | صَحِيفَة (ṣaḥīfah) | a personal ḥadīth collection kept by a Companion | HDT-201 | arb-029 |
 | a possessive phrase | المُرَكَّب الإِضَافِيّ | a possessive phrase — the first word is attributed to the second | ARB-201 | nahw-133 |
 | a pregnant she-camel | خَلِفَة | a pregnant she-camel | VOCAB | voc-304 |
+| a proof's signification | الدَّلَالَة (al-dalālah) | a proof's signification — how clear its meaning is, and whether it is  | HDT-201 | qud-276 |
+| a proof's transmission | الثُّبُوت (al-thubūt) | a proof's transmission — how it reached us: by tawātur, or as āḥād | HDT-201 | qud-275 |
 | a request or an offer | العَرْض (al-ʿarḍ) | a request or an offer | ARB-201 | nahw-098 |
 | a saw | مِنْشَار | a saw | VOCAB | voc-122 |
 | a sentence which has no possibility of being true or false | جُمْلَة إِنْشَائِيَّة | a sentence which has no possibility of being true or false — such as a | ARB-201 | nahw-077 |
@@ -112,6 +114,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | crimes | جِنَايَات (jināyāt) | crimes, offences, and their penalties — criminal law | HDT-201 | qud-025 |
 | decorum | مُرُوءَة | decorum, self-respect — the sense that keeps a person from anything un | VOCAB | voc-297 |
 | definite | مَعْرِفَة (maʿrifah) | definite | ARB-201 | nahw-111 |
+| definitive | قَطْعِيّ (qaṭʿī) | definitive — of evidence, wholly certain | HDT-201 | qud-273 |
 | deluded | مَغْرُور | deluded, self-deceived — conceited | VOCAB | voc-288 |
 | desire | التَّمَنِّي (al-tamannī) | desire — wanting what you do not deserve or expect | ARB-201 | nahw-095 |
 | division | قِسْمَة | division, apportionment — also one's allotted share | VOCAB | voc-205 |
@@ -184,6 +187,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | someone who is unclothed | عَارٍ | someone who is unclothed | VOCAB | voc-052 |
 | someone with no shoes | حَافٍ | someone with no shoes; barefoot | VOCAB | voc-050 |
 | something the prophet ﷺ did as a human being | سُنَّة زَائِدَة (sunnah zāʾidah) | something the Prophet ﷺ did as a human being, rather than as an act of | HDT-201 | qud-204 |
+| speculative | ظَنِّيّ (ẓannī) | speculative — of evidence, short of certain, though it can still be ve | HDT-201 | qud-274 |
 | sustenance | قُوت | sustenance — enough food to live on | VOCAB | voc-286 |
 | technically | اِصْطِلَاحًا (iṣṭilāḥan) | technically — a definition by the term's specialist usage | HDT-201 | qud-005 |
 | thanks given specifically in response to a favour received | شُكْر (shukr) | thanks given specifically in response to a favour received | HDT-201 | arb-065 |

@@ -3,7 +3,7 @@
  "topic": "quduri",
  "session": "sep09",
  "source": "Qudūrī — Intro to Qudūrī, class notes 2026-09-09",
- "expected_count": 257,
+ "expected_count": 279,
  "cards": [
   {
    "type": "basic",
@@ -3421,6 +3421,341 @@
    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: assorted points, wells, suʾr — class notes 2026-10-07",
    "front": "If the only water available is a donkey's or a mule's <bdi>سُؤْر</bdi>, what should one do?",
    "back": "Make wuḍūʾ with it, and also make tayammum"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-258",
+   "front": "What does <bdi>تَيَمُّم</bdi> mean linguistically?",
+   "back": "To aim for something, to intend it",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "definition"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-259",
+   "front": "What is <bdi>تَيَمُّم</bdi> in the Sharīʿah?",
+   "back": "Wiping the face, and the arms up to the elbows, with earth, with the intention of purification — the aim is not to put dirt on oneself",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "definition"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-260",
+   "front": "Where in the Qurʾān is tayammum legislated?",
+   "back": "Sūrat al-Māʾidah: <bdi>فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا</bdi> — “and you find no water, then seek clean earth” (5:6)",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "evidence"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-261",
+   "front": "What was the occasion for the revelation of tayammum?",
+   "back": "On a journey, ʿĀʾishah's necklace broke and was lost. The Prophet ﷺ and the people stayed to search for it where there was no water, and Abū Bakr came and rebuked her. They woke with still no water, and Allah revealed tayammum.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "evidence"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-262",
+   "front": "According to Abū Dharr's ḥadīth, for how long is clean earth a purifier for a Muslim who finds no water?",
+   "back": "Even ten years",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "evidence"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-263",
+   "front": "What did the Prophet ﷺ say of the earth, in Abū Umāmah's ḥadīth?",
+   "back": "That the whole of it is a masjid and a purifier",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "evidence"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-264",
+   "front": "What does tayammum remove?",
+   "back": "Both the minor and the major ritual impurity — <bdi>الحَدَث الأَصْغَر</bdi> and <bdi>الحَدَث الأَكْبَر</bdi> — so it stands in for ghusl as well as wuḍūʾ",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "criterion"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-265",
+   "front": "How far must water be before it counts as unavailable for tayammum?",
+   "back": "About a mile or more — roughly a half-hour walk",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "conditions"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-266",
+   "text": "Tayammum is allowed when one is unable to use water, as with {{c1::cold so extreme that one fears illness or injury, with no way to heat the water}}; {{c2::sickness}}; or {{c3::fear of thirst}}",
+   "extra": "The other ground is that water is unavailable — about a mile or more away.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "conditions",
+    "spine"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-267",
+   "front": "Which prayers may one make tayammum for, though water is at hand, for fear of missing them?",
+   "back": "The funeral prayer, if one is not the deceased's walī, and the ʿīd prayer — for the Ḥanafīs neither has a replacement or a make-up",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "conditions",
+    "criterion"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-268",
+   "front": "Why does fear of missing the Friday prayer not allow tayammum, when fear of missing the ʿīd prayer does?",
+   "back": "Jumuʿah has a replacement — ẓuhr. One makes wuḍūʾ, and prays ẓuhr if Jumuʿah is missed.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "conditions",
+    "contrast"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-269",
+   "front": "What may tayammum be made with, for the Ḥanafīs?",
+   "back": "Any pure substance of the earth that does not burn to ash and is not a metal — soil, sand, stone",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "materials",
+    "criterion"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-270",
+   "front": "How does the intention in tayammum differ from the intention in wuḍūʾ, for the Ḥanafīs?",
+   "back": "In tayammum it is obligatory; in wuḍūʾ it is only recommended (qud-168) — fittingly, <bdi>تَيَمُّم</bdi> itself means to intend",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "contrast"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-271",
+   "text": "Tayammum, in order: {{c1::make the intention}}; {{c2::strike the material once and wipe the whole face}}; {{c3::strike it a second time and wipe the arms, from the fingertips up to and including the elbows — right, then left}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "method",
+    "spine"
+   ],
+   "session": "oct14",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-272",
+   "front": "On what must the answer to any Islamic question be based?",
+   "back": "Evidence — <bdi>الدَّلِيل</bdi>, which is usually textual",
+   "tags": [
+    "quduri",
+    "ikhtilaf",
+    "usul",
+    "definition"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn / Qudūrī — ikhtilāf: the strength of evidence — class notes 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-273",
+   "term": "<bdi>قَطْعِيّ</bdi> (qaṭʿī)",
+   "meaning": "definitive — of evidence, wholly certain",
+   "tags": [
+    "quduri",
+    "ikhtilaf",
+    "usul",
+    "terminology"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn / Qudūrī — ikhtilāf: the strength of evidence — class notes 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-274",
+   "term": "<bdi>ظَنِّيّ</bdi> (ẓannī)",
+   "meaning": "speculative — of evidence, short of certain, though it can still be very strong",
+   "tags": [
+    "quduri",
+    "ikhtilaf",
+    "usul",
+    "terminology"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn / Qudūrī — ikhtilāf: the strength of evidence — class notes 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-275",
+   "term": "<bdi>الثُّبُوت</bdi> (al-thubūt)",
+   "meaning": "a proof's transmission — how it reached us: by tawātur, or as āḥād",
+   "tags": [
+    "quduri",
+    "ikhtilaf",
+    "usul",
+    "terminology"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn / Qudūrī — ikhtilāf: the strength of evidence — class notes 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-276",
+   "term": "<bdi>الدَّلَالَة</bdi> (al-dalālah)",
+   "meaning": "a proof's signification — how clear its meaning is, and whether it is open to interpretation",
+   "tags": [
+    "quduri",
+    "ikhtilaf",
+    "usul",
+    "terminology"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn / Qudūrī — ikhtilāf: the strength of evidence — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-277",
+   "front": "What is the highest standard of evidence?",
+   "back": "<bdi>قَطْعِيّ الثُّبُوت وَقَطْعِيّ الدَّلَالَة</bdi> — transmitted by tawātur, with a meaning not open to interpretation",
+   "tags": [
+    "quduri",
+    "ikhtilaf",
+    "usul",
+    "criterion"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn / Qudūrī — ikhtilāf: the strength of evidence — class notes 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-278",
+   "text": "Disagreement is allowed where a proof is ẓannī in some respect: <bdi>قَطْعِيّ الثُّبُوت، ظَنِّيّ الدَّلَالَة</bdi> — {{c1::its source is certain, but people differ on its meaning}}; <bdi>ظَنِّيّ الثُّبُوت، قَطْعِيّ الدَّلَالَة</bdi> — {{c2::its meaning is clear, but its transmission is weaker}}; <bdi>ظَنِّيّ الثُّبُوت، ظَنِّيّ الدَّلَالَة</bdi> — {{c3::both are speculative}}",
+   "extra": "Only the qaṭʿī–qaṭʿī proof leaves no room for disagreement.",
+   "tags": [
+    "quduri",
+    "ikhtilaf",
+    "usul",
+    "spine"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn / Qudūrī — ikhtilāf: the strength of evidence — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-279",
+   "front": "How certain is a ẓannī proof, compared with a qaṭʿī one?",
+   "back": "A qaṭʿī proof is 100% certain. A ẓannī one is not, but its certainty can still be very high — ẓannī doesn't mean 0%.",
+   "tags": [
+    "quduri",
+    "ikhtilaf",
+    "usul",
+    "criterion"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn / Qudūrī — ikhtilāf: the strength of evidence — class notes 2026-10-14"
   }
  ]
 }

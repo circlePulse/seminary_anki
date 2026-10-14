@@ -1,6 +1,6 @@
 # Draft — Qudūrī: tayammum, and Ikhtilāf (22 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-14 and delivered.**
 
 Source: the new *Tayammum* toggle under Qudūrī's Kitāb al-Ṭahārah, and the new top-level *Ikhtilaaf* toggle, as
 fetched on 2026-10-14. Session tag `oct14`.
