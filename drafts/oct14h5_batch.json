@@ -1,0 +1,382 @@
+{
+ "arbaeen_ahadith": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-223",
+   "front": "Who narrates the ḥadīth on innovation (Arbaʿīn 5)?",
+   "back": "ʿĀʾishah RA, the Mother of the Believers",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "narrator"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-224",
+   "front": "What kunya did the Prophet ﷺ give ʿĀʾishah RA, and after whom?",
+   "back": "Umm ʿAbd Allāh — <bdi>أُمُّ عَبْدِ اللهِ</bdi> — after her nephew, ʿAbd Allāh ibn al-Zubayr",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "narrator"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-225",
+   "front": "Where did the Prophet ﷺ marry ʿĀʾishah RA, and when did she move in with him?",
+   "back": "He married her in Makkah; she moved in with him in the second year after the Hijrah",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "narrator"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-226",
+   "front": "How old was ʿĀʾishah RA when the Prophet ﷺ died?",
+   "back": "Only 18",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "narrator"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-227",
+   "front": "When did ʿĀʾishah RA die, and who led her funeral prayer?",
+   "back": "In 57 AH, more than forty years after the Prophet ﷺ — Abū Hurayrah RA led her janāzah",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "narrator"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-228",
+   "front": "What standing in knowledge did ʿĀʾishah RA have among the Companions?",
+   "back": "She was one of the most knowledgeable of them — senior Companions came to her with their questions",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "narrator"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-229",
+   "text": "{{c1::2,210}} aḥādīth are narrated from ʿĀʾishah RA, {{c2::174}} of them muttafaq ʿalayh",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "narrator"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-230",
+   "front": "In the ḥadīth on innovation (Arbaʿīn 5), what becomes of whatever someone introduces into “this matter of ours” that is not from it?",
+   "back": "It is rejected — <bdi>فَهُوَ رَدٌّ</bdi> (Bukhārī and Muslim)",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "text"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-231",
+   "front": "What does Muslim's second wording of the ḥadīth on innovation say, and why is it the wider of the two?",
+   "back": "“Whoever does an act that our matter is not upon, it is rejected.” It covers anyone who does such an act, not only the one who first introduced it.",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "text",
+    "criterion"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-232",
+   "text": "Imām Aḥmad held that Islam is built on three ḥadīth: {{c1::“Actions are only by intentions”}} (Arbaʿīn 1); {{c2::“Whoever introduces into this matter of ours…”}} (Arbaʿīn 5); and {{c3::“The permissible is clear…”}} (Arbaʿīn 6)",
+   "extra": "So the ḥadīth on innovation explains one of Islam's foundational teachings.",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "foundations"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-233",
+   "front": "What is the ḥadīth on innovation the scale for, and how does it pair with the ḥadīth on intentions?",
+   "back": "Outward acts. A deed not upon the Sharīʿah's guidance is rejected, just as a deed that isn't sincere is rejected — so once we are sincere, the outward performance must also be correct.",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "foundations",
+    "criterion"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-234",
+   "front": "Among which kind of the Prophet's ﷺ sayings is the ḥadīth on innovation counted?",
+   "back": "<bdi>جَوَامِع الكَلِم</bdi> — the concise, comprehensive sayings he was given: few words, profound meaning",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "foundations"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-235",
+   "front": "What kind of “new” thing is the ḥadīth on innovation about?",
+   "back": "A new theological belief or a new ritual devotional practice — it clarifies the concept, and the consequence, of adding one",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-236",
+   "front": "What is <bdi>بِدْعَة</bdi> linguistically?",
+   "back": "Something new — newly invented",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah",
+    "terminology"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-237",
+   "text": "In the Sharīʿah, a <bdi>بِدْعَة</bdi> is a religious innovation: {{c1::not done — in word or deed, explicitly or implicitly — in the time of the Prophet ﷺ, the rightly guided caliphs or the early generations}}, {{c2::though the need for it existed then}}; {{c3::with no proof for it in the Qurʾān, the Sunnah or ijmāʿ}}; and done {{c4::to gain more reward}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah",
+    "definition"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-238",
+   "front": "What two things make an innovation blameworthy?",
+   "back": "It has no proof, evidence or basis in the Sharīʿah — and the person believes it is part of the dīn",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah",
+    "criterion"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-239",
+   "front": "In the lesson on the ḥadīth on innovation, what is Islam, as opposed to innovating?",
+   "back": "Submission and following",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-240",
+   "front": "Between Islam and people, which way does the ḥadīth on innovation make sure the change runs?",
+   "back": "Islam changes the people — not the other way round",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah",
+    "criterion"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-241",
+   "front": "What does Allah command in the verse cited with the ḥadīth on innovation?",
+   "back": "“This is My path, leading straight, so follow it, and do not follow other ways” — al-Anʿām 6:153",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah",
+    "evidence"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-242",
+   "front": "Which innovations are rejected, and where above all?",
+   "back": "Every blameworthy innovation — above all in acts of worship",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-243",
+   "front": "What new things do not go against the teachings of the Sharīʿah?",
+   "back": "Compiling the Qurʾān and the ḥadīth, codifying the Islamic sciences, and the like",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-244",
+   "text": "Imām al-Shāfiʿī: what has been innovated that goes against {{c1::the Qurʾān, the Sunnah, consensus or a narration}} is {{c2::a misguided innovation}}; whatever has been invented that goes against none of these is {{c3::a praiseworthy innovation}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah",
+    "quote"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-245",
+   "front": "Which of ʿUmar RA's acts shows the word bidʿah used in its linguistic sense?",
+   "back": "Gathering the people for tarāwīḥ behind one imām, of which he said “What an excellent bidʿah this is” — <bdi>نِعْمَتِ البِدْعَةُ هَذِهِ</bdi>",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah",
+    "criterion"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-246",
+   "front": "What does the lesson on the ḥadīth on innovation conclude about Islam itself?",
+   "back": "That it is a perfect and complete religion, which doesn't need to be altered, changed or reformed",
+   "tags": [
+    "arbaeen",
+    "h05",
+    "bidah"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  }
+ ],
+ "vocab": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-338",
+   "term": "أَحْدَثَ",
+   "meaning": "to introduce something new, to originate (literally, to bring forth) — in fiqh, to break one's wuḍūʾ",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h05"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 5 — vocab in the class notes, 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-339",
+   "text": "<div class=\"arabic\">أَحْدَثَ — {{c1::يُحْدِثُ}} — {{c2::أَحْدِثْ}} — {{c3::إِحْدَاث}}</div>",
+   "extra": "to introduce something new · Form IV · <bdi>مَنْ أَحْدَثَ فِي أَمْرِنَا هَذَا مَا لَيْسَ مِنْهُ فَهُوَ رَدٌّ</bdi> (Arbaʿīn 5) · same root as <bdi>الحَدَث</bdi>, ritual impurity",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h05"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 5 — vocab in the class notes, 2026-10-14"
+  }
+ ]
+}
