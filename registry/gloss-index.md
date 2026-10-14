@@ -309,6 +309,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to hurl or plunge someone into | أَقْحَمَ | to hurl or plunge someone into | VOCAB | voc-094 |
 | to imagine | تَصَوَّرَ | to imagine, to conceive (of) | VOCAB | voc-210 |
 | to incline | مَالَ | to incline, to lean toward | VOCAB | voc-096 |
+| to introduce something new | أَحْدَثَ | to introduce something new, to originate (literally, to bring forth) — | VOCAB | voc-338 |
 | to judge | حَكَمَ | to judge, to rule | VOCAB | voc-154 |
 | to kill | قَتَلَ | to kill | VOCAB | voc-182 |
 | to leave | تَرَكَ | to leave, to abandon | VOCAB | voc-148 |

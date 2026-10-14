@@ -244,11 +244,9 @@
    "source": "Arbaʿīn Ḥadīth 5 — class notes"
   },
   {
-   "type": "basic",
+   "type": "cloze",
    "tier": 1,
    "id": "arbh-240",
-   "front": "Between Islam and people, which way does the ḥadīth on innovation make sure the change runs?",
-   "back": "Islam changes the people — not the other way round",
    "tags": [
     "arbaeen",
     "h05",
@@ -256,7 +254,9 @@
     "criterion"
    ],
    "session": "oct14",
-   "source": "Arbaʿīn Ḥadīth 5 — class notes"
+   "source": "Arbaʿīn Ḥadīth 5 — class notes",
+   "text": "In the lesson on the ḥadīth on innovation, the Prophet ﷺ is ensuring that {{c1::Islam changes the people — not the people Islam}}",
+   "extra": ""
   },
   {
    "type": "basic",

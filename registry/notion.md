@@ -115,6 +115,9 @@ Corrections on the cards only:
 The other pages had nothing new: Riyāḍ, Durūs, and Arbaʿīn/Qudūrī apart from Ḥadīth 6's narrator. The old
 `START HERE` marker in Qudūrī's nullifiers of wuḍūʾ has been removed by the user.
 
+Carded on 2026-10-14 (last): Arbaʿīn Ḥadīth 5 (arbh-223–246), and its vocab أَحْدَثَ (voc-338–339, `h05`), per the
+CLAUDE note in the notes. Ḥadīth 6 carries "CLAUDE NOTE: DON'T START YET".
+
 Carded on 2026-10-14 (later): Qudūrī tayammum (qud-258–271), and the new top-level *Ikhtilaaf* toggle (qud-272–279).
 The user put Ikhtilāf in the Qudūrī deck. From al-Qudūrī's text: "about a mile", and Jumuʿah having a
 replacement (ẓuhr).

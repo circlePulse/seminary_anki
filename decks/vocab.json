@@ -4723,7 +4723,38 @@
    ],
    "session": "oct14",
    "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-338",
+   "term": "أَحْدَثَ",
+   "meaning": "to introduce something new, to originate (literally, to bring forth) — in fiqh, to break one's wuḍūʾ",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h05"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 5 — vocab in the class notes, 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-339",
+   "text": "<div class=\"arabic\">أَحْدَثَ — {{c1::يُحْدِثُ}} — {{c2::أَحْدِثْ}} — {{c3::إِحْدَاث}}</div>",
+   "extra": "to introduce something new · Form IV · <bdi>مَنْ أَحْدَثَ فِي أَمْرِنَا هَذَا مَا لَيْسَ مِنْهُ فَهُوَ رَدٌّ</bdi> (Arbaʿīn 5) · same root as <bdi>الحَدَث</bdi>, ritual impurity",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h05"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 5 — vocab in the class notes, 2026-10-14"
   }
  ],
- "expected_count": 337
+ "expected_count": 339
 }

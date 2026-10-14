@@ -37,13 +37,13 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,748 notes across 10 decks.**
+Current state: **1,774 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | quduri | 279 | HDT-201 |
-| vocab | 337 | VOCAB |
-| arbaeen_ahadith | 222 | HDT-201 |
+| vocab | 339 | VOCAB |
+| arbaeen_ahadith | 246 | HDT-201 |
 | nahw | 225 | ARB-201 |
 | sarf | 219 | ARB-201 |
 | wrel | 191 | RELSTD-5B |
@@ -187,6 +187,10 @@ once, and both times was objecting to files that had no reason to exist.
 - **Calculus II and Tazkiyah are on hold.** The user said "don't do calculus or tazkiya yet" on 2026-10-14.
   Calculus II now has a *Review* section of formulas, and Tazkiyah has never been carded. Neither has a deck.
   Don't card or draft either until the user asks.
+- **Ḥadīth 5 (arbh-223–246) has two points the user was asked to check with the teacher.** First, the notes say
+  ʿĀʾishah RA moved in during year 2 AH, while most sources say Shawwāl of year 1. Second, the notes say she lived
+  "40 years" after the Prophet ﷺ, but 57 − 11 AH is 46, so the card says "more than forty". Its matn, in
+  `texts/arbaeen_h05.md`, was supplied by Claude from the standard text, not from the user's copy.
 - **Ḥadīth 6 has only its narrator so far (2026-10-14).** The user is writing the notes and will say when to
   scan. Its verbs are already in `vocab` (h06).
 - **voc-218 حَسَبَ is carded as "according to"**, which is unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count",

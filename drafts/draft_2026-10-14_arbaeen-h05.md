@@ -1,6 +1,6 @@
 # Draft — Arbaʿīn Ḥadīth 5, on innovation (24 + 2 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-14 and delivered.**
 
 Source: the new *Hadith #5* toggle on the Arbaʿīn/Qudūrī page, as fetched on 2026-10-14. Session tag `oct14`.
 Ḥadīth 6 is untouched, as its CLAUDE note asks.
@@ -32,6 +32,8 @@ Source: the new *Hadith #5* toggle on the Arbaʿīn/Qudūrī page, as fetched on
   vocab card rather than repeated here.
 - **Imam Aḥmad's three ḥadīth** weren't carded when your notes first covered them, so they're carded now.
 - **The matn** is saved in `texts/arbaeen_h05.md` for reference, as Ḥadīth 4's was. It's not carded.
+- **arbh-240 became a cloze after approval:** as a question ("which way does the change run?") it was a
+  two-way choice.
 - **All Tier 1.**
 
 ## Cards — arbaeen_ahadith (24)
@@ -55,7 +57,7 @@ Source: the new *Hadith #5* toggle on the Arbaʿīn/Qudūrī page, as fetched on
 | arbh-237 | cloze | In the Sharīʿah, a <bdi>بِدْعَة</bdi> is a religious innovation: {{c1::not done — in word or deed, explicitly or implicitly — in the time of the Prophet ﷺ, the rightly guided caliphs or the early generations}}, {{c2::though the need for it existed then}}; {{c3::with no proof for it in the Qurʾān, the Sunnah or ijmāʿ}}; and done {{c4::to gain more reward}} |  |
 | arbh-238 | basic | What two things make an innovation blameworthy? | It has no proof, evidence or basis in the Sharīʿah — and the person believes it is part of the dīn |
 | arbh-239 | basic | In the lesson on the ḥadīth on innovation, what is Islam, as opposed to innovating? | Submission and following |
-| arbh-240 | basic | Between Islam and people, which way does the ḥadīth on innovation make sure the change runs? | Islam changes the people — not the other way round |
+| arbh-240 | cloze | In the lesson on the ḥadīth on innovation, the Prophet ﷺ is ensuring that {{c1::Islam changes the people — not the people Islam}} |  |
 | arbh-241 | basic | What does Allah command in the verse cited with the ḥadīth on innovation? | “This is My path, leading straight, so follow it, and do not follow other ways” — al-Anʿām 6:153 |
 | arbh-242 | basic | Which innovations are rejected, and where above all? | Every blameworthy innovation — above all in acts of worship |
 | arbh-243 | basic | What new things do not go against the teachings of the Sharīʿah? | Compiling the Qurʾān and the ḥadīth, codifying the Islamic sciences, and the like |

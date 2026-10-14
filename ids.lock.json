@@ -169,7 +169,7 @@
   "arbaeen_ahadith": {
    "course": "HDT-201",
    "topic": "arbaeen-ahadith",
-   "count": 222,
+   "count": 246,
    "ids": [
     "arbh-001",
     "arbh-002",
@@ -392,7 +392,31 @@
     "arbh-219",
     "arbh-220",
     "arbh-221",
-    "arbh-222"
+    "arbh-222",
+    "arbh-223",
+    "arbh-224",
+    "arbh-225",
+    "arbh-226",
+    "arbh-227",
+    "arbh-228",
+    "arbh-229",
+    "arbh-230",
+    "arbh-231",
+    "arbh-232",
+    "arbh-233",
+    "arbh-234",
+    "arbh-235",
+    "arbh-236",
+    "arbh-237",
+    "arbh-238",
+    "arbh-239",
+    "arbh-240",
+    "arbh-241",
+    "arbh-242",
+    "arbh-243",
+    "arbh-244",
+    "arbh-245",
+    "arbh-246"
    ],
    "fp": {
     "arbh-001": "ca1429b96863",
@@ -616,7 +640,31 @@
     "arbh-219": "aceef301139d",
     "arbh-220": "43453f8dc1fe",
     "arbh-221": "94bc8fb5d3f9",
-    "arbh-222": "5d4ff171aae2"
+    "arbh-222": "5d4ff171aae2",
+    "arbh-223": "89434af8717f",
+    "arbh-224": "5138b94d35f2",
+    "arbh-225": "babbd4f728ef",
+    "arbh-226": "d0f25c68d600",
+    "arbh-227": "925134d0b537",
+    "arbh-228": "0bf899c4cae5",
+    "arbh-229": "beed862c2610",
+    "arbh-230": "553b2fd3a044",
+    "arbh-231": "3f570ea6f94d",
+    "arbh-232": "a524d18947dc",
+    "arbh-233": "481fc1b74c63",
+    "arbh-234": "ec920951f19e",
+    "arbh-235": "abb5deb3ff98",
+    "arbh-236": "99e20aab7281",
+    "arbh-237": "c5577ce1f86e",
+    "arbh-238": "9b6a2f87e2a4",
+    "arbh-239": "bd238cd06ef2",
+    "arbh-240": "d5d44071f917",
+    "arbh-241": "3a82ff6cee4c",
+    "arbh-242": "db9d16c1d8c9",
+    "arbh-243": "a2207247a8e4",
+    "arbh-244": "e4354316f862",
+    "arbh-245": "145cdfb63aec",
+    "arbh-246": "c4a6741733e1"
    }
   },
   "nahw": {
@@ -2517,7 +2565,7 @@
   "vocab": {
    "course": "VOCAB",
    "topic": "verbs-01",
-   "count": 337,
+   "count": 339,
    "ids": [
     "voc-001",
     "voc-002",
@@ -2855,7 +2903,9 @@
     "voc-334",
     "voc-335",
     "voc-336",
-    "voc-337"
+    "voc-337",
+    "voc-338",
+    "voc-339"
    ],
    "fp": {
     "voc-001": "4b725ff038f0",
@@ -3194,7 +3244,9 @@
     "voc-334": "af4d57e966dd",
     "voc-335": "f85ef2899ea1",
     "voc-336": "665686101cc0",
-    "voc-337": "6594e48caa54"
+    "voc-337": "6594e48caa54",
+    "voc-338": "4df51ab1565a",
+    "voc-339": "4400de61b5fa"
    }
   },
   "wrel": {
