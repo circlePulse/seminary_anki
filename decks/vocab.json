@@ -2360,7 +2360,9 @@
     "vocab",
     "sarf",
     "bab-nasara",
-    "verbs"
+    "verbs",
+    "arbaeen",
+    "h06"
    ]
   },
   {
@@ -2369,13 +2371,15 @@
    "id": "voc-177",
    "session": "sep30",
    "text": "<div class=\"arabic\">صَلَحَ — {{c1::يَصْلُحُ}} — {{c2::اُصْلُحْ}} — {{c3::صَلَاح}}</div>",
-   "extra": "to be sound, to be right · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · صَلُحَ, bāb كَرُمَ, is also attested",
+   "extra": "to be sound, to be right · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · <bdi>صَلُحَ</bdi>, bāb <bdi>كَرُمَ</bdi>, is also attested",
    "tags": [
     "vocab",
     "sarf",
     "bab-nasara",
     "verbs",
-    "paradigm"
+    "paradigm",
+    "arbaeen",
+    "h06"
    ]
   },
   {
@@ -4502,7 +4506,224 @@
    ],
    "session": "oct14",
    "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-324",
+   "term": "اِشْتَبَهَ",
+   "meaning": "to be ambiguous, to be unclear (to — <bdi>عَلَى</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-325",
+   "text": "<div class=\"arabic\">اِشْتَبَهَ — {{c1::يَشْتَبِهُ}} — {{c2::اِشْتَبِهْ}} — {{c3::اِشْتِبَاه}}</div>",
+   "extra": "to be ambiguous, to be unclear · Form VIII · its ism fāʿil is in the ḥadīth: <bdi>وَبَيْنَهُمَا أُمُورٌ مُشْتَبِهَاتٌ</bdi>, and between them are ambiguous matters · same root as <bdi>شُبْهَة</bdi>, a doubtful matter (pl. <bdi>شُبُهَات</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-326",
+   "term": "اِتَّقَى",
+   "meaning": "to guard against, to beware of — of Allah, to be mindful of Him",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-327",
+   "text": "<div class=\"arabic\">اِتَّقَى — {{c1::يَتَّقِي}} — {{c2::اِتَّقِ}} — {{c3::اِتِّقَاء}}</div>",
+   "extra": "to guard against, to beware of · Form VIII (assimilated + defective) · from <bdi>و‑ق‑ي</bdi>: the <bdi>و</bdi> becomes <bdi>ت</bdi> and merges with the <bdi>ت</bdi> of Form VIII · <bdi>فَمَنِ اتَّقَى الشُّبُهَاتِ</bdi>, so whoever guards against the doubtful matters",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-328",
+   "term": "اِسْتَبْرَأَ",
+   "meaning": "to seek to be clear (of blame or doubt) — to make sure one is free of something",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-329",
+   "text": "<div class=\"arabic\">اِسْتَبْرَأَ — {{c1::يَسْتَبْرِئُ}} — {{c2::اِسْتَبْرِئْ}} — {{c3::اِسْتِبْرَاء}}</div>",
+   "extra": "to seek to be clear · Form X (hamzated) · <bdi>فَقَدِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ</bdi>, he has kept his religion and his honour clear · in fiqh, <bdi>اِسْتِبْرَاء</bdi> is making sure no urine remains after relieving oneself",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-330",
+   "term": "رَعَى",
+   "meaning": "to graze (livestock), to pasture them — also, to look after, to care for",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-331",
+   "text": "<div class=\"arabic\">رَعَى — {{c1::يَرْعَى}} — {{c2::اِرْعَ}} — {{c3::رَعْي}}</div>",
+   "extra": "to graze · Form I (defective) · your yar'ee is <bdi>يَرْعَى</bdi> (yarʿā): <bdi>ع</bdi> is a throat letter, and a <bdi>فَعَلَ</bdi> verb with one in the middle or last place usually takes fatḥah in the muḍāriʿ, like <bdi>فَتَحَ يَفْتَحُ</bdi> · also <bdi>رِعَايَة</bdi>, care",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-332",
+   "term": "أَوْشَكَ",
+   "meaning": "to be about to, to be on the verge of",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-333",
+   "text": "<div class=\"arabic\">أَوْشَكَ — {{c1::يُوشِكُ}}</div>",
+   "extra": "to be about to · Form IV (assimilated) · only its māḍī and muḍāriʿ are in use · one of the verbs of nearness (<bdi>أَفْعَال المُقَارَبَة</bdi>): its khabar is a muḍāriʿ, nearly always with <bdi>أَنْ</bdi>, as in <bdi>يُوشِكُ أَنْ يَرْتَعَ فِيهِ</bdi>, he is about to graze in it",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-334",
+   "term": "رَتَعَ",
+   "meaning": "to roam and graze at will — to enjoy oneself freely",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-335",
+   "text": "<div class=\"arabic\">رَتَعَ — {{c1::يَرْتَعُ}} — {{c2::اِرْتَعْ}} — {{c3::رَتْع}}</div>",
+   "extra": "to roam and graze at will · Form I · bāb <bdi>فَتَحَ يَفْتَحُ</bdi> · also <bdi>رُتُوع</bdi> · <bdi>يَرْتَعْ وَيَلْعَبْ</bdi>, that he may enjoy himself and play (12:12)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-336",
+   "term": "فَسَدَ",
+   "meaning": "to go bad, to be corrupt — in fiqh, of a prayer or fast: to be invalidated",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-337",
+   "text": "<div class=\"arabic\">فَسَدَ — {{c1::يَفْسُدُ}} — {{c2::اُفْسُدْ}} — {{c3::فَسَاد}}</div>",
+   "extra": "to go bad, to be corrupt · Form I · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · the opposite of <bdi>صَلَحَ</bdi> (voc-176) · <bdi>وَإِذَا فَسَدَتْ فَسَدَ الجَسَدُ كُلُّهُ</bdi>, and when it is corrupt, the whole body is corrupt",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct14",
+   "source": "Arbaʿīn, Ḥadīth 6 — verb list supplied 2026-10-14"
   }
  ],
- "expected_count": 323
+ "expected_count": 337
 }

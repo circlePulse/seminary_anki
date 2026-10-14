@@ -37,12 +37,12 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,528 notes across 10 decks.**
+Current state: **1,542 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | quduri | 257 | HDT-201 |
-| vocab | 323 | VOCAB |
+| vocab | 337 | VOCAB |
 | arbaeen_ahadith | 222 | HDT-201 |
 | nahw | 208 | ARB-201 |
 | sarf | 219 | ARB-201 |
@@ -155,7 +155,7 @@ once, and both times was objecting to files that had no reason to exist.
   `skill/scripts/wrap_arabic.py decks/X.json` does it (report only; add `--write`), and
   refuses to write unless stripping the tags back out leaves the text byte-identical.
   **Sarf is done** (139 fields, 2026-10-02, after the user hit a scrambled sarf-080). Still
-  to do, as of 2026-10-08: nahw 170, quduri 118, arbaeen 34, vocab 14, arbaeen_ahadith 10,
+  to do, as of 2026-10-08: nahw 170, quduri 118, arbaeen 34, vocab 13 (voc-177 was wrapped on 2026-10-14 when a retag re-sent it), arbaeen_ahadith 10,
   arbaeen2 6, riyad 4. These are lower than first counted because a field whose only Arabic
   is ﷺ no longer counts. Each deck shows a large delta afterwards, which is correct.
   Offered to the user; do these only on their go-ahead.

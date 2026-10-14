@@ -247,6 +247,8 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to abide forever | خَلَدَ | to abide forever | VOCAB | voc-158 |
 | to admit of | اِحْتَمَلَ | to admit of, to allow for (a meaning) — also to put up with (harm) | VOCAB | voc-216 |
 | to appear | طَلَعَ | to appear | VOCAB | voc-032 |
+| to be about to | أَوْشَكَ | to be about to, to be on the verge of | VOCAB | voc-332 |
+| to be ambiguous | اِشْتَبَهَ | to be ambiguous, to be unclear (to — عَلَى) | VOCAB | voc-324 |
 | to be anxious | قَلِقَ | to be anxious, to be restless | VOCAB | voc-274 |
 | to be capable of | أَطَاقَ | to be capable of, to have the strength for | VOCAB | voc-212 |
 | to be certain | أَيْقَنَ | to be certain, to be convinced (of — بِـ) | VOCAB | voc-229 |
@@ -283,9 +285,12 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to follow | اِقْتَدَى | to follow, to take as a model | VOCAB | voc-017 |
 | to gather | حَشَرَ | to gather, to assemble | VOCAB | voc-152 |
 | to give birth | وَلَدَ | to give birth | VOCAB | voc-038 |
+| to go bad | فَسَدَ | to go bad, to be corrupt — in fiqh, of a prayer or fast: to be invalid | VOCAB | voc-336 |
 | to go out | خَرَجَ | to go out | VOCAB | voc-156 |
+| to graze (livestock) | رَعَى | to graze (livestock), to pasture them — also, to look after, to care f | VOCAB | voc-330 |
 | to greet with salām | سَلَّمَ | to greet with salām; to submit; to hand over | VOCAB | voc-136 |
 | to grow old | كَبِرَ | to grow old | VOCAB | voc-078 |
+| to guard against | اِتَّقَى | to guard against, to beware of — of Allah, to be mindful of Him | VOCAB | voc-326 |
 | to happen at midmorning | أَضْحَى | to happen at midmorning — or simply “became”; a sister of كَانَ | ARB-201 | nahw-200 |
 | to happen during the day | ظَلَّ | to happen during the day — or simply “became”; a sister of كَانَ | ARB-201 | nahw-201 |
 | to happen during the night | بَاتَ | to happen during the night — or simply “became”; a sister of كَانَ | ARB-201 | nahw-202 |
@@ -317,8 +322,10 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to refuse | أَبَى | to refuse | VOCAB | voc-090 |
 | to rely on | اِعْتَمَدَ | to rely on | VOCAB | voc-019 |
 | to rise | عَلَا | to rise, to be high — to rise above, to prevail (over — عَلَى) | VOCAB | voc-320 |
+| to roam and graze at will | رَتَعَ | to roam and graze at will — to enjoy oneself freely | VOCAB | voc-334 |
 | to search | فَتَّشَ | to search, to inspect closely | VOCAB | voc-318 |
 | to see | رَأَى | to see | VOCAB | voc-036 |
+| to seek to be clear (of blame or doubt) | اِسْتَبْرَأَ | to seek to be clear (of blame or doubt) — to make sure one is free of  | VOCAB | voc-328 |
 | to seek what is good | اِسْتَخَارَ | to seek what is good | VOCAB | voc-015 |
 | to send | بَعَثَ | to send; to resurrect | VOCAB | voc-080 |
 | to sit | قَعَدَ | to sit | VOCAB | voc-184 |

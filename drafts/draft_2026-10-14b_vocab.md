@@ -1,6 +1,6 @@
 # Draft — Ḥadīth 6 verbs, 2026-10-14 (14 new notes, 2 retagged)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-14 and delivered.**
 
 Source: eight māḍī/muḍāriʿ pairs pasted into the chat in transliteration on 2026-10-14. They are the verbs of
 Ḥadīth 6 (al-ḥalālu bayyin), in the order they occur in it, so they're tagged `arbaeen` and `h06`, like the
