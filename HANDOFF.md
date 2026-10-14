@@ -181,6 +181,11 @@ once, and both times was objecting to files that had no reason to exist.
   read as أَلْهَى, بوصل as يُوصِلُ, يقلق as قَلِقَ يَقْلَقُ, and قوط as قُوت (it could be القُوط, the Goths, or قَطُّ).
   The user answered "looks good" without addressing them. The list has no source tag. Its words point to
   Riyāḍ's chapter on truthfulness.
+- **The 2026-10-14 vocabulary list is drafted (voc-292–321, plus an edit to voc-026) and awaits approval**:
+  `drafts/draft_2026-10-14_vocab.md`. **كاهٍ is held back.** Claude's bet is كَاهِن, with the *-in* heard as
+  tanwīn; the other candidate is وَاهٍ. Its words come from Riyāḍ's Bāb al-Ṣidq: Heraclius, the prophet who held
+  back the sun, and البَيِّعَانِ بِالخِيَارِ. The 10-06 list reads like Bāb al-Ṣabr. Claude offered to tag all
+  three lists to the Riyāḍ course (HDT-202) once the user confirms.
 - **The derived-noun charts are uncarded (2026-10-09).** Your note says "(memorize singular, dual, plural
   charts for each)", but the chart is only a screenshot (CleanShot 2026-10-08 5.52 PM), filed under ism ālah.
   The network blocks `prod-files-secure.s3.us-west-2.amazonaws.com`. Card it once the user allows that host

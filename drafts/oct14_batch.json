@@ -1,0 +1,416 @@
+{
+ "edits": {
+  "voc-026": {
+   "extra": "to convey, to deliver · Form II (defective) · <bdi>أَدَاء</bdi> is its ism maṣdar, and the commoner noun (voc-314)"
+  }
+ },
+ "new": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-292",
+   "term": "تُرْجُمَان",
+   "meaning": "an interpreter, a translator",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-293",
+   "text": "<div class=\"arabic\">{{c2::تُرْجُمَان}} (مُفْرَد) — {{c1::تَرَاجِمَة}} (جَمْع)</div>",
+   "extra": "an interpreter, a translator · also <bdi>تَرَاجِم</bdi>, which is also the plural of <bdi>تَرْجَمَة</bdi>, a biography",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-294",
+   "term": "كَفّ",
+   "meaning": "refraining, holding back (from — <bdi>عَنْ</bdi>) — also, the palm of the hand",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-295",
+   "text": "<div class=\"arabic\">كَفَّ — {{c1::يَكُفُّ}} — {{c2::كُفَّ}} — {{c3::كَفّ}}</div>",
+   "extra": "to hold back, to refrain · Form I (doubled) · the <bdi>أَمْر</bdi> is also <bdi>اُكْفُفْ</bdi> · <bdi>العَفَافُ: الكَفُّ عَنِ المَحَارِمِ وَخَوَارِمِ المُرُوءَةِ</bdi>, the commentaries' definition of restraint",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-296",
+   "term": "<bdi>خَوَارِم المُرُوءَة</bdi> (khawārim al-murūʾah)",
+   "meaning": "breaches of decorum — conduct unbecoming of a person of standing, judged by custom; it counts against a witness's or narrator's probity (<bdi>عَدَالَة</bdi>)",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-297",
+   "term": "مُرُوءَة",
+   "meaning": "decorum, self-respect — the sense that keeps a person from anything unbecoming (lit. manliness)",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-298",
+   "term": "قَبِيلَة",
+   "meaning": "a tribe",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-299",
+   "text": "<div class=\"arabic\">{{c2::قَبِيلَة}} (مُفْرَد) — {{c1::قَبَائِل}} (جَمْع)</div>",
+   "extra": "a tribe · <bdi>وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا</bdi>, and made you peoples and tribes so that you may know one another (49:13)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-300",
+   "term": "لَزِقَ",
+   "meaning": "to stick, to cling (to — <bdi>بِ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-301",
+   "text": "<div class=\"arabic\">لَزِقَ — {{c1::يَلْزَقُ}} — {{c2::اِلْزَقْ}} — {{c3::لُزُوق}}</div>",
+   "extra": "to stick, to cling · Form I · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · a variant of <bdi>لَصِقَ</bdi> · <bdi>فَلَزِقَتْ يَدُ رَجُلٍ بِيَدِهِ</bdi>, a man's hand stuck to his",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-302",
+   "term": "عَجْز",
+   "meaning": "inability, incapacity — being unable (to do — <bdi>عَنْ</bdi>)",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-303",
+   "text": "<div class=\"arabic\">عَجَزَ — {{c1::يَعْجِزُ}} — {{c2::اِعْجِزْ}} — {{c3::عَجْز}}</div>",
+   "extra": "to be unable · Form I · bāb <bdi>ضَرَبَ يَضْرِبُ</bdi> · also <bdi>عَجِزَ يَعْجَزُ</bdi> · <bdi>اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ العَجْزِ وَالكَسَلِ</bdi>, O Allah, I seek refuge in You from incapacity and laziness",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-304",
+   "term": "خَلِفَة",
+   "meaning": "a pregnant she-camel",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-305",
+   "text": "<div class=\"arabic\">{{c2::خَلِفَة}} (مُفْرَد) — {{c1::خَلِفَات}} (جَمْع)</div>",
+   "extra": "a pregnant she-camel",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-306",
+   "term": "خِيَار",
+   "meaning": "an option, a choice — in a sale, the right to confirm or cancel it",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-307",
+   "term": "مَحَقَ",
+   "meaning": "to wipe out, to blot out — esp. the blessing in something",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-308",
+   "text": "<div class=\"arabic\">مَحَقَ — {{c1::يَمْحَقُ}} — {{c2::اِمْحَقْ}} — {{c3::مَحْق}}</div>",
+   "extra": "to wipe out, to blot out · Form I · bāb <bdi>فَتَحَ يَفْتَحُ</bdi> · your <bdi>مُحِقَتْ</bdi> is the passive: <bdi>مُحِقَتْ بَرَكَةُ بَيْعِهِمَا</bdi>, the blessing of their sale was wiped out · <bdi>يَمْحَقُ اللَّهُ الرِّبَا</bdi> (2:276)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-309",
+   "term": "فِسْق",
+   "meaning": "transgression — leaving the obedience of Allah; technically, committing a major sin or persisting in a minor one",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-310",
+   "term": "نَمَاء",
+   "meaning": "growth, increase — as of wealth or crops",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-311",
+   "text": "<div class=\"arabic\">نَمَا — {{c1::يَنْمُو}} — {{c2::اُنْمُ}} — {{c3::نَمَاء}}</div>",
+   "extra": "to grow, to increase · Form I (defective) · also <bdi>نُمُوّ</bdi> · also <bdi>نَمَى يَنْمِي</bdi>, from <bdi>ن‑م‑ي</bdi>, hence the <bdi>ى</bdi> · <bdi>البَرَكَة</bdi> and <bdi>الزَّكَاة</bdi> are both glossed <bdi>النَّمَاء</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-312",
+   "term": "سِلْعَة",
+   "meaning": "a commodity, an item for sale",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-313",
+   "text": "<div class=\"arabic\">{{c2::سِلْعَة}} (مُفْرَد) — {{c1::سِلَع}} (جَمْع)</div>",
+   "extra": "a commodity, an item for sale · <bdi>أَلَا إِنَّ سِلْعَةَ اللَّهِ الجَنَّةُ</bdi>, Allah's merchandise is Paradise (Tirmidhī)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-314",
+   "term": "أَدَاء",
+   "meaning": "performance, discharge — of a duty, a trust or a debt; in fiqh, worship done in its time, as against <bdi>قَضَاء</bdi>",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-315",
+   "term": "سُمْعَة",
+   "meaning": "reputation — also, doing good so that people hear of it (beside <bdi>رِيَاء</bdi>, doing it to be seen)",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-316",
+   "term": "أَمَل",
+   "meaning": "an expectation, a hope — mostly for something far off",
+   "tags": [
+    "vocab",
+    "isms"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-317",
+   "text": "<div class=\"arabic\">{{c2::أَمَل}} (مُفْرَد) — {{c1::آمَال}} (جَمْع)</div>",
+   "extra": "an expectation, a hope · <bdi>وَيُلْهِهِمُ الأَمَلُ</bdi>, and let hope distract them (15:3)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-318",
+   "term": "فَتَّشَ",
+   "meaning": "to search, to inspect closely",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-319",
+   "text": "<div class=\"arabic\">فَتَّشَ — {{c1::يُفَتِّشُ}} — {{c2::فَتِّشْ}} — {{c3::تَفْتِيش}}</div>",
+   "extra": "to search, to inspect closely · Form II · your <bdi>يُفَتِّشُونَ</bdi> is the muḍāriʿ, 3rd person masculine plural",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-320",
+   "term": "عَلَا",
+   "meaning": "to rise, to be high — to rise above, to prevail (over — <bdi>عَلَى</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-321",
+   "text": "<div class=\"arabic\">عَلَا — {{c1::يَعْلُو}} — {{c2::اُعْلُ}} — {{c3::عُلُوّ}}</div>",
+   "extra": "to rise, to be high · Form I (defective) · written with <bdi>ا</bdi>, not <bdi>ى</bdi>, because the root is <bdi>ع‑ل‑و</bdi> — unlike the preposition <bdi>عَلَى</bdi> · <bdi>إِنَّ فِرْعَوْنَ عَلَا فِي الأَرْضِ</bdi>, Pharaoh exalted himself in the land (28:4)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm"
+   ],
+   "session": "oct14",
+   "source": "Vocabulary list supplied 2026-10-14"
+  }
+ ]
+}
