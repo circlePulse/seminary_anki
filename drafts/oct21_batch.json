@@ -1,0 +1,982 @@
+{
+ "vocab": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-340",
+   "term": "تَرْغِيب",
+   "meaning": "arousing desire (for — <bdi>فِي</bdi>) — encouraging by the promise of reward",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-341",
+   "text": "<div class=\"arabic\">رَغَّبَ — {{c1::يُرَغِّبُ}} — {{c2::رَغِّبْ}} — {{c3::تَرْغِيب}}</div>",
+   "extra": "to make (someone) desire, to encourage · Form II · its pair is <bdi>التَّرْهِيب</bdi>, deterring by warning — as in al-Mundhirī's book al-Targhīb wa-l-Tarhīb",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-342",
+   "term": "اِعْتِرَاف",
+   "meaning": "admission, acknowledgement (of — <bdi>بِ</bdi>)",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-343",
+   "text": "<div class=\"arabic\">اِعْتَرَفَ — {{c1::يَعْتَرِفُ}} — {{c2::اِعْتَرِفْ}} — {{c3::اِعْتِرَاف}}</div>",
+   "extra": "to admit, to acknowledge · Form VIII · the alif of <bdi>الاِعْتِرَاف</bdi> is hamzat al-waṣl, so no hamza under it · <bdi>فَاعْتَرَفُوا بِذَنْبِهِمْ</bdi>, so they admitted their sin (67:11)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-344",
+   "term": "تَحْذِير",
+   "meaning": "warning (against — <bdi>مِنْ</bdi>)",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-345",
+   "text": "<div class=\"arabic\">حَذَّرَ — {{c1::يُحَذِّرُ}} — {{c2::حَذِّرْ}} — {{c3::تَحْذِير}}</div>",
+   "extra": "to warn · Form II · <bdi>وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ</bdi>, and Allah warns you of Himself (3:28)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-346",
+   "term": "تَبْلِيغ",
+   "meaning": "conveying — making a message reach someone, or bringing someone to an aim",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-347",
+   "text": "<div class=\"arabic\">بَلَّغَ — {{c1::يُبَلِّغُ}} — {{c2::بَلِّغْ}} — {{c3::تَبْلِيغ}}</div>",
+   "extra": "to convey; to bring (someone) to an aim · Form II · Form II of <bdi>بَلَغَ</bdi>, to reach (voc-146) · <bdi>بَلِّغُوا عَنِّي وَلَوْ آيَةً</bdi>, convey from me, even a single verse · your <bdi>تَبْلِيغهم مَآرِبَهُمْ</bdi>: bringing them to their aims",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-348",
+   "term": "زَجْر",
+   "meaning": "rebuke — checking someone with a stern word or warning",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-349",
+   "text": "<div class=\"arabic\">زَجَرَ — {{c1::يَزْجُرُ}} — {{c2::اُزْجُرْ}} — {{c3::زَجْر}}</div>",
+   "extra": "to rebuke, to restrain · Form I · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · also, to drive off an animal with a shout — the root sense",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-350",
+   "term": "جَحْد",
+   "meaning": "denial — rejecting what one knows to be true",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-351",
+   "text": "<div class=\"arabic\">جَحَدَ — {{c1::يَجْحَدُ}} — {{c2::اِجْحَدْ}} — {{c3::جَحْد}}</div>",
+   "extra": "to deny, to reject knowingly · Form I · bāb <bdi>فَتَحَ يَفْتَحُ</bdi> · also <bdi>جُحُود</bdi> · <bdi>وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ</bdi>, they rejected them though their souls were sure of them (27:14)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-352",
+   "term": "كَيِّس",
+   "meaning": "astute — sharp-witted about what truly benefits",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-353",
+   "text": "<div class=\"arabic\">{{c2::كَيِّس}} (مُفْرَد) — {{c1::أَكْيَاس}} (جَمْع)</div>",
+   "extra": "astute · <bdi>الكَيِّسُ مَنْ دَانَ نَفْسَهُ وَعَمِلَ لِمَا بَعْدَ المَوْتِ</bdi>, the astute one holds himself to account and works for what comes after death (Tirmidhī)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-354",
+   "term": "دَانَ",
+   "meaning": "to hold to account, to subdue — also, to follow (a religion — <bdi>بِ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-355",
+   "text": "<div class=\"arabic\">دَانَ — {{c1::يَدِينُ}} — {{c2::دِنْ}} — {{c3::دِين}}</div>",
+   "extra": "to hold to account, to subdue · Form I (hollow) · <bdi>دَانَ نَفْسَهُ</bdi>, he held himself to account · hence <bdi>يَوْمُ الدِّينِ</bdi>, the Day of Recompense",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-356",
+   "term": "عَاجِز",
+   "meaning": "incapable, powerless — in the ḥadīth, the opposite of the <bdi>كَيِّس</bdi>",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-357",
+   "term": "هَوًى",
+   "meaning": "whim — what the soul leans toward, often against what is right",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-358",
+   "text": "<div class=\"arabic\">{{c2::هَوًى}} (مُفْرَد) — {{c1::أَهْوَاء}} (جَمْع)</div>",
+   "extra": "whim · <bdi>أَتْبَعَ نَفْسَهُ هَوَاهَا</bdi>, he let his soul follow its whims · <bdi>أَهْلُ الأَهْوَاءِ</bdi>, the people of caprice — sects that follow their whims",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-359",
+   "term": "تَمَنَّى",
+   "meaning": "to wish (for), to indulge in wishful hope",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-360",
+   "text": "<div class=\"arabic\">تَمَنَّى — {{c1::يَتَمَنَّى}} — {{c2::تَمَنَّ}} — {{c3::تَمَنٍّ}}</div>",
+   "extra": "to wish · Form V (defective) · <bdi>تَمَنَّى عَلَى اللهِ</bdi>, he indulged in wishful hopes of Allah · <bdi>أُمْنِيَّة</bdi>, a wish (pl. <bdi>أَمَانِيّ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-361",
+   "term": "مُتَبَصِّر",
+   "meaning": "discerning — one who looks into things with insight",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-362",
+   "term": "عَاقِبَة",
+   "meaning": "an outcome — the end a thing leads to",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-363",
+   "text": "<div class=\"arabic\">{{c2::عَاقِبَة}} (مُفْرَد) — {{c1::عَوَاقِب}} (جَمْع)</div>",
+   "extra": "an outcome · <bdi>وَالعَاقِبَةُ لِلْمُتَّقِينَ</bdi>, and the (best) outcome belongs to the God-fearing (7:128)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-364",
+   "term": "اِسْتَعْبَدَ",
+   "meaning": "to enslave",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-365",
+   "text": "<div class=\"arabic\">اِسْتَعْبَدَ — {{c1::يَسْتَعْبِدُ}} — {{c2::اِسْتَعْبِدْ}} — {{c3::اِسْتِعْبَاد}}</div>",
+   "extra": "to enslave · Form X · your <bdi>اِسْتَعْبَدَهُ</bdi>: he enslaved him — the <bdi>هُ</bdi> is the object",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-366",
+   "term": "مُطِيع",
+   "meaning": "obedient — doing as one is commanded",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-367",
+   "term": "مُنْقَاد",
+   "meaning": "docile — readily led, offering no resistance",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-368",
+   "text": "<div class=\"arabic\">صَارَ — {{c1::يَصِيرُ}} — {{c2::صِرْ}} — {{c3::صَيْرُورَة}}</div>",
+   "extra": "to become · Form I (hollow) · a sister of <bdi>كَانَ</bdi> (nahw-197) · also <bdi>مَصِير</bdi>, the end one comes to: <bdi>وَإِلَيْهِ المَصِيرُ</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-369",
+   "term": "شَهْوَة",
+   "meaning": "an appetite, a craving — a desire of the body or the senses",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-370",
+   "text": "<div class=\"arabic\">{{c2::شَهْوَة}} (مُفْرَد) — {{c1::شَهَوَات}} (جَمْع)</div>",
+   "extra": "an appetite, a craving · in the plural a <bdi>فَعْلَة</bdi> noun takes a fatḥah on its ʿayn: <bdi>شَهَوَات</bdi> · <bdi>وَحُفَّتِ النَّارُ بِالشَّهَوَاتِ</bdi>, and the Fire is surrounded by cravings (Muslim)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-371",
+   "term": "تَفْرِيط",
+   "meaning": "negligence, falling short (in — <bdi>فِي</bdi>)",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-372",
+   "text": "<div class=\"arabic\">فَرَّطَ — {{c1::يُفَرِّطُ}} — {{c2::فَرِّطْ}} — {{c3::تَفْرِيط}}</div>",
+   "extra": "to neglect, to fall short · Form II · its opposite is <bdi>إِفْرَاط</bdi>, excess · <bdi>مَا فَرَّطْنَا فِي الكِتَابِ مِنْ شَيْءٍ</bdi>, We have neglected nothing in the Book (6:38)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-373",
+   "term": "سَفِيه",
+   "meaning": "foolish, feeble-minded — in fiqh, one who squanders his wealth",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-374",
+   "text": "<div class=\"arabic\">{{c2::سَفِيه}} (مُفْرَد) — {{c1::سُفَهَاء}} (جَمْع)</div>",
+   "extra": "foolish, feeble-minded · <bdi>وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ</bdi>, and do not give the feeble-minded your wealth (4:5)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-375",
+   "term": "عَنَى",
+   "meaning": "to concern, to matter to (someone) — also, to mean",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-376",
+   "text": "<div class=\"arabic\">عَنَى — {{c1::يَعْنِي}} — {{c2::اِعْنِ}} — {{c3::عِنَايَة}}</div>",
+   "extra": "to concern, to matter to · Form I (defective) · <bdi>مِنْ حُسْنِ إِسْلَامِ المَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ</bdi> (Arbaʿīn 12) · <bdi>يَعْنِي</bdi>, that is; <bdi>مَعْنًى</bdi>, a meaning",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-377",
+   "term": "عِبَارَة",
+   "meaning": "an expression, a wording — the words used to say something",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-378",
+   "text": "<div class=\"arabic\">{{c2::عِبَارَة}} (مُفْرَد) — {{c1::عِبَارَات}} (جَمْع)</div>",
+   "extra": "an expression, a wording · <bdi>هُوَ عِبَارَةٌ عَنْ…</bdi>, it is (simply)… — a common way to give a definition",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-379",
+   "term": "كَمَال",
+   "meaning": "perfection, completeness",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-380",
+   "text": "<div class=\"arabic\">كَمَلَ — {{c1::يَكْمُلُ}} — {{c2::اُكْمُلْ}} — {{c3::كَمَال}}</div>",
+   "extra": "to be complete · Form I · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · also <bdi>كَمُلَ</bdi> and <bdi>كَمِلَ</bdi> · Form IV, <bdi>أَكْمَلَ</bdi>, to complete: <bdi>اليَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ</bdi> (5:3)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-381",
+   "term": "اِسْتَقَامَ",
+   "meaning": "to be straight, to be upright — to keep to the right course",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-382",
+   "text": "<div class=\"arabic\">اِسْتَقَامَ — {{c1::يَسْتَقِيمُ}} — {{c2::اِسْتَقِمْ}} — {{c3::اِسْتِقَامَة}}</div>",
+   "extra": "to be straight, to be upright · Form X (hollow) · <bdi>قُلْ آمَنْتُ بِاللهِ ثُمَّ اسْتَقِمْ</bdi>, say: I believe in Allah, then be upright (Arbaʿīn 21)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-383",
+   "term": "إِذْعَان",
+   "meaning": "submission, compliance — yielding (to — <bdi>لِ</bdi>)",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-384",
+   "text": "<div class=\"arabic\">أَذْعَنَ — {{c1::يُذْعِنُ}} — {{c2::أَذْعِنْ}} — {{c3::إِذْعَان}}</div>",
+   "extra": "to submit, to comply · Form IV · Form IV has hamzat al-qaṭʿ, so the hamza in your <bdi>الإذعان</bdi> is right · <bdi>يَأْتُوا إِلَيْهِ مُذْعِنِينَ</bdi>, they come to him in submission (24:49)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-385",
+   "term": "تَعَلَّقَ",
+   "meaning": "to be connected (with), to relate (to — <bdi>بِ</bdi>) — also, to cling to",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-386",
+   "text": "<div class=\"arabic\">تَعَلَّقَ — {{c1::يَتَعَلَّقُ}} — {{c2::تَعَلَّقْ}} — {{c3::تَعَلُّق}}</div>",
+   "extra": "to be connected · Form V · <bdi>فِيمَا يَتَعَلَّقُ بِـ</bdi>, as regards",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-387",
+   "term": "حَدّ",
+   "meaning": "a definition — what marks a thing off from everything else (literally, a boundary)",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-388",
+   "text": "<div class=\"arabic\">{{c2::حَدّ}} (مُفْرَد) — {{c1::حُدُود}} (جَمْع)</div>",
+   "extra": "a definition · also a ḥadd, a fixed punishment · <bdi>حُدُودُ اللهِ</bdi>, the limits Allah has set",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-389",
+   "term": "أَثِمَ",
+   "meaning": "to sin, to incur sin",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-390",
+   "text": "<div class=\"arabic\">أَثِمَ — {{c1::يَأْثَمُ}} — {{c2::اِيثَمْ}} — {{c3::إِثْم}}</div>",
+   "extra": "to sin, to incur sin · Form I (hamzated) · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · your <bdi>تأثم</bdi> read as <bdi>تَأْثَمُ</bdi>, you sin · <bdi>تَأَثَّمَ</bdi>, Form V, means the opposite: to keep away from sin",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-391",
+   "term": "جَدَّ",
+   "meaning": "to be earnest, to strive hard (in — <bdi>فِي</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-392",
+   "text": "<div class=\"arabic\">جَدَّ — {{c1::يَجِدُّ}} — {{c2::جِدَّ}} — {{c3::جِدّ}}</div>",
+   "extra": "to be earnest, to strive hard · Form I (doubled) · your <bdi>جدوا</bdi> read as <bdi>جِدُّوا</bdi>, be earnest! — the plural command · the <bdi>أَمْر</bdi> is also <bdi>اِجْدِدْ</bdi> · <bdi>جِدّ</bdi>, earnestness, is the opposite of <bdi>هَزْل</bdi>, jest",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-393",
+   "term": "نَفْحَة",
+   "meaning": "a waft, a breath (of fragrance) — figuratively, a gift of grace",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-394",
+   "text": "<div class=\"arabic\">{{c2::نَفْحَة}} (مُفْرَد) — {{c1::نَفَحَات}} (جَمْع)</div>",
+   "extra": "a waft, a breath · in the plural a <bdi>فَعْلَة</bdi> noun takes a fatḥah on its ʿayn: <bdi>نَفَحَات</bdi>, like <bdi>شَهَوَات</bdi>",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-395",
+   "term": "رَغْم",
+   "meaning": "in spite of, against the will of — literally, abasement, a nose rubbed in the dust",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-muraqabah"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-396",
+   "term": "شَاطِئ",
+   "meaning": "a shore, a beach — the bank of a river",
+   "tags": [
+    "vocab",
+    "isms",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-397",
+   "text": "<div class=\"arabic\">{{c2::شَاطِئ}} (مُفْرَد) — {{c1::شَوَاطِئ}} (جَمْع)</div>",
+   "extra": "a shore, a beach · your <bdi>شاطيء</bdi>: after a kasrah the hamza sits on a <bdi>ي</bdi> seat, written <bdi>ئ</bdi> rather than <bdi>يء</bdi> · <bdi>مِنْ شَاطِئِ الوَادِ الأَيْمَنِ</bdi> (28:30)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-398",
+   "term": "تَنَقَّلَ",
+   "meaning": "to move about, to go from place to place",
+   "tags": [
+    "vocab",
+    "verbs",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-399",
+   "text": "<div class=\"arabic\">تَنَقَّلَ — {{c1::يَتَنَقَّلُ}} — {{c2::تَنَقَّلْ}} — {{c3::تَنَقُّل}}</div>",
+   "extra": "to move about, to go from place to place · Form V",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-400",
+   "term": "تَنَزَّهَ",
+   "meaning": "to stroll, to go on an outing — classically, to keep clear (of — <bdi>عَنْ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-401",
+   "text": "<div class=\"arabic\">تَنَزَّهَ — {{c1::يَتَنَزَّهُ}} — {{c2::تَنَزَّهْ}} — {{c3::تَنَزُّه}}</div>",
+   "extra": "to stroll, to go on an outing · Form V · same root as <bdi>تَنْزِيه</bdi>, declaring Allah above every imperfection",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-402",
+   "term": "خَشَبَة",
+   "meaning": "a piece of wood, a plank",
+   "tags": [
+    "vocab",
+    "isms",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-403",
+   "text": "<div class=\"arabic\">{{c2::خَشَبَة}} (مُفْرَد) — {{c1::خَشَب}} (جَمْع)</div>",
+   "extra": "a piece of wood, a plank · <bdi>خَشَب</bdi> is the collective, wood — also <bdi>أَخْشَاب</bdi>, and <bdi>خُشُب</bdi>: <bdi>كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ</bdi> (63:4)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-404",
+   "term": "<bdi>لَا بُدَّ</bdi> (lā budda)",
+   "meaning": "inevitably, necessarily — followed by <bdi>مِنْ</bdi> or <bdi>أَنْ</bdi>: one must…",
+   "tags": [
+    "vocab",
+    "particles",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-405",
+   "term": "مَوْجَة",
+   "meaning": "a wave",
+   "tags": [
+    "vocab",
+    "isms",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-406",
+   "text": "<div class=\"arabic\">{{c2::مَوْجَة}} (مُفْرَد) — {{c1::أَمْوَاج}} (جَمْع)</div>",
+   "extra": "a wave · <bdi>مَوْج</bdi> is the collective, waves: <bdi>وَهِيَ تَجْرِي بِهِمْ فِي مَوْجٍ كَالْجِبَالِ</bdi> (11:42)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "qasas"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  }
+ ]
+}
