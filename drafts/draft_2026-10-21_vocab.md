@@ -1,9 +1,9 @@
-# Draft — vocabulary, 2026-10-21 (67 new notes)
+# Draft — vocabulary, 2026-10-21 (106 new notes)
 
 Status: **awaiting approval.**
 
-Source: a list pasted into the chat on 2026-10-21, under two headings: 35 words for Riyāḍ and 6 for Qaṣaṣ.
-Session tag `oct21`.
+Source: two lists pasted into the chat on 2026-10-21. The first had two headings, 35 words for Riyāḍ and 6 for
+Qaṣaṣ. The second, "Add this", had 29 more words from Riyāḍ's next chapter. Session tag `oct21`.
 
 ## Check this first
 
@@ -32,6 +32,25 @@ Session tag `oct21`.
   مَوْج, appear in the extras.
 - **Gloss index:** none of the new meaning cards collides with an existing one. The word تَنَزَّهَ opens with "to
   stroll" rather than "to go out", which is خَرَجَ (voc-156).
+- **The second list is Bāb al-Taqwā**, chapter 6, going by its verse "fear Allah as much as you are able" and the
+  ḥadīth on the mines of the Arabs, "the world is sweet and green", and the duʿāʾ for restraint and sufficiency.
+  It's tagged `riyad-taqwa`.
+- **Already in the deck from the second list:**
+  - The word كفّ is voc-294 again.
+  - The word كون is voc-272 and voc-273.
+  - The word مراد is voc-215.
+  - The word مروء is voc-297, as مُرُوءَة. The ة is missing again.
+  - The word يحتمل is voc-216 and voc-217.
+- **Merged:** your تقيه is تَقِيهِ, "it protects him", the muḍāriʿ of وَقَى. It sits on the paradigm card for وِقَايَة
+  rather than on a card of its own.
+- **Linked to cards you already have:**
+  - The noun طَاقَة (capacity) is the ism maṣdar of أَطَاقَ (voc-212), so it gets a meaning card only.
+  - The maṣdar تَنَزُّه (keeping clear) uses the paradigm of تَنَزَّهَ from this same batch (voc-401).
+  - The note on اِسْتَطَاعَ points out that its root is ط‑و‑ع, not the ط‑و‑ق of طَاقَة.
+- **A reading from the ḥadīth:** your فَقُهُ is فَقُهَ, as in إِذَا فَقُهُوا, "once they gain understanding". Its
+  extra tells it apart from فَقِهَ يَفْقَهُ, simply "to understand".
+- **Adjectives get a meaning card only, as above:** حُلْو (sweet), خَضِر (lush), مُنْبَعِث (arising) and مُتَنَاسِل (in
+  unbroken descent).
 - **All Tier 1.**
 
 ## Cards — Riyāḍ (56)
@@ -110,3 +129,47 @@ Session tag `oct21`.
 | voc-404 | bidir | <bdi>لَا بُدَّ</bdi> (lā budda) | inevitably, necessarily — followed by <bdi>مِنْ</bdi> or <bdi>أَنْ</bdi>: one must… |
 | voc-405 | bidir | مَوْجَة | a wave |
 | voc-406 | cloze | <div class="arabic">{{c2::مَوْجَة}} (مُفْرَد) — {{c1::أَمْوَاج}} (جَمْع)</div> | a wave · <bdi>مَوْج</bdi> is the collective, waves: <bdi>وَهِيَ تَجْرِي بِهِمْ فِي مَوْجٍ كَالْجِبَالِ</bdi> (11:42) |
+
+## Cards — Riyāḍ, Bāb al-Taqwā (39)
+
+| id | Type | Term / Text | Meaning / Extra |
+|---|---|---|---|
+| voc-407 | bidir | اِسْتَطَاعَ | to be able (to), to manage |
+| voc-408 | cloze | <div class="arabic">اِسْتَطَاعَ — {{c1::يَسْتَطِيعُ}} — {{c2::اِسْتَطِعْ}} — {{c3::اِسْتِطَاعَة}}</div> | to be able · Form X (hollow) · <bdi>فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ</bdi>, so fear Allah as much as you are able (64:16) · root <bdi>ط‑و‑ع</bdi> — not the root of <bdi>طَاقَة</bdi>, which is <bdi>ط‑و‑ق</bdi> |
+| voc-409 | bidir | وِقَايَة | protection, a shield — what guards one from harm |
+| voc-410 | cloze | <div class="arabic">وَقَى — {{c1::يَقِي}} — {{c2::قِ}} — {{c3::وِقَايَة}}</div> | to protect, to guard · Form I (assimilated + defective) · your <bdi>تَقِيهِ</bdi> is its muḍāriʿ: it protects him · <bdi>وَقِنَا عَذَابَ النَّارِ</bdi>, and protect us from the punishment of the Fire (2:201) — the <bdi>أَمْر</bdi>, <bdi>قِ</bdi> · Form VIII is <bdi>اِتَّقَى</bdi> (voc-326) |
+| voc-411 | bidir | طَاقَة | capacity — what one is able to bear |
+| voc-412 | bidir | مُنْبَعِث | arising, issuing (from — <bdi>مِنْ</bdi>) |
+| voc-413 | bidir | أَفَادَ | to indicate, to convey (a meaning) — also, to benefit (someone) |
+| voc-414 | cloze | <div class="arabic">أَفَادَ — {{c1::يُفِيدُ}} — {{c2::أَفِدْ}} — {{c3::إِفَادَة}}</div> | to indicate, to convey · Form IV (hollow) · your <bdi>أفادت</bdi>: of a text, it indicated · <bdi>فَائِدَة</bdi>, a benefit (pl. <bdi>فَوَائِد</bdi>), is from the same root |
+| voc-415 | bidir | اِلْتِزَام | commitment, adherence (to — <bdi>بِ</bdi>) |
+| voc-416 | cloze | <div class="arabic">اِلْتَزَمَ — {{c1::يَلْتَزِمُ}} — {{c2::اِلْتَزِمْ}} — {{c3::اِلْتِزَام}}</div> | to commit oneself (to), to adhere (to) · Form VIII · the alif of <bdi>الاِلْتِزَام</bdi> is hamzat al-waṣl, as you wrote it |
+| voc-417 | bidir | جَلْب | bringing about, procuring — as of benefit |
+| voc-418 | cloze | <div class="arabic">جَلَبَ — {{c1::يَجْلِبُ}} — {{c2::اِجْلِبْ}} — {{c3::جَلْب}}</div> | to bring, to procure · Form I · bāb <bdi>ضَرَبَ يَضْرِبُ</bdi> · also <bdi>يَجْلُبُ</bdi> · <bdi>جَلْبُ المَصَالِحِ وَدَرْءُ المَفَاسِدِ</bdi>, securing benefits and warding off harms |
+| voc-419 | bidir | اِسْتَمْطَرَ | to seek rain — figuratively, to call down (blessing, provision) |
+| voc-420 | cloze | <div class="arabic">اِسْتَمْطَرَ — {{c1::يَسْتَمْطِرُ}} — {{c2::اِسْتَمْطِرْ}} — {{c3::اِسْتِمْطَار}}</div> | to seek rain · Form X · from <bdi>مَطَر</bdi>, rain — Form X of seeking, as in <bdi>اِسْتَغْفَرَ</bdi>, to seek forgiveness |
+| voc-421 | bidir | مَعْدِن | a mine, a source — of people, their stock: the metal they're made of |
+| voc-422 | cloze | <div class="arabic">{{c2::مَعْدِن}} (مُفْرَد) — {{c1::مَعَادِن}} (جَمْع)</div> | a mine, a source · <bdi>النَّاسُ مَعَادِنُ كَمَعَادِنِ الذَّهَبِ وَالفِضَّةِ</bdi>, people are mines, like mines of gold and silver (Muslim) |
+| voc-423 | bidir | مَكْرُمَة | a noble deed, a fine trait |
+| voc-424 | cloze | <div class="arabic">{{c2::مَكْرُمَة}} (مُفْرَد) — {{c1::مَكَارِم}} (جَمْع)</div> | a noble deed, a fine trait · <bdi>مَكَارِمُ الأَخْلَاقِ</bdi>, the noblest traits of character |
+| voc-425 | bidir | نَسَب | lineage, descent |
+| voc-426 | cloze | <div class="arabic">{{c2::نَسَب}} (مُفْرَد) — {{c1::أَنْسَاب}} (جَمْع)</div> | lineage, descent · <bdi>فَلَا أَنْسَابَ بَيْنَهُمْ يَوْمَئِذٍ</bdi>, there will be no lineage between them that Day (23:101) |
+| voc-427 | bidir | مُتَنَاسِل | in unbroken descent — each born of the one before |
+| voc-428 | bidir | فَقُهَ | to gain deep understanding (of the religion) — to become a faqīh |
+| voc-429 | cloze | <div class="arabic">فَقُهَ — {{c1::يَفْقُهُ}} — {{c2::اُفْقُهْ}} — {{c3::فَقَاهَة}}</div> | to gain deep understanding · Form I · bāb <bdi>كَرُمَ يَكْرُمُ</bdi> · <bdi>خِيَارُهُمْ فِي الجَاهِلِيَّةِ خِيَارُهُمْ فِي الإِسْلَامِ إِذَا فَقُهُوا</bdi>, the best of them before Islam are the best in Islam, once they gain understanding · <bdi>فَقِهَ يَفْقَهُ</bdi>, bāb <bdi>سَمِعَ</bdi>, is simply to understand |
+| voc-430 | bidir | حُلْو | sweet |
+| voc-431 | bidir | خَضِر | lush, green and fresh — verdant |
+| voc-432 | bidir | اِسْتَخْلَفَ | to appoint as successor — to put (people) in others' place |
+| voc-433 | cloze | <div class="arabic">اِسْتَخْلَفَ — {{c1::يَسْتَخْلِفُ}} — {{c2::اِسْتَخْلِفْ}} — {{c3::اِسْتِخْلَاف}}</div> | to appoint as successor · Form X · your <bdi>مُسْتَخْلِفُكُمْ</bdi> is its ism fāʿil with the object: <bdi>إِنَّ الدُّنْيَا حُلْوَةٌ خَضِرَةٌ، وَإِنَّ اللهَ مُسْتَخْلِفُكُمْ فِيهَا فَيَنْظُرُ كَيْفَ تَعْمَلُونَ</bdi> (Muslim) |
+| voc-434 | bidir | نَضَارَة | freshness, radiance — bloom |
+| voc-435 | cloze | <div class="arabic">نَضُرَ — {{c1::يَنْضُرُ}} — {{c2::اُنْضُرْ}} — {{c3::نَضَارَة}}</div> | to be fresh, to be radiant · Form I · bāb <bdi>كَرُمَ يَكْرُمُ</bdi> · also <bdi>نَضَرَ</bdi> · <bdi>وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ</bdi>, faces that Day will be radiant (75:22) · Form II is <bdi>نَضَّرَ</bdi> (voc-021) |
+| voc-436 | bidir | حَثِيثًا | swiftly — in hurried pursuit |
+| voc-437 | bidir | فَنَاء | perishing, passing away |
+| voc-438 | cloze | <div class="arabic">فَنِيَ — {{c1::يَفْنَى}} — {{c2::اِفْنَ}} — {{c3::فَنَاء}}</div> | to perish, to pass away · Form I (defective) · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · <bdi>كُلُّ مَنْ عَلَيْهَا فَانٍ</bdi>, all on it will perish (55:26) · not <bdi>فِنَاء</bdi>, a courtyard |
+| voc-439 | bidir | عَفَاف | restraint, chastity — keeping away from what is unlawful or unseemly |
+| voc-440 | cloze | <div class="arabic">عَفَّ — {{c1::يَعِفُّ}} — {{c2::عِفَّ}} — {{c3::عَفَاف}}</div> | to abstain (from — <bdi>عَنْ</bdi>), to be chaste · Form I (doubled) · also <bdi>عِفَّة</bdi> · the <bdi>أَمْر</bdi> is also <bdi>اِعْفِفْ</bdi> · <bdi>اللَّهُمَّ إِنِّي أَسْأَلُكَ الهُدَى وَالتُّقَى وَالعَفَافَ وَالغِنَى</bdi> (Muslim) |
+| voc-441 | bidir | غِنًى | sufficiency — freedom from need; also, wealth |
+| voc-442 | cloze | <div class="arabic">غَنِيَ — {{c1::يَغْنَى}} — {{c2::اِغْنَ}} — {{c3::غِنًى}}</div> | to be free of need, to be rich · Form I (defective) · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · <bdi>لَيْسَ الغِنَى عَنْ كَثْرَةِ العَرَضِ، وَلَكِنَّ الغِنَى غِنَى النَّفْسِ</bdi>, wealth is not many possessions; true wealth is a soul free of need |
+| voc-443 | bidir | تَنَزُّه | keeping clear of what is unseemly — holding oneself above it (<bdi>عَنْ</bdi>); also, an outing |
+| voc-444 | bidir | خَصْلَة | a trait, a quality of character |
+| voc-445 | cloze | <div class="arabic">{{c2::خَصْلَة}} (مُفْرَد) — {{c1::خِصَال}} (جَمْع)</div> | a trait, a quality of character · <bdi>كَانَتْ فِيهِ خَصْلَةٌ مِنَ النِّفَاقِ</bdi>, he has a trait of hypocrisy |

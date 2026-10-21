@@ -977,6 +977,577 @@
    ],
    "session": "oct21",
    "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-407",
+   "term": "اِسْتَطَاعَ",
+   "meaning": "to be able (to), to manage",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-408",
+   "text": "<div class=\"arabic\">اِسْتَطَاعَ — {{c1::يَسْتَطِيعُ}} — {{c2::اِسْتَطِعْ}} — {{c3::اِسْتِطَاعَة}}</div>",
+   "extra": "to be able · Form X (hollow) · <bdi>فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ</bdi>, so fear Allah as much as you are able (64:16) · root <bdi>ط‑و‑ع</bdi> — not the root of <bdi>طَاقَة</bdi>, which is <bdi>ط‑و‑ق</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-409",
+   "term": "وِقَايَة",
+   "meaning": "protection, a shield — what guards one from harm",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-410",
+   "text": "<div class=\"arabic\">وَقَى — {{c1::يَقِي}} — {{c2::قِ}} — {{c3::وِقَايَة}}</div>",
+   "extra": "to protect, to guard · Form I (assimilated + defective) · your <bdi>تَقِيهِ</bdi> is its muḍāriʿ: it protects him · <bdi>وَقِنَا عَذَابَ النَّارِ</bdi>, and protect us from the punishment of the Fire (2:201) — the <bdi>أَمْر</bdi>, <bdi>قِ</bdi> · Form VIII is <bdi>اِتَّقَى</bdi> (voc-326)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-411",
+   "term": "طَاقَة",
+   "meaning": "capacity — what one is able to bear",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-412",
+   "term": "مُنْبَعِث",
+   "meaning": "arising, issuing (from — <bdi>مِنْ</bdi>)",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-413",
+   "term": "أَفَادَ",
+   "meaning": "to indicate, to convey (a meaning) — also, to benefit (someone)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-414",
+   "text": "<div class=\"arabic\">أَفَادَ — {{c1::يُفِيدُ}} — {{c2::أَفِدْ}} — {{c3::إِفَادَة}}</div>",
+   "extra": "to indicate, to convey · Form IV (hollow) · your <bdi>أفادت</bdi>: of a text, it indicated · <bdi>فَائِدَة</bdi>, a benefit (pl. <bdi>فَوَائِد</bdi>), is from the same root",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-415",
+   "term": "اِلْتِزَام",
+   "meaning": "commitment, adherence (to — <bdi>بِ</bdi>)",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-416",
+   "text": "<div class=\"arabic\">اِلْتَزَمَ — {{c1::يَلْتَزِمُ}} — {{c2::اِلْتَزِمْ}} — {{c3::اِلْتِزَام}}</div>",
+   "extra": "to commit oneself (to), to adhere (to) · Form VIII · the alif of <bdi>الاِلْتِزَام</bdi> is hamzat al-waṣl, as you wrote it",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-417",
+   "term": "جَلْب",
+   "meaning": "bringing about, procuring — as of benefit",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-418",
+   "text": "<div class=\"arabic\">جَلَبَ — {{c1::يَجْلِبُ}} — {{c2::اِجْلِبْ}} — {{c3::جَلْب}}</div>",
+   "extra": "to bring, to procure · Form I · bāb <bdi>ضَرَبَ يَضْرِبُ</bdi> · also <bdi>يَجْلُبُ</bdi> · <bdi>جَلْبُ المَصَالِحِ وَدَرْءُ المَفَاسِدِ</bdi>, securing benefits and warding off harms",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-419",
+   "term": "اِسْتَمْطَرَ",
+   "meaning": "to seek rain — figuratively, to call down (blessing, provision)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-420",
+   "text": "<div class=\"arabic\">اِسْتَمْطَرَ — {{c1::يَسْتَمْطِرُ}} — {{c2::اِسْتَمْطِرْ}} — {{c3::اِسْتِمْطَار}}</div>",
+   "extra": "to seek rain · Form X · from <bdi>مَطَر</bdi>, rain — Form X of seeking, as in <bdi>اِسْتَغْفَرَ</bdi>, to seek forgiveness",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-421",
+   "term": "مَعْدِن",
+   "meaning": "a mine, a source — of people, their stock: the metal they're made of",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-422",
+   "text": "<div class=\"arabic\">{{c2::مَعْدِن}} (مُفْرَد) — {{c1::مَعَادِن}} (جَمْع)</div>",
+   "extra": "a mine, a source · <bdi>النَّاسُ مَعَادِنُ كَمَعَادِنِ الذَّهَبِ وَالفِضَّةِ</bdi>, people are mines, like mines of gold and silver (Muslim)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-423",
+   "term": "مَكْرُمَة",
+   "meaning": "a noble deed, a fine trait",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-424",
+   "text": "<div class=\"arabic\">{{c2::مَكْرُمَة}} (مُفْرَد) — {{c1::مَكَارِم}} (جَمْع)</div>",
+   "extra": "a noble deed, a fine trait · <bdi>مَكَارِمُ الأَخْلَاقِ</bdi>, the noblest traits of character",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-425",
+   "term": "نَسَب",
+   "meaning": "lineage, descent",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-426",
+   "text": "<div class=\"arabic\">{{c2::نَسَب}} (مُفْرَد) — {{c1::أَنْسَاب}} (جَمْع)</div>",
+   "extra": "lineage, descent · <bdi>فَلَا أَنْسَابَ بَيْنَهُمْ يَوْمَئِذٍ</bdi>, there will be no lineage between them that Day (23:101)",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-427",
+   "term": "مُتَنَاسِل",
+   "meaning": "in unbroken descent — each born of the one before",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-428",
+   "term": "فَقُهَ",
+   "meaning": "to gain deep understanding (of the religion) — to become a faqīh",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-429",
+   "text": "<div class=\"arabic\">فَقُهَ — {{c1::يَفْقُهُ}} — {{c2::اُفْقُهْ}} — {{c3::فَقَاهَة}}</div>",
+   "extra": "to gain deep understanding · Form I · bāb <bdi>كَرُمَ يَكْرُمُ</bdi> · <bdi>خِيَارُهُمْ فِي الجَاهِلِيَّةِ خِيَارُهُمْ فِي الإِسْلَامِ إِذَا فَقُهُوا</bdi>, the best of them before Islam are the best in Islam, once they gain understanding · <bdi>فَقِهَ يَفْقَهُ</bdi>, bāb <bdi>سَمِعَ</bdi>, is simply to understand",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-430",
+   "term": "حُلْو",
+   "meaning": "sweet",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-431",
+   "term": "خَضِر",
+   "meaning": "lush, green and fresh — verdant",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-432",
+   "term": "اِسْتَخْلَفَ",
+   "meaning": "to appoint as successor — to put (people) in others' place",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-433",
+   "text": "<div class=\"arabic\">اِسْتَخْلَفَ — {{c1::يَسْتَخْلِفُ}} — {{c2::اِسْتَخْلِفْ}} — {{c3::اِسْتِخْلَاف}}</div>",
+   "extra": "to appoint as successor · Form X · your <bdi>مُسْتَخْلِفُكُمْ</bdi> is its ism fāʿil with the object: <bdi>إِنَّ الدُّنْيَا حُلْوَةٌ خَضِرَةٌ، وَإِنَّ اللهَ مُسْتَخْلِفُكُمْ فِيهَا فَيَنْظُرُ كَيْفَ تَعْمَلُونَ</bdi> (Muslim)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-434",
+   "term": "نَضَارَة",
+   "meaning": "freshness, radiance — bloom",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-435",
+   "text": "<div class=\"arabic\">نَضُرَ — {{c1::يَنْضُرُ}} — {{c2::اُنْضُرْ}} — {{c3::نَضَارَة}}</div>",
+   "extra": "to be fresh, to be radiant · Form I · bāb <bdi>كَرُمَ يَكْرُمُ</bdi> · also <bdi>نَضَرَ</bdi> · <bdi>وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ</bdi>, faces that Day will be radiant (75:22) · Form II is <bdi>نَضَّرَ</bdi> (voc-021)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-436",
+   "term": "حَثِيثًا",
+   "meaning": "swiftly — in hurried pursuit",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-437",
+   "term": "فَنَاء",
+   "meaning": "perishing, passing away",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-438",
+   "text": "<div class=\"arabic\">فَنِيَ — {{c1::يَفْنَى}} — {{c2::اِفْنَ}} — {{c3::فَنَاء}}</div>",
+   "extra": "to perish, to pass away · Form I (defective) · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · <bdi>كُلُّ مَنْ عَلَيْهَا فَانٍ</bdi>, all on it will perish (55:26) · not <bdi>فِنَاء</bdi>, a courtyard",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-439",
+   "term": "عَفَاف",
+   "meaning": "restraint, chastity — keeping away from what is unlawful or unseemly",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-440",
+   "text": "<div class=\"arabic\">عَفَّ — {{c1::يَعِفُّ}} — {{c2::عِفَّ}} — {{c3::عَفَاف}}</div>",
+   "extra": "to abstain (from — <bdi>عَنْ</bdi>), to be chaste · Form I (doubled) · also <bdi>عِفَّة</bdi> · the <bdi>أَمْر</bdi> is also <bdi>اِعْفِفْ</bdi> · <bdi>اللَّهُمَّ إِنِّي أَسْأَلُكَ الهُدَى وَالتُّقَى وَالعَفَافَ وَالغِنَى</bdi> (Muslim)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-441",
+   "term": "غِنًى",
+   "meaning": "sufficiency — freedom from need; also, wealth",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-442",
+   "text": "<div class=\"arabic\">غَنِيَ — {{c1::يَغْنَى}} — {{c2::اِغْنَ}} — {{c3::غِنًى}}</div>",
+   "extra": "to be free of need, to be rich · Form I (defective) · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · <bdi>لَيْسَ الغِنَى عَنْ كَثْرَةِ العَرَضِ، وَلَكِنَّ الغِنَى غِنَى النَّفْسِ</bdi>, wealth is not many possessions; true wealth is a soul free of need",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-443",
+   "term": "تَنَزُّه",
+   "meaning": "keeping clear of what is unseemly — holding oneself above it (<bdi>عَنْ</bdi>); also, an outing",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-444",
+   "term": "خَصْلَة",
+   "meaning": "a trait, a quality of character",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-445",
+   "text": "<div class=\"arabic\">{{c2::خَصْلَة}} (مُفْرَد) — {{c1::خِصَال}} (جَمْع)</div>",
+   "extra": "a trait, a quality of character · <bdi>كَانَتْ فِيهِ خَصْلَةٌ مِنَ النِّفَاقِ</bdi>, he has a trait of hypocrisy",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-taqwa"
+   ],
+   "session": "oct21",
+   "source": "Vocabulary list supplied 2026-10-21"
   }
  ]
 }
