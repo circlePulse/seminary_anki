@@ -37,12 +37,12 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,774 notes across 10 decks.**
+Current state: **1,880 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | quduri | 279 | HDT-201 |
-| vocab | 339 | VOCAB |
+| vocab | 445 | VOCAB |
 | arbaeen_ahadith | 246 | HDT-201 |
 | nahw | 225 | ARB-201 |
 | sarf | 219 | ARB-201 |
@@ -182,8 +182,10 @@ once, and both times was objecting to files that had no reason to exist.
   instead of the labels. sarf-073 was flagged to the user and is awaiting their go-ahead.
 - **The vocabulary lists now follow the Riyāḍ class through the book.** The user confirmed on 2026-10-14
   that the 10-06 list (voc-193–230) is Bāb al-Ṣabr, tagged `riyad-sabr`. The 10-13 and 10-14 lists
-  (voc-231–323) are Bāb al-Ṣidq, tagged `riyad-sidq`. Tag the next list by its chapter, and ask if it isn't
-  obvious from the words.
+  (voc-231–323) are Bāb al-Ṣidq, tagged `riyad-sidq`. The 10-21 lists are Bāb al-Murāqabah (`riyad-muraqabah`) and
+  Bāb al-Taqwā (`riyad-taqwa`). Words from the Qaṣaṣ class are tagged `qasas` (voc-396–406); the user now heads
+  them separately. The older `riyad-qasas` tag (voc-064–133) mixes the two classes. Tag the next list by its
+  chapter, and ask if it isn't obvious from the words.
 - **Calculus II and Tazkiyah are on hold.** The user said "don't do calculus or tazkiya yet" on 2026-10-14.
   Calculus II now has a *Review* section of formulas, and Tazkiyah has never been carded. Neither has a deck.
   Don't card or draft either until the user asks.

@@ -1,6 +1,6 @@
 # Draft — vocabulary, 2026-10-21 (106 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-21 and delivered.** The user confirmed the readings تَأْثَمُ and جِدُّوا.
 
 Source: two lists pasted into the chat on 2026-10-21. The first had two headings, 35 words for Riyāḍ and 6 for
 Qaṣaṣ. The second, "Add this", had 29 more words from Riyāḍ's next chapter. Session tag `oct21`.
