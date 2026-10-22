@@ -57,7 +57,7 @@ class date as its session tag, and the reading names its text in the source line
 
 ## Cards
 
-### 10/15 lecture — women in confucianism (5)
+### 10/15 lecture — women in Confucianism (5)
 
 | id | Type | Front | Back |
 |---|---|---|---|
@@ -67,7 +67,7 @@ class date as its session tag, and the reading names its text in the source line
 | wrel-195 | basic | How did Ban Zhao come to be a court historian? | She took up the mantle after her father, Ban Biao, and her brother, Ban Gu, died — and finished the history of the Han they had begun |
 | wrel-196 | basic | What makes Ban Zhao rare in Chinese literature? | She is one of very few women who both wrote and had their writing preserved |
 
-### 10/15 lecture — neo-confucianism and footbinding (11)
+### 10/15 lecture — Neo-Confucianism and footbinding (11)
 
 | id | Type | Front | Back |
 |---|---|---|---|
@@ -83,7 +83,7 @@ class date as its session tag, and the reading names its text in the source line
 | wrel-206 | basic | Why was footbinding seen as serving chastity? | A woman with bound feet couldn't easily leave the house |
 | wrel-207 | basic | In a society that counted being born a woman a misfortune, how could footbinding turn it to advantage? | Bound feet could let a girl marry into the upper classes — a path to social mobility |
 
-### 10/15 reading — the daodejing: introduction (12)
+### 10/15 reading — the Daodejing: introduction (12)
 
 | id | Type | Front | Back |
 |---|---|---|---|
@@ -100,7 +100,7 @@ class date as its session tag, and the reading names its text in the source line
 | wrel-218 | basic | Why do human beings upset the harmony of the Dao, and what does the Daodejing seek to do about it? | They can alter the nature of things, so they tend to forsake their natural place. The text seeks to undo this. |
 | wrel-219 | basic | What kind of text does the introduction call the Daodejing, rather than a presentation of theory? | Philosophical therapy |
 
-### 10/15 reading — the daodejing, book i (25)
+### 10/15 reading — the Daodejing, Book I (25)
 
 | id | Type | Front | Back |
 |---|---|---|---|
@@ -130,7 +130,7 @@ class date as its session tag, and the reading names its text in the source line
 | wrel-243 | basic | What is the Daodejing's stance on weapons? | All creatures find them repulsive, so one who is on the Way doesn't rely on them — but may use them when there is no choice (ch. 31) |
 | wrel-244 | basic | What does the Daodejing say of reveling in victory? | It is reveling in the slaughter of human beings, and one who delights in that won't achieve his ambitions (ch. 31) |
 
-### 10/15 reading — the daodejing, book ii (15)
+### 10/15 reading — the Daodejing, Book II (15)
 
 | id | Type | Front | Back |
 |---|---|---|---|
@@ -150,7 +150,7 @@ class date as its session tag, and the reading names its text in the source line
 | wrel-258 | basic | What lesson does the Daodejing draw from water's suppleness? | The weak overcome the strong: nothing is more supple or weak than water, yet nothing can surpass it or resist its advance (ch. 78) |
 | wrel-259 | cloze | The Daodejing's ideal people {{c1::use no labour-saving tools, ships or carts}}, {{c2::keep track with knots instead of writing}} and {{c3::don't travel}} — yet {{c4::their food is savoury, their clothes fine, their houses comfortable and their lives happy}} | Chapter 80 |
 
-### 10/20 lecture — daoism (25)
+### 10/20 lecture — Daoism (25)
 
 | id | Type | Front | Back |
 |---|---|---|---|
