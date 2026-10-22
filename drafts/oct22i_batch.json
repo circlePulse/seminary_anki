@@ -1,0 +1,37 @@
+{
+ "new": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-226",
+   "front": "How do <bdi>إِعْرَاب لَفْظِيّ</bdi>, <bdi>مَحَلِّيّ</bdi>, <bdi>ظَاهِر</bdi> and <bdi>مُقَدَّر</bdi> fit together?",
+   "back": "The first two divide all iʿrāb: <bdi>لَفْظِيّ</bdi> is on a <bdi>مُعْرَب</bdi> word's own ending, and <bdi>مَحَلِّيّ</bdi> only on the position of a <bdi>مَبْنِيّ</bdi> word. The last two divide the <bdi>لَفْظِيّ</bdi> kind: <bdi>ظَاهِر</bdi> is heard, and <bdi>مُقَدَّر</bdi> is implied, because the ending can't carry it.",
+   "tags": [
+    "nahw",
+    "irab",
+    "spine"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13, revised 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-227",
+   "front": "What decides whether a word that shows no iʿrāb has <bdi>إِعْرَاب مُقَدَّر</bdi> or <bdi>إِعْرَاب مَحَلِّيّ</bdi>?",
+   "back": "Whether it is <bdi>مَبْنِيّ</bdi>. In <bdi>جَاءَ الفَتَى</bdi>, the word <bdi>الفَتَى</bdi> is <bdi>مُعْرَب</bdi>: it has a ḍammah that its alif can't carry, so its iʿrāb is <bdi>مُقَدَّر</bdi>. In <bdi>جَاءَ هَذَا</bdi>, the word <bdi>هَذَا</bdi> is <bdi>مَبْنِيّ</bdi> on sukūn: it has no ḍammah at all, and only its position is in the place of <bdi>رَفْع</bdi>, so its iʿrāb is <bdi>مَحَلِّيّ</bdi>.",
+   "tags": [
+    "nahw",
+    "irab",
+    "criterion"
+   ],
+   "session": "oct13",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-13, revised 2026-10-22"
+  }
+ ],
+ "edits": {
+  "nahw-215": {
+   "meaning": "the iʿrāb a <bdi>مُعْرَب</bdi> word carries on its own ending, whether you can hear it or not — as opposed to the iʿrāb of a position"
+  }
+ }
+}

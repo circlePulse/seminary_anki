@@ -119,6 +119,12 @@ The other pages had nothing new to card: IOK Arabic and Durūs. Riyāḍ has onl
 61 and 71 and the second narration of 62; progressive cloze cards were offered. Calculus II and Tazkiyah are on
 hold.
 
+Revised in Notion on 2026-10-22, at the user's request ("I was very confused when writing my notes"): IOK Arabic,
+Tasheel ch. 2, the iʿrāb toggles. LafDhi had been defined as "state explicitly shown", which is ẓāhir. Now
+dhaahir and almuqaddar sit inside LafDhi as its two kinds, and Mahalli is tied to mabniy. A toggle on telling
+muqaddar from mahalli was added. The CLAUDE note "add the categories" was replaced by the muqaddar categories. The
+old wording is quoted in `drafts/draft_2026-10-22_irab.md`.
+
 Carded on 2026-10-14, from a scan of every page the user asked for:
 - **IOK Arabic, Tasheel ch. 2, al-muʿrab wa-l-mabnī** (nahw-209–225). The CLAUDE note "add the categories" was
   read as the words whose iʿrāb is مُقَدَّر. The deck's topic is now `tasheel`, so its files are named that way.
