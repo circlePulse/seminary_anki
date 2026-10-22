@@ -1,0 +1,296 @@
+{
+ "new": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-193",
+   "front": "What is a <code>namedtuple</code>?",
+   "back": "A tuple in which each element is explicitly given a name",
+   "tags": [
+    "pyth",
+    "tuples",
+    "namedtuple"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-194",
+   "front": "How do you get <code>namedtuple</code> objects?",
+   "back": "First make a blueprint — a new type — with namedtuple; then create objects from that type",
+   "tags": [
+    "pyth",
+    "tuples",
+    "namedtuple",
+    "model"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-195",
+   "front": "Where does <code>namedtuple</code> come from?",
+   "back": "The collections module: <code>from collections import namedtuple</code>",
+   "tags": [
+    "pyth",
+    "tuples",
+    "namedtuple"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-196",
+   "front": "What two arguments does <code>namedtuple</code> take?",
+   "back": "A string naming the new type, and a list of strings naming its fields",
+   "tags": [
+    "pyth",
+    "tuples",
+    "namedtuple"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-197",
+   "front": "What does this print?<pre class=\"code\">from collections import namedtuple\nPoint = namedtuple('Point', ['x', 'y'])\np = Point(1, 2)\nprint(p._replace(y=5))</pre>",
+   "back": "<code>Point(x=1, y=5)</code> — <code>._replace()</code> returns a new object of the same type with the named fields replaced; <code>p</code> itself is unchanged",
+   "tags": [
+    "pyth",
+    "tuples",
+    "namedtuple",
+    "predict-output"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-198",
+   "front": "What does this print?<pre class=\"code\">from collections import namedtuple\nPoint = namedtuple('Point', ['x', 'y'])\nprint(Point._fields)</pre>",
+   "back": "<code>('x', 'y')</code> — <code>._fields</code> gives the names of the fields",
+   "tags": [
+    "pyth",
+    "tuples",
+    "namedtuple",
+    "predict-output"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-199",
+   "front": "What is recursion?",
+   "back": "A function calling itself in its own definition — something you can't do when defining a word",
+   "tags": [
+    "pyth",
+    "recursion"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-200",
+   "front": "What should you try before reaching for recursion?",
+   "back": "A loop",
+   "tags": [
+    "pyth",
+    "recursion",
+    "convention"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-201",
+   "front": "What is a set's defining characteristic?",
+   "back": "Order makes no difference — the only thing that matters is membership",
+   "tags": [
+    "pyth",
+    "sets",
+    "model"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-202",
+   "front": "How do you write a set literal?",
+   "back": "Expressions in curly braces, separated by commas: <code>{1, 2, 3}</code>",
+   "tags": [
+    "pyth",
+    "sets"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-203",
+   "front": "How do you write an empty set, and why not <code>{}</code>?",
+   "back": "<code>set()</code> — <code>{}</code> on its own is an empty dictionary",
+   "tags": [
+    "pyth",
+    "sets",
+    "dicts",
+    "contrast"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-204",
+   "front": "How do you test whether something is in a set, and why use a set for it?",
+   "back": "With <code>in</code>. It works on lists too, but sets are optimised for exactly this.",
+   "tags": [
+    "pyth",
+    "sets",
+    "criterion"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-205",
+   "text": "Set operators: {{c1::<code>|</code>}} gives the union; {{c2::<code>&amp;</code>}} the intersection; {{c3::<code>-</code>}} the difference; {{c4::<code>^</code>}} the symmetric difference",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "sets",
+    "spine"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-206",
+   "front": "What does this print?<pre class=\"code\">print({1, 2} | {2, 3})</pre>",
+   "back": "<code>{1, 2, 3}</code> — the union; 2 appears once, since a set holds each value only once",
+   "tags": [
+    "pyth",
+    "sets",
+    "predict-output"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-207",
+   "front": "Why can't you index into a set, and what can you do instead?",
+   "back": "It has no fixed order — but you can iterate over it",
+   "tags": [
+    "pyth",
+    "sets",
+    "criterion"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-208",
+   "front": "How do you change a set's contents?",
+   "back": "With <code>.add()</code> and <code>.remove()</code> — sets are mutable",
+   "tags": [
+    "pyth",
+    "sets"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-209",
+   "front": "What does a dictionary do?",
+   "back": "Maps keys to values — essentially a keyed set, and also written with curly braces",
+   "tags": [
+    "pyth",
+    "dicts",
+    "model"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-210",
+   "front": "How do you write a dict literal?",
+   "back": "<code>{'a': 4, 'b': 6}</code>",
+   "tags": [
+    "pyth",
+    "dicts"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-211",
+   "front": "How do you read, assign and delete a dictionary entry?",
+   "back": "Index it by key — <code>d['a']</code> and <code>d['a'] = 5</code> — and delete with <code>del d['a']</code>",
+   "tags": [
+    "pyth",
+    "dicts"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-212",
+   "front": "What does this print?<pre class=\"code\">d = {'a': 4, 'b': 6}\nfor k in d:\n    print(k)</pre>",
+   "back": "<code>a</code>, then <code>b</code> — iterating a dictionary gives its keys",
+   "tags": [
+    "pyth",
+    "dicts",
+    "predict-output"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-213",
+   "front": "How do you iterate over a dictionary's values, and over its key–value pairs?",
+   "back": "<code>.values()</code> for the values; <code>.items()</code> for the pairs, each a tuple",
+   "tags": [
+    "pyth",
+    "dicts"
+   ],
+   "session": "oct22",
+   "source": "ICS H32 — lecture notes to 2026-10-22"
+  }
+ ]
+}
