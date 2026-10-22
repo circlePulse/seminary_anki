@@ -6303,7 +6303,22 @@
    ],
    "session": "oct21",
    "source": "Vocabulary list supplied 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-446",
+   "term": "أَلَا",
+   "meaning": "a particle calling attention — “truly”, “listen”; <bdi>حَرْف التَّنْبِيه</bdi>",
+   "tags": [
+    "vocab",
+    "particles",
+    "arbaeen",
+    "h06"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn, Ḥadīth 6 — vocab in the class notes, 2026-10-21"
   }
  ],
- "expected_count": 445
+ "expected_count": 446
 }

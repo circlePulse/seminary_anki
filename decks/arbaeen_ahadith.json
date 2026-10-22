@@ -3,7 +3,7 @@
  "topic": "arbaeen-ahadith",
  "session": "sep16",
  "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
- "expected_count": 246,
+ "expected_count": 266,
  "cards": [
   {
    "type": "basic",
@@ -3380,6 +3380,289 @@
    ],
    "session": "oct14",
    "source": "Arbaʿīn Ḥadīth 5 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-247",
+   "front": "Who narrates the ḥadīth “the lawful is clear” (Arbaʿīn 6)?",
+   "back": "Abū ʿAbd Allāh al-Nuʿmān ibn Bashīr RA",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "narrator"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-248",
+   "front": "Which tribe of the Anṣār was al-Nuʿmān ibn Bashīr RA from?",
+   "back": "The Khazraj",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "narrator"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-249",
+   "text": "Al-Nuʿmān ibn Bashīr RA was born {{c1::14 months after the Hijrah}} — {{c2::the first child born to the Anṣār}} after it — to parents who were {{c3::both Companions}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "narrator"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-250",
+   "front": "How old was al-Nuʿmān ibn Bashīr RA when the Prophet ﷺ died?",
+   "back": "Eight",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "narrator"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-251",
+   "front": "For what two qualities was al-Nuʿmān ibn Bashīr RA known?",
+   "back": "Great generosity, and skill in poetry",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "narrator"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-252",
+   "front": "How and when did al-Nuʿmān ibn Bashīr RA die?",
+   "back": "He was killed, in 64 or 65 AH",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "narrator"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-253",
+   "front": "How many aḥādīth did al-Nuʿmān ibn Bashīr RA narrate?",
+   "back": "114",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "narrator"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-254",
+   "front": "What do some scholars say about reflecting on the ḥadīth “the lawful is clear”?",
+   "back": "Whoever reflects on it will come to see all the acts of Islam, inward and outward",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "foundations"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-255",
+   "text": "The ḥadīth “the lawful is clear” divides actions into three: {{c1::the clearly lawful — what the Sharīʿah has explicitly permitted}}; {{c2::the clearly unlawful — what it has explicitly forbidden}}; and {{c3::the doubtful — what lies between, which many people don't know}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "categories",
+    "spine"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-256",
+   "front": "Why are some matters “doubtful”, according to the ḥadīth “the lawful is clear”?",
+   "back": "Not because the Sharīʿah is unclear, but because the person doesn't know — they are doubtful relative to the individual's knowledge",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "categories",
+    "criterion"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-257",
+   "front": "What does the Prophet ﷺ advise about doubtful matters, and why?",
+   "back": "Avoiding them is much safer: it protects one's religion and honour — <bdi>فَقَدِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ</bdi>",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "doubtful"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-258",
+   "front": "What is the standing of someone who engages in doubtful matters?",
+   "back": "He isn't violating the Sharīʿah, or counted as disobedient — but whoever keeps doing doubtful things will in the end fall into the unlawful",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "doubtful",
+    "criterion"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-259",
+   "front": "What role do disliked acts play, according to the lesson on the ḥadīth “the lawful is clear”?",
+   "back": "They are a checkpoint between a person and the unlawful. Whoever indulges in them often falls into the unlawful, and grows careless.",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "doubtful"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-260",
+   "front": "What did Abū al-Dardāʾ RA call complete taqwā?",
+   "back": "Leaving something one believes permissible, for fear it may be unlawful — good to practise on ourselves, but not a standard we hold others to",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "doubtful"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-261",
+   "front": "What did Ibn ʿUmar RA call leaving doubtful matters?",
+   "back": "A veil between himself and the unlawful",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "doubtful"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-262",
+   "front": "To whom does the Prophet ﷺ compare someone who keeps engaging in doubtful matters, in the ḥadīth “the lawful is clear”?",
+   "back": "A shepherd who keeps grazing his flock along someone else's land — the <bdi>حِمَى</bdi>, a private pasture — until some of the animals stray over the line",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "doubtful"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-263",
+   "text": "“Truly, every king has {{c1::a sanctuary}}, and Allah's sanctuary is {{c2::what He has made unlawful}}”",
+   "extra": "<bdi>أَلَا وَإِنَّ لِكُلِّ مَلِكٍ حِمًى، أَلَا وَإِنَّ حِمَى اللهِ مَحَارِمُهُ</bdi> (Arbaʿīn 6)",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "text"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-264",
+   "front": "What does the Prophet ﷺ say of the heart at the end of the ḥadīth “the lawful is clear”?",
+   "back": "In the body is a morsel of flesh (<bdi>مُضْغَة</bdi>): when it is sound, the whole body is sound, and when it is corrupt, the whole body is corrupt — truly, it is the heart",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "heart"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-265",
+   "front": "How does the lesson on the ḥadīth “the lawful is clear” relate the spiritual heart to the physical one?",
+   "back": "The spiritual heart is connected to the physical heart, just as the soul is somehow connected to the body",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "heart"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-266",
+   "front": "Where does tazkiyah come in, according to the lesson on the ḥadīth “the lawful is clear”?",
+   "back": "In purifying the heart: removing its blameworthy qualities and replacing them with praiseworthy ones",
+   "tags": [
+    "arbaeen",
+    "h06",
+    "heart"
+   ],
+   "session": "oct21",
+   "source": "Arbaʿīn Ḥadīth 6 — class notes"
   }
  ]
 }

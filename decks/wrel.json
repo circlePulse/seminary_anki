@@ -3,7 +3,7 @@
  "topic": "wrel",
  "session": "sep24",
  "source": "World Religions II — lecture and readings, 2026-09-24",
- "expected_count": 191,
+ "expected_count": 284,
  "cards": [
   {
    "type": "basic",
@@ -2618,7 +2618,7 @@
    "tier": 1,
    "id": "wrel-190",
    "front": "Who founded Neo-Confucianism, and what was it?",
-   "back": "Zhu Xi — a revival of Confucianism after a decline",
+   "back": "Zhu Xi, arguably — he drew together the work of earlier Song-dynasty thinkers. It was a revival of Confucianism after a decline.",
    "tags": [
     "wrel",
     "lecture",
@@ -2641,6 +2641,1381 @@
    ],
    "session": "oct13",
    "source": "World Religions II — lecture, 2026-10-13"
+  },
+  {
+   "type": "cloze",
+   "text": "Kongzi, in one of his only recorded sayings about women: “Women and servants are {{c1::most difficult to nurture}}. If one is close to them, {{c2::they lose their reserve}}, while if one is distant, {{c3::they feel resentful}}.”",
+   "extra": "Analects 17.25",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "women",
+    "quote"
+   ],
+   "tier": 1,
+   "id": "wrel-192",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Until which dynasty was there almost no discussion of what a Confucian ethic for women might be?",
+   "back": "The Han (206 BCE – 220 CE)",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "women"
+   ],
+   "tier": 1,
+   "id": "wrel-193",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Why do some say Confucianism is for men and Daoism for women?",
+   "back": "Confucianism means actively cultivating oneself and changing things for the better — the masculine yang. Daoism urges passively following the way of nature, in harmony with it — the feminine yin.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "daoism",
+    "women",
+    "contrast"
+   ],
+   "tier": 1,
+   "id": "wrel-194",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "How did Ban Zhao come to be a court historian?",
+   "back": "She took up the mantle after her father, Ban Biao, and her brother, Ban Gu, died — and finished the history of the Han they had begun",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "women"
+   ],
+   "tier": 1,
+   "id": "wrel-195",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What makes Ban Zhao rare in Chinese literature?",
+   "back": "She is one of very few women who both wrote and had their writing preserved",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "women"
+   ],
+   "tier": 1,
+   "id": "wrel-196",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "When did Zhu Xi live, relative to Kongzi?",
+   "back": "More than 1,500 years later: Zhu Xi lived 1130–1200 CE, Kongzi 551–479 BCE",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "origins"
+   ],
+   "tier": 1,
+   "id": "wrel-197",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What was the religious climate when Zhu Xi was born, and what did he set out to do?",
+   "back": "Buddhism was very strong; he wanted to turn the focus back to Confucianism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "buddhism",
+    "origins"
+   ],
+   "tier": 1,
+   "id": "wrel-198",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What system did Zhu Xi devise to put Neo-Confucian philosophy into practice?",
+   "back": "Granaries kept full even in famine — eventually a statewide system. The greatest ren is to care for people.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism"
+   ],
+   "tier": 1,
+   "id": "wrel-199",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "cloze",
+   "text": "The five relationships Neo-Confucianism made the foundation of a well-ordered society: four hierarchical — {{c1::father–son}}, {{c2::lord–servant}}, {{c3::husband–wife}} and {{c4::older brother–younger brother}} — and one equal, friend–friend",
+   "extra": "The list goes back to Mengzi (3A4).",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "spine"
+   ],
+   "tier": 1,
+   "id": "wrel-200",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What became paramount for women under Neo-Confucianism?",
+   "back": "Female chastity — and with it, footbinding",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "women"
+   ],
+   "tier": 1,
+   "id": "wrel-201",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Where did Zhu Xi stand on whether human nature is good?",
+   "back": "With Mengzi: human nature is principle (li), and so good; evil comes from the material force (qi) that clouds it",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "mengzi"
+   ],
+   "tier": 1,
+   "id": "wrel-202",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What was footbinding?",
+   "back": "Breaking a young girl's feet — at three to five years old — folding the toes under, and binding them tightly so the feet looked extremely small",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "women",
+    "footbinding"
+   ],
+   "tier": 1,
+   "id": "wrel-203",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "How is footbinding said to have begun?",
+   "back": "In the 10th century, a ruler of the Southern Tang had his concubine bind her feet to perform a dance",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "women",
+    "footbinding",
+    "origins"
+   ],
+   "tier": 1,
+   "id": "wrel-204",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "How did footbinding spread?",
+   "back": "By the Song dynasty, prostitutes, dancers and other female entertainers had taken it up; from them it spread to the upper classes",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "women",
+    "footbinding"
+   ],
+   "tier": 1,
+   "id": "wrel-205",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Why was footbinding seen as serving chastity?",
+   "back": "A woman with bound feet couldn't easily leave the house",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "women",
+    "footbinding"
+   ],
+   "tier": 1,
+   "id": "wrel-206",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "In a society that counted being born a woman a misfortune, how could footbinding turn it to advantage?",
+   "back": "Bound feet could let a girl marry into the upper classes — a path to social mobility",
+   "tags": [
+    "wrel",
+    "lecture",
+    "neo-confucianism",
+    "women",
+    "footbinding"
+   ],
+   "tier": 1,
+   "id": "wrel-207",
+   "session": "oct15",
+   "source": "World Religions II — lecture, 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Who, by tradition, wrote the Daodejing, and when did he live?",
+   "back": "Laozi — an older contemporary of Kongzi",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "origins"
+   ],
+   "tier": 1,
+   "id": "wrel-208",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What do contemporary scholars say about Laozi and the Daodejing?",
+   "back": "Laozi is a mythical figure, and the text is a composite work",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "origins",
+    "scholars"
+   ],
+   "tier": 1,
+   "id": "wrel-209",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Though the Daodejing was cobbled together from many sources, how does it read?",
+   "back": "As if it was put together in a fairly short time, possibly by a single editor",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-210",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "How many chapters does the Daodejing have, and what are they like?",
+   "back": "81 — short passages, some of which rhyme",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-211",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the title “Daodejing” mean?",
+   "back": "“The Classic of Dao and De” — of the Way and Virtue",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "concepts"
+   ],
+   "tier": 1,
+   "id": "wrel-212",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Where does the Daodejing get its title?",
+   "back": "From the first concept of each of its two books, not from their content: Book I (chapters 1–37) is the Dao half, and Book II (38–81) the De half",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-213",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "When was the Daodejing put together, and how does it respond to its times?",
+   "back": "Near the end of the Warring States period, an age of interstate rivalry. Weary of war and chaos, it longs for security and peace.",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "origins"
+   ],
+   "tier": 1,
+   "id": "wrel-214",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing trace wars of expansion and corrupt government to?",
+   "back": "Greed and ambition — hence its view that desire must be limited if it isn't to cause harm",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-215",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What earlier time does the Daodejing appeal to?",
+   "back": "A time when goodness was reflexive and instinctive, not thought out",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-216",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What place do human beings have in the Dao?",
+   "back": "A place, but not an exalted one: they are one kind of thing among others",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-217",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Why do human beings upset the harmony of the Dao, and what does the Daodejing seek to do about it?",
+   "back": "They can alter the nature of things, so they tend to forsake their natural place. The text seeks to undo this.",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-218",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What kind of text does the introduction call the Daodejing, rather than a presentation of theory?",
+   "back": "Philosophical therapy",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-219",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "How do opposites relate, according to the Daodejing?",
+   "back": "They harmonise with and offset each other (ch. 2)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-220",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "cloze",
+   "text": "The Daodejing: revering important people leads to {{c1::strife}}; revering material possessions leads to {{c2::theft}}",
+   "extra": "Chapter 3",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-221",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Where does the Daodejing mention a lord or god, and in what context?",
+   "back": "Only once, in chapter 4: the Dao is “the image of what was before the Lord himself”",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-222",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Who is the “Enigmatic Female” in the Daodejing?",
+   "back": "The spirit of the valley — her gate is the root of Heaven and earth (ch. 6)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-223",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What paradox does the Daodejing see in the sages?",
+   "back": "They put themselves last, yet come first; having no thought of themselves, they are able to perfect themselves (ch. 7)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-224",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "cloze",
+   "text": "The Daodejing on where the good lies: “In a residence, the good lies in {{c1::location}}. In hearts, the good lies in {{c1::depth}}. In interactions with others, the good lies in {{c2::benevolence}}. In words, the good lies in {{c2::trustworthiness}}. In government, the good lies in {{c3::orderliness}}. In carrying out one's business, the good lies in {{c3::ability}}. In actions, the good lies in {{c4::timeliness}}. Only by {{c4::avoiding contention}} can one avoid blame.”",
+   "extra": "Chapter 8",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "quote"
+   ],
+   "tier": 1,
+   "id": "wrel-225",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say comes of being haughty about one's prestige and wealth?",
+   "back": "One brings disaster on oneself (ch. 9)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-226",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "How does the Daodejing want a ruler to lead?",
+   "back": "Caring for the people and ordering the state, but without lording it over them (ch. 10)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "politics"
+   ],
+   "tier": 1,
+   "id": "wrel-227",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What is the point of the Daodejing's clay vessel and room?",
+   "back": "What's useful is what's absent: we shape clay into a vessel but use its cavity, and doors, walls and windows make a room but we use the space they leave (ch. 11)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-228",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say constant chasing and hunting do to us?",
+   "back": "They madden our hearts (ch. 12)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-229",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "In the Daodejing, what does revering and caring for your own body show?",
+   "back": "That you're worthy of being trusted with more responsibility (ch. 13, which says to “revere calamity as you revere your own body”)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-230",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say stillness does to muddy water?",
+   "back": "Makes it clear — where movement stirs up what was still (ch. 15)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-231",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing keep urging a return to?",
+   "back": "A better, more natural state",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-232",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Which ruler does the Daodejing rank above one who is loved and praised?",
+   "back": "One who is “but a shadowy presence” — and a loved ruler is better than one who is feared and reviled (ch. 17)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "politics"
+   ],
+   "tier": 1,
+   "id": "wrel-233",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What paradox about loss and gain does the Daodejing draw?",
+   "back": "As more can lead to less, so less can yield more: good comes out of bad circumstances (ch. 22)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-234",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing repeatedly say comes of abandoning something good?",
+   "back": "Something good — overthinking, it seems, gets in the way of goodness",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-235",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "When, according to the Daodejing, do virtues become noticeable?",
+   "back": "Only when something has gone wrong — filial piety shows when families are at odds, loyal ministers when the state is in chaos (ch. 18)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-236",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "When the Daodejing's author shifts into the first person, what do they say of themselves and the common folk?",
+   "back": "That they are at a loss, while the common folk are “bright and brilliant” (ch. 20)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-237",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say bragging and self-aggrandisement lead to?",
+   "back": "People not liking you (ch. 24)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-238",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Way model itself on, according to the Daodejing?",
+   "back": "What is natural. Humans model themselves on Earth, Earth on Heaven, and Heaven on the Way (ch. 25).",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "concepts"
+   ],
+   "tier": 1,
+   "id": "wrel-239",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say of those who are truly good at something — and so of sages?",
+   "back": "They make no mistakes and need no crutches; so sages save people and never abandon anyone (ch. 27)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-240",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Which line of the Daodejing counsels holding to the feminine?",
+   "back": "“Know the male but preserve the female” (ch. 28)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "quote"
+   ],
+   "tier": 1,
+   "id": "wrel-241",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say comes of taking the world by force of arms?",
+   "back": "It comes back in kind (ch. 30)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-242",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What is the Daodejing's stance on weapons?",
+   "back": "All creatures find them repulsive, so one who is on the Way doesn't rely on them — but may use them when there is no choice (ch. 31)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-243",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say of reveling in victory?",
+   "back": "It is reveling in the slaughter of human beings, and one who delights in that won't achieve his ambitions (ch. 31)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-244",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say about striving for virtue?",
+   "back": "It isn't how you gain virtue (ch. 38)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-245",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the stability of Heaven and earth show, according to the Daodejing?",
+   "back": "That they have “attained the One” — so they don't tear themselves apart (ch. 39)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-246",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say about how the Way appears?",
+   "back": "It may not seem level, or to lead forward, but it is — and only the Way is good at providing and completing (ch. 41)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-247",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "How does everything arise from the Way, according to the Daodejing?",
+   "back": "The Way produces the One, its representation; the One produces the two, yin and yang; the two produce the three; and the three produce everything in the world (ch. 42)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "concepts"
+   ],
+   "tier": 1,
+   "id": "wrel-248",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What kind of process is the Daodejing's account of how everything arises from the Way?",
+   "back": "A natural progression, with no creator or higher power",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "criterion"
+   ],
+   "tier": 1,
+   "id": "wrel-249",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "cloze",
+   "text": "The Daodejing: “Know {{c1::contentment}} and avoid disgrace; know {{c2::when to stop}} and avoid danger; and you will {{c3::long endure}}”",
+   "extra": "Chapter 44",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "quote"
+   ],
+   "tier": 1,
+   "id": "wrel-250",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "Whom is the Daodejing's sage good to, and whom does he trust?",
+   "back": "The good and the bad alike; the trustworthy and those who aren't, alike (ch. 49)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-251",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say understanding the world and its source allows?",
+   "back": "Avoiding danger (ch. 52) — the source being the Way, or the One",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-252",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing call strength?",
+   "back": "Preserving the weak (ch. 52)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-253",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing call possessing wealth in gross abundance while the granaries are empty?",
+   "back": "Taking pride in robbery (ch. 53)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing",
+    "politics"
+   ],
+   "tier": 1,
+   "id": "wrel-254",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "When does the Daodejing say to put things in order?",
+   "back": "Before they become disordered — preparing is easy while things are going well (ch. 64)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-255",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What does the Daodejing say of those good at fighting, and of generals?",
+   "back": "They aren't overly aggressive and don't start fights; generals don't want to make the first move (ch. 68–69)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-256",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What question does the Daodejing say even sages find difficult?",
+   "back": "Why Heaven dislikes what it does (ch. 73)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-257",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What lesson does the Daodejing draw from water's suppleness?",
+   "back": "The weak overcome the strong: nothing is more supple or weak than water, yet nothing can surpass it or resist its advance (ch. 78)",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-258",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "cloze",
+   "text": "The Daodejing's ideal people {{c1::use no labour-saving tools, ships or carts}}, {{c2::keep track with knots instead of writing}} and {{c3::don't travel}} — yet {{c4::their food is savoury, their clothes fine, their houses comfortable and their lives happy}}",
+   "extra": "Chapter 80",
+   "tags": [
+    "wrel",
+    "reading",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-259",
+   "session": "oct15",
+   "source": "World Religions II — reading: Daodejing (171–223), 2026-10-15"
+  },
+  {
+   "type": "basic",
+   "front": "What do some scholars think “Laozi” was, if not one man?",
+   "back": "A name taken by a group of people — some even think a group of women",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "origins",
+    "scholars"
+   ],
+   "tier": 1,
+   "id": "wrel-260",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "Why do some think a group of women may have taken the name Laozi?",
+   "back": "Women weren't allowed to be philosophers, and Daoism values qualities Chinese culture held inferior — women among them",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "women",
+    "scholars"
+   ],
+   "tier": 1,
+   "id": "wrel-261",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "How does the theory that Laozi was a group fit Daoist thought?",
+   "back": "It fits the Daoist idea that no one person is above the rest",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "tier": 1,
+   "id": "wrel-262",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "What does “Daoism” literally translate as?",
+   "back": "“Way-ism” — dao means “way”",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "concepts"
+   ],
+   "tier": 1,
+   "id": "wrel-263",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "How does the Daodejing's style differ from the Analects'?",
+   "back": "The Analects is straightforward and conversational; the Daodejing is cryptic, poetic and opaque",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "daodejing",
+    "analects",
+    "contrast"
+   ],
+   "tier": 1,
+   "id": "wrel-264",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "Why is the Daodejing full of repeated sounds?",
+   "back": "To break you away from everyday thinking",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "daodejing"
+   ],
+   "tier": 1,
+   "id": "wrel-265",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "Besides its key concepts, what two things does Daoism distrust?",
+   "back": "Words — it is wary of language as an expression of the Truth, or the Way — and society. Both can lead people astray.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "tier": 1,
+   "id": "wrel-266",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "If words fail to express the Way, what does Daoism turn to?",
+   "back": "The yin and the yang",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "yin-yang"
+   ],
+   "tier": 1,
+   "id": "wrel-267",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "cloze",
+   "text": "Daoism's key concepts: {{c1::the Way}}, {{c2::yin-yang}}, {{c3::water}} and {{c4::balance}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "concepts",
+    "spine"
+   ],
+   "tier": 1,
+   "id": "wrel-268",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "What is the Way, in Daoism?",
+   "back": "A cosmic force, or the natural order — the ideal state and the root of all things. Human beings should live in harmony with it.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "concepts"
+   ],
+   "tier": 1,
+   "id": "wrel-269",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "cloze",
+   "text": "What the yin-yang picture teaches: {{c1::all things are equal}}; {{c2::life is constant flux}}; {{c3::pushing to one extreme brings its opposite}}; {{c4::each thing holds the seed of its opposite}}; and {{c5::evil is imbalance, not the dark half}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "yin-yang",
+    "spine"
+   ],
+   "tier": 1,
+   "id": "wrel-270",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "What does the equal size of the yin-yang's halves teach?",
+   "back": "That things are equal — neither half is higher, and both are needed to make an integrated whole, even things you might not prefer in this life",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "yin-yang"
+   ],
+   "tier": 1,
+   "id": "wrel-271",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "What does it mean that each half of the yin-yang is moving into the other?",
+   "back": "Nothing is static: life is a constant flux, a balancing out of two opposites",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "yin-yang"
+   ],
+   "tier": 1,
+   "id": "wrel-272",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "What does the yin-yang teach where each side grows thickest, just as it turns into the other?",
+   "back": "Push too far to one extreme and you get its opposite",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "yin-yang"
+   ],
+   "tier": 1,
+   "id": "wrel-273",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "What does the dot of the other colour in each half of the yin-yang teach?",
+   "back": "The seeds of each thing's opposite exist within it",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "yin-yang"
+   ],
+   "tier": 1,
+   "id": "wrel-274",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "If the yin-yang's white and dark halves aren't good and evil, what is true evil in Daoism?",
+   "back": "The imbalance of the two sides",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "yin-yang",
+    "criterion"
+   ],
+   "tier": 1,
+   "id": "wrel-275",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "bidir",
+   "term": "Wuwei",
+   "meaning": "“non-action” — avoiding purposeful action; one of Daoism's main concepts, stressed again and again in the Daodejing",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "concepts"
+   ],
+   "tier": 1,
+   "id": "wrel-276",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "cloze",
+   "text": "The lecture's illustration of wuwei, from the Daodejing: “Everyone knows that when the beautiful strives to be beautiful, {{c1::it is repulsive}}. Everyone knows that when good strives to be good, {{c2::it is no good}}.”",
+   "extra": "Chapter 2. Self-conscious striving to excel at something good is counterproductive.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "daodejing",
+    "quote"
+   ],
+   "tier": 1,
+   "id": "wrel-277",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "Why does Daoism counsel against purposeful action?",
+   "back": "Trying to attain something leads to grief — harm comes from pushing too hard toward a goal. We naturally, unconsciously strive for a middle path, and avoiding purposeful action is how to reach it.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "criterion"
+   ],
+   "tier": 1,
+   "id": "wrel-278",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "How, in Daoism, do you work out what to do?",
+   "back": "Passively emulate the natural order: first observe nature and your surroundings; once you've worked out their natural order, act in harmony with it, avoiding extremes",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism"
+   ],
+   "tier": 1,
+   "id": "wrel-279",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "Why is water the Daodejing's example of the highest good, and a key Daoist symbol?",
+   "back": "Water benefits everything without causing harm or strife, and doesn't avoid what people think inferior — it shows how to live in accordance with the Way (ch. 8)",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "daodejing",
+    "concepts"
+   ],
+   "tier": 1,
+   "id": "wrel-280",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "Where do Daoism and Confucianism each find the way to harmony and peace?",
+   "back": "Daoism: in the individual's place within the cosmos, the natural order. Confucianism: in appropriate human relationships within the social order — for it, the only order worth following.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "confucianism",
+    "contrast"
+   ],
+   "tier": 1,
+   "id": "wrel-281",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "Why does Daoism say society's rules should not always be followed?",
+   "back": "Society often puts the individual in opposition to the natural order",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "criterion"
+   ],
+   "tier": 1,
+   "id": "wrel-282",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "What does Confucianism say people must do, and how should it be rewarded?",
+   "back": "Actively cultivate themselves — and be rewarded with important positions in government",
+   "tags": [
+    "wrel",
+    "lecture",
+    "confucianism",
+    "contrast"
+   ],
+   "tier": 1,
+   "id": "wrel-283",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "front": "Why does Daoism reject the Confucian call to self-cultivation?",
+   "back": "Actively pursuing a goal brings about its opposite: rewarding self-cultivation makes people fight among themselves for the rewards, ending in chaos, strife and ignorance",
+   "tags": [
+    "wrel",
+    "lecture",
+    "daoism",
+    "confucianism",
+    "contrast",
+    "criterion"
+   ],
+   "tier": 1,
+   "id": "wrel-284",
+   "session": "oct20",
+   "source": "World Religions II — lecture, 2026-10-20"
   }
  ]
 }

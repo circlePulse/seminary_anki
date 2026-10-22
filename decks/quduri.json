@@ -3,7 +3,7 @@
  "topic": "quduri",
  "session": "sep09",
  "source": "Qudūrī — Intro to Qudūrī, class notes 2026-09-09",
- "expected_count": 279,
+ "expected_count": 285,
  "cards": [
   {
    "type": "basic",
@@ -3595,7 +3595,7 @@
    "tier": 1,
    "id": "qud-269",
    "front": "What may tayammum be made with, for the Ḥanafīs?",
-   "back": "Any pure substance of the earth that does not burn to ash and is not a metal — soil, sand, stone",
+   "back": "Any pure substance of the earth that does not burn to ash and is not a metal — soil, sand, stone, but not plants or wood. This is Abū Ḥanīfah's and Muḥammad's view.",
    "tags": [
     "quduri",
     "tahara",
@@ -3756,6 +3756,97 @@
    ],
    "session": "oct14",
    "source": "Arbaʿīn / Qudūrī — ikhtilāf: the strength of evidence — class notes 2026-10-14"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-280",
+   "front": "Which materials does Abū Yūsuf allow for tayammum, against Abū Ḥanīfah and Muḥammad?",
+   "back": "Only soil and sand. They allow any pure substance of the earth that doesn't burn to ash and isn't a metal.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "materials",
+    "khilaf"
+   ],
+   "session": "oct21",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-281",
+   "front": "What nullifies tayammum?",
+   "back": "Everything that nullifies wuḍūʾ — and gaining access to water, or the ability to use it",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "nullifiers"
+   ],
+   "session": "oct21",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-282",
+   "front": "What becomes of a prayer already completed with tayammum, once water becomes available?",
+   "back": "It stands — it need not be repeated",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "nullifiers"
+   ],
+   "session": "oct21",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-283",
+   "front": "What is recommended for someone without water who reasonably hopes to find it before the prayer's time ends?",
+   "back": "To delay the prayer toward the end of its time: if water comes, make wuḍūʾ; if not, make tayammum and pray",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "conditions"
+   ],
+   "session": "oct21",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-21"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-284",
+   "front": "A traveller forgets he has water, makes tayammum and prays. How do the Ḥanafī imams rule?",
+   "back": "Abū Ḥanīfah and Muḥammad: he needn't repeat the prayer. Abū Yūsuf: he must.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "khilaf"
+   ],
+   "session": "oct21",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-285",
+   "term": "<bdi>غَلَبَة الظَّنّ</bdi> (ghalabat al-ẓann)",
+   "meaning": "preponderant belief — near certainty; in tayammum, the standard for concluding there is no water",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "terminology"
+   ],
+   "session": "oct21",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: tayammum — class notes 2026-10-21"
   }
  ]
 }

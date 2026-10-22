@@ -99,6 +99,26 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-10-22, from a scan of every page:
+- **Arbaʿīn Ḥadīth 6** (arbh-247–266), and the particle أَلَا (voc-446, `h06`). The "DON'T START YET" note over it
+  had been left by mistake, the user said. Claude removed it from the page at their request.
+- **Qudūrī tayammum additions** (qud-280–285). qud-269 was edited: the materials rule excludes plants and wood, and
+  is Abū Ḥanīfah's and Muḥammad's view.
+- **World Religions** 10/15 (in class, and the Daodejing reading) and 10/20 (wrel-192–284). wrel-190 now says Zhu Xi
+  "arguably" founded Neo-Confucianism, per the 10/15 notes.
+- **Python** namedtuple (under Tuple), then Recursion, Set and Dictionaries (pyth-193–213).
+
+Corrections on the cards only:
+- **Arbaʿīn:** al-Nuʿmān ibn Bashīr's death, "56" in the notes, is 64 or 65 AH.
+- **World Religions:** Zhu Xi did take a view on human nature, Mengzi's; Daodejing 42 has a step the notes skip;
+  the Enigmatic Female's gate is the root of Heaven and earth.
+- **Python:** "an array of strings" is a list, `del` is a statement, and dictionaries are indexed by key, not only
+  by strings.
+
+The other pages had nothing new to card: IOK Arabic and Durūs. Riyāḍ has only a to-do, to memorise ḥadīth 37, 54,
+61 and 71 and the second narration of 62; progressive cloze cards were offered. Calculus II and Tazkiyah are on
+hold.
+
 Carded on 2026-10-14, from a scan of every page the user asked for:
 - **IOK Arabic, Tasheel ch. 2, al-muʿrab wa-l-mabnī** (nahw-209–225). The CLAUDE note "add the categories" was
   read as the words whose iʿrāb is مُقَدَّر. The deck's topic is now `tasheel`, so its files are named that way.

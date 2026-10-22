@@ -37,17 +37,17 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **1,880 notes across 10 decks.**
+Current state: **2,021 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
-| quduri | 279 | HDT-201 |
-| vocab | 445 | VOCAB |
-| arbaeen_ahadith | 246 | HDT-201 |
+| quduri | 285 | HDT-201 |
+| vocab | 446 | VOCAB |
+| arbaeen_ahadith | 266 | HDT-201 |
 | nahw | 225 | ARB-201 |
 | sarf | 219 | ARB-201 |
-| wrel | 191 | RELSTD-5B |
-| pyth | 192 | ICS-H32 |
+| wrel | 284 | RELSTD-5B |
+| pyth | 213 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
 | riyad | 10 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
@@ -193,8 +193,19 @@ once, and both times was objecting to files that had no reason to exist.
   ʿĀʾishah RA moved in during year 2 AH, while most sources say Shawwāl of year 1. Second, the notes say she lived
   "40 years" after the Prophet ﷺ, but 57 − 11 AH is 46, so the card says "more than forty". Its matn, in
   `texts/arbaeen_h05.md`, was supplied by Claude from the standard text, not from the user's copy.
-- **Ḥadīth 6 has only its narrator so far (2026-10-14).** The user is writing the notes and will say when to
-  scan. Its verbs are already in `vocab` (h06).
+- **Ḥadīth 6 (arbh-247–266) has two points for the user to check.** First, the notes say al-Nuʿmān ibn Bashīr RA
+  was killed in 56 AH, but the sources say 64 or 65 AH, so the card says that. Second, the translation in
+  `texts/arbaeen_h06.md` is Claude's and unchecked, and arbh-263 rests on it. Its matn was supplied by Claude from
+  the standard text. The page's "DON'T START YET" note had been left by mistake; Claude removed it on 2026-10-22,
+  at the user's request.
+- **World Religions 10/15–10/20 (wrel-192–284) departs from the notes in four places, by design.** The user
+  approved the draft with each one flagged. wrel-202 gives Zhu Xi's actual view of human nature (with Mengzi),
+  where the notes say he took none. wrel-223 says the Enigmatic Female's gate is the root of Heaven and earth,
+  where the notes say a thread. wrel-248 adds Daodejing 42's step from the two to the three. wrel-266 finishes
+  a sentence that breaks off ("lead people astray"). The Daodejing chapter numbers on the backs are Claude's;
+  the notes give only chapter 4.
+- **Riyāḍ has a memorisation to-do (2026-10-22):** ḥadīth 37, 54, 61 and 71, and the second narration of 62.
+  Claude offered progressive cloze cards of those texts. No answer yet.
 - **voc-218 حَسَبَ is carded as "according to"**, which is unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count",
   fits the same vowels and would collide with أَحْصَى (voc-009).
 - **The 2026-10-13 vocabulary list (voc-231–291) carries four readings the user hasn't confirmed.** الها was
