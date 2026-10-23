@@ -123,7 +123,8 @@ Revised in Notion on 2026-10-22, at the user's request ("I was very confused whe
 Tasheel ch. 2, the iʿrāb toggles. LafDhi had been defined as "state explicitly shown", which is ẓāhir. Now
 dhaahir and almuqaddar sit inside LafDhi as its two kinds, and Mahalli is tied to mabniy. A toggle on telling
 muqaddar from mahalli was added. The CLAUDE note "add the categories" was replaced by the muqaddar categories. The
-old wording is quoted in `drafts/draft_2026-10-22_irab.md`.
+old wording is quoted in `drafts/draft_2026-10-22_irab.md`. Carded on 2026-10-23: nahw-226 (how the four kinds fit
+together) and nahw-227 (muqaddar or mahalli), with nahw-215 edited to say "whether you can hear it or not".
 
 Carded on 2026-10-14, from a scan of every page the user asked for:
 - **IOK Arabic, Tasheel ch. 2, al-muʿrab wa-l-mabnī** (nahw-209–225). The CLAUDE note "add the categories" was

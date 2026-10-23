@@ -1,6 +1,6 @@
 {
  "_comment": "APPEND-ONLY. An id here must never change or disappear. It is the only link between a regenerated deck and notes that already carry review history in Anki.",
- "generated": "2026-10-22",
+ "generated": "2026-10-23",
  "decks": {
   "arbaeen": {
    "course": "HDT-201",
@@ -710,7 +710,7 @@
   "nahw": {
    "course": "ARB-201",
    "topic": "tasheel",
-   "count": 225,
+   "count": 227,
    "ids": [
     "nahw-001",
     "nahw-002",
@@ -936,7 +936,9 @@
     "nahw-222",
     "nahw-223",
     "nahw-224",
-    "nahw-225"
+    "nahw-225",
+    "nahw-226",
+    "nahw-227"
    ],
    "fp": {
     "nahw-001": "0beceffed699",
@@ -1163,7 +1165,9 @@
     "nahw-222": "d0663e3b28fa",
     "nahw-223": "dc78b55bc7b0",
     "nahw-224": "109221ca1c9e",
-    "nahw-225": "f21ff877a327"
+    "nahw-225": "f21ff877a327",
+    "nahw-226": "c0317117a228",
+    "nahw-227": "101d534adb9a"
    }
   },
   "pyth": {
