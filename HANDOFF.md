@@ -204,6 +204,11 @@ once, and both times was objecting to files that had no reason to exist.
   where the notes say a thread. wrel-248 adds Daodejing 42's step from the two to the three. wrel-266 finishes
   a sentence that breaks off ("lead people astray"). The Daodejing chapter numbers on the backs are Claude's;
   the notes give only chapter 4.
+- **Ṣarf ṣaghīr cloze: a sample is awaiting approval (2026-10-23).** The user sent the class pattern (صَرَّفَ
+  يُصَرِّفُ تَصْرِيفًا …) and asked for it as a table, with the fixed words greyed. The design is in
+  `drafts/draft_2026-10-23_sarf-saghir.md`, and `drafts/sarf_saghir_template.py` builds a note from the eleven
+  forms. Two questions are open: which verbs to run through it, and whether to add a `.cloze` highlight to the
+  cloze notetype's CSS.
 - **Riyāḍ has a memorisation to-do (2026-10-22):** ḥadīth 37, 54, 61 and 71, and the second narration of 62.
   Claude offered progressive cloze cards of those texts. No answer yet.
 - **voc-218 حَسَبَ is carded as "according to"**, which is unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count",
