@@ -74,6 +74,7 @@ CSS = """
   --muted: #666;
   --rule: #ccc;
   --header-bg: #e8e8e8;
+  --cloze: #1a5fd1;
 
   direction: ltr;
   font-family: 'Scheherazade New', 'Amiri', 'Traditional Arabic',
@@ -87,7 +88,11 @@ CSS = """
   --muted: #aaa;
   --rule: #555;
   --header-bg: #333;
+  --cloze: #7fb4ff;
 }
+
+/* the blank and the revealed answer, so a table card shows which cell was asked; bold is the non-colour cue */
+.cloze { font-weight: bold; color: var(--cloze); }
 
 .arabic { direction: rtl; font-size: 28px; line-height: 1.9; }
 .transliteration { color: var(--muted); font-style: italic; font-size: .85em; }
@@ -269,7 +274,8 @@ def _unisolated_arabic(field):
     """
     if not (_ARABIC.search(field) and _LATIN.search(field)):
         return False
-    rest = re.sub(r'<bdi>.*?</bdi>|<span class="ar">.*?</span>|<div class="arabic">.*?</div>',
+    rest = re.sub(r'<bdi>.*?</bdi>|<span class="ar">.*?</span>|<div class="arabic">.*?</div>'
+                  r'|<td class="arabic"[^>]*>.*?</td>|<th class="arabic"[^>]*>.*?</th>',
                   "", field, flags=re.S)
     return bool(_ARABIC.search(rest))
 
@@ -280,9 +286,10 @@ def _ltr_arabic_line(field):
     definition with blanks — left in the card's left-to-right flow. Per-run <bdi>
     isolates are laid out left to right, so the first form lands on the LEFT; and a
     blank at either end of a bare line drifts to the wrong side. The whole line
-    belongs in one <div class="arabic">.
+    belongs in one <div class="arabic">. A <table dir="rtl"> of td.arabic cells (the ṣarf
+    ṣaghīr tables) sets its own direction, so it is exempt.
     """
-    if not _ARABIC.search(field) or field.lstrip().startswith('<div class="arabic">'):
+    if not _ARABIC.search(field) or field.lstrip().startswith(('<div class="arabic">', '<table dir="rtl"')):
         return False
     bare = re.sub(r"\{\{c\d+::([^}]*?)(::[^}]*)?\}\}", r"\1", field)
     bare = re.sub(r"<[^>]+>", "", bare)

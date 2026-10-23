@@ -1,24 +1,23 @@
-# Draft — Ṣarf: thulāthī mazīd fīh (26 new notes, 1 edit)
+# Draft — Ṣarf: thulāthī mazīd fīh (27 new notes, 1 edit)
 
-Status: **awaiting approval.**
+Status: **approved on 2026-10-23**, with both maṣdars added.
 
 Source: the new *thulathiy mazeed feeh* toggle under Sarf on the IOK Arabic page, fetched on 2026-10-23, and its
 CLAUDE note. Session tag `oct23`.
 
-## Check this first
+## Answered on 2026-10-23
 
-1. **The model verb for bāb al-mufāʿalah:** your notes don't name one, so its ṣarf ṣaghīr table (sarf-245) uses
-   qātala (قَاتَلَ), the usual model. Tell me if your class uses another verb.
-2. **Mufāʿalah's second maṣdar:** the bāb also has the maṣdar fiʿāl (فِعَال), as in qitāl (قِتَال). Your notes don't
-   mention it, so the cards use only mufāʿalah (مُفَاعَلَة). Say if you want it added.
+1. **The model verb for bāb al-mufāʿalah** is qātala (قَاتَلَ), as drafted (sarf-246).
+2. **Both maṣdars, as you asked:** mufāʿalah (مُفَاعَلَة) and fiʿāl (فِعَال). The qātala table has both, each with
+   its own blank, so it makes 9 cards, and a two-way card asks for the pair.
 
 ## Decisions you should know about
 
 - **Two-way pattern cards, as your note asks:** one side is the bāb, named by its maṣdar, with one form, and the
-  other side is that form on fāʿ, ʿayn, lām. Each bāb gets eight, so sixteen notes and 32 cards.
+  other side is that form on fāʿ, ʿayn, lām. Tafʿīl gets eight, and mufāʿalah nine with its two maṣdars.
 - **The ism mafʿūl and the ẓarf share a card** in each bāb. They're the same word, so two cards would have one
   answer, and the reverse side couldn't tell them apart.
-- **No maṣdar card:** the bāb's name is its maṣdar.
+- **No maṣdar card for tafʿīl:** the bāb's name is its maṣdar.
 - **Not carded again:**
   - "The ism ẓarf is the same as the ism mafʿūl" is sarf-192.
   - Mujarrad and mazīd fīh are sarf-105 to sarf-107.
@@ -27,7 +26,7 @@ CLAUDE note. Session tag `oct23`.
 - **Added from what I know:** the mīm of the participles takes a ḍammah, and their kasrah or fatḥah falls on the
   letter before the last. The examples on the amr card (faʿʿil and fāʿil) are mine too.
 - **Ṣarf ṣaghīr tables:** tafʿīl uses ṣarrafa (صَرَّفَ), your pattern, and mufāʿalah uses qātala. Each blanks one
-  form per card, so 8 cards each.
+  form per card: 8 cards for ṣarrafa, and 9 for qātala.
 - **The blue highlight** is added to the cloze style, as in the sample. It arrives with the first package you
   import, and from then on every cloze card highlights its answer.
 - **Family one:** the six abwāb can get the same tables whenever you want them.
@@ -65,22 +64,23 @@ CLAUDE note. Session tag `oct23`.
 | sarf-234 | bidir | <div class="arabic">بَاب التَّفْعِيل — الأَمْر</div> | <div class="arabic">فَعِّلْ</div> |
 | sarf-235 | bidir | <div class="arabic">بَاب التَّفْعِيل — النَّهْي</div> | <div class="arabic">لَا تُفَعِّلْ</div> |
 
-## Cards — bāb al-mufāʿalah, two-way (8)
+## Cards — bāb al-mufāʿalah, two-way (9)
 
 | id | Type | Front | Back |
 |---|---|---|---|
 | sarf-236 | bidir | <div class="arabic">بَاب المُفَاعَلَة — المَاضِي</div> | <div class="arabic">فَاعَلَ</div> |
 | sarf-237 | bidir | <div class="arabic">بَاب المُفَاعَلَة — المُضَارِع</div> | <div class="arabic">يُفَاعِلُ</div> |
-| sarf-238 | bidir | <div class="arabic">بَاب المُفَاعَلَة — اِسْم الفَاعِل</div> | <div class="arabic">مُفَاعِلٌ</div> |
-| sarf-239 | bidir | <div class="arabic">بَاب المُفَاعَلَة — المَاضِي المَجْهُول</div> | <div class="arabic">فُوعِلَ</div> |
-| sarf-240 | bidir | <div class="arabic">بَاب المُفَاعَلَة — المُضَارِع المَجْهُول</div> | <div class="arabic">يُفَاعَلُ</div> |
-| sarf-241 | bidir | <div class="arabic">بَاب المُفَاعَلَة — اِسْم المَفْعُول وَالظَّرْف</div> | <div class="arabic">مُفَاعَلٌ</div> |
-| sarf-242 | bidir | <div class="arabic">بَاب المُفَاعَلَة — الأَمْر</div> | <div class="arabic">فَاعِلْ</div> |
-| sarf-243 | bidir | <div class="arabic">بَاب المُفَاعَلَة — النَّهْي</div> | <div class="arabic">لَا تُفَاعِلْ</div> |
+| sarf-238 | bidir | <div class="arabic">بَاب المُفَاعَلَة — المَصْدَرَان</div> | <div class="arabic">مُفَاعَلَةٌ وَفِعَالٌ</div> |
+| sarf-239 | bidir | <div class="arabic">بَاب المُفَاعَلَة — اِسْم الفَاعِل</div> | <div class="arabic">مُفَاعِلٌ</div> |
+| sarf-240 | bidir | <div class="arabic">بَاب المُفَاعَلَة — المَاضِي المَجْهُول</div> | <div class="arabic">فُوعِلَ</div> |
+| sarf-241 | bidir | <div class="arabic">بَاب المُفَاعَلَة — المُضَارِع المَجْهُول</div> | <div class="arabic">يُفَاعَلُ</div> |
+| sarf-242 | bidir | <div class="arabic">بَاب المُفَاعَلَة — اِسْم المَفْعُول وَالظَّرْف</div> | <div class="arabic">مُفَاعَلٌ</div> |
+| sarf-243 | bidir | <div class="arabic">بَاب المُفَاعَلَة — الأَمْر</div> | <div class="arabic">فَاعِلْ</div> |
+| sarf-244 | bidir | <div class="arabic">بَاب المُفَاعَلَة — النَّهْي</div> | <div class="arabic">لَا تُفَاعِلْ</div> |
 
 ## Cards — ṣarf ṣaghīr tables (2)
 
 | id | Type | Front | Back |
 |---|---|---|---|
-| sarf-244 | cloze | (the ṣarf ṣaghīr table — see the sample image) | |
 | sarf-245 | cloze | (the ṣarf ṣaghīr table — see the sample image) | |
+| sarf-246 | cloze | (the ṣarf ṣaghīr table — see the sample image) | |

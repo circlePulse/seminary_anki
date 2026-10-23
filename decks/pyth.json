@@ -3,7 +3,7 @@
  "topic": "pyth",
  "session": "sep24",
  "source": "ICS H32 — lecture notes to 2026-09-24",
- "expected_count": 213,
+ "expected_count": 217,
  "cards": [
   {
    "type": "basic",
@@ -2783,6 +2783,61 @@
    ],
    "session": "oct22",
    "source": "ICS H32 — lecture notes to 2026-10-22"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-214",
+   "front": "In a module, what does a leading underscore on a function or variable name indicate?",
+   "back": "That it's private — by convention only; nothing enforces it",
+   "tags": [
+    "pyth",
+    "modules",
+    "convention"
+   ],
+   "session": "oct23",
+   "source": "ICS H32 — lecture notes to 2026-10-23"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-215",
+   "front": "What does an all-uppercase variable name indicate?",
+   "back": "A constant — again a convention that nothing enforces",
+   "tags": [
+    "pyth",
+    "variables",
+    "convention"
+   ],
+   "session": "oct23",
+   "source": "ICS H32 — lecture notes to 2026-10-23"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-216",
+   "front": "What does <code>.split()</code> split on, by default and otherwise?",
+   "back": "Whitespace by default — or whatever separator you pass it",
+   "tags": [
+    "pyth",
+    "strings"
+   ],
+   "session": "oct23",
+   "source": "ICS H32 — lecture notes to 2026-10-23"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-217",
+   "front": "What does this print?<pre class=\"code\">print('2026-10-23'.split('-'))</pre>",
+   "back": "<code>['2026', '10', '23']</code> — a list of the pieces between each separator",
+   "tags": [
+    "pyth",
+    "strings",
+    "predict-output"
+   ],
+   "session": "oct23",
+   "source": "ICS H32 — lecture notes to 2026-10-23"
   }
  ]
 }

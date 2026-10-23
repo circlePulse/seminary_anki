@@ -99,6 +99,18 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-10-23, from a scan of every page:
+- **Arbaʿīn:** the rest of Ḥadīth 6's lessons (arbh-267–270), and Ḥadīth 7 in full (arbh-271–302): Tamīm al-Dārī,
+  naṣīḥah, and the five relationships. Its matn and Claude's translation are in `texts/arbaeen_h07.md`.
+- **Qudūrī:** wiping over footgear (qud-286–305).
+- **IOK Arabic, Ṣarf:** the new *thulathiy mazeed feeh* toggle (sarf-220–246). Its CLAUDE note asked for two-way
+  pattern cards for each bāb, with the maṣdar named and one question per card, and for ṣarf ṣaghīr cloze tables
+  "based on the image I gave". Bāb al-tafʿīl and bāb al-mufāʿalah each got both. Mufāʿalah has both maṣdars, and
+  its model verb is قَاتَلَ. sarf-105 now says mujarrad means "stripped".
+- **Python:** the *Example project notes* toggle (pyth-214–217).
+
+Unchanged: World Religions (last edited 10-22), Riyāḍ, Durūs, Tazkiyah and Calculus II.
+
 Carded on 2026-10-22, from a scan of every page:
 - **Arbaʿīn Ḥadīth 6** (arbh-247–266), and the particle أَلَا (voc-446, `h06`). The "DON'T START YET" note over it
   had been left by mistake, the user said. Claude removed it from the page at their request.

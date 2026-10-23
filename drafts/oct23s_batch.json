@@ -265,6 +265,21 @@
   },
   {
    "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب المُفَاعَلَة — المَصْدَرَان</div>",
+   "meaning": "<div class=\"arabic\">مُفَاعَلَةٌ وَفِعَالٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "mufaala",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-238",
+   "session": "oct23",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh — class notes 2026-10-23"
+  },
+  {
+   "type": "bidir",
    "term": "<div class=\"arabic\">بَاب المُفَاعَلَة — اِسْم الفَاعِل</div>",
    "meaning": "<div class=\"arabic\">مُفَاعِلٌ</div>",
    "tags": [
@@ -274,7 +289,7 @@
     "patterns"
    ],
    "tier": 1,
-   "id": "sarf-238",
+   "id": "sarf-239",
    "session": "oct23",
    "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh — class notes 2026-10-23"
   },
@@ -289,7 +304,7 @@
     "patterns"
    ],
    "tier": 1,
-   "id": "sarf-239",
+   "id": "sarf-240",
    "session": "oct23",
    "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh — class notes 2026-10-23"
   },
@@ -304,7 +319,7 @@
     "patterns"
    ],
    "tier": 1,
-   "id": "sarf-240",
+   "id": "sarf-241",
    "session": "oct23",
    "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh — class notes 2026-10-23"
   },
@@ -319,7 +334,7 @@
     "patterns"
    ],
    "tier": 1,
-   "id": "sarf-241",
+   "id": "sarf-242",
    "session": "oct23",
    "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh — class notes 2026-10-23"
   },
@@ -334,7 +349,7 @@
     "patterns"
    ],
    "tier": 1,
-   "id": "sarf-242",
+   "id": "sarf-243",
    "session": "oct23",
    "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh — class notes 2026-10-23"
   },
@@ -349,7 +364,7 @@
     "patterns"
    ],
    "tier": 1,
-   "id": "sarf-243",
+   "id": "sarf-244",
    "session": "oct23",
    "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh — class notes 2026-10-23"
   },
@@ -365,13 +380,13 @@
     "table"
    ],
    "tier": 1,
-   "id": "sarf-244",
+   "id": "sarf-245",
    "session": "oct23",
    "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh — class notes 2026-10-23"
   },
   {
    "type": "cloze",
-   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><td class=\"arabic\">قَاتَلَ</td><td class=\"arabic\">{{c1::يُقَاتِلُ}}</td><td class=\"arabic\">{{c2::مُقَاتَلَةً}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c3::مُقَاتِلٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">وَ</span>{{c4::قُوتِلَ}}</td><td class=\"arabic\">{{c5::يُقَاتَلُ}}</td><td class=\"arabic\">{{c2::مُقَاتَلَةً}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c6::مُقَاتَلٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">الأَمْرُ مِنْهُ</span> {{c7::قَاتِلْ}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">وَالنَّهْيُ عَنْهُ</span> {{c8::لَا تُقَاتِلْ}}</td><td class=\"arabic\" colspan=2><span style=\"color: var(--muted)\">وَالظَّرْفُ مِنْهُ</span> {{c6::مُقَاتَلٌ}}</td></tr></table>",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><td class=\"arabic\">قَاتَلَ</td><td class=\"arabic\">{{c1::يُقَاتِلُ}}</td><td class=\"arabic\">{{c2::مُقَاتَلَةً}} <span style=\"color: var(--muted)\">وَ</span>{{c10::قِتَالًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c3::مُقَاتِلٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">وَ</span>{{c4::قُوتِلَ}}</td><td class=\"arabic\">{{c5::يُقَاتَلُ}}</td><td class=\"arabic\">{{c2::مُقَاتَلَةً}} <span style=\"color: var(--muted)\">وَ</span>{{c10::قِتَالًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c6::مُقَاتَلٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">الأَمْرُ مِنْهُ</span> {{c7::قَاتِلْ}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">وَالنَّهْيُ عَنْهُ</span> {{c8::لَا تُقَاتِلْ}}</td><td class=\"arabic\" colspan=2><span style=\"color: var(--muted)\">وَالظَّرْفُ مِنْهُ</span> {{c6::مُقَاتَلٌ}}</td></tr></table>",
    "extra": "",
    "tags": [
     "sarf",
@@ -381,7 +396,7 @@
     "table"
    ],
    "tier": 1,
-   "id": "sarf-245",
+   "id": "sarf-246",
    "session": "oct23",
    "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh — class notes 2026-10-23"
   }

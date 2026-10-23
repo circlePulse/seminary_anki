@@ -32,10 +32,12 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | a demonstrative phrase | المُرَكَّب الإِشَارِيّ | a demonstrative phrase — one ism points to another | ARB-201 | nahw-140 |
 | a descriptive phrase | المُرَكَّب التَّوْصِيفِيّ | a descriptive phrase — one word describes the other | ARB-201 | nahw-128 |
 | a dispensation | رُخْصَة | a dispensation, a concession — an allowance that eases a ruling | VOCAB | voc-199 |
+| a dispensation that makes life easier | رُخْصَة (rukhṣah) | a dispensation that makes life easier — like wiping over footgear, whi | HDT-201 | qud-288 |
 | a doorkeeper | بَوَّاب | a doorkeeper, a gatekeeper | VOCAB | voc-110 |
 | a hidden pronoun | ضَمِير مُسْتَتِر (ḍamīr mustatir) | a hidden pronoun — contained within the verb, not written | ARB-201 | sarf-019 |
 | a kind | نَوْع | a kind, a type, a sort | VOCAB | voc-282 |
 | a knee | رُكْبَة | a knee | VOCAB | voc-044 |
+| a leather sock that covers the whole foot | خُفّ (khuff) | a leather sock that covers the whole foot, including the ankle | HDT-201 | qud-289 |
 | a leper | أَبْرَص | a leper | VOCAB | voc-118 |
 | a letter or ḥarakah which indicates the grammatical state | عَلَامَة الإِعْرَاب | a letter or ḥarakah which indicates the grammatical state | ARB-201 | sarf-079 |
 | a mine | مَعْدِن | a mine, a source — of people, their stock: the metal they're made of | VOCAB | voc-421 |
@@ -148,18 +150,21 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | exclamation | النِّدَاء (al-nidāʾ) | exclamation — calling out to someone | ARB-201 | nahw-097 |
 | fairness | إِنْصَاف | fairness, equity — giving someone their due | VOCAB | voc-280 |
 | families two and above | ثُلَاثِي مَزِيد فِيه (thulāthī mazīd fīh) | families two and above — the هُوَ form does carry extra letters | ARB-201 | sarf-106 |
-| family one | ثُلَاثِي مُجَرَّد (thulāthī mujarrad) | family one — the هُوَ form carries no extra letter | ARB-201 | sarf-105 |
+| family one | ثُلَاثِي مُجَرَّد (thulāthī mujarrad) | family one — the هُوَ form carries no extra letter; مُجَرَّد means “st | ARB-201 | sarf-105 |
 | far be it! how impossible! | هَيْهَاتَ | far be it! how impossible! — invariable interjection | VOCAB | voc-133 |
 | feminine | مُؤَنَّث (muʾannath) | feminine | ARB-201 | sarf-009 |
 | firmly rooted | رَاسِخ | firmly rooted, firmly grounded | VOCAB | voc-208 |
 | first person | مُتَكَلِّم (mutakallim) | first person | ARB-201 | sarf-006 |
 | foolish | سَفِيه | foolish, feeble-minded — in fiqh, one who squanders his wealth | VOCAB | voc-373 |
+| footgear of any material other than leather | جَوْرَب (jawrab) | footgear of any material other than leather, such as cotton or wool | HDT-201 | qud-290 |
 | for | لِـ | for — a حَرْف جَرّ | ARB-201 | nahw-150 |
 | for a while | مَلِيًّا | for a while — a considerable length of time | VOCAB | voc-061 |
 | freshness | نَضَارَة | freshness, radiance — bloom | VOCAB | voc-434 |
 | from | مِنْ | from — a حَرْف جَرّ | ARB-201 | nahw-154 |
 | growth | نَمَاء | growth, increase — as of wealth or crops | VOCAB | voc-310 |
 | hardship | مَشَقَّة | hardship, strain | VOCAB | voc-219 |
+| having four root letters | رُبَاعِيّ (rubāʿī) | having four root letters — rare | ARB-201 | sarf-221 |
+| having three root letters | ثُلَاثِيّ (thulāthī) | having three root letters — the vast majority of verbs | ARB-201 | sarf-220 |
 | hidden iʿrāb | إِعْرَاب مُقَدَّر (iʿrāb muqaddar) | hidden iʿrāb — a مُعْرَب word whose ending can't show its state | ARB-201 | nahw-219 |
 | honour | شَرَف | honour, nobility, high standing | VOCAB | voc-100 |
 | hope | التَّرَجِّي (al-tarajjī) | hope — wanting what you think is possible | ARB-201 | nahw-096 |
@@ -238,6 +243,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | that | أَنَّ | that — a حَرْف مُشَبَّه بِالفِعْل | ARB-201 | nahw-170 |
 | the active participle | اِسْم الفَاعِل (ism al-fāʿil) | the active participle — a derived noun for the doer of the action, e.g | ARB-201 | sarf-180 |
 | the active voice | مَعْلُوم (maʿlūm) | the active voice — literally, the one whose doer is known | ARB-201 | sarf-125 |
+| the added letters in the هُوَ form of a مَزِيد فِيه verb | حُرُوف زَائِدَة (ḥurūf zāʾidah) | the added letters in the هُوَ form of a مَزِيد فِيه verb | ARB-201 | sarf-223 |
 | the adjective resembling the active participle | الصِّفَة المُشَبَّهَة بِاسْم الفَاعِل (al-ṣifah al-mushabbahah) | the adjective resembling the active participle — a long-term or intrin | ARB-201 | sarf-184 |
 | the categories verbs are divided into | بَاب / أَبْوَاب (bāb / abwāb) | the categories verbs are divided into, by the vowel combinations of th | ARB-201 | sarf-103 |
 | the condition of the last letter of a word | إِعْرَاب (iʿrāb) | the condition of the last letter of a word | ARB-201 | nahw-009 |
@@ -434,6 +440,23 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | wickedness | فُجُور | wickedness, flagrant sinning | VOCAB | voc-264 |
 | with | بِـ | with — a حَرْف جَرّ | ARB-201 | nahw-147 |
 | words that change the grammatical positioning of the مُبْتَدَأ and خَبَر | النَّوَاسِخ (al-nawāsikh) | words that change the grammatical positioning of the مُبْتَدَأ and خَب | ARB-201 | nahw-161 |
+| فَاعَلَ | بَاب المُفَاعَلَة — المَاضِي | فَاعَلَ | ARB-201 | sarf-236 |
+| فَاعِلْ | بَاب المُفَاعَلَة — الأَمْر | فَاعِلْ | ARB-201 | sarf-243 |
+| فَعَّلَ | بَاب التَّفْعِيل — المَاضِي | فَعَّلَ | ARB-201 | sarf-228 |
+| فَعِّلْ | بَاب التَّفْعِيل — الأَمْر | فَعِّلْ | ARB-201 | sarf-234 |
+| فُعِّلَ | بَاب التَّفْعِيل — المَاضِي المَجْهُول | فُعِّلَ | ARB-201 | sarf-231 |
+| فُوعِلَ | بَاب المُفَاعَلَة — المَاضِي المَجْهُول | فُوعِلَ | ARB-201 | sarf-240 |
+| لَا تُفَاعِلْ | بَاب المُفَاعَلَة — النَّهْي | لَا تُفَاعِلْ | ARB-201 | sarf-244 |
+| لَا تُفَعِّلْ | بَاب التَّفْعِيل — النَّهْي | لَا تُفَعِّلْ | ARB-201 | sarf-235 |
+| مُفَاعَلٌ | بَاب المُفَاعَلَة — اِسْم المَفْعُول وَالظَّرْف | مُفَاعَلٌ | ARB-201 | sarf-242 |
+| مُفَاعَلَةٌ وَفِعَالٌ | بَاب المُفَاعَلَة — المَصْدَرَان | مُفَاعَلَةٌ وَفِعَالٌ | ARB-201 | sarf-238 |
+| مُفَاعِلٌ | بَاب المُفَاعَلَة — اِسْم الفَاعِل | مُفَاعِلٌ | ARB-201 | sarf-239 |
+| مُفَعَّلٌ | بَاب التَّفْعِيل — اِسْم المَفْعُول وَالظَّرْف | مُفَعَّلٌ | ARB-201 | sarf-233 |
+| مُفَعِّلٌ | بَاب التَّفْعِيل — اِسْم الفَاعِل | مُفَعِّلٌ | ARB-201 | sarf-230 |
+| يُفَاعَلُ | بَاب المُفَاعَلَة — المُضَارِع المَجْهُول | يُفَاعَلُ | ARB-201 | sarf-241 |
+| يُفَاعِلُ | بَاب المُفَاعَلَة — المُضَارِع | يُفَاعِلُ | ARB-201 | sarf-237 |
+| يُفَعَّلُ | بَاب التَّفْعِيل — المُضَارِع المَجْهُول | يُفَعَّلُ | ARB-201 | sarf-232 |
+| يُفَعِّلُ | بَاب التَّفْعِيل — المُضَارِع | يُفَعِّلُ | ARB-201 | sarf-229 |
 | “non-action” | Wuwei | “non-action” — avoiding purposeful action; one of Daoism's main concep | RELSTD-5B | wrel-276 |
 | “old master” | Laozi | “old master” — the figure Daoism is attributed to | RELSTD-5B | wrel-085 |
 | “physical” impurity | نَجَاسَة حَقِيقِيَّة | “physical” impurity — an impure substance | HDT-201 | tah-005 |

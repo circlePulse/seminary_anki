@@ -37,17 +37,17 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,023 notes across 10 decks.**
+Current state: **2,110 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
-| quduri | 285 | HDT-201 |
 | vocab | 446 | VOCAB |
-| arbaeen_ahadith | 266 | HDT-201 |
-| nahw | 227 | ARB-201 |
-| sarf | 219 | ARB-201 |
+| quduri | 305 | HDT-201 |
+| arbaeen_ahadith | 302 | HDT-201 |
 | wrel | 284 | RELSTD-5B |
-| pyth | 213 | ICS-H32 |
+| sarf | 246 | ARB-201 |
+| nahw | 227 | ARB-201 |
+| pyth | 217 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
 | riyad | 10 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
@@ -204,17 +204,16 @@ once, and both times was objecting to files that had no reason to exist.
   where the notes say a thread. wrel-248 adds Daodejing 42's step from the two to the three. wrel-266 finishes
   a sentence that breaks off ("lead people astray"). The Daodejing chapter numbers on the backs are Claude's;
   the notes give only chapter 4.
-- **Ṣarf ṣaghīr cloze: the design is approved (2026-10-23, "Looks perfect").** It's a table of the class
-  pattern (صَرَّفَ يُصَرِّفُ تَصْرِيفًا …), with the fixed words greyed and one blank per form. The design is in
-  `drafts/draft_2026-10-23_sarf-saghir.md`, and `drafts/sarf_saghir_template.py` builds a note from the eleven
-  forms. The approval covered the blue `.cloze` highlight in the sample, so it goes into the CSS when draft 2
-  below is built. Family one's six abwāb were offered the same tables, with no answer yet.
-- **Three drafts from the 2026-10-23 scan are awaiting approval:**
-  - `draft_2026-10-23_h06-h07-quduri.md`: arbh-267–302 and qud-286–305.
-  - `draft_2026-10-23_sarf-mazid.md`: sarf-220–245, with sarf-105 edited.
-  - `draft_2026-10-23_pyth.md`: pyth-214–217.
-  The batches are the matching `oct23*_batch.json` files. Draft 2 asks which model verb the class uses for
-  mufāʿalah (it uses قَاتَلَ), and whether to add the maṣdar fiʿāl.
+- **Ṣarf ṣaghīr cloze tables (approved 2026-10-23, "Looks perfect").** Each is a table of the class pattern
+  (صَرَّفَ يُصَرِّفُ تَصْرِيفًا …), with the fixed words greyed and one blank per form. sarf-245 is tafʿīl on
+  صَرَّفَ, and sarf-246 is mufāʿalah on قَاتَلَ, with both maṣdars at the user's word (its fiʿāl maṣdar is c10). The
+  design is in `drafts/draft_2026-10-23_sarf-saghir.md`, and `saghir()` in `drafts/sarf_saghir_template.py` and
+  the 10-23 author script builds one from the forms. Family one's six abwāb were offered the same tables, with
+  no answer yet.
+- **Cloze answers are now highlighted (2026-10-23).** The CSS has a `.cloze` rule, bold and blue, so a table card
+  shows which cell was asked. It reached the user in the 10-23 ṣarf package, which holds all three notetypes.
+- **Ḥadīth 7 (arbh-271–302) rests partly on Claude's translation.** The translation is in `texts/arbaeen_h07.md`
+  and the user hasn't checked it; arbh-281 rests on it. Its matn was supplied by Claude from the standard text.
 - **Riyāḍ has a memorisation to-do (2026-10-22):** ḥadīth 37, 54, 61 and 71, and the second narration of 62.
   Claude offered progressive cloze cards of those texts. No answer yet.
 - **voc-218 حَسَبَ is carded as "according to"**, which is unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count",
