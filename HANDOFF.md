@@ -204,11 +204,17 @@ once, and both times was objecting to files that had no reason to exist.
   where the notes say a thread. wrel-248 adds Daodejing 42's step from the two to the three. wrel-266 finishes
   a sentence that breaks off ("lead people astray"). The Daodejing chapter numbers on the backs are Claude's;
   the notes give only chapter 4.
-- **Ṣarf ṣaghīr cloze: a sample is awaiting approval (2026-10-23).** The user sent the class pattern (صَرَّفَ
-  يُصَرِّفُ تَصْرِيفًا …) and asked for it as a table, with the fixed words greyed. The design is in
+- **Ṣarf ṣaghīr cloze: the design is approved (2026-10-23, "Looks perfect").** It's a table of the class
+  pattern (صَرَّفَ يُصَرِّفُ تَصْرِيفًا …), with the fixed words greyed and one blank per form. The design is in
   `drafts/draft_2026-10-23_sarf-saghir.md`, and `drafts/sarf_saghir_template.py` builds a note from the eleven
-  forms. Two questions are open: which verbs to run through it, and whether to add a `.cloze` highlight to the
-  cloze notetype's CSS.
+  forms. The approval covered the blue `.cloze` highlight in the sample, so it goes into the CSS when draft 2
+  below is built. Family one's six abwāb were offered the same tables, with no answer yet.
+- **Three drafts from the 2026-10-23 scan are awaiting approval:**
+  - `draft_2026-10-23_h06-h07-quduri.md`: arbh-267–302 and qud-286–305.
+  - `draft_2026-10-23_sarf-mazid.md`: sarf-220–245, with sarf-105 edited.
+  - `draft_2026-10-23_pyth.md`: pyth-214–217.
+  The batches are the matching `oct23*_batch.json` files. Draft 2 asks which model verb the class uses for
+  mufāʿalah (it uses قَاتَلَ), and whether to add the maṣdar fiʿāl.
 - **Riyāḍ has a memorisation to-do (2026-10-22):** ḥadīth 37, 54, 61 and 71, and the second narration of 62.
   Claude offered progressive cloze cards of those texts. No answer yet.
 - **voc-218 حَسَبَ is carded as "according to"**, which is unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count",
