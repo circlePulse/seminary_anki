@@ -1,6 +1,6 @@
 {
  "_comment": "APPEND-ONLY. An id here must never change or disappear. It is the only link between a regenerated deck and notes that already carry review history in Anki.",
- "generated": "2026-10-23",
+ "generated": "2026-10-24",
  "decks": {
   "arbaeen": {
    "course": "HDT-201",
@@ -782,7 +782,7 @@
   "nahw": {
    "course": "ARB-201",
    "topic": "tasheel",
-   "count": 227,
+   "count": 238,
    "ids": [
     "nahw-001",
     "nahw-002",
@@ -1010,7 +1010,18 @@
     "nahw-224",
     "nahw-225",
     "nahw-226",
-    "nahw-227"
+    "nahw-227",
+    "nahw-228",
+    "nahw-229",
+    "nahw-230",
+    "nahw-231",
+    "nahw-232",
+    "nahw-233",
+    "nahw-234",
+    "nahw-235",
+    "nahw-236",
+    "nahw-237",
+    "nahw-238"
    ],
    "fp": {
     "nahw-001": "0beceffed699",
@@ -1239,7 +1250,18 @@
     "nahw-224": "109221ca1c9e",
     "nahw-225": "f21ff877a327",
     "nahw-226": "c0317117a228",
-    "nahw-227": "101d534adb9a"
+    "nahw-227": "101d534adb9a",
+    "nahw-228": "d680a3dc9ac0",
+    "nahw-229": "41a04aa7a7f0",
+    "nahw-230": "223ffa46f0d5",
+    "nahw-231": "a2079d1ce65a",
+    "nahw-232": "db00f8aa205b",
+    "nahw-233": "d0be6d1122ce",
+    "nahw-234": "64269a786ec4",
+    "nahw-235": "53b420b14c00",
+    "nahw-236": "2e1ea79398df",
+    "nahw-237": "be782be237fe",
+    "nahw-238": "2bbbc6f7c29d"
    }
   },
   "pyth": {

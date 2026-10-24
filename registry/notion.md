@@ -99,6 +99,11 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-10-24: IOK Arabic, the new toggles at the end of Tasheel ch. 2 (nahw-228–238). They cover
+nūn al-wiqāyah, ḍamīr al-shaʾn and al-qiṣṣah, ḍamīr al-faṣl, and the relative pronouns. The CLAUDE note "memorize
+the chart for asmaa’ al-mawsoolah" got a chart table built by Claude (nahw-235), since the page has none.
+Corrections on the cards only: nūn al-wiqāyah carries a kasrah, not a sukūn; "Dameer al-Qasli" is ḍamīr al-faṣl.
+
 Carded on 2026-10-23, from a scan of every page:
 - **Arbaʿīn:** the rest of Ḥadīth 6's lessons (arbh-267–270), and Ḥadīth 7 in full (arbh-271–302): Tamīm al-Dārī,
   naṣīḥah, and the five relationships. Its matn and Claude's translation are in `texts/arbaeen_h07.md`.
