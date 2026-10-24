@@ -1,0 +1,166 @@
+{
+ "new": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-228",
+   "term": "<bdi>نُون الوِقَايَة</bdi> (nūn al-wiqāyah)",
+   "meaning": "“the nūn of protection”: the nūn between a verb and the speaker's <bdi>ي</bdi>, as in <bdi>ضَرَبَنِي</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "wiqaya",
+    "terminology"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-229",
+   "front": "Why does a verb take a nūn before the speaker's <bdi>ي</bdi>, as in <bdi>ضَرَبَنِي</bdi>?",
+   "back": "The <bdi>ي</bdi> needs a kasrah before it, and a verb can't take a kasrah. So <bdi>نُون الوِقَايَة</bdi> is added to carry it, protecting the verb's own ending.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "wiqaya",
+    "criterion"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-230",
+   "front": "What are <bdi>ضَمِير الشَّأْن</bdi> and <bdi>ضَمِير القِصَّة</bdi>, and how do they differ from ordinary pronouns?",
+   "back": "The same pronoun, masculine (<bdi>الشَّأْن</bdi>) and feminine (<bdi>القِصَّة</bdi>). Ordinary pronouns refer back to something already mentioned; these refer ahead, to the sentence that follows: <bdi>إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ</bdi>.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "damair",
+    "contrast"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-231",
+   "term": "<bdi>ضَمِير الفَصْل</bdi> (ḍamīr al-faṣl)",
+   "meaning": "“the pronoun of separation”: a pronoun between the mubtadaʾ and the khabar, for emphasis and separation — <bdi>أُولَٰئِكَ هُمُ المُفْلِحُونَ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "damair",
+    "terminology"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-232",
+   "term": "<bdi>اِسْم مَوْصُول</bdi> (ism mawṣūl)",
+   "meaning": "a relative pronoun — it can't form a complete part of the sentence without its ṣilah",
+   "tags": [
+    "nahw",
+    "mabni",
+    "mawsul",
+    "terminology"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-233",
+   "term": "<bdi>صِلَة</bdi> (ṣilah)",
+   "meaning": "the clause that completes an ism mawṣūl — generally a jumlah khabariyyah, with a pronoun referring back to it",
+   "tags": [
+    "nahw",
+    "mabni",
+    "mawsul",
+    "terminology"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-234",
+   "term": "<bdi>عَائِد</bdi> (ʿāʾid)",
+   "meaning": "the pronoun in the ṣilah that refers back to the ism mawṣūl — it can be bāriz or mustatir",
+   "tags": [
+    "nahw",
+    "mabni",
+    "mawsul",
+    "terminology"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-235",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><th class=\"arabic\"></th><th class=\"arabic\">مُفْرَد</th><th class=\"arabic\">مُثَنًّى</th><th class=\"arabic\">جَمْع</th></tr><tr><th class=\"arabic\">مُذَكَّر</th><td class=\"arabic\">{{c1::الَّذِي}}</td><td class=\"arabic\">{{c2::اللَّذَانِ / اللَّذَيْنِ}}</td><td class=\"arabic\">{{c3::الَّذِينَ}}</td></tr><tr><th class=\"arabic\">مُؤَنَّث</th><td class=\"arabic\">{{c4::الَّتِي}}</td><td class=\"arabic\">{{c5::اللَّتَانِ / اللَّتَيْنِ}}</td><td class=\"arabic\">{{c6::اللَّاتِي / اللَّوَاتِي}}</td></tr></table>",
+   "extra": "The relative pronouns. The duals change with iʿrāb: <bdi>اللَّذَانِ</bdi> and <bdi>اللَّتَانِ</bdi> in rafʿ, <bdi>اللَّذَيْنِ</bdi> and <bdi>اللَّتَيْنِ</bdi> in naṣb and jarr. The rest are mabnī.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "mawsul",
+    "table"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-236",
+   "front": "Which relative pronouns serve every gender and number, and how are they divided?",
+   "back": "<bdi>مَنْ</bdi>, for intelligent beings, and <bdi>مَا</bdi>, for non-intelligent ones",
+   "tags": [
+    "nahw",
+    "mabni",
+    "mawsul"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-237",
+   "front": "Which two relative pronouns are formed from <bdi>أَيّ</bdi>, and what do they mean?",
+   "back": "<bdi>أَيٌّ</bdi>, meaning <bdi>الَّذِي</bdi>, and <bdi>أَيَّةٌ</bdi>, meaning <bdi>الَّتِي</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "mawsul"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-238",
+   "front": "What effect does al- have before an ism fāʿil or ism mafʿūl?",
+   "back": "It works like an ism mawṣūl: <bdi>الضَّارِبُ</bdi> means <bdi>الَّذِي ضَرَبَ</bdi>, “the one who struck”",
+   "tags": [
+    "nahw",
+    "mabni",
+    "mawsul"
+   ],
+   "session": "oct23",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  }
+ ]
+}
