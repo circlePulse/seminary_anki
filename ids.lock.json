@@ -2329,7 +2329,7 @@
   "riyad": {
    "course": "HDT-202",
    "topic": "riyad-intro",
-   "count": 10,
+   "count": 30,
    "ids": [
     "riyad-001",
     "riyad-002",
@@ -2340,7 +2340,27 @@
     "riyad-007",
     "riyad-008",
     "riyad-009",
-    "riyad-010"
+    "riyad-010",
+    "riyad-011",
+    "riyad-012",
+    "riyad-013",
+    "riyad-014",
+    "riyad-015",
+    "riyad-016",
+    "riyad-017",
+    "riyad-018",
+    "riyad-019",
+    "riyad-020",
+    "riyad-021",
+    "riyad-022",
+    "riyad-023",
+    "riyad-024",
+    "riyad-025",
+    "riyad-026",
+    "riyad-027",
+    "riyad-028",
+    "riyad-029",
+    "riyad-030"
    ],
    "fp": {
     "riyad-001": "08e8142b3fa4",
@@ -2352,13 +2372,33 @@
     "riyad-007": "3bfafc64f467",
     "riyad-008": "0c5398cd5e17",
     "riyad-009": "e0d807d9b5a2",
-    "riyad-010": "51718694d444"
+    "riyad-010": "51718694d444",
+    "riyad-011": "9cbe286b31f8",
+    "riyad-012": "875fd28614fa",
+    "riyad-013": "942cd73057b4",
+    "riyad-014": "ca1e26133a53",
+    "riyad-015": "9e95350a885a",
+    "riyad-016": "7e2b28a7d7ec",
+    "riyad-017": "0a2a5f172362",
+    "riyad-018": "fa6a90f31db4",
+    "riyad-019": "ee35168ba90e",
+    "riyad-020": "5f521ed73326",
+    "riyad-021": "b0730a797360",
+    "riyad-022": "89f8860c70cd",
+    "riyad-023": "f17b2c916b23",
+    "riyad-024": "a1495a1e302d",
+    "riyad-025": "8c9cb887e573",
+    "riyad-026": "b1b95ae0dfc1",
+    "riyad-027": "5e1d2c349ec6",
+    "riyad-028": "186941628350",
+    "riyad-029": "b2cc919437ec",
+    "riyad-030": "17b236e48ad4"
    }
   },
   "sarf": {
    "course": "ARB-201",
    "topic": "sarf",
-   "count": 246,
+   "count": 247,
    "ids": [
     "sarf-001",
     "sarf-002",
@@ -2605,7 +2645,8 @@
     "sarf-243",
     "sarf-244",
     "sarf-245",
-    "sarf-246"
+    "sarf-246",
+    "sarf-247"
    ],
    "fp": {
     "sarf-001": "1a64db4ea843",
@@ -2853,7 +2894,8 @@
     "sarf-243": "85452dec9d18",
     "sarf-244": "1c4978f81867",
     "sarf-245": "bb153eb3e6e9",
-    "sarf-246": "643b695055c7"
+    "sarf-246": "643b695055c7",
+    "sarf-247": "a741ad2ff6cc"
    }
   },
   "vocab": {

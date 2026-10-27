@@ -100,6 +100,9 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-10-27, later: the memorisation cards (riyad-011–030 and sarf-247), for both Riyāḍ to-dos and the
+ism al-ālah chart. The audit of every memorisation note is in `drafts/draft_2026-10-27_memorisation.md`.
+
 Carded on 2026-10-27: World Religions 10/27, Buddhism (wrel-285–303). Corrections on the cards only: the
 Eightfold Path has its standard eight (the notes had right thought and right intent as two, and no right
 mindfulness); nirvana is not glossed "self-annihilation". "Heaven = Sutras" was left uncarded as unclear.

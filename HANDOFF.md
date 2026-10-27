@@ -37,7 +37,7 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,157 notes across 10 decks.**
+Current state: **2,178 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
@@ -45,11 +45,11 @@ Current state: **2,157 notes across 10 decks.**
 | quduri | 305 | HDT-201 |
 | arbaeen_ahadith | 302 | HDT-201 |
 | wrel | 303 | RELSTD-5B |
-| sarf | 246 | ARB-201 |
+| sarf | 247 | ARB-201 |
 | nahw | 238 | ARB-201 |
 | pyth | 217 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
-| riyad | 10 | HDT-202 |
+| riyad | 30 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
 
 ## The session loop
@@ -214,20 +214,18 @@ once, and both times was objecting to files that had no reason to exist.
   shows which cell was asked. It reached the user in the 10-23 ṣarf package, which holds all three notetypes.
 - **Ḥadīth 7 (arbh-271–302) rests partly on Claude's translation.** The translation is in `texts/arbaeen_h07.md`
   and the user hasn't checked it; arbh-281 rests on it. Its matn was supplied by Claude from the standard text.
-- **Riyāḍ memorisation cards are drafted, awaiting approval (2026-10-27):** `drafts/draft_2026-10-27_memorisation.md`,
-  riyad-011–030 plus sarf-247. They cover both Riyāḍ to-dos: the open one (37, 54, 61, the second narration of 62, 71,
-  and 82's duʿāʾ) and the checked one (7, 16, 25, and the phrase in 29). Each ḥadīth has a phrase-by-phrase cloze and a
-  recitation card. The texts are Claude's, from the standard edition (sunnah.com numbering, which matches the
-  user's), in `texts/riyad_memorisation.md`. Five points await the user: 7's وَأَعْمَالِكُمْ, 82's أَزِلَّ (the online
-  text has أَذِلَّ), where 82's duʿāʾ starts, and 62's first narration. The user asked on 2026-10-27 for every required
-  memorisation item to have cards; the audit is in the draft.
+- **Riyāḍ memorisation cards were delivered on 2026-10-27** (riyad-011–030, with sarf-247 for the ālah chart).
+  They cover both to-do lists, and each ḥadīth has a phrase-by-phrase cloze and a recitation card. The texts are
+  Claude's, in `texts/riyad_memorisation.md`. The user approved ("looks good to build") without answering the
+  draft's five check points: 7's وَأَعْمَالِكُمْ, 82's أَزِلَّ against the online أَذِلَّ, where 82's duʿāʾ starts,
+  62's first narration, and Arbaʿīn Ḥadīth 2 staying uncarded. Fix any card that differs from their copy.
 - **voc-218 حَسَبَ is carded as "according to"**, which is unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count",
   fits the same vowels and would collide with أَحْصَى (voc-009).
 - **The 2026-10-13 vocabulary list (voc-231–291) carries four readings the user hasn't confirmed.** الها was
   read as أَلْهَى, بوصل as يُوصِلُ, يقلق as قَلِقَ يَقْلَقُ, and قوط as قُوت (it could be القُوط, the Goths, or قَطُّ).
   The user answered "looks good" without addressing them.
-- **The derived-noun chart is the ism al-ālah chart, drafted as sarf-247 (2026-10-27).** It's mifʿal, mifʿalah and
-  mifʿāl with their duals and plurals. It sits in the memorisation draft above. **How Notion images open now:** the
+- **The derived-noun chart is the ism al-ālah chart, carded as sarf-247, delivered 2026-10-27.** It's mifʿal, mifʿalah and
+  mifʿāl with their duals and plurals. **How Notion images open now:** the
   container can't reach `prod-files-secure.s3.us-west-2.amazonaws.com`. Instead, get a signed URL with
   `notion-get-file-download-urls` and pass it straight to the `web-fetch` agent; the URL lasts five minutes. The
   harness saves the raw bytes under the session's `tool-results/`, and Read shows the PNG. HEIC photos are untested.
@@ -255,6 +253,13 @@ once, and both times was objecting to files that had no reason to exist.
 
 ## Working style the user expects
 
+- **Keep token use low (the user, 2026-10-27).** The memorisation turn cost far too much. Take the cheapest
+  correct path:
+  - Use texts and facts you already know, and flag them. Don't download references to verify them.
+  - Render one sample image for a new card design, and none for designs already approved.
+  - Grep narrowly, keep tool output short, and don't re-read what's in context. Use the web-fetch agent
+    only when an image is the only source.
+  - Keep reasoning and status messages short.
 Terse requests, answered by doing the work. They will say directly when something is
 wrong, and they are usually right. They do not want the whole deck re-sent, options
 laid out, or work they did not ask for. They do want to be told when their own notes

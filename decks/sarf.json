@@ -3,7 +3,7 @@
  "topic": "sarf",
  "session": "sep08",
  "source": "IOK Arabic — Ṣarf section, class notes to 2026-09-08",
- "expected_count": 246,
+ "expected_count": 247,
  "cards": [
   {
    "type": "basic",
@@ -3144,6 +3144,21 @@
    "id": "sarf-246",
    "session": "oct23",
    "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh — class notes 2026-10-23"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-247",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><th class=\"arabic\" colspan=3>اِسْمُ الآلَةِ</th></tr><tr><th class=\"arabic\">مُفْرَدٌ</th><th class=\"arabic\">مُثَنًّى</th><th class=\"arabic\">جَمْعٌ</th></tr><tr><td class=\"arabic\">مِفْعَلٌ</td><td class=\"arabic\">{{c1::مِفْعَلَانِ}}</td><td class=\"arabic\">{{c2::مَفَاعِلُ}}</td></tr><tr><td class=\"arabic\">مِفْعَلَةٌ</td><td class=\"arabic\">{{c1::مِفْعَلَتَانِ}}</td><td class=\"arabic\">{{c2::مَفَاعِلُ}}</td></tr><tr><td class=\"arabic\">مِفْعَالٌ</td><td class=\"arabic\">{{c1::مِفْعَالَانِ}}</td><td class=\"arabic\">{{c2::مَفَاعِيلُ}}</td></tr></table>",
+   "extra": "The chart of <bdi>اِسْم الآلَة</bdi>. <bdi>مِفْعَل</bdi> and <bdi>مِفْعَلَة</bdi> share the plural <bdi>مَفَاعِل</bdi>, and the long ā of <bdi>مِفْعَال</bdi> becomes the long ī of <bdi>مَفَاعِيل</bdi>: <bdi>مِبْرَد</bdi> (a file) makes <bdi>مَبَارِد</bdi>, <bdi>مِكْنَسَة</bdi> (a broom) makes <bdi>مَكَانِس</bdi>, and <bdi>مِفْتَاح</bdi> (a key) makes <bdi>مَفَاتِيح</bdi>.",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "awzan",
+    "table"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08"
   }
  ]
 }

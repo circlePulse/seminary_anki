@@ -1,6 +1,7 @@
 # Draft — memorisation cards: the Riyāḍ to-dos and the ism al-ālah chart (21 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-27 ("looks good to build") and delivered.** The five points under "Check this first"
+went unanswered, so the cards stand as drafted.
 
 Source: the two memorisation to-dos on the Riyadh page (fetched 2026-10-27, last edited 16:09 UTC), and the chart
 screenshot under ism al-ālah on the IOK Arabic page. Session tag `oct27` for the ḥadīth, `oct08` for the chart (the
