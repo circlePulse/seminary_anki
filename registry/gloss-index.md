@@ -35,6 +35,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | a dispensation that makes life easier | رُخْصَة (rukhṣah) | a dispensation that makes life easier — like wiping over footgear, whi | HDT-201 | qud-288 |
 | a doorkeeper | بَوَّاب | a doorkeeper, a gatekeeper | VOCAB | voc-110 |
 | a hidden pronoun | ضَمِير مُسْتَتِر (ḍamīr mustatir) | a hidden pronoun — contained within the verb, not written | ARB-201 | sarf-019 |
+| a holy monk who has achieved enlightenment | Arhat | a holy monk who has achieved enlightenment — a model for his community | RELSTD-5B | wrel-292 |
 | a kind | نَوْع | a kind, a type, a sort | VOCAB | voc-282 |
 | a knee | رُكْبَة | a knee | VOCAB | voc-044 |
 | a leather sock that covers the whole foot | خُفّ (khuff) | a leather sock that covers the whole foot, including the ankle | HDT-201 | qud-289 |
@@ -78,6 +79,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | a waft | نَفْحَة | a waft, a breath (of fragrance) — figuratively, a gift of grace | VOCAB | voc-393 |
 | a wave | مَوْجَة | a wave | VOCAB | voc-405 |
 | a weapon | سِلَاح | a weapon, arms | VOCAB | voc-247 |
+| a winged messenger of the buddha | Apsaras | a winged messenger of the Buddha, in Mahāyāna Buddhism | RELSTD-5B | wrel-290 |
 | a word used in place of a name | ضَمِير (ḍamīr) | a word used in place of a name — plural ضَمَائِر | ARB-201 | nahw-176 |
 | a word whose ending changes with its grammatical state | مُعْرَب (muʿrab) | a word whose ending changes with its grammatical state | ARB-201 | sarf-134 |
 | a word whose ending does not change | مَبْنِيّ (mabnī) | a word whose ending does not change — it has no إِعْرَاب | ARB-201 | sarf-133 |
@@ -164,6 +166,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | forbidden | مَحْظُور | forbidden, prohibited — the ism mafʿūl of حَظَرَ, to forbid | VOCAB | voc-453 |
 | freshness | نَضَارَة | freshness, radiance — bloom | VOCAB | voc-434 |
 | from | مِنْ | from — a حَرْف جَرّ | ARB-201 | nahw-154 |
+| getting out of the cycle of reincarnation | Nirvana | getting out of the cycle of reincarnation — the goal, since reincarnat | RELSTD-5B | wrel-297 |
 | growth | نَمَاء | growth, increase — as of wealth or crops | VOCAB | voc-310 |
 | guiding aright | تَسْدِيد | guiding aright — Allah setting one on the right course; also, aiming t | VOCAB | voc-455 |
 | hardship | مَشَقَّة | hardship, strain | VOCAB | voc-219 |
@@ -211,6 +214,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | on | عَلَى | on — a حَرْف جَرّ | ARB-201 | nahw-157 |
 | one born blind | أَكْمَه | one born blind | VOCAB | voc-116 |
 | one who performs ijtihād | مُجْتَهِد قَطْعِي (mujtahid qaṭʿī) | one who performs ijtihād — the master-jurist a madhhab is named for | HDT-201 | qud-041 |
+| one who was a human being and | Bodhisattva | one who was a human being and, instead of achieving nirvana, helps oth | RELSTD-5B | wrel-291 |
 | perfection | كَمَال | perfection, completeness | VOCAB | voc-379 |
 | performance | أَدَاء | performance, discharge — of a duty, a trust or a debt; in fiqh, worshi | VOCAB | voc-314 |
 | perishing | فَنَاء | perishing, passing away | VOCAB | voc-437 |
@@ -222,6 +226,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | reality | الوَاقِع (al-wāqiʿ) | reality — the actual state of affairs | VOCAB | voc-257 |
 | rebuke | زَجْر | rebuke — checking someone with a stern word or warning | VOCAB | voc-348 |
 | refraining | كَفّ | refraining, holding back (from — عَنْ) — also, the palm of the hand | VOCAB | voc-294 |
+| reincarnation: after death | Samsara | reincarnation: after death, something like one's soul passes into anot | RELSTD-5B | wrel-295 |
 | reputation | سُمْعَة | reputation — also, doing good so that people hear of it (beside رِيَاء | VOCAB | voc-315 |
 | restraint | عَفَاف | restraint, chastity — keeping away from what is unlawful or unseemly | VOCAB | voc-439 |
 | rinsing the mouth | المَضْمَضَة (al-maḍmaḍah) | rinsing the mouth | HDT-201 | qud-157 |
@@ -470,6 +475,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | يُفَاعِلُ | بَاب المُفَاعَلَة — المُضَارِع | يُفَاعِلُ | ARB-201 | sarf-237 |
 | يُفَعَّلُ | بَاب التَّفْعِيل — المُضَارِع المَجْهُول | يُفَعَّلُ | ARB-201 | sarf-232 |
 | يُفَعِّلُ | بَاب التَّفْعِيل — المُضَارِع | يُفَعِّلُ | ARB-201 | sarf-229 |
+| “action”: how one's past life's actions shape one's reincarnation | Karma | “action”: how one's past life's actions shape one's reincarnation | RELSTD-5B | wrel-296 |
 | “non-action” | Wuwei | “non-action” — avoiding purposeful action; one of Daoism's main concep | RELSTD-5B | wrel-276 |
 | “old master” | Laozi | “old master” — the figure Daoism is attributed to | RELSTD-5B | wrel-085 |
 | “physical” impurity | نَجَاسَة حَقِيقِيَّة | “physical” impurity — an impure substance | HDT-201 | tah-005 |

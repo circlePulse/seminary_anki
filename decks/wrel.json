@@ -3,7 +3,7 @@
  "topic": "wrel",
  "session": "sep24",
  "source": "World Religions II — lecture and readings, 2026-09-24",
- "expected_count": 284,
+ "expected_count": 303,
  "cards": [
   {
    "type": "basic",
@@ -4016,6 +4016,291 @@
    "id": "wrel-284",
    "session": "oct20",
    "source": "World Religions II — lecture, 2026-10-20"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-285",
+   "front": "What else is Siddhārtha Gautama called, and what was he before he became a monk?",
+   "back": "The historical Buddha, or Shakyamuni — a prince who renounced his position to become a monk",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "origins"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-286",
+   "front": "Where did Buddhism begin, and when did it reach China?",
+   "back": "In India. It reached China during the Han dynasty, around the 2nd century CE, and spread from there throughout East Asia.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "origins"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-287",
+   "front": "What are the two main branches of Buddhism?",
+   "back": "Theravāda and Mahāyāna",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "branches"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-288",
+   "front": "What distinguishes Theravāda Buddhism, and where is it more popular?",
+   "back": "It most closely reflects the original Buddhism Siddhārtha Gautama taught. It's more popular in Southeast Asia.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "branches"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-289",
+   "front": "What distinguishes Mahāyāna Buddhism, and where is it more popular?",
+   "back": "It's the most popular form of Buddhism in the world today, and it brings many beings into the tradition: monks, saints, incarnations of the Buddha. It's more popular in East Asia.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "branches"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-290",
+   "term": "Apsaras",
+   "meaning": "a winged messenger of the Buddha, in Mahāyāna Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "concepts"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-291",
+   "term": "Bodhisattva",
+   "meaning": "one who was a human being and, instead of achieving nirvana, helps others reach enlightenment — in Mahāyāna Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "concepts"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-292",
+   "term": "Arhat",
+   "meaning": "a holy monk who has achieved enlightenment — a model for his community, prayed to after death for guidance toward enlightenment",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "concepts"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-293",
+   "front": "Where does the professor place Vajrayāna Buddhism, which is sometimes called a third branch?",
+   "back": "Within Mahāyāna Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "branches"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-294",
+   "text": "The beliefs all branches of Buddhism share: {{c1::reincarnation (samsara)}}, {{c2::karma}}, {{c3::nirvana}}, {{c4::the Four Noble Truths}} and {{c5::the Eightfold Path}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "concepts",
+    "spine"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-295",
+   "term": "Samsara",
+   "meaning": "reincarnation: after death, something like one's soul passes into another body",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "concepts"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-296",
+   "term": "Karma",
+   "meaning": "“action”: how one's past life's actions shape one's reincarnation",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "concepts"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-297",
+   "term": "Nirvana",
+   "meaning": "getting out of the cycle of reincarnation — the goal, since reincarnation isn't considered a good thing",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "concepts"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-298",
+   "text": "The Four Noble Truths: {{c1::life is suffering}}; {{c2::the origin of suffering is desire}}; {{c3::the cessation of suffering is achievable}}; {{c4::the Eightfold Path is the way to end suffering}}",
+   "extra": "",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "spine"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "wrel-299",
+   "text": "The Eightfold Path: right {{c1::view}}, right {{c2::intention}}, right {{c3::speech}}, right {{c4::action}}, right {{c5::livelihood}}, right {{c6::effort}}, right {{c7::mindfulness}} and right {{c8::concentration}}",
+   "extra": "Right intention is also translated right thought. Right concentration is meditation.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "spine"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-300",
+   "front": "How do the branches of Buddhism differ over enlightenment?",
+   "back": "Each has its own idea of what you should do to achieve it",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "branches"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-301",
+   "front": "What did Buddhism bring to cultures that, as far as we know, didn't have it before?",
+   "back": "Ideas of heaven and hell",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-302",
+   "front": "How does heaven in Buddhism differ from Heaven in Confucianism?",
+   "back": "In Buddhism, heaven is a paradise, and hell exists too. In Confucianism, Heaven is the cosmic order.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "confucianism",
+    "contrast"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-303",
+   "front": "How do heaven and hell relate to reincarnation in Buddhism?",
+   "back": "Through reincarnation you can move up and down between the levels, Earth included — but once in heaven or hell, it's harder to move",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism"
+   ],
+   "session": "oct27",
+   "source": "World Religions II — lecture, 2026-10-27"
   }
  ]
 }

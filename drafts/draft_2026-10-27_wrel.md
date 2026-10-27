@@ -1,6 +1,8 @@
 # Draft — World Religions II, 10/27: Buddhism (19 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-27 and delivered.** After approval, the glosses of wrel-290 and wrel-291 were
+reworded to lead with the definition ("…, in Mahāyāna Buddhism"), because both keyed to "in Mahāyāna
+Buddhism" in the gloss index.
 
 Source: the 10/27/26 heading of the World Religions II page, fetched on 2026-10-27. Session tag `oct27`.
 
