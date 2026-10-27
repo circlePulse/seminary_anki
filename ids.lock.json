@@ -1,6 +1,6 @@
 {
  "_comment": "APPEND-ONLY. An id here must never change or disappear. It is the only link between a regenerated deck and notes that already carry review history in Anki.",
- "generated": "2026-10-24",
+ "generated": "2026-10-27",
  "decks": {
   "arbaeen": {
    "course": "HDT-201",
@@ -2859,7 +2859,7 @@
   "vocab": {
    "course": "VOCAB",
    "topic": "verbs-01",
-   "count": 446,
+   "count": 463,
    "ids": [
     "voc-001",
     "voc-002",
@@ -3306,7 +3306,24 @@
     "voc-443",
     "voc-444",
     "voc-445",
-    "voc-446"
+    "voc-446",
+    "voc-447",
+    "voc-448",
+    "voc-449",
+    "voc-450",
+    "voc-451",
+    "voc-452",
+    "voc-453",
+    "voc-454",
+    "voc-455",
+    "voc-456",
+    "voc-457",
+    "voc-458",
+    "voc-459",
+    "voc-460",
+    "voc-461",
+    "voc-462",
+    "voc-463"
    ],
    "fp": {
     "voc-001": "4b725ff038f0",
@@ -3754,7 +3771,24 @@
     "voc-443": "2d5db45695d3",
     "voc-444": "f86e2fd365d2",
     "voc-445": "ef74ca2d2a28",
-    "voc-446": "f5cdf37ad656"
+    "voc-446": "f5cdf37ad656",
+    "voc-447": "28f8347199f7",
+    "voc-448": "43f8f1a61a4d",
+    "voc-449": "05c5431dbfda",
+    "voc-450": "e6b8b9076208",
+    "voc-451": "f9da7b431a13",
+    "voc-452": "2a9c209a6657",
+    "voc-453": "d49b8cf48caf",
+    "voc-454": "ffecea138e3b",
+    "voc-455": "c94bd4ec3199",
+    "voc-456": "72b0bd03777f",
+    "voc-457": "723a25c0dee2",
+    "voc-458": "66bd0e78f5a8",
+    "voc-459": "05ee6359c771",
+    "voc-460": "ad4abeb9d0c3",
+    "voc-461": "8b27e669c82e",
+    "voc-462": "d0e54f435479",
+    "voc-463": "34cc1f494c35"
    }
   },
   "wrel": {

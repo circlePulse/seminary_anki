@@ -3343,7 +3343,7 @@
    "tier": 1,
    "id": "voc-244",
    "text": "<div class=\"arabic\">نَالَ — {{c1::يَنَالُ}} — {{c2::نَلْ}} — {{c3::نَيْل}}</div>",
-   "extra": "to attain, to obtain · Form I (hollow)",
+   "extra": "to attain, to obtain · Form I (hollow) · its passive is <bdi>يُنَالُ</bdi>, “it is attained”",
    "tags": [
     "vocab",
     "verbs",
@@ -6318,7 +6318,253 @@
    ],
    "session": "oct21",
    "source": "Arbaʿīn, Ḥadīth 6 — vocab in the class notes, 2026-10-21"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-447",
+   "term": "بَدَن",
+   "meaning": "the body",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-448",
+   "text": "<div class=\"arabic\">{{c2::بَدَن}} (مُفْرَد) — {{c1::أَبْدَان}} (جَمْع)</div>",
+   "extra": "the body",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-449",
+   "term": "خِرْقَة",
+   "meaning": "a rag — a scrap of cloth",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-450",
+   "text": "<div class=\"arabic\">{{c2::خِرْقَة}} (مُفْرَد) — {{c1::خِرَق}} (جَمْع)</div>",
+   "extra": "a rag",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-451",
+   "term": "أَثْنَى",
+   "meaning": "to praise, to commend (someone — <bdi>عَلَى</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-452",
+   "text": "<div class=\"arabic\">أَثْنَى — {{c1::يُثْنِي}} — {{c2::أَثْنِ}} — {{c3::إِثْنَاء}}</div>",
+   "extra": "to praise, to commend · Form IV (defective) · the usual noun is <bdi>ثَنَاء</bdi>, praise · <bdi>أَثْنَى عَلَيْهِ خَيْرًا</bdi>, he spoke well of him",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-453",
+   "term": "مَحْظُور",
+   "meaning": "forbidden, prohibited — the ism mafʿūl of <bdi>حَظَرَ</bdi>, to forbid",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-454",
+   "term": "مَعُونَة",
+   "meaning": "help, aid, assistance",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-455",
+   "term": "تَسْدِيد",
+   "meaning": "guiding aright — Allah setting one on the right course; also, aiming true",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-456",
+   "text": "<div class=\"arabic\">سَدَّدَ — {{c1::يُسَدِّدُ}} — {{c2::سَدِّدْ}} — {{c3::تَسْدِيد}}</div>",
+   "extra": "to guide aright, to set on the right course · Form II · often paired with <bdi>تَوْفِيق</bdi> · <bdi>سَدِّدُوا وَقَارِبُوا</bdi>, aim for what is right, and come close (Bukhārī)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-457",
+   "term": "مُنِيف",
+   "meaning": "lofty, exalted — the ism fāʿil of <bdi>أَنَافَ</bdi>, to tower over",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-458",
+   "term": "طَافَ",
+   "meaning": "to go around, to circle — to circumambulate (the Kaʿbah — <bdi>بِ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-459",
+   "text": "<div class=\"arabic\">طَافَ — {{c1::يَطُوفُ}} — {{c2::طُفْ}} — {{c3::طَوَاف}}</div>",
+   "extra": "to go around, to circle · Form I (hollow) · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · <bdi>طَوَاف</bdi> is the circling of the Kaʿbah · <bdi>طَافَ بِالبَيْتِ</bdi>, he circled the House",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-460",
+   "term": "اِكْتَفَى",
+   "meaning": "to make do (with — <bdi>بِ</bdi>), to be content with",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-461",
+   "text": "<div class=\"arabic\">اِكْتَفَى — {{c1::يَكْتَفِي}} — {{c2::اِكْتَفِ}} — {{c3::اِكْتِفَاء}}</div>",
+   "extra": "to make do · Form VIII (defective) · from <bdi>كَفَى</bdi>, to suffice",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-462",
+   "term": "تَكَفَّلَ",
+   "meaning": "to take responsibility (for — <bdi>بِ</bdi>), to guarantee",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-463",
+   "text": "<div class=\"arabic\">تَكَفَّلَ — {{c1::يَتَكَفَّلُ}} — {{c2::تَكَفَّلْ}} — {{c3::تَكَفُّل}}</div>",
+   "extra": "to take responsibility · Form V · <bdi>تَكَفَّلَ اللهُ لِمَنْ جَاهَدَ فِي سَبِيلِهِ</bdi>, Allah has given a guarantee to the one who strives in His path (Bukhārī and Muslim) · <bdi>كَفِيل</bdi>, a guarantor",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-tawakkul"
+   ],
+   "session": "oct27",
+   "source": "Vocabulary list supplied 2026-10-27"
   }
  ],
- "expected_count": 446
+ "expected_count": 463
 }
