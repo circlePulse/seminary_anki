@@ -214,17 +214,23 @@ once, and both times was objecting to files that had no reason to exist.
   shows which cell was asked. It reached the user in the 10-23 ṣarf package, which holds all three notetypes.
 - **Ḥadīth 7 (arbh-271–302) rests partly on Claude's translation.** The translation is in `texts/arbaeen_h07.md`
   and the user hasn't checked it; arbh-281 rests on it. Its matn was supplied by Claude from the standard text.
-- **Riyāḍ has a memorisation to-do (2026-10-22):** ḥadīth 37, 54, 61 and 71, and the second narration of 62.
-  Claude offered progressive cloze cards of those texts. No answer yet.
+- **Riyāḍ memorisation cards are drafted, awaiting approval (2026-10-27):** `drafts/draft_2026-10-27_memorisation.md`,
+  riyad-011–030 plus sarf-247. They cover both Riyāḍ to-dos: the open one (37, 54, 61, the second narration of 62, 71,
+  and 82's duʿāʾ) and the checked one (7, 16, 25, and the phrase in 29). Each ḥadīth has a phrase-by-phrase cloze and a
+  recitation card. The texts are Claude's, from the standard edition (sunnah.com numbering, which matches the
+  user's), in `texts/riyad_memorisation.md`. Five points await the user: 7's وَأَعْمَالِكُمْ, 82's أَزِلَّ (the online
+  text has أَذِلَّ), where 82's duʿāʾ starts, and 62's first narration. The user asked on 2026-10-27 for every required
+  memorisation item to have cards; the audit is in the draft.
 - **voc-218 حَسَبَ is carded as "according to"**, which is unconfirmed: the verb حَسَبَ يَحْسُبُ, "to count",
   fits the same vowels and would collide with أَحْصَى (voc-009).
 - **The 2026-10-13 vocabulary list (voc-231–291) carries four readings the user hasn't confirmed.** الها was
   read as أَلْهَى, بوصل as يُوصِلُ, يقلق as قَلِقَ يَقْلَقُ, and قوط as قُوت (it could be القُوط, the Goths, or قَطُّ).
   The user answered "looks good" without addressing them.
-- **The derived-noun charts are uncarded (2026-10-09).** Your note says "(memorize singular, dual, plural
-  charts for each)", but the chart is only a screenshot (CleanShot 2026-10-08 5.52 PM), filed under ism ālah.
-  The network blocks `prod-files-secure.s3.us-west-2.amazonaws.com`. Card it once the user allows that host
-  or pastes the chart as text.
+- **The derived-noun chart is the ism al-ālah chart, drafted as sarf-247 (2026-10-27).** It's mifʿal, mifʿalah and
+  mifʿāl with their duals and plurals. It sits in the memorisation draft above. **How Notion images open now:** the
+  container can't reach `prod-files-secure.s3.us-west-2.amazonaws.com`. Instead, get a signed URL with
+  `notion-get-file-download-urls` and pass it straight to the `web-fetch` agent; the URL lasts five minutes. The
+  harness saves the raw bytes under the session's `tool-results/`, and Read shows the PNG. HEIC photos are untested.
 - **The relative-pronoun chart (nahw-235) was built by Claude** (2026-10-24). The notes say "memorize the chart
   for asmaa’ al-mawsoolah" but the chart isn't on the page. It's flagged for checking against the class's, above
   all the feminine plural: the card gives اللَّاتِي and اللَّوَاتِي, and some charts add اللَّائِي.

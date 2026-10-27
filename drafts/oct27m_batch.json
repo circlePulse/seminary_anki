@@ -1,0 +1,351 @@
+{
+ "riyad": [
+  {
+   "type": "cloze",
+   "id": "riyad-011",
+   "text": "<div class=\"arabic\">إِنَّ اللهَ {{c1::لَا يَنْظُرُ إِلَى أَجْسَامِكُمْ، وَلَا إِلَى صُوَرِكُمْ}}، {{c2::وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ}}</div>",
+   "extra": "Abū Hurayrah, from the Prophet ﷺ: “Allah does not look at your bodies or your forms, but He looks at your hearts and your deeds.” (Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 7 · <bdi>بَابُ الإِخْلَاصِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 7 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-ikhlas",
+    "riyad-007"
+   ]
+  },
+  {
+   "type": "basic",
+   "id": "riyad-012",
+   "front": "Recite Abū Hurayrah's ḥadīth on what Allah looks at.",
+   "back": "<div class=\"arabic\">إِنَّ اللهَ لَا يَنْظُرُ إِلَى أَجْسَامِكُمْ، وَلَا إِلَى صُوَرِكُمْ، وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ</div><br>“Allah does not look at your bodies or your forms, but He looks at your hearts and your deeds.” (Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 7 · <bdi>بَابُ الإِخْلَاصِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 7 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-ikhlas",
+    "riyad-007",
+    "recite"
+   ]
+  },
+  {
+   "type": "cloze",
+   "id": "riyad-013",
+   "text": "<div class=\"arabic\">إِنَّ اللهَ تَعَالَى يَبْسُطُ يَدَهُ {{c1::بِاللَّيْلِ لِيَتُوبَ مُسِيءُ النَّهَارِ}}، وَيَبْسُطُ يَدَهُ {{c1::بِالنَّهَارِ لِيَتُوبَ مُسِيءُ اللَّيْلِ}}، {{c2::حَتَّى تَطْلُعَ الشَّمْسُ مِنْ مَغْرِبِهَا}}</div>",
+   "extra": "Abū Mūsā al-Ashʿarī, from the Prophet ﷺ: “Allah the Exalted stretches out His hand by night so that the one who did wrong by day may repent, and stretches out His hand by day so that the one who did wrong by night may repent — until the sun rises from the west.” (Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 16 · <bdi>بَابُ التَّوْبَةِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 16 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawbah",
+    "riyad-016"
+   ]
+  },
+  {
+   "type": "basic",
+   "id": "riyad-014",
+   "front": "Recite Abū Mūsā al-Ashʿarī's ḥadīth on Allah stretching out His hand to those who repent.",
+   "back": "<div class=\"arabic\">إِنَّ اللهَ تَعَالَى يَبْسُطُ يَدَهُ بِاللَّيْلِ لِيَتُوبَ مُسِيءُ النَّهَارِ، وَيَبْسُطُ يَدَهُ بِالنَّهَارِ لِيَتُوبَ مُسِيءُ اللَّيْلِ، حَتَّى تَطْلُعَ الشَّمْسُ مِنْ مَغْرِبِهَا</div><br>“Allah the Exalted stretches out His hand by night so that the one who did wrong by day may repent, and stretches out His hand by day so that the one who did wrong by night may repent — until the sun rises from the west.” (Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 16 · <bdi>بَابُ التَّوْبَةِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 16 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawbah",
+    "riyad-016",
+    "recite"
+   ]
+  },
+  {
+   "type": "cloze",
+   "id": "riyad-015",
+   "text": "<div class=\"arabic\">{{c1::الطُّهُورُ شَطْرُ الإِيمَانِ}}، {{c2::وَالحَمْدُ لِلَّهِ تَمْلَأُ المِيزَانَ}}، {{c3::وَسُبْحَانَ اللهِ وَالحَمْدُ لِلَّهِ تَمْلَآنِ -أَوْ تَمْلَأُ- مَا بَيْنَ السَّمَاوَاتِ وَالأَرْضِ}}، {{c4::وَالصَّلَاةُ نُورٌ}}، {{c5::وَالصَّدَقَةُ بُرْهَانٌ}}، {{c6::وَالصَّبْرُ ضِيَاءٌ}}، {{c7::وَالقُرْآنُ حُجَّةٌ لَكَ أَوْ عَلَيْكَ}}، {{c8::كُلُّ النَّاسِ يَغْدُو}}، {{c9::فَبَائِعٌ نَفْسَهُ فَمُعْتِقُهَا أَوْ مُوبِقُهَا}}</div>",
+   "extra": "Abū Mālik al-Ashʿarī, from the Prophet ﷺ: “Purity is half of faith. Al-ḥamdu lillāh fills the scale, and subḥān Allāh and al-ḥamdu lillāh fill — or: fills — what is between the heavens and the earth. Prayer is light, charity is proof, patience is radiance, and the Qurʾān is an argument for you or against you. Everyone sets out in the morning selling himself, and so frees himself or ruins himself.” (Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 25 · <bdi>بَابُ الصَّبْرِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 25 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-sabr",
+    "riyad-025"
+   ]
+  },
+  {
+   "type": "basic",
+   "id": "riyad-016",
+   "front": "Recite Abū Mālik al-Ashʿarī's ḥadīth, the first in the chapter on patience.",
+   "back": "<div class=\"arabic\">الطُّهُورُ شَطْرُ الإِيمَانِ، وَالحَمْدُ لِلَّهِ تَمْلَأُ المِيزَانَ، وَسُبْحَانَ اللهِ وَالحَمْدُ لِلَّهِ تَمْلَآنِ -أَوْ تَمْلَأُ- مَا بَيْنَ السَّمَاوَاتِ وَالأَرْضِ، وَالصَّلَاةُ نُورٌ، وَالصَّدَقَةُ بُرْهَانٌ، وَالصَّبْرُ ضِيَاءٌ، وَالقُرْآنُ حُجَّةٌ لَكَ أَوْ عَلَيْكَ، كُلُّ النَّاسِ يَغْدُو، فَبَائِعٌ نَفْسَهُ فَمُعْتِقُهَا أَوْ مُوبِقُهَا</div><br>“Purity is half of faith. Al-ḥamdu lillāh fills the scale, and subḥān Allāh and al-ḥamdu lillāh fill — or: fills — what is between the heavens and the earth. Prayer is light, charity is proof, patience is radiance, and the Qurʾān is an argument for you or against you. Everyone sets out in the morning selling himself, and so frees himself or ruins himself.” (Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 25 · <bdi>بَابُ الصَّبْرِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 25 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-sabr",
+    "riyad-025",
+    "recite"
+   ]
+  },
+  {
+   "type": "cloze",
+   "id": "riyad-017",
+   "text": "<div class=\"arabic\">{{c1::إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى}}، {{c2::وَكُلُّ شَيْءٍ عِنْدَهُ بِأَجَلٍ مُسَمًّى}}، {{c3::فَلْتَصْبِرْ وَلْتَحْتَسِبْ}}</div>",
+   "extra": "Usāmah ibn Zayd reports that the Prophet's ﷺ daughter sent for him as her son was dying, and he sent back his salām and these words: “To Allah belongs what He took, and to Him belongs what He gave, and everything has an appointed term with Him; so let her be patient and hope for the reward.” (Bukhārī and Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 29 · <bdi>بَابُ الصَّبْرِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 29 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-sabr",
+    "riyad-029"
+   ]
+  },
+  {
+   "type": "basic",
+   "id": "riyad-018",
+   "front": "Recite what the Prophet ﷺ sent to tell his daughter as her son was dying (from Usāmah ibn Zayd).",
+   "back": "<div class=\"arabic\">إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلُّ شَيْءٍ عِنْدَهُ بِأَجَلٍ مُسَمًّى، فَلْتَصْبِرْ وَلْتَحْتَسِبْ</div><br>“To Allah belongs what He took, and to Him belongs what He gave, and everything has an appointed term with Him; so let her be patient and hope for the reward.” (Bukhārī and Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 29 · <bdi>بَابُ الصَّبْرِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 29 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-sabr",
+    "riyad-029",
+    "recite"
+   ]
+  },
+  {
+   "type": "cloze",
+   "id": "riyad-019",
+   "text": "<div class=\"arabic\">{{c1::مَا يُصِيبُ المُسْلِمَ}} مِنْ {{c2::نَصَبٍ، وَلَا وَصَبٍ}}، {{c3::وَلَا هَمٍّ، وَلَا حُزْنٍ}}، {{c4::وَلَا أَذًى، وَلَا غَمٍّ}}، {{c5::حَتَّى الشَّوْكَةِ يُشَاكُهَا}}، {{c6::إِلَّا كَفَّرَ اللهُ بِهَا مِنْ خَطَايَاهُ}}</div>",
+   "extra": "Abū Saʿīd and Abū Hurayrah, from the Prophet ﷺ: “No fatigue, illness, worry, grief, harm or distress befalls a Muslim — not even a thorn that pricks him — but that Allah expiates some of his sins by it.” (Bukhārī and Muslim)<br>Al-Nawawī glosses <bdi>الوَصَب</bdi> as illness. <bdi>حَتَّى الشَّوْكَةِ</bdi> is also read <bdi>حَتَّى الشَّوْكَةُ</bdi>.",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 37 · <bdi>بَابُ الصَّبْرِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 37 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-sabr",
+    "riyad-037"
+   ]
+  },
+  {
+   "type": "basic",
+   "id": "riyad-020",
+   "front": "Recite the ḥadīth of Abū Saʿīd and Abū Hurayrah on the hardships that befall a Muslim.",
+   "back": "<div class=\"arabic\">مَا يُصِيبُ المُسْلِمَ مِنْ نَصَبٍ، وَلَا وَصَبٍ، وَلَا هَمٍّ، وَلَا حُزْنٍ، وَلَا أَذًى، وَلَا غَمٍّ، حَتَّى الشَّوْكَةِ يُشَاكُهَا، إِلَّا كَفَّرَ اللهُ بِهَا مِنْ خَطَايَاهُ</div><br>“No fatigue, illness, worry, grief, harm or distress befalls a Muslim — not even a thorn that pricks him — but that Allah expiates some of his sins by it.” (Bukhārī and Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 37 · <bdi>بَابُ الصَّبْرِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 37 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-sabr",
+    "riyad-037",
+    "recite"
+   ]
+  },
+  {
+   "type": "cloze",
+   "id": "riyad-021",
+   "text": "<div class=\"arabic\">{{c1::إِنَّ الصِّدْقَ يَهْدِي إِلَى البِرِّ، وَإِنَّ البِرَّ يَهْدِي إِلَى الجَنَّةِ}}، {{c2::وَإِنَّ الرَّجُلَ لَيَصْدُقُ حَتَّى يُكْتَبَ عِنْدَ اللهِ صِدِّيقًا}}، {{c1::وَإِنَّ الكَذِبَ يَهْدِي إِلَى الفُجُورِ، وَإِنَّ الفُجُورَ يَهْدِي إِلَى النَّارِ}}، {{c2::وَإِنَّ الرَّجُلَ لَيَكْذِبُ حَتَّى يُكْتَبَ عِنْدَ اللهِ كَذَّابًا}}</div>",
+   "extra": "Ibn Masʿūd, from the Prophet ﷺ: “Truthfulness leads to righteousness, and righteousness leads to Paradise; a man keeps telling the truth until he is written with Allah as a man of truth. Lying leads to wickedness, and wickedness leads to the Fire; a man keeps lying until he is written with Allah as a liar.” (Bukhārī and Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 54 · <bdi>بَابُ الصِّدْقِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 54 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-sidq",
+    "riyad-054"
+   ]
+  },
+  {
+   "type": "basic",
+   "id": "riyad-022",
+   "front": "Recite Ibn Masʿūd's ḥadīth on where truthfulness and lying lead.",
+   "back": "<div class=\"arabic\">إِنَّ الصِّدْقَ يَهْدِي إِلَى البِرِّ، وَإِنَّ البِرَّ يَهْدِي إِلَى الجَنَّةِ، وَإِنَّ الرَّجُلَ لَيَصْدُقُ حَتَّى يُكْتَبَ عِنْدَ اللهِ صِدِّيقًا، وَإِنَّ الكَذِبَ يَهْدِي إِلَى الفُجُورِ، وَإِنَّ الفُجُورَ يَهْدِي إِلَى النَّارِ، وَإِنَّ الرَّجُلَ لَيَكْذِبُ حَتَّى يُكْتَبَ عِنْدَ اللهِ كَذَّابًا</div><br>“Truthfulness leads to righteousness, and righteousness leads to Paradise; a man keeps telling the truth until he is written with Allah as a man of truth. Lying leads to wickedness, and wickedness leads to the Fire; a man keeps lying until he is written with Allah as a liar.” (Bukhārī and Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 54 · <bdi>بَابُ الصِّدْقِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 54 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-sidq",
+    "riyad-054",
+    "recite"
+   ]
+  },
+  {
+   "type": "cloze",
+   "id": "riyad-023",
+   "text": "<div class=\"arabic\">{{c1::اتَّقِ اللهَ حَيْثُمَا كُنْتَ}}، {{c2::وَأَتْبِعِ السَّيِّئَةَ الحَسَنَةَ تَمْحُهَا}}، {{c3::وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ}}</div>",
+   "extra": "Abū Dharr and Muʿādh ibn Jabal, from the Prophet ﷺ: “Be mindful of Allah wherever you are; follow a bad deed with a good one and it will wipe it out; and treat people with good character.” (al-Tirmidhī, who graded it ḥasan)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 61 · <bdi>بَابُ المُرَاقَبَةِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 61 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-muraqabah",
+    "riyad-061"
+   ]
+  },
+  {
+   "type": "basic",
+   "id": "riyad-024",
+   "front": "Recite the three commands in the ḥadīth of Abū Dharr and Muʿādh ibn Jabal.",
+   "back": "<div class=\"arabic\">اتَّقِ اللهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ</div><br>“Be mindful of Allah wherever you are; follow a bad deed with a good one and it will wipe it out; and treat people with good character.” (al-Tirmidhī, who graded it ḥasan)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 61 · <bdi>بَابُ المُرَاقَبَةِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 61 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-muraqabah",
+    "riyad-061",
+    "recite"
+   ]
+  },
+  {
+   "type": "cloze",
+   "id": "riyad-025",
+   "text": "<div class=\"arabic\">{{c1::احْفَظِ اللهَ تَجِدْهُ أَمَامَكَ}}، {{c2::تَعَرَّفْ إِلَى اللهِ فِي الرَّخَاءِ يَعْرِفْكَ فِي الشِّدَّةِ}}، وَاعْلَمْ أَنَّ {{c3::مَا أَخْطَأَكَ لَمْ يَكُنْ لِيُصِيبَكَ، وَمَا أَصَابَكَ لَمْ يَكُنْ لِيُخْطِئَكَ}}، وَاعْلَمْ أَنَّ {{c4::النَّصْرَ مَعَ الصَّبْرِ}}، وَأَنَّ {{c5::الفَرَجَ مَعَ الكَرْبِ}}، وَأَنَّ {{c6::مَعَ العُسْرِ يُسْرًا}}</div>",
+   "extra": "Ibn ʿAbbās, from the Prophet ﷺ: “Be mindful of Allah and you will find Him before you. Make yourself known to Allah in ease, and He will know you in hardship. Know that what missed you was never going to befall you, and what befell you was never going to miss you. And know that victory comes with patience, relief with distress, and with hardship comes ease.” (a narration other than al-Tirmidhī's)<br>Al-Tirmidhī's narration, which is Arbaʿīn 19, has <bdi>تُجَاهَكَ</bdi> where this one has <bdi>أَمَامَكَ</bdi>.",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 62, second narration · <bdi>بَابُ المُرَاقَبَةِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 62 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-muraqabah",
+    "riyad-062"
+   ]
+  },
+  {
+   "type": "basic",
+   "id": "riyad-026",
+   "front": "Recite the second narration of Ibn ʿAbbās's ḥadīth <bdi>يَا غُلَامُ</bdi> (“O boy”), the one other than al-Tirmidhī's.",
+   "back": "<div class=\"arabic\">احْفَظِ اللهَ تَجِدْهُ أَمَامَكَ، تَعَرَّفْ إِلَى اللهِ فِي الرَّخَاءِ يَعْرِفْكَ فِي الشِّدَّةِ، وَاعْلَمْ أَنَّ مَا أَخْطَأَكَ لَمْ يَكُنْ لِيُصِيبَكَ، وَمَا أَصَابَكَ لَمْ يَكُنْ لِيُخْطِئَكَ، وَاعْلَمْ أَنَّ النَّصْرَ مَعَ الصَّبْرِ، وَأَنَّ الفَرَجَ مَعَ الكَرْبِ، وَأَنَّ مَعَ العُسْرِ يُسْرًا</div><br>“Be mindful of Allah and you will find Him before you. Make yourself known to Allah in ease, and He will know you in hardship. Know that what missed you was never going to befall you, and what befell you was never going to miss you. And know that victory comes with patience, relief with distress, and with hardship comes ease.” (a narration other than al-Tirmidhī's)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 62, second narration · <bdi>بَابُ المُرَاقَبَةِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 62 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-muraqabah",
+    "riyad-062",
+    "recite"
+   ]
+  },
+  {
+   "type": "cloze",
+   "id": "riyad-027",
+   "text": "<div class=\"arabic\">اللَّهُمَّ إِنِّي أَسْأَلُكَ {{c1::الهُدَى}} {{c2::وَالتُّقَى}} {{c3::وَالعَفَافَ}} {{c4::وَالغِنَى}}</div>",
+   "extra": "Ibn Masʿūd reports that the Prophet ﷺ used to say: “O Allah, I ask You for guidance, piety, chastity and self-sufficiency.” (Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 71 · <bdi>بَابُ التَّقْوَى</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 71 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-taqwa",
+    "riyad-071"
+   ]
+  },
+  {
+   "type": "basic",
+   "id": "riyad-028",
+   "front": "Recite the duʿāʾ, reported by Ibn Masʿūd, in which the Prophet ﷺ asked for four things.",
+   "back": "<div class=\"arabic\">اللَّهُمَّ إِنِّي أَسْأَلُكَ الهُدَى وَالتُّقَى وَالعَفَافَ وَالغِنَى</div><br>“O Allah, I ask You for guidance, piety, chastity and self-sufficiency.” (Muslim)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 71 · <bdi>بَابُ التَّقْوَى</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 71 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-taqwa",
+    "riyad-071",
+    "recite"
+   ]
+  },
+  {
+   "type": "cloze",
+   "id": "riyad-029",
+   "text": "<div class=\"arabic\">بِسْمِ اللهِ، {{c1::تَوَكَّلْتُ عَلَى اللهِ}}، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ {{c2::أَضِلَّ أَوْ أُضَلَّ}}، أَوْ {{c3::أَزِلَّ أَوْ أُزَلَّ}}، أَوْ {{c4::أَظْلِمَ أَوْ أُظْلَمَ}}، أَوْ {{c5::أَجْهَلَ أَوْ يُجْهَلَ عَلَيَّ}}</div>",
+   "extra": "Umm Salamah reports that whenever the Prophet ﷺ left his house, he would say: “In the name of Allah; I put my trust in Allah. O Allah, I seek refuge in You from going astray or being led astray, from slipping or being made to slip, from wronging or being wronged, and from acting foolishly or being treated foolishly.” (Abū Dāwūd and al-Tirmidhī, in Abū Dāwūd's wording)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 82, the duʿāʾ · <bdi>بَابُ اليَقِينِ وَالتَّوَكُّلِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 82 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "riyad-082"
+   ]
+  },
+  {
+   "type": "basic",
+   "id": "riyad-030",
+   "front": "Recite the duʿāʾ the Prophet ﷺ said whenever he left his house (from Umm Salamah).",
+   "back": "<div class=\"arabic\">بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ، أَوْ أَزِلَّ أَوْ أُزَلَّ، أَوْ أَظْلِمَ أَوْ أُظْلَمَ، أَوْ أَجْهَلَ أَوْ يُجْهَلَ عَلَيَّ</div><br>“In the name of Allah; I put my trust in Allah. O Allah, I seek refuge in You from going astray or being led astray, from slipping or being made to slip, from wronging or being wronged, and from acting foolishly or being treated foolishly.” (Abū Dāwūd and al-Tirmidhī, in Abū Dāwūd's wording)",
+   "tier": 1,
+   "session": "oct27",
+   "science": "Riyāḍ al-Ṣāliḥīn 82, the duʿāʾ · <bdi>بَابُ اليَقِينِ وَالتَّوَكُّلِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 82 — the text",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "riyad-082",
+    "recite"
+   ]
+  }
+ ],
+ "sarf": [
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-247",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><th class=\"arabic\" colspan=3>اِسْمُ الآلَةِ</th></tr><tr><th class=\"arabic\">مُفْرَدٌ</th><th class=\"arabic\">مُثَنًّى</th><th class=\"arabic\">جَمْعٌ</th></tr><tr><td class=\"arabic\">مِفْعَلٌ</td><td class=\"arabic\">{{c1::مِفْعَلَانِ}}</td><td class=\"arabic\">{{c2::مَفَاعِلُ}}</td></tr><tr><td class=\"arabic\">مِفْعَلَةٌ</td><td class=\"arabic\">{{c1::مِفْعَلَتَانِ}}</td><td class=\"arabic\">{{c2::مَفَاعِلُ}}</td></tr><tr><td class=\"arabic\">مِفْعَالٌ</td><td class=\"arabic\">{{c1::مِفْعَالَانِ}}</td><td class=\"arabic\">{{c2::مَفَاعِيلُ}}</td></tr></table>",
+   "extra": "The chart of <bdi>اِسْم الآلَة</bdi>. <bdi>مِفْعَل</bdi> and <bdi>مِفْعَلَة</bdi> share the plural <bdi>مَفَاعِل</bdi>, and the long ā of <bdi>مِفْعَال</bdi> becomes the long ī of <bdi>مَفَاعِيل</bdi>: <bdi>مِبْرَد</bdi> (a file) makes <bdi>مَبَارِد</bdi>, <bdi>مِكْنَسَة</bdi> (a broom) makes <bdi>مَكَانِس</bdi>, and <bdi>مِفْتَاح</bdi> (a key) makes <bdi>مَفَاتِيح</bdi>.",
+   "tags": [
+    "sarf",
+    "mushtaqq",
+    "awzan",
+    "table"
+   ],
+   "session": "oct08",
+   "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08"
+  }
+ ]
+}

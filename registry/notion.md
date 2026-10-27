@@ -90,7 +90,8 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
   classification). Re-fetch right before drafting, card up to the last complete
   proposition, and flag the rest.
 - **Images** (HEIC photos of tables, screenshots) carry content the text does
-  not. Say when a section's substance is only in an image.
+  not. Say when a section's substance is only in an image. Screenshots can be read: see
+  "How Notion images open now" in HANDOFF (signed URL, then the web-fetch agent).
 
 ## Uncarded as of 2026-09-30 (after the evening batch)
 
