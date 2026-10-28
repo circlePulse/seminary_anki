@@ -1,6 +1,6 @@
 # Draft — Qudūrī: ḥayḍ, istiḥāḍah, nifās and the maʿdhūr (26 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-28 and delivered.**
 
 Source: the new toggles after wiping over footgear on the Arbaʿīn/Qudūrī page, fetched 2026-10-28 (edited 00:49
 UTC). Session tag `oct27`.

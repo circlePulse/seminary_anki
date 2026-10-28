@@ -187,6 +187,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | inciting | تَحْرِيض | inciting, rousing (to fight — عَلَى) | VOCAB | voc-249 |
 | indefinite | نَكِرَة (nakirah) | indefinite | ARB-201 | nahw-110 |
 | inevitably | لَا بُدَّ (lā budda) | inevitably, necessarily — followed by مِنْ or أَنْ: one must… | VOCAB | voc-404 |
+| irregular bleeding: bleeding like ḥayḍ that lasts under 3 days or over 10 | الاِسْتِحَاضَة (istiḥāḍah) | irregular bleeding: bleeding like ḥayḍ that lasts under 3 days or over | HDT-201 | qud-323 |
 | is not | لَيْسَ | is not, not — a sister of كَانَ | ARB-201 | nahw-206 |
 | iʿrāb of position | إِعْرَاب مَحَلِّيّ (iʿrāb maḥallī) | iʿrāb of position — a مَبْنِيّ word fills a slot that has a state, but | ARB-201 | nahw-216 |
 | keeping clear of what is unseemly | تَنَزُّه | keeping clear of what is unseemly — holding oneself above it (عَنْ); a | VOCAB | voc-443 |
@@ -202,6 +203,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | masculine | مُذَكَّر (mudhakkar) | masculine | ARB-201 | sarf-008 |
 | may it be wholesome | هَنِيئاً | may it be wholesome — “congratulations” — invariable adverbial | VOCAB | voc-132 |
 | maybe | لَعَلَّ | maybe, hopefully, perhaps — a حَرْف مُشَبَّه بِالفِعْل | ARB-201 | nahw-174 |
+| menstruation: the blood that flows from the womb of a woman who is free of illness and not a minor | الحَيْض (ḥayḍ) | menstruation: the blood that flows from the womb of a woman who is fre | HDT-201 | qud-306 |
 | might | حَوْل | might, power to act — also, a full year (as in zakāh) | VOCAB | voc-238 |
 | minor ritual impurity | الحَدَث الأَصْغَر | minor ritual impurity | HDT-201 | tah-008 |
 | mixed water | المَاءُ المَخْلُوطُ بِشَيْءٍ | mixed water — water with another substance in it | HDT-201 | qud-221 |
@@ -218,6 +220,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | perfection | كَمَال | perfection, completeness | VOCAB | voc-379 |
 | performance | أَدَاء | performance, discharge — of a duty, a trust or a debt; in fiqh, worshi | VOCAB | voc-314 |
 | perishing | فَنَاء | perishing, passing away | VOCAB | voc-437 |
+| postnatal bleeding: the blood after childbirth | النِّفَاس (nifās) | postnatal bleeding: the blood after childbirth | HDT-201 | qud-327 |
 | praise expressed verbally | حَمْد (ḥamd) | praise expressed verbally, given whether or not a favour has been rece | HDT-201 | arb-064 |
 | preponderant belief | غَلَبَة الظَّنّ (ghalabat al-ẓann) | preponderant belief — near certainty; in tayammum, the standard for co | HDT-201 | qud-285 |
 | preventive | مَانِع (māniʿ) | preventive — a definition excludes whatever is not necessary to it | HDT-201 | qud-008 |
@@ -239,6 +242,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | second person | مُخَاطَب (mukhāṭab) | second person | ARB-201 | sarf-005 |
 | since | مُنْذُ ، مُذْ | since — both حُرُوف جَرّ; مُذْ is also glossed “for” | ARB-201 | nahw-151 |
 | sniffing water up into the nostrils | الاِسْتِنْشَاق (al-istinshāq) | sniffing water up into the nostrils | HDT-201 | qud-158 |
+| someone excused: one who can't keep wuḍūʾ long enough to pray | المَعْذُور (maʿdhūr) | someone excused: one who can't keep wuḍūʾ long enough to pray, from co | HDT-201 | qud-330 |
 | someone who is poor | عَالٍ | someone who is poor | VOCAB | voc-054 |
 | someone who is unclothed | عَارٍ | someone who is unclothed | VOCAB | voc-052 |
 | someone with no shoes | حَافٍ | someone with no shoes; barefoot | VOCAB | voc-050 |

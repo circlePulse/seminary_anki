@@ -100,6 +100,10 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-10-28: Qudūrī ḥayḍ, istiḥāḍah, nifās and the maʿdhūr (qud-306–331), from the 10-27 notes. On the
+cards only: less than a verse is given as al-Ṭaḥāwī's view against the relied-upon one; the blank ruling of
+istiḥāḍah is filled from Qudūrī (a constant nosebleed); the gap of purity is within the days of ḥayḍ.
+
 Carded on 2026-10-28: Arbaʿīn Ḥadīth 8 (arbh-303–318) and its vocab list (voc-464–471), up to the notes'
 "(to be continued)". One softening, on the cards only: "every time" Allah mentions īmān with action became
 "again and again".
