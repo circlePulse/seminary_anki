@@ -1,0 +1,363 @@
+{
+ "arbh": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-303",
+   "front": "Who narrates the ḥadīth “I have been commanded to fight the people” (Arbaʿīn 8)?",
+   "back": "ʿAbdullāh ibn ʿUmar RA",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "narrator",
+    "ibn-umar"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-304",
+   "text": "Why Arbaʿīn 8 matters: it gives {{c1::the purpose of jihad}}; it stresses {{c2::faith coupled with action}}; it underlines {{c3::the protection of life and wealth}}; and it leaves {{c4::judging the heart to Allah}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "importance",
+    "spine"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-305",
+   "front": "According to the notes on the ḥadīth “I have been commanded to fight the people”, what is the primary purpose of jihad in Islam?",
+   "back": "To elevate the word of Allah and establish His rule, so that there is justice in the world",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "jihad"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-306",
+   "front": "In the ḥadīth “I have been commanded to fight the people” (Arbaʿīn 8), until when has the Prophet ﷺ been commanded to fight them?",
+   "back": "Until they testify that there is no god but Allah and that Muḥammad is the Messenger of Allah, establish the prayer and pay the zakāh — that is, until they enter the fold of Islam",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "text"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-307",
+   "front": "In the ḥadīth “I have been commanded to fight the people”, what do people gain once they enter Islam, and what can take it away?",
+   "back": "Their lives and property become protected and sacred, “except by the right of Islam”: something like murder or unjust rebellion removes that sanctity",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "text",
+    "sanctity"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-308",
+   "front": "How does the ḥadīth “I have been commanded to fight the people” end, and what does it teach about the heart?",
+   "back": "“And their reckoning is with Allah.” What is inside a person's heart is between them and Allah; we can only judge what is outward.",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "text",
+    "heart"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-309",
+   "front": "According to the notes on the ḥadīth “I have been commanded to fight the people”, what does testifying alone give a person, and what must go with it?",
+   "back": "The rights and responsibilities of a Muslim — but faith must be coupled with action",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "iman"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-310",
+   "front": "How does the Qurʾān mention īmān, as the notes on Arbaʿīn 8 point out?",
+   "back": "Again and again together with action, as in <bdi>الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ</bdi>, “those who believe and do righteous deeds”",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "iman",
+    "quran"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-311",
+   "front": "In the ḥadīth “I have been commanded to fight the people”, who are “the people”, according to the vast majority of ḥadīth scholars?",
+   "back": "The polytheists of that time: the sworn, open enemies and persecutors of the Prophet ﷺ and the Muslims",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "interpretation"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-312",
+   "front": "Why is the ḥadīth “I have been commanded to fight the people” not a licence to force people into Islam?",
+   "back": "We never judge by one ḥadīth: we read it with the whole ḥadīth corpus and the Qurʾān, and forcing people into Islam contradicts the Qurʾān — <bdi>لَا إِكْرَاهَ فِي الدِّينِ</bdi>, “there is no compulsion in religion” (2:256)",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "interpretation",
+    "method"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-313",
+   "front": "How has the dīn been passed on, according to the notes on Arbaʿīn 8, and what are books for?",
+   "back": "By teachers teaching the books, never by books alone. Books are tools of preservation.",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "method"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-314",
+   "front": "Whose life and property are sacred, according to the notes on Arbaʿīn 8?",
+   "back": "Everyone's: none may be taken unjustly — though the Muslim's sanctity is of a higher degree",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "sanctity"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-315",
+   "front": "What do the notes on Arbaʿīn 8 say of the claim that Islam spread “by the sword”?",
+   "back": "It's debunked. The tradition always knew it was false, and modern researchers now agree: forced conversions, where they happened, were rare and directly against Islamic teachings.",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "interpretation",
+    "history"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-316",
+   "term": "<bdi>مَقَاصِد الشَّرِيعَة</bdi> (maqāṣid al-sharīʿah)",
+   "meaning": "the objectives of Islamic law",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "maqasid",
+    "terminology"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-317",
+   "front": "What are the <bdi>مَقَاصِد الشَّرِيعَة</bdi> for, as a whole?",
+   "back": "To establish peace, prosperity and security in a healthy society based on morality",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "maqasid"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-318",
+   "text": "The five <bdi>مَقَاصِد الشَّرِيعَة</bdi>, the protection of: {{c1::<bdi>الدِّين</bdi> (faith)}}, {{c2::<bdi>النَّفْس</bdi> (life)}}, {{c3::<bdi>النَّسْل</bdi> (lineage)}}, {{c4::<bdi>العَقْل</bdi> (intellect)}} and {{c5::<bdi>المَال</bdi> (property)}}",
+   "extra": "Each is “the protection of” — <bdi>حِفْظ</bdi> — the thing named.",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "maqasid",
+    "spine"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  }
+ ],
+ "vocab": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-464",
+   "term": "أَمَرَ",
+   "meaning": "to command, to order (someone to do — <bdi>بِ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-465",
+   "text": "<div class=\"arabic\">أَمَرَ — {{c1::يَأْمُرُ}} — {{c2::مُرْ}} — {{c3::أَمْر}}</div>",
+   "extra": "to command, to order · Form I · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · the amr drops its hamzah · <bdi>أُمِرْتُ</bdi>, “I have been commanded”, opens the ḥadīth",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-466",
+   "term": "قَاتَلَ",
+   "meaning": "to fight (someone)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-467",
+   "text": "<div class=\"arabic\">قَاتَلَ — {{c1::يُقَاتِلُ}} — {{c2::قَاتِلْ}} — {{c3::مُقَاتَلَة، قِتَال}}</div>",
+   "extra": "to fight · Form III · both maṣdars of mufāʿalah · <bdi>أُقَاتِلَ النَّاسَ</bdi> in the ḥadīth",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-468",
+   "term": "شَهِدَ",
+   "meaning": "to testify, to bear witness (that — <bdi>أَنَّ</bdi>); also, to be present at",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-469",
+   "text": "<div class=\"arabic\">شَهِدَ — {{c1::يَشْهَدُ}} — {{c2::اِشْهَدْ}} — {{c3::شَهَادَة}}</div>",
+   "extra": "to testify, to bear witness · Form I · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · <bdi>شُهُود</bdi> is the maṣdar for being present · <bdi>حَتَّى يَشْهَدُوا</bdi>, “until they testify”",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-470",
+   "term": "عَصَمَ",
+   "meaning": "to protect, to safeguard (from — <bdi>مِنْ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-471",
+   "text": "<div class=\"arabic\">عَصَمَ — {{c1::يَعْصِمُ}} — {{c2::اِعْصِمْ}} — {{c3::عِصْمَة}}</div>",
+   "extra": "to protect, to safeguard · Form I · bāb <bdi>ضَرَبَ يَضْرِبُ</bdi> · <bdi>عَصَمُوا مِنِّي دِمَاءَهُمْ</bdi>, “they have protected their blood from me” · <bdi>عِصْمَة</bdi> is also infallibility",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  }
+ ]
+}
