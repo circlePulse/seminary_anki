@@ -1,6 +1,6 @@
 # Draft — vocabulary, 2026-10-28 (29 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-28 and delivered.**
 
 Source: the list pasted into the chat on 2026-10-28. Session tag `oct28`.
 

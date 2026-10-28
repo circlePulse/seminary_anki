@@ -6688,7 +6688,432 @@
    ],
    "session": "oct27",
    "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-472",
+   "term": "قَارَبَ",
+   "meaning": "to come close (to); to keep to moderation, neither overdoing it nor falling short",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-473",
+   "text": "<div class=\"arabic\">قَارَبَ — {{c1::يُقَارِبُ}} — {{c2::قَارِبْ}} — {{c3::مُقَارَبَة}}</div>",
+   "extra": "to come close · Form III · <bdi>قَارِبُوا وَسَدِّدُوا</bdi> (ḥadīth 86) · al-Nawawī: <bdi>المُقَارَبَة</bdi> is the middle course, with no <bdi>غُلُوّ</bdi> and no <bdi>تَقْصِير</bdi>",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-474",
+   "term": "سَدَّدَ",
+   "meaning": "to aim for what is right, to hit the mark; also, to guide aright",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-475",
+   "term": "قَصْد",
+   "meaning": "moderation, the middle course; also, intention, aim",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-476",
+   "text": "<div class=\"arabic\">قَصَدَ — {{c1::يَقْصِدُ}} — {{c2::اِقْصِدْ}} — {{c3::قَصْد}}</div>",
+   "extra": "to intend, to aim for · Form I · bāb <bdi>ضَرَبَ يَضْرِبُ</bdi> · <bdi>وَالقَصْدَ القَصْدَ تَبْلُغُوا</bdi>, keep to the middle course and you will arrive (Bukhārī)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-477",
+   "term": "غُلُوّ",
+   "meaning": "excess, going beyond bounds — above all in religion",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-478",
+   "text": "<div class=\"arabic\">غَلَا — {{c1::يَغْلُو}} — {{c2::اُغْلُ}} — {{c3::غُلُوّ}}</div>",
+   "extra": "to go to excess · Form I (defective) · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · <bdi>لَا تَغْلُوا فِي دِينِكُمْ</bdi> (4:171)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-479",
+   "term": "تَقْصِير",
+   "meaning": "falling short, negligence",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-480",
+   "text": "<div class=\"arabic\">قَصَّرَ — {{c1::يُقَصِّرُ}} — {{c2::قَصِّرْ}} — {{c3::تَقْصِير}}</div>",
+   "extra": "to fall short (in — <bdi>فِي</bdi>) · Form II · it also means to cut the hair short, in ḥajj and ʿumrah",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-481",
+   "term": "لُزُوم",
+   "meaning": "holding fast to, keeping to (something); also, necessity",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-482",
+   "text": "<div class=\"arabic\">لَزِمَ — {{c1::يَلْزَمُ}} — {{c2::اِلْزَمْ}} — {{c3::لُزُوم}}</div>",
+   "extra": "to keep to, to cling to · Form I · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · al-Nawawī defines istiqāmah as <bdi>لُزُومُ طَاعَةِ اللهِ</bdi>, holding to obedience to Allah",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-483",
+   "term": "نِظَام",
+   "meaning": "order, system — what holds things together; first, the thread pearls are strung on",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-484",
+   "text": "<div class=\"arabic\">{{c2::نِظَام}} (مُفْرَد) — {{c1::نُظُم}} (جَمْع)</div>",
+   "extra": "order, system · al-Nawawī calls istiqāmah <bdi>نِظَامُ الأُمُورِ</bdi>",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-485",
+   "term": "تَغَشَّى",
+   "meaning": "to cover, to envelop, to come over (someone)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-486",
+   "text": "<div class=\"arabic\">تَغَشَّى — {{c1::يَتَغَشَّى}} — {{c2::تَغَشَّ}} — {{c3::تَغَشٍّ}}</div>",
+   "extra": "to cover, to envelop, to come over · Form V (defective) · your <bdi>تغشاني</bdi> read as <bdi>تَغَشَّانِي</bdi>, it came over me",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-487",
+   "term": "عَارَضَ",
+   "meaning": "to oppose, to contradict, to object to",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-488",
+   "text": "<div class=\"arabic\">عَارَضَ — {{c1::يُعَارِضُ}} — {{c2::عَارِضْ}} — {{c3::مُعَارَضَة}}</div>",
+   "extra": "to oppose, to contradict, to object to · Form III",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-489",
+   "term": "ضَاعَ",
+   "meaning": "to be lost, to go to waste",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-490",
+   "text": "<div class=\"arabic\">ضَاعَ — {{c1::يَضِيعُ}} — {{c2::ضِعْ}} — {{c3::ضَيَاع}}</div>",
+   "extra": "to be lost, to go to waste · Form I (hollow) · bāb <bdi>ضَرَبَ يَضْرِبُ</bdi> · <bdi>ضَاعَ سَعْيُهُ</bdi>, his effort was wasted",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-491",
+   "term": "جِدّ",
+   "meaning": "earnestness, seriousness — the opposite of <bdi>هَزْل</bdi>, jest",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-492",
+   "term": "خَابَ",
+   "meaning": "to fail, to be disappointed, to come away empty-handed",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-493",
+   "text": "<div class=\"arabic\">خَابَ — {{c1::يَخِيبُ}} — {{c2::خِبْ}} — {{c3::خَيْبَة}}</div>",
+   "extra": "to fail, to be disappointed, to come away empty-handed · Form I (hollow) · bāb <bdi>ضَرَبَ يَضْرِبُ</bdi> · <bdi>قَدْ خَابَ مَنْ دَسَّاهَا</bdi> (91:10)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-494",
+   "term": "نَقَلَ",
+   "meaning": "to transmit, to report; to move, to transfer",
+   "tags": [
+    "vocab",
+    "verbs",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-495",
+   "text": "<div class=\"arabic\">نَقَلَ — {{c1::يَنْقُلُ}} — {{c2::اُنْقُلْ}} — {{c3::نَقْل}}</div>",
+   "extra": "to transmit, to report · Form I · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · its passive is <bdi>نُقِلَ</bdi> · <bdi>نُقِلَ عَنْ…</bdi>, it is reported from …",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-496",
+   "term": "أَكَابِر",
+   "meaning": "the great ones, the eminent — elders and leading scholars; the plural of <bdi>أَكْبَر</bdi>",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-497",
+   "text": "<div class=\"arabic\">{{c2::أَكْبَر}} (مُفْرَد) — {{c1::أَكَابِر}} (جَمْع)</div>",
+   "extra": "the great ones, the eminent",
+   "tags": [
+    "vocab",
+    "isms",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-498",
+   "term": "مَأْلُوف",
+   "meaning": "familiar, customary; as a noun, what one is used to — the ism mafʿūl of <bdi>أَلِفَ</bdi>, to grow used to · plural <bdi>مَأْلُوفَات</bdi>, habits",
+   "tags": [
+    "vocab",
+    "isms",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-499",
+   "term": "مُفَارَقَة",
+   "meaning": "parting from, leaving",
+   "tags": [
+    "vocab",
+    "isms",
+    "masdar",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-500",
+   "text": "<div class=\"arabic\">فَارَقَ — {{c1::يُفَارِقُ}} — {{c2::فَارِقْ}} — {{c3::مُفَارَقَة، فِرَاق}}</div>",
+   "extra": "to part from, to leave · Form III · both maṣdars of mufāʿalah · <bdi>هَذَا فِرَاقُ بَيْنِي وَبَيْنِكَ</bdi> (18:78)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "riyad-istiqamah"
+   ],
+   "session": "oct28",
+   "source": "Vocabulary list supplied 2026-10-28"
   }
  ],
- "expected_count": 471
+ "expected_count": 500
 }

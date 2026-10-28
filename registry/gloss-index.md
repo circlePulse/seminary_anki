@@ -149,10 +149,14 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | docile | مُنْقَاد | docile — readily led, offering no resistance | VOCAB | voc-367 |
 | doubt | اِرْتِيَاب | doubt, suspicion | VOCAB | voc-276 |
 | each form of the verb taken with a particular pronoun | صِيغَة (ṣīghah) | each form of the verb taken with a particular pronoun | ARB-201 | sarf-023 |
+| earnestness | جِدّ | earnestness, seriousness — the opposite of هَزْل, jest | VOCAB | voc-491 |
 | equipment | عُدَّة | equipment, gear — what one prepares, as for war | VOCAB | voc-245 |
 | evenness | اِسْتِوَاء | evenness — two things being equal, level with each other | VOCAB | voc-258 |
+| excess | غُلُوّ | excess, going beyond bounds — above all in religion | VOCAB | voc-477 |
 | exclamation | النِّدَاء (al-nidāʾ) | exclamation — calling out to someone | ARB-201 | nahw-097 |
 | fairness | إِنْصَاف | fairness, equity — giving someone their due | VOCAB | voc-280 |
+| falling short | تَقْصِير | falling short, negligence | VOCAB | voc-479 |
+| familiar | مَأْلُوف | familiar, customary; as a noun, what one is used to — the ism mafʿūl o | VOCAB | voc-498 |
 | families two and above | ثُلَاثِي مَزِيد فِيه (thulāthī mazīd fīh) | families two and above — the هُوَ form does carry extra letters | ARB-201 | sarf-106 |
 | family one | ثُلَاثِي مُجَرَّد (thulāthī mujarrad) | family one — the هُوَ form carries no extra letter; مُجَرَّد means “st | ARB-201 | sarf-105 |
 | far be it! how impossible! | هَيْهَاتَ | far be it! how impossible! — invariable interjection | VOCAB | voc-133 |
@@ -174,6 +178,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | having three root letters | ثُلَاثِيّ (thulāthī) | having three root letters — the vast majority of verbs | ARB-201 | sarf-220 |
 | help | مَعُونَة | help, aid, assistance | VOCAB | voc-454 |
 | hidden iʿrāb | إِعْرَاب مُقَدَّر (iʿrāb muqaddar) | hidden iʿrāb — a مُعْرَب word whose ending can't show its state | ARB-201 | nahw-219 |
+| holding fast to | لُزُوم | holding fast to, keeping to (something); also, necessity | VOCAB | voc-481 |
 | honour | شَرَف | honour, nobility, high standing | VOCAB | voc-100 |
 | hope | التَّرَجِّي (al-tarajjī) | hope — wanting what you think is possible | ARB-201 | nahw-096 |
 | humble supplication | ضَرَاعَة | humble supplication — abasing oneself before Allah | VOCAB | voc-233 |
@@ -207,6 +212,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | might | حَوْل | might, power to act — also, a full year (as in zakāh) | VOCAB | voc-238 |
 | minor ritual impurity | الحَدَث الأَصْغَر | minor ritual impurity | HDT-201 | tah-008 |
 | mixed water | المَاءُ المَخْلُوطُ بِشَيْءٍ | mixed water — water with another substance in it | HDT-201 | qud-221 |
+| moderation | قَصْد | moderation, the middle course; also, intention, aim | VOCAB | voc-475 |
 | nearer or nearest | أَدْنَى | nearer or nearest; lower or lowest — the least | VOCAB | voc-231 |
 | neediness | اِفْتِقَار | neediness — utter dependence (on — إِلَى) | VOCAB | voc-234 |
 | negligence | تَفْرِيط | negligence, falling short (in — فِي) | VOCAB | voc-371 |
@@ -217,6 +223,8 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | one born blind | أَكْمَه | one born blind | VOCAB | voc-116 |
 | one who performs ijtihād | مُجْتَهِد قَطْعِي (mujtahid qaṭʿī) | one who performs ijtihād — the master-jurist a madhhab is named for | HDT-201 | qud-041 |
 | one who was a human being and | Bodhisattva | one who was a human being and, instead of achieving nirvana, helps oth | RELSTD-5B | wrel-291 |
+| order | نِظَام | order, system — what holds things together; first, the thread pearls a | VOCAB | voc-483 |
+| parting from | مُفَارَقَة | parting from, leaving | VOCAB | voc-499 |
 | perfection | كَمَال | perfection, completeness | VOCAB | voc-379 |
 | performance | أَدَاء | performance, discharge — of a duty, a trust or a debt; in fiqh, worshi | VOCAB | voc-314 |
 | perishing | فَنَاء | perishing, passing away | VOCAB | voc-437 |
@@ -272,6 +280,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | the finest of the acts of obedience | غُرَّة الطَّاعَات (ghurrat al-ṭāʿāt) | the finest of the acts of obedience — a name for the ṣalāh | HDT-201 | arbh-078 |
 | the first word of an إِضَافَة | مُضَاف (muḍāf) | the first word of an إِضَافَة — the thing attributed | ARB-201 | nahw-134 |
 | the future tense | المُسْتَقْبَل (al-mustaqbal) | the future tense | ARB-201 | sarf-072 |
+| the great ones | أَكَابِر | the great ones, the eminent — elders and leading scholars; the plural  | VOCAB | voc-496 |
 | the great pillar of the religion | عِمَاد الدِّين (ʿimād al-dīn) | the great pillar of the religion — a name for the ṣalāh | HDT-201 | arbh-077 |
 | the greatest imām | الإِمَام الأَعْظَم (al-imām al-aʿẓam) | the greatest Imām — Abū Ḥanīfah's honorific title | HDT-201 | qud-053 |
 | the historical report | حَدِيث (ḥadīth) | the historical report — the container that preserves the Sunnah | HDT-201 | arb-004 |
@@ -324,6 +333,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | third person | غَائِب (ghāʾib) | third person | ARB-201 | sarf-004 |
 | to abide forever | خَلَدَ | to abide forever | VOCAB | voc-158 |
 | to admit of | اِحْتَمَلَ | to admit of, to allow for (a meaning) — also to put up with (harm) | VOCAB | voc-216 |
+| to aim for what is right | سَدَّدَ | to aim for what is right, to hit the mark; also, to guide aright | VOCAB | voc-474 |
 | to appear | طَلَعَ | to appear | VOCAB | voc-032 |
 | to appoint as successor | اِسْتَخْلَفَ | to appoint as successor — to put (people) in others' place | VOCAB | voc-432 |
 | to be able (to) | اِسْتَطَاعَ | to be able (to), to manage | VOCAB | voc-407 |
@@ -335,6 +345,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to be connected (with) | تَعَلَّقَ | to be connected (with), to relate (to — بِ) — also, to cling to | VOCAB | voc-385 |
 | to be earnest | جَدَّ | to be earnest, to strive hard (in — فِي) | VOCAB | voc-391 |
 | to be fed up | تَبَرَّمَ | to be fed up, to be irritated (with — بِـ) | VOCAB | voc-225 |
+| to be lost | ضَاعَ | to be lost, to go to waste | VOCAB | voc-489 |
 | to be many | كَثُرَ | to be many | VOCAB | voc-005 |
 | to be of many types | تَنَوَّعَ | to be of many types | VOCAB | voc-001 |
 | to be pleased (with) | رَضِيَ | to be pleased (with) | VOCAB | voc-030 |
@@ -346,6 +357,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to choose | اِخْتَارَ | to choose, to select | VOCAB | voc-197 |
 | to clarify | تَبْيِين (tabyīn) | to clarify — one of the primary jobs of the Prophet ﷺ | HDT-201 | arb-014 |
 | to come | أَتَى | to come | VOCAB | voc-072 |
+| to come close (to) | قَارَبَ | to come close (to); to keep to moderation, neither overdoing it nor fa | VOCAB | voc-472 |
 | to come earlier | تَقَدَّمَ | to come earlier, to precede | VOCAB | voc-011 |
 | to come later | تَأَخَّرَ | to come later, to be delayed | VOCAB | voc-013 |
 | to come to an end | اِنْقَضَى | to come to an end, to elapse | VOCAB | voc-195 |
@@ -356,6 +368,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to connect | أَسْنَدَ | to connect | VOCAB | voc-034 |
 | to convey | أَدَّى | to convey, to deliver | VOCAB | voc-025 |
 | to count | أَحْصَى | to count, to enumerate | VOCAB | voc-009 |
+| to cover | تَغَشَّى | to cover, to envelop, to come over (someone) | VOCAB | voc-485 |
 | to create | خَلَقَ | to create | VOCAB | voc-160 |
 | to cure | أَبْرَأَ | to cure, to heal | VOCAB | voc-086 |
 | to deal with | عَامَلَ | to deal with, to treat (someone) | VOCAB | voc-290 |
@@ -367,6 +380,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to envy | حَسَدَ | to envy | VOCAB | voc-150 |
 | to establish | أَقَامَ | to establish, to set up; to perform (the prayer) | VOCAB | voc-140 |
 | to fabricate | اِفْتَرَى | to fabricate, to slander | VOCAB | voc-098 |
+| to fail | خَابَ | to fail, to be disappointed, to come away empty-handed | VOCAB | voc-492 |
 | to fall | وَقَعَ | to fall; to occur | VOCAB | voc-070 |
 | to fight (someone) | قَاتَلَ | to fight (someone) | VOCAB | voc-466 |
 | to follow | اِقْتَدَى | to follow, to take as a model | VOCAB | voc-017 |
@@ -400,6 +414,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to make someone radiant | نَضَّرَ | to make someone radiant | VOCAB | voc-021 |
 | to mention | ذَكَرَ | to mention, to remember | VOCAB | voc-164 |
 | to move about | تَنَقَّلَ | to move about, to go from place to place | VOCAB | voc-398 |
+| to oppose | عَارَضَ | to oppose, to contradict, to object to | VOCAB | voc-487 |
 | to pass | مَضَى | to pass, to go on | VOCAB | voc-084 |
 | to perceive | شَعَرَ | to perceive, to be aware | VOCAB | voc-170 |
 | to perform the pilgrimage | حَجَّ | to perform the pilgrimage | VOCAB | voc-142 |
@@ -438,6 +453,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to testify | شَهِدَ | to testify, to bear witness (that — أَنَّ); also, to be present at | VOCAB | voc-468 |
 | to thank | شَكَرَ | to thank | VOCAB | voc-172 |
 | to transgress | فَسَقَ | to transgress, to act immorally | VOCAB | voc-180 |
+| to transmit | نَقَلَ | to transmit, to report; to move, to transfer | VOCAB | voc-494 |
 | to travel a path | سَلَكَ | to travel a path, to follow a road | VOCAB | voc-082 |
 | to treat medically | دَاوَى | to treat medically | VOCAB | voc-088 |
 | to will | شَاءَ | to will, to want | VOCAB | voc-003 |
