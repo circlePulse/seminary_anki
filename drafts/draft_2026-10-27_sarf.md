@@ -1,6 +1,6 @@
 # Draft — Ṣarf: the rest of the mazīd abwāb and the rubāʿī (76 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-28 and delivered.**
 
 Source: the new toggles at the end of *thulathiy mazeed feeh* and *rubaa'iy* on the IOK Arabic page, fetched
 2026-10-27 (edited 23:48 UTC). Session tag `oct27`.

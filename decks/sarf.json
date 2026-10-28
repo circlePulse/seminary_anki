@@ -3,7 +3,7 @@
  "topic": "sarf",
  "session": "sep08",
  "source": "IOK Arabic — Ṣarf section, class notes to 2026-09-08",
- "expected_count": 247,
+ "expected_count": 323,
  "cards": [
   {
    "type": "basic",
@@ -3159,6 +3159,1138 @@
    ],
    "session": "oct08",
    "source": "IOK Arabic — Ṣarf: the derived nouns' patterns, nūn al-tawkīd — class notes 2026-10-08"
+  },
+  {
+   "type": "basic",
+   "front": "What is the difference between a <bdi>وَزْن</bdi> and a <bdi>صِيغَة</bdi>?",
+   "back": "The <bdi>وَزْن</bdi> is the pattern, on <bdi>ف ع ل</bdi>; the <bdi>صِيغَة</bdi> is the actual entry in the table",
+   "tags": [
+    "sarf",
+    "wazn",
+    "contrast"
+   ],
+   "tier": 1,
+   "id": "sarf-248",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "front": "In <bdi>بَاب التَّفَعُّل</bdi> and <bdi>بَاب التَّفَاعُل</bdi>, which <bdi>مُضَارِع</bdi> forms can drop a <bdi>تَاء</bdi>?",
+   "back": "Those that begin with <bdi>تَـ</bdi>: the two <bdi>تَاء</bdi>s can become one, so <bdi>تَتَقَبَّلُ</bdi> becomes <bdi>تَقَبَّلُ</bdi>, as in <bdi>تَنَزَّلُ المَلَائِكَةُ</bdi> (97:4). The <bdi>يَـ</bdi> forms, like <bdi>يَتَقَبَّلُ</bdi>, keep both letters.",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaul"
+   ],
+   "tier": 1,
+   "id": "sarf-249",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "front": "In <bdi>بَاب التَّفَعُّل</bdi> and <bdi>بَاب التَّفَاعُل</bdi>, what happens to the <bdi>تَاء</bdi> when the <bdi>فَاء</bdi> of the verb is a letter like <bdi>ز</bdi> or <bdi>د</bdi>?",
+   "back": "It merges into the <bdi>فَاء</bdi>, which is doubled. The word now starts with a sākin letter, so a <bdi>هَمْزَة الوَصْل</bdi> is added: <bdi>تَزَمَّلَ</bdi> becomes <bdi>اِزَّمَّلَ</bdi>. So <bdi>المُزَّمِّل</bdi> is <bdi>المُتَزَمِّل</bdi>, and <bdi>المُدَّثِّر</bdi> is <bdi>المُتَدَثِّر</bdi>.",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaul"
+   ],
+   "tier": 1,
+   "id": "sarf-250",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "front": "Why does <bdi>بَاب الاِنْفِعَال</bdi> have no <bdi>مَجْهُول</bdi>?",
+   "back": "It's intransitive: it means undergoing an action, as in <bdi>اِنْكَسَرَ</bdi>, “it broke”. There's no object to become the subject.",
+   "tags": [
+    "sarf",
+    "mazid",
+    "infiaal"
+   ],
+   "tier": 1,
+   "id": "sarf-251",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "front": "What are the two kinds of <bdi>رُبَاعِيّ</bdi> verb?",
+   "back": "One repeats a pair of letters, like <bdi>زَلْزَلَ</bdi> and <bdi>دَمْدَمَ</bdi>; the other has four different letters, like <bdi>بَعْثَرَ</bdi>",
+   "tags": [
+    "sarf",
+    "rubai"
+   ],
+   "tier": 1,
+   "id": "sarf-252",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "front": "Which <bdi>بَاب</bdi> is the <bdi>رُبَاعِيّ مُجَرَّد</bdi>, and which <bdi>بَاب</bdi> of the <bdi>رُبَاعِيّ مَزِيد فِيه</bdi> comes up in class?",
+   "back": "<bdi>بَاب الفَعْلَلَة</bdi> (<bdi>فَعْلَلَ</bdi>), and <bdi>بَاب التَّفَعْلُل</bdi> (<bdi>تَفَعْلَلَ</bdi>)",
+   "tags": [
+    "sarf",
+    "rubai"
+   ],
+   "tier": 1,
+   "id": "sarf-253",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الإِفْعَال — المَاضِي</div>",
+   "meaning": "<div class=\"arabic\">أَفْعَلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "ifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-254",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الإِفْعَال — المُضَارِع</div>",
+   "meaning": "<div class=\"arabic\">يُفْعِلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "ifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-255",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الإِفْعَال — اِسْم الفَاعِل</div>",
+   "meaning": "<div class=\"arabic\">مُفْعِلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "ifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-256",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الإِفْعَال — المَاضِي المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">أُفْعِلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "ifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-257",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الإِفْعَال — المُضَارِع المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">يُفْعَلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "ifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-258",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الإِفْعَال — اِسْم المَفْعُول وَالظَّرْف</div>",
+   "meaning": "<div class=\"arabic\">مُفْعَلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "ifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-259",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الإِفْعَال — الأَمْر</div>",
+   "meaning": "<div class=\"arabic\">أَفْعِلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "ifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-260",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الإِفْعَال — النَّهْي</div>",
+   "meaning": "<div class=\"arabic\">لَا تُفْعِلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "ifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-261",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><td class=\"arabic\">أَكْرَمَ</td><td class=\"arabic\">{{c1::يُكْرِمُ}}</td><td class=\"arabic\">{{c2::إِكْرَامًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c3::مُكْرِمٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">وَ</span>{{c4::أُكْرِمَ}}</td><td class=\"arabic\">{{c5::يُكْرَمُ}}</td><td class=\"arabic\">{{c2::إِكْرَامًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c6::مُكْرَمٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">الأَمْرُ مِنْهُ</span> {{c7::أَكْرِمْ}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">وَالنَّهْيُ عَنْهُ</span> {{c8::لَا تُكْرِمْ}}</td><td class=\"arabic\" colspan=2><span style=\"color: var(--muted)\">وَالظَّرْفُ مِنْهُ</span> {{c6::مُكْرَمٌ}}</td></tr></table>",
+   "extra": "<bdi>بَاب الإِفْعَال</bdi>: Form IV",
+   "tags": [
+    "sarf",
+    "sarf-saghir",
+    "ifaal",
+    "table"
+   ],
+   "tier": 1,
+   "id": "sarf-262",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعُّل — المَاضِي</div>",
+   "meaning": "<div class=\"arabic\">تَفَعَّلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-263",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعُّل — المُضَارِع</div>",
+   "meaning": "<div class=\"arabic\">يَتَفَعَّلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-264",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعُّل — اِسْم الفَاعِل</div>",
+   "meaning": "<div class=\"arabic\">مُتَفَعِّلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-265",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعُّل — المَاضِي المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">تُفُعِّلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-266",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعُّل — المُضَارِع المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">يُتَفَعَّلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-267",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعُّل — اِسْم المَفْعُول وَالظَّرْف</div>",
+   "meaning": "<div class=\"arabic\">مُتَفَعَّلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-268",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعُّل — الأَمْر</div>",
+   "meaning": "<div class=\"arabic\">تَفَعَّلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-269",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعُّل — النَّهْي</div>",
+   "meaning": "<div class=\"arabic\">لَا تَتَفَعَّلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-270",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><td class=\"arabic\">تَقَبَّلَ</td><td class=\"arabic\">{{c1::يَتَقَبَّلُ}}</td><td class=\"arabic\">{{c2::تَقَبُّلًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c3::مُتَقَبِّلٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">وَ</span>{{c4::تُقُبِّلَ}}</td><td class=\"arabic\">{{c5::يُتَقَبَّلُ}}</td><td class=\"arabic\">{{c2::تَقَبُّلًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c6::مُتَقَبَّلٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">الأَمْرُ مِنْهُ</span> {{c7::تَقَبَّلْ}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">وَالنَّهْيُ عَنْهُ</span> {{c8::لَا تَتَقَبَّلْ}}</td><td class=\"arabic\" colspan=2><span style=\"color: var(--muted)\">وَالظَّرْفُ مِنْهُ</span> {{c6::مُتَقَبَّلٌ}}</td></tr></table>",
+   "extra": "<bdi>بَاب التَّفَعُّل</bdi>: Form V",
+   "tags": [
+    "sarf",
+    "sarf-saghir",
+    "tafaul",
+    "table"
+   ],
+   "tier": 1,
+   "id": "sarf-271",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَاعُل — المَاضِي</div>",
+   "meaning": "<div class=\"arabic\">تَفَاعَلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-272",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَاعُل — المُضَارِع</div>",
+   "meaning": "<div class=\"arabic\">يَتَفَاعَلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-273",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَاعُل — اِسْم الفَاعِل</div>",
+   "meaning": "<div class=\"arabic\">مُتَفَاعِلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-274",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَاعُل — المَاضِي المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">تُفُوعِلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-275",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَاعُل — المُضَارِع المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">يُتَفَاعَلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-276",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَاعُل — اِسْم المَفْعُول وَالظَّرْف</div>",
+   "meaning": "<div class=\"arabic\">مُتَفَاعَلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-277",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَاعُل — الأَمْر</div>",
+   "meaning": "<div class=\"arabic\">تَفَاعَلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-278",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَاعُل — النَّهْي</div>",
+   "meaning": "<div class=\"arabic\">لَا تَتَفَاعَلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "tafaaul",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-279",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><td class=\"arabic\">تَقَابَلَ</td><td class=\"arabic\">{{c1::يَتَقَابَلُ}}</td><td class=\"arabic\">{{c2::تَقَابُلًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c3::مُتَقَابِلٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">وَ</span>{{c4::تُقُوبِلَ}}</td><td class=\"arabic\">{{c5::يُتَقَابَلُ}}</td><td class=\"arabic\">{{c2::تَقَابُلًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c6::مُتَقَابَلٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">الأَمْرُ مِنْهُ</span> {{c7::تَقَابَلْ}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">وَالنَّهْيُ عَنْهُ</span> {{c8::لَا تَتَقَابَلْ}}</td><td class=\"arabic\" colspan=2><span style=\"color: var(--muted)\">وَالظَّرْفُ مِنْهُ</span> {{c6::مُتَقَابَلٌ}}</td></tr></table>",
+   "extra": "<bdi>بَاب التَّفَاعُل</bdi>: Form VI",
+   "tags": [
+    "sarf",
+    "sarf-saghir",
+    "tafaaul",
+    "table"
+   ],
+   "tier": 1,
+   "id": "sarf-280",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِنْفِعَال — المَاضِي</div>",
+   "meaning": "<div class=\"arabic\">اِنْفَعَلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "infiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-281",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِنْفِعَال — المُضَارِع</div>",
+   "meaning": "<div class=\"arabic\">يَنْفَعِلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "infiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-282",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِنْفِعَال — اِسْم الفَاعِل</div>",
+   "meaning": "<div class=\"arabic\">مُنْفَعِلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "infiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-283",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِنْفِعَال — الظَّرْف</div>",
+   "meaning": "<div class=\"arabic\">مُنْفَعَلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "infiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-284",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِنْفِعَال — الأَمْر</div>",
+   "meaning": "<div class=\"arabic\">اِنْفَعِلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "infiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-285",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِنْفِعَال — النَّهْي</div>",
+   "meaning": "<div class=\"arabic\">لَا تَنْفَعِلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "infiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-286",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><td class=\"arabic\">اِنْفَطَرَ</td><td class=\"arabic\">{{c1::يَنْفَطِرُ}}</td><td class=\"arabic\">{{c2::اِنْفِطَارًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c3::مُنْفَطِرٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">الأَمْرُ مِنْهُ</span> {{c7::اِنْفَطِرْ}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">وَالنَّهْيُ عَنْهُ</span> {{c8::لَا تَنْفَطِرْ}}</td><td class=\"arabic\" colspan=2><span style=\"color: var(--muted)\">وَالظَّرْفُ مِنْهُ</span> {{c9::مُنْفَطَرٌ}}</td></tr></table>",
+   "extra": "<bdi>بَاب الاِنْفِعَال</bdi>: Form VII",
+   "tags": [
+    "sarf",
+    "sarf-saghir",
+    "infiaal",
+    "table"
+   ],
+   "tier": 1,
+   "id": "sarf-287",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِفْتِعَال — المَاضِي</div>",
+   "meaning": "<div class=\"arabic\">اِفْتَعَلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "iftiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-288",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِفْتِعَال — المُضَارِع</div>",
+   "meaning": "<div class=\"arabic\">يَفْتَعِلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "iftiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-289",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِفْتِعَال — اِسْم الفَاعِل</div>",
+   "meaning": "<div class=\"arabic\">مُفْتَعِلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "iftiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-290",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِفْتِعَال — المَاضِي المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">اُفْتُعِلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "iftiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-291",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِفْتِعَال — المُضَارِع المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">يُفْتَعَلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "iftiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-292",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِفْتِعَال — اِسْم المَفْعُول وَالظَّرْف</div>",
+   "meaning": "<div class=\"arabic\">مُفْتَعَلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "iftiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-293",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِفْتِعَال — الأَمْر</div>",
+   "meaning": "<div class=\"arabic\">اِفْتَعِلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "iftiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-294",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِفْتِعَال — النَّهْي</div>",
+   "meaning": "<div class=\"arabic\">لَا تَفْتَعِلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "iftiaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-295",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><td class=\"arabic\">اِجْتَنَبَ</td><td class=\"arabic\">{{c1::يَجْتَنِبُ}}</td><td class=\"arabic\">{{c2::اِجْتِنَابًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c3::مُجْتَنِبٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">وَ</span>{{c4::اُجْتُنِبَ}}</td><td class=\"arabic\">{{c5::يُجْتَنَبُ}}</td><td class=\"arabic\">{{c2::اِجْتِنَابًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c6::مُجْتَنَبٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">الأَمْرُ مِنْهُ</span> {{c7::اِجْتَنِبْ}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">وَالنَّهْيُ عَنْهُ</span> {{c8::لَا تَجْتَنِبْ}}</td><td class=\"arabic\" colspan=2><span style=\"color: var(--muted)\">وَالظَّرْفُ مِنْهُ</span> {{c6::مُجْتَنَبٌ}}</td></tr></table>",
+   "extra": "<bdi>بَاب الاِفْتِعَال</bdi>: Form VIII",
+   "tags": [
+    "sarf",
+    "sarf-saghir",
+    "iftiaal",
+    "table"
+   ],
+   "tier": 1,
+   "id": "sarf-296",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِسْتِفْعَال — المَاضِي</div>",
+   "meaning": "<div class=\"arabic\">اِسْتَفْعَلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "istifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-297",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِسْتِفْعَال — المُضَارِع</div>",
+   "meaning": "<div class=\"arabic\">يَسْتَفْعِلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "istifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-298",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِسْتِفْعَال — اِسْم الفَاعِل</div>",
+   "meaning": "<div class=\"arabic\">مُسْتَفْعِلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "istifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-299",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِسْتِفْعَال — المَاضِي المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">اُسْتُفْعِلَ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "istifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-300",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِسْتِفْعَال — المُضَارِع المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">يُسْتَفْعَلُ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "istifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-301",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِسْتِفْعَال — اِسْم المَفْعُول وَالظَّرْف</div>",
+   "meaning": "<div class=\"arabic\">مُسْتَفْعَلٌ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "istifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-302",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِسْتِفْعَال — الأَمْر</div>",
+   "meaning": "<div class=\"arabic\">اِسْتَفْعِلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "istifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-303",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الاِسْتِفْعَال — النَّهْي</div>",
+   "meaning": "<div class=\"arabic\">لَا تَسْتَفْعِلْ</div>",
+   "tags": [
+    "sarf",
+    "mazid",
+    "istifaal",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-304",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><td class=\"arabic\">اِسْتَنْصَرَ</td><td class=\"arabic\">{{c1::يَسْتَنْصِرُ}}</td><td class=\"arabic\">{{c2::اِسْتِنْصَارًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c3::مُسْتَنْصِرٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">وَ</span>{{c4::اُسْتُنْصِرَ}}</td><td class=\"arabic\">{{c5::يُسْتَنْصَرُ}}</td><td class=\"arabic\">{{c2::اِسْتِنْصَارًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c6::مُسْتَنْصَرٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">الأَمْرُ مِنْهُ</span> {{c7::اِسْتَنْصِرْ}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">وَالنَّهْيُ عَنْهُ</span> {{c8::لَا تَسْتَنْصِرْ}}</td><td class=\"arabic\" colspan=2><span style=\"color: var(--muted)\">وَالظَّرْفُ مِنْهُ</span> {{c6::مُسْتَنْصَرٌ}}</td></tr></table>",
+   "extra": "<bdi>بَاب الاِسْتِفْعَال</bdi>: Form X",
+   "tags": [
+    "sarf",
+    "sarf-saghir",
+    "istifaal",
+    "table"
+   ],
+   "tier": 1,
+   "id": "sarf-305",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الفَعْلَلَة — المَاضِي</div>",
+   "meaning": "<div class=\"arabic\">فَعْلَلَ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-306",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الفَعْلَلَة — المُضَارِع</div>",
+   "meaning": "<div class=\"arabic\">يُفَعْلِلُ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-307",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الفَعْلَلَة — اِسْم الفَاعِل</div>",
+   "meaning": "<div class=\"arabic\">مُفَعْلِلٌ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-308",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الفَعْلَلَة — المَاضِي المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">فُعْلِلَ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-309",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الفَعْلَلَة — المُضَارِع المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">يُفَعْلَلُ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-310",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الفَعْلَلَة — اِسْم المَفْعُول وَالظَّرْف</div>",
+   "meaning": "<div class=\"arabic\">مُفَعْلَلٌ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-311",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الفَعْلَلَة — الأَمْر</div>",
+   "meaning": "<div class=\"arabic\">فَعْلِلْ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-312",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب الفَعْلَلَة — النَّهْي</div>",
+   "meaning": "<div class=\"arabic\">لَا تُفَعْلِلْ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-313",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><td class=\"arabic\">بَعْثَرَ</td><td class=\"arabic\">{{c1::يُبَعْثِرُ}}</td><td class=\"arabic\">{{c2::بَعْثَرَةً}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c3::مُبَعْثِرٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">وَ</span>{{c4::بُعْثِرَ}}</td><td class=\"arabic\">{{c5::يُبَعْثَرُ}}</td><td class=\"arabic\">{{c2::بَعْثَرَةً}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c6::مُبَعْثَرٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">الأَمْرُ مِنْهُ</span> {{c7::بَعْثِرْ}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">وَالنَّهْيُ عَنْهُ</span> {{c8::لَا تُبَعْثِرْ}}</td><td class=\"arabic\" colspan=2><span style=\"color: var(--muted)\">وَالظَّرْفُ مِنْهُ</span> {{c6::مُبَعْثَرٌ}}</td></tr></table>",
+   "extra": "<bdi>بَاب الفَعْلَلَة</bdi>: the rubāʿī mujarrad",
+   "tags": [
+    "sarf",
+    "sarf-saghir",
+    "rubai",
+    "table"
+   ],
+   "tier": 1,
+   "id": "sarf-314",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعْلُل — المَاضِي</div>",
+   "meaning": "<div class=\"arabic\">تَفَعْلَلَ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-315",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعْلُل — المُضَارِع</div>",
+   "meaning": "<div class=\"arabic\">يَتَفَعْلَلُ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-316",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعْلُل — اِسْم الفَاعِل</div>",
+   "meaning": "<div class=\"arabic\">مُتَفَعْلِلٌ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-317",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعْلُل — المَاضِي المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">تُفُعْلِلَ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-318",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعْلُل — المُضَارِع المَجْهُول</div>",
+   "meaning": "<div class=\"arabic\">يُتَفَعْلَلُ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-319",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعْلُل — اِسْم المَفْعُول وَالظَّرْف</div>",
+   "meaning": "<div class=\"arabic\">مُتَفَعْلَلٌ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-320",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعْلُل — الأَمْر</div>",
+   "meaning": "<div class=\"arabic\">تَفَعْلَلْ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-321",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">بَاب التَّفَعْلُل — النَّهْي</div>",
+   "meaning": "<div class=\"arabic\">لَا تَتَفَعْلَلْ</div>",
+   "tags": [
+    "sarf",
+    "rubai",
+    "rubai",
+    "patterns"
+   ],
+   "tier": 1,
+   "id": "sarf-322",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><td class=\"arabic\">تَسَرْبَلَ</td><td class=\"arabic\">{{c1::يَتَسَرْبَلُ}}</td><td class=\"arabic\">{{c2::تَسَرْبُلًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c3::مُتَسَرْبِلٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">وَ</span>{{c4::تُسُرْبِلَ}}</td><td class=\"arabic\">{{c5::يُتَسَرْبَلُ}}</td><td class=\"arabic\">{{c2::تَسَرْبُلًا}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">فَهُوَ</span> {{c6::مُتَسَرْبَلٌ}}</td></tr><tr><td class=\"arabic\"><span style=\"color: var(--muted)\">الأَمْرُ مِنْهُ</span> {{c7::تَسَرْبَلْ}}</td><td class=\"arabic\"><span style=\"color: var(--muted)\">وَالنَّهْيُ عَنْهُ</span> {{c8::لَا تَتَسَرْبَلْ}}</td><td class=\"arabic\" colspan=2><span style=\"color: var(--muted)\">وَالظَّرْفُ مِنْهُ</span> {{c6::مُتَسَرْبَلٌ}}</td></tr></table>",
+   "extra": "<bdi>بَاب التَّفَعْلُل</bdi>: the rubāʿī mazīd fīh",
+   "tags": [
+    "sarf",
+    "sarf-saghir",
+    "rubai",
+    "table"
+   ],
+   "tier": 1,
+   "id": "sarf-323",
+   "session": "oct27",
+   "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
   }
  ]
 }
