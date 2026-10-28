@@ -1,0 +1,122 @@
+{
+ "arbh": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-319",
+   "front": "In the ḥadīth “I have been commanded to fight the people”, which phrase is the evidence for the Sharīʿah's criminal law?",
+   "back": "“Except by the right of Islam”",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "sharia",
+    "crime"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-320",
+   "front": "Why does a society need criminal law, according to the notes on Arbaʿīn 8?",
+   "back": "It needs a working system of governance to regulate behaviour — and criminal law is one aspect of the Sharīʿah",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "sharia",
+    "crime"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-321",
+   "front": "Besides punishment, what does the Sharīʿah's criminal law focus on?",
+   "back": "Prevention, rehabilitation and forgiveness",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "sharia",
+    "crime"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-322",
+   "front": "What two purposes do the Sharīʿah's punishments serve?",
+   "back": "They deter people from committing crimes, and they expiate the crime for those who committed it",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "sharia",
+    "crime"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-323",
+   "front": "How does the Sharīʿah differ from every other system of law, according to the notes on Arbaʿīn 8?",
+   "back": "It is first and foremost divine, revealed by the Creator of the heavens, the earth and humans; every other system is man-made. And it is suitable for all times and places.",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "sharia"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-324",
+   "front": "What certainty must Muslims have about the Sharīʿah, and what should they want for others?",
+   "back": "Absolute certainty in its justice and morality — and they should want others to have it too, with naṣīḥah: sincerely intending good for them",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "sharia"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-325",
+   "front": "If the Sharīʿah is divine, how can its application be flawed?",
+   "back": "Because the humans applying it are flawed",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "sharia",
+    "contrast"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-326",
+   "text": "How to approach a ḥadīth, in order: {{c1::check its authenticity — <bdi>صَحِيح</bdi> or <bdi>حَسَن</bdi>, <bdi>لِذَاتِهِ</bdi> or <bdi>لِغَيْرِهِ</bdi>}}; {{c2::understand it, with its versions}}; {{c3::gather all the aḥādīth on the topic and the relevant verses of the Qurʾān}}; {{c4::see how the Companions and the salaf understood it}}; {{c5::look at the scholarly consensus}}; and only then reach a conclusion",
+   "extra": "Taken alone, in a vacuum, a ḥadīth like Arbaʿīn 8 leads to a badly flawed conclusion.",
+   "tags": [
+    "arbaeen",
+    "h08",
+    "method",
+    "spine"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  }
+ ]
+}
