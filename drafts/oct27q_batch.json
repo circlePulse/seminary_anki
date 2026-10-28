@@ -1,0 +1,392 @@
+{
+ "quduri": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-306",
+   "term": "<bdi>الحَيْض</bdi> (ḥayḍ)",
+   "meaning": "menstruation: the blood that flows from the womb of a woman who is free of illness and not a minor",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "terminology"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-307",
+   "text": "<bdi>الحَيْض</bdi> lasts at least {{c1::3 days and nights}} and at most {{c2::10 days and nights}}; bleeding outside that range is {{c3::<bdi>الاِسْتِحَاضَة</bdi>}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "numbers"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-308",
+   "front": "Bleeding like ḥayḍ lasts two and a half days and then stops. What happens to the prayers she missed?",
+   "back": "She makes them up: under 3 days it wasn't ḥayḍ, so the prayers were owed",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-309",
+   "front": "What are the limits on <bdi>الطُّهْر</bdi> (ṭuhr), the purity between two cycles?",
+   "back": "At least 15 days, and no maximum",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "numbers"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-310",
+   "front": "How do the Ḥanafīs treat the colour of the blood?",
+   "back": "They don't distinguish between colours. Red, yellow or murky, it's ḥayḍ within the days of ḥayḍ, until she sees pure white.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-311",
+   "front": "What is a gap of purity within the days of ḥayḍ treated as?",
+   "back": "As flowing blood: a brief stop during the cycle is still ḥayḍ",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-312",
+   "text": "The rulings of ḥayḍ: {{c1::prayer drops, with no make-up}}; {{c2::fasting is unlawful but still owed, so it's made up}}; {{c3::no entering the masjid}}; {{c4::no ṭawāf}}; {{c5::no intimacy}}; {{c6::no reciting the Qurʾān}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "rulings",
+    "spine"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-313",
+   "front": "During ḥayḍ she neither prays nor fasts. Why does she make up only the fasts?",
+   "back": "Fasting is only unlawful during ḥayḍ: the obligation remains, so it's made up. The obligation of prayer drops altogether.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "rulings",
+    "contrast"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-314",
+   "front": "Besides a woman in ḥayḍ, who may not enter the masjid?",
+   "back": "A person in major ritual impurity (<bdi>الحَدَث الأَكْبَر</bdi>)",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "rulings"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-315",
+   "front": "What are the two reasons a woman in ḥayḍ may not perform ṭawāf?",
+   "back": "It takes place in the masjid, and it requires ritual purity",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "rulings"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-316",
+   "front": "For a woman in ḥayḍ or a person in major ritual impurity, what counts as reciting the Qurʾān?",
+   "back": "Saying it with the lips and tongue",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "quran"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-317",
+   "front": "In the Ḥanafī school, what may a woman in ḥayḍ still say from the Qurʾān?",
+   "back": "Verses said as duʿāʾ or dhikr rather than as recitation, such as Āyat al-Kursī",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "quran"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-318",
+   "front": "What did al-Ṭaḥāwī allow a woman in ḥayḍ to recite, and what is the relied-upon Ḥanafī view?",
+   "back": "Less than a verse. The relied-upon view forbids even that when it's meant as recitation.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "quran",
+    "ikhtilaf"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-319",
+   "front": "Which exception do the Mālikīs and most modern Ḥanafīs make to the ban on reciting during ḥayḍ?",
+   "back": "A teacher or student of the Qurʾān may recite. The exception doesn't extend to major ritual impurity.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "quran",
+    "ikhtilaf"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-320",
+   "front": "Why can the teacher-or-student exception for reciting during ḥayḍ be read broadly?",
+   "back": "It's not wrong to say every Muslim is a student of the Qurʾān, which essentially opens the door",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "quran"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-321",
+   "front": "How may a person in minor ritual impurity touch the muṣḥaf?",
+   "back": "Only through a detachable cover",
+   "tags": [
+    "quduri",
+    "tahara",
+    "quran"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-322",
+   "front": "When does intimacy become lawful after ḥayḍ stops?",
+   "back": "If it stops before 10 days, once she takes a ghusl or a full prayer time passes over her. If it stops at 10 days, at once.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "hayd",
+    "rulings"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-323",
+   "term": "<bdi>الاِسْتِحَاضَة</bdi> (istiḥāḍah)",
+   "meaning": "irregular bleeding: bleeding like ḥayḍ that lasts under 3 days or over 10, or postnatal bleeding past 40 days",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istihadah",
+    "terminology"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-324",
+   "front": "What does istiḥāḍah take the ruling of, and what doesn't it prevent?",
+   "back": "A constant nosebleed: it doesn't prevent prayer, fasting or intimacy",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istihadah",
+    "rulings"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-325",
+   "front": "Her bleeding goes past 10 days, and her known cycle is 6 days. How is it divided?",
+   "back": "She goes back to her habit: days 1–6 are ḥayḍ and the rest is istiḥāḍah, so she makes up the prayers from day 7",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istihadah"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-326",
+   "front": "A girl starts bleeding at puberty and it never stops. How is it divided?",
+   "back": "Her ḥayḍ is the first 10 days of each month, and the rest is istiḥāḍah. It's a rare illness.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istihadah"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-327",
+   "term": "<bdi>النِّفَاس</bdi> (nifās)",
+   "meaning": "postnatal bleeding: the blood after childbirth",
+   "tags": [
+    "quduri",
+    "tahara",
+    "nifas",
+    "terminology"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-328",
+   "text": "<bdi>النِّفَاس</bdi> has {{c1::no minimum}} and a maximum of {{c2::40 days}}. Bleeding past that is {{c3::<bdi>الاِسْتِحَاضَة</bdi>}}, and so is bleeding {{c4::before the child comes out}}.",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "tahara",
+    "nifas",
+    "numbers"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-329",
+   "front": "With twins, when does nifās begin?",
+   "back": "After the first child, according to al-Shaykhān (Abū Ḥanīfah and Abū Yūsuf); after the second, according to Muḥammad al-Shaybānī",
+   "tags": [
+    "quduri",
+    "tahara",
+    "nifas",
+    "ikhtilaf"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-330",
+   "term": "<bdi>المَعْذُور</bdi> (maʿdhūr)",
+   "meaning": "someone excused: one who can't keep wuḍūʾ long enough to pray, from constant bleeding, incontinence, a constant nosebleed or a wound that won't heal",
+   "tags": [
+    "quduri",
+    "tahara",
+    "madhur",
+    "terminology"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-331",
+   "front": "How does a maʿdhūr make wuḍūʾ, and when does it end?",
+   "back": "One wuḍūʾ for each prayer time, which allows everything that needs minor purity. It ends when that prayer time ends.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "madhur",
+    "wudu"
+   ],
+   "session": "oct27",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  }
+ ]
+}
