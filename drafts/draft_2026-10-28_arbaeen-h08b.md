@@ -1,6 +1,6 @@
 # Draft — the rest of Arbaʿīn Ḥadīth 8 (8 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-28 and delivered.**
 
 Source: the *Hadith #8* toggle, fetched 2026-10-28 (edited 17:55 UTC), from "(to be continued)" to the end. Session
 tag `oct27`, like the rest of Ḥadīth 8.

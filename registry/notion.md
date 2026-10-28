@@ -100,6 +100,8 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-10-28, later: the rest of Arbaʿīn Ḥadīth 8 (arbh-319–326), which the user said is finished.
+
 Carded on 2026-10-28: the vocabulary list supplied that day (voc-472–500), tagged `riyad-istiqamah` by inference
 (the user approved the tag). تغشاني was read as تَغَشَّانِي.
 

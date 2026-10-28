@@ -169,7 +169,7 @@
   "arbaeen_ahadith": {
    "course": "HDT-201",
    "topic": "arbaeen-ahadith",
-   "count": 318,
+   "count": 326,
    "ids": [
     "arbh-001",
     "arbh-002",
@@ -488,7 +488,15 @@
     "arbh-315",
     "arbh-316",
     "arbh-317",
-    "arbh-318"
+    "arbh-318",
+    "arbh-319",
+    "arbh-320",
+    "arbh-321",
+    "arbh-322",
+    "arbh-323",
+    "arbh-324",
+    "arbh-325",
+    "arbh-326"
    ],
    "fp": {
     "arbh-001": "ca1429b96863",
@@ -808,7 +816,15 @@
     "arbh-315": "34407e8de49c",
     "arbh-316": "06e6e1b0da59",
     "arbh-317": "d88db7ed2086",
-    "arbh-318": "7bd3f14ae4c0"
+    "arbh-318": "7bd3f14ae4c0",
+    "arbh-319": "001e547ebead",
+    "arbh-320": "c2b32081b7e5",
+    "arbh-321": "bcb5478f5097",
+    "arbh-322": "bfbb25e70101",
+    "arbh-323": "ce40e3e55c91",
+    "arbh-324": "07bb3654385a",
+    "arbh-325": "f69fc373258a",
+    "arbh-326": "6b9483893b29"
    }
   },
   "nahw": {

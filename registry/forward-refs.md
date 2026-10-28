@@ -9,7 +9,7 @@ edit** instead of creating a parallel one. See `skill/references/working-files.m
 | 2026-09-06 | Second half of Mukhtaṣar al-Qudūrī | `quduri` | year 3 |
 | 2026-09-08 | المُضَارِع conjugation chart | `sarf` | resolved 09-15 |
 | 2026-09-15 | Abwāb of families 2+ — only family one taught | `sarf` — the abwāb spine | II (tafʿīl) and III (mufāʿalah) carded 2026-10-23 (sarf-220–246); IV–VIII, X and the rubāʿī faʿlalah and tafaʿlul on 2026-10-28 (sarf-248–323); IX (ifʿilāl) skipped in class |
-| 2026-09-09 | The 42 narrations | `arbaeen_ahadith` | Ḥadīth 1–8 done (Ḥadīth 8 on 2026-10-28, up to the notes' "to be continued"; Ḥadīth 7 on 2026-10-23; Ḥadīth 6's verbs are in `vocab`, h06) |
+| 2026-09-09 | The 42 narrations | `arbaeen_ahadith` | Ḥadīth 1–8 done (Ḥadīth 8 on 2026-10-28; Ḥadīth 7 on 2026-10-23; Ḥadīth 6's verbs are in `vocab`, h06) |
 | 2026-09-21 | Ḥadīth 2 itself — narrator, text, lessons; only its vocab is in Notion | `arbaeen_ahadith` | resolved 09-30 (matn skipped by choice) |
 | 2026-09-08 | Riyāḍ al-Ṣāliḥīn beyond the four intro facts | `riyad` | chapter of repentance done 09-30; rest open |
 | 2026-09-16 | Ḥanafī legal values — فَرْض, مُؤَكَّدَة, غَيْر مُؤَكَّدَة so far | `quduri` — legal-values | open |
