@@ -1,6 +1,6 @@
 # Draft — Arbaʿīn Ḥadīth 8 (16 notes) and its vocab list (8 notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-10-28 and delivered.**
 
 Source: the *Hadith #8* toggle on the Arbaʿīn/Qudūrī page, fetched 2026-10-28. Session tag `oct27`.
 

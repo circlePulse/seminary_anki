@@ -6564,7 +6564,131 @@
    ],
    "session": "oct27",
    "source": "Vocabulary list supplied 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-464",
+   "term": "أَمَرَ",
+   "meaning": "to command, to order (someone to do — <bdi>بِ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-465",
+   "text": "<div class=\"arabic\">أَمَرَ — {{c1::يَأْمُرُ}} — {{c2::مُرْ}} — {{c3::أَمْر}}</div>",
+   "extra": "to command, to order · Form I · bāb <bdi>نَصَرَ يَنْصُرُ</bdi> · the amr drops its hamzah · <bdi>أُمِرْتُ</bdi>, “I have been commanded”, opens the ḥadīth",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-466",
+   "term": "قَاتَلَ",
+   "meaning": "to fight (someone)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-467",
+   "text": "<div class=\"arabic\">قَاتَلَ — {{c1::يُقَاتِلُ}} — {{c2::قَاتِلْ}} — {{c3::مُقَاتَلَة، قِتَال}}</div>",
+   "extra": "to fight · Form III · both maṣdars of mufāʿalah · <bdi>أُقَاتِلَ النَّاسَ</bdi> in the ḥadīth",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-468",
+   "term": "شَهِدَ",
+   "meaning": "to testify, to bear witness (that — <bdi>أَنَّ</bdi>); also, to be present at",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-469",
+   "text": "<div class=\"arabic\">شَهِدَ — {{c1::يَشْهَدُ}} — {{c2::اِشْهَدْ}} — {{c3::شَهَادَة}}</div>",
+   "extra": "to testify, to bear witness · Form I · bāb <bdi>سَمِعَ يَسْمَعُ</bdi> · <bdi>شُهُود</bdi> is the maṣdar for being present · <bdi>حَتَّى يَشْهَدُوا</bdi>, “until they testify”",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "voc-470",
+   "term": "عَصَمَ",
+   "meaning": "to protect, to safeguard (from — <bdi>مِنْ</bdi>)",
+   "tags": [
+    "vocab",
+    "verbs",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "voc-471",
+   "text": "<div class=\"arabic\">عَصَمَ — {{c1::يَعْصِمُ}} — {{c2::اِعْصِمْ}} — {{c3::عِصْمَة}}</div>",
+   "extra": "to protect, to safeguard · Form I · bāb <bdi>ضَرَبَ يَضْرِبُ</bdi> · <bdi>عَصَمُوا مِنِّي دِمَاءَهُمْ</bdi>, “they have protected their blood from me” · <bdi>عِصْمَة</bdi> is also infallibility",
+   "tags": [
+    "vocab",
+    "verbs",
+    "paradigm",
+    "arbaeen",
+    "h08"
+   ],
+   "session": "oct27",
+   "source": "Arbaʿīn Ḥadīth 8 — vocab list, class notes"
   }
  ],
- "expected_count": 463
+ "expected_count": 471
 }

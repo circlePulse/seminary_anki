@@ -283,6 +283,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | the noun of time or place | اِسْم الظَّرْف (ism al-ẓarf) | the noun of time or place — names when or where an action happens | ARB-201 | sarf-189 |
 | the nullifiers of wuḍūʾ | نَوَاقِض الوُضُوء (nawāqiḍ al-wuḍūʾ) | the nullifiers of wuḍūʾ — what causes minor ritual impurity | HDT-201 | qud-173 |
 | the nūn of emphasis | نُون التَّوْكِيد (nūn al-tawkīd) | the nūn of emphasis — added to a verb to make it emphatic | ARB-201 | sarf-205 |
+| the objectives of islamic law | مَقَاصِد الشَّرِيعَة (maqāṣid al-sharīʿah) | the objectives of Islamic law | HDT-201 | arbh-316 |
 | the one being called | مُنَادَى (munādā) | the one being called | ARB-201 | nahw-119 |
 | the outweighed | المَرْجُوح (al-marjūḥ) | the outweighed — the weaker of two possibilities or views | VOCAB | voc-254 |
 | the particles that resemble a verb | الحُرُوفُ المُشَبَّهَةُ بِالفِعْلِ (al-ḥurūf al-mushabbahah bi-l-fiʿl) | the particles that resemble a verb — إِنَّ and her sisters | ARB-201 | nahw-160 |
@@ -344,6 +345,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to come earlier | تَقَدَّمَ | to come earlier, to precede | VOCAB | voc-011 |
 | to come later | تَأَخَّرَ | to come later, to be delayed | VOCAB | voc-013 |
 | to come to an end | اِنْقَضَى | to come to an end, to elapse | VOCAB | voc-195 |
+| to command | أَمَرَ | to command, to order (someone to do — بِ) | VOCAB | voc-464 |
 | to compel | أَكْرَهَ | to compel, to force | VOCAB | voc-074 |
 | to compete | تَطَاوَلَ | to compete | VOCAB | voc-040 |
 | to concern | عَنَى | to concern, to matter to (someone) — also, to mean | VOCAB | voc-375 |
@@ -362,6 +364,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to establish | أَقَامَ | to establish, to set up; to perform (the prayer) | VOCAB | voc-140 |
 | to fabricate | اِفْتَرَى | to fabricate, to slander | VOCAB | voc-098 |
 | to fall | وَقَعَ | to fall; to occur | VOCAB | voc-070 |
+| to fight (someone) | قَاتَلَ | to fight (someone) | VOCAB | voc-466 |
 | to follow | اِقْتَدَى | to follow, to take as a model | VOCAB | voc-017 |
 | to gain deep understanding (of the religion) | فَقُهَ | to gain deep understanding (of the religion) — to become a faqīh | VOCAB | voc-428 |
 | to gather | حَشَرَ | to gather, to assemble | VOCAB | voc-152 |
@@ -404,6 +407,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to prepare | أَعَدَّ | to prepare | VOCAB | voc-066 |
 | to preserve | وَعَى | to preserve, to memorise | VOCAB | voc-023 |
 | to prostrate | سَجَدَ | to prostrate | VOCAB | voc-168 |
+| to protect | عَصَمَ | to protect, to safeguard (from — مِنْ) | VOCAB | voc-470 |
 | to provide sustenance | رَزَقَ | to provide sustenance | VOCAB | voc-166 |
 | to reach | بَلَغَ | to reach, to attain | VOCAB | voc-146 |
 | to refrain | اِمْتَنَعَ | to refrain, to abstain (from — عَنْ) | VOCAB | voc-201 |
@@ -427,6 +431,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | to stick | لَزِقَ | to stick, to cling (to — بِ) | VOCAB | voc-300 |
 | to stroll | تَنَزَّهَ | to stroll, to go on an outing — classically, to keep clear (of — عَنْ) | VOCAB | voc-400 |
 | to take responsibility (for | تَكَفَّلَ | to take responsibility (for — بِ), to guarantee | VOCAB | voc-462 |
+| to testify | شَهِدَ | to testify, to bear witness (that — أَنَّ); also, to be present at | VOCAB | voc-468 |
 | to thank | شَكَرَ | to thank | VOCAB | voc-172 |
 | to transgress | فَسَقَ | to transgress, to act immorally | VOCAB | voc-180 |
 | to travel a path | سَلَكَ | to travel a path, to follow a road | VOCAB | voc-082 |

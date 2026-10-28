@@ -169,7 +169,7 @@
   "arbaeen_ahadith": {
    "course": "HDT-201",
    "topic": "arbaeen-ahadith",
-   "count": 302,
+   "count": 318,
    "ids": [
     "arbh-001",
     "arbh-002",
@@ -472,7 +472,23 @@
     "arbh-299",
     "arbh-300",
     "arbh-301",
-    "arbh-302"
+    "arbh-302",
+    "arbh-303",
+    "arbh-304",
+    "arbh-305",
+    "arbh-306",
+    "arbh-307",
+    "arbh-308",
+    "arbh-309",
+    "arbh-310",
+    "arbh-311",
+    "arbh-312",
+    "arbh-313",
+    "arbh-314",
+    "arbh-315",
+    "arbh-316",
+    "arbh-317",
+    "arbh-318"
    ],
    "fp": {
     "arbh-001": "ca1429b96863",
@@ -776,7 +792,23 @@
     "arbh-299": "7b39869b8e82",
     "arbh-300": "937ed4126a17",
     "arbh-301": "d7fce204f788",
-    "arbh-302": "0a09a3b4a550"
+    "arbh-302": "0a09a3b4a550",
+    "arbh-303": "0be0ede9b67b",
+    "arbh-304": "dd435d3650c8",
+    "arbh-305": "c36ab4db8491",
+    "arbh-306": "722581c47d29",
+    "arbh-307": "7419b506f456",
+    "arbh-308": "f91a2378265a",
+    "arbh-309": "030a6d76fd71",
+    "arbh-310": "90747a67c9db",
+    "arbh-311": "f17100ee23c4",
+    "arbh-312": "056c41b85b72",
+    "arbh-313": "23b70eebbc55",
+    "arbh-314": "12da0829a644",
+    "arbh-315": "34407e8de49c",
+    "arbh-316": "06e6e1b0da59",
+    "arbh-317": "d88db7ed2086",
+    "arbh-318": "7bd3f14ae4c0"
    }
   },
   "nahw": {
@@ -3053,7 +3085,7 @@
   "vocab": {
    "course": "VOCAB",
    "topic": "verbs-01",
-   "count": 463,
+   "count": 471,
    "ids": [
     "voc-001",
     "voc-002",
@@ -3517,7 +3549,15 @@
     "voc-460",
     "voc-461",
     "voc-462",
-    "voc-463"
+    "voc-463",
+    "voc-464",
+    "voc-465",
+    "voc-466",
+    "voc-467",
+    "voc-468",
+    "voc-469",
+    "voc-470",
+    "voc-471"
    ],
    "fp": {
     "voc-001": "4b725ff038f0",
@@ -3982,7 +4022,15 @@
     "voc-460": "ad4abeb9d0c3",
     "voc-461": "8b27e669c82e",
     "voc-462": "d0e54f435479",
-    "voc-463": "34cc1f494c35"
+    "voc-463": "34cc1f494c35",
+    "voc-464": "3f45d5b15414",
+    "voc-465": "08ce20208b75",
+    "voc-466": "5fbf42748351",
+    "voc-467": "156e65fb308a",
+    "voc-468": "5feea1730fa4",
+    "voc-469": "66a7925596d9",
+    "voc-470": "f02bc9ab9745",
+    "voc-471": "8be6a19a3fd8"
    }
   },
   "wrel": {
