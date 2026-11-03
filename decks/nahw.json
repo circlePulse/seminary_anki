@@ -3,7 +3,7 @@
  "topic": "tasheel",
  "session": "sep03",
  "source": "Tasheel al-Nahw ch.1 §1.1–1.2 — class notes 2026-09-03",
- "expected_count": 238,
+ "expected_count": 283,
  "cards": [
   {
    "type": "bidir",
@@ -3135,6 +3135,646 @@
    ],
    "session": "oct23",
    "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-23"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-239",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><th class=\"arabic\" colspan=4>اِسْمُ الإِشَارَةِ لِلْقَرِيبِ</th></tr><tr><th class=\"arabic\"></th><th class=\"arabic\">مُفْرَد</th><th class=\"arabic\">مُثَنًّى</th><th class=\"arabic\">جَمْع</th></tr><tr><th class=\"arabic\">مُذَكَّر</th><td class=\"arabic\">{{c1::هٰذَا}}</td><td class=\"arabic\">{{c2::هٰذَانِ / هٰذَيْنِ}}</td><td class=\"arabic\" rowspan=2>{{c3::هٰؤُلَاءِ}}</td></tr><tr><th class=\"arabic\">مُؤَنَّث</th><td class=\"arabic\">{{c4::هٰذِهِ}}</td><td class=\"arabic\">{{c5::هَاتَانِ / هَاتَيْنِ}}</td></tr></table>",
+   "extra": "The near demonstratives. The duals change with iʿrāb: <bdi>هٰذَانِ</bdi> and <bdi>هَاتَانِ</bdi> in rafʿ, <bdi>هٰذَيْنِ</bdi> and <bdi>هَاتَيْنِ</bdi> in naṣb and jarr. The plural serves both genders.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara",
+    "table"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-240",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><th class=\"arabic\" colspan=4>اِسْمُ الإِشَارَةِ لِلْبَعِيدِ</th></tr><tr><th class=\"arabic\"></th><th class=\"arabic\">مُفْرَد</th><th class=\"arabic\">مُثَنًّى</th><th class=\"arabic\">جَمْع</th></tr><tr><th class=\"arabic\">مُذَكَّر</th><td class=\"arabic\">{{c1::ذٰلِكَ}}</td><td class=\"arabic\">{{c2::ذَانِكَ / ذَيْنِكَ}}</td><td class=\"arabic\" rowspan=2>{{c3::أُولٰئِكَ}}</td></tr><tr><th class=\"arabic\">مُؤَنَّث</th><td class=\"arabic\">{{c4::تِلْكَ}}</td><td class=\"arabic\">{{c5::تَانِكَ / تَيْنِكَ}}</td></tr></table>",
+   "extra": "The far demonstratives. The duals change with iʿrāb, as with the near ones. The plural serves both genders.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara",
+    "table"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-241",
+   "front": "Which near demonstratives are written with an implied (dagger) alif after the <bdi>هـ</bdi>, and which with a written one?",
+   "back": "An implied alif in <bdi>هٰذَا</bdi>, <bdi>هٰذِهِ</bdi>, <bdi>هٰذَانِ</bdi> and <bdi>هٰؤُلَاءِ</bdi>; a written one only in <bdi>هَاتَانِ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara",
+    "spelling"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-242",
+   "front": "Which far demonstratives are written with an implied (dagger) alif?",
+   "back": "<bdi>ذٰلِكَ</bdi>, after the <bdi>ذ</bdi>, and <bdi>أُولٰئِكَ</bdi>, after the <bdi>ل</bdi> — whose <bdi>و</bdi> is written but silent. <bdi>ذَانِكَ</bdi> and <bdi>تَانِكَ</bdi> write theirs, and <bdi>تِلْكَ</bdi> has none.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara",
+    "spelling"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-243",
+   "front": "What is the core of every <bdi>اِسْم إِشَارَة</bdi>, and what is added to it?",
+   "back": "<bdi>ذَا</bdi>, with prefixes and suffixes added: the <bdi>هَا</bdi> of <bdi>هٰذَا</bdi>, the <bdi>كَ</bdi> of <bdi>ذٰلِكَ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-244",
+   "front": "What is the <bdi>هَا</bdi> at the start of <bdi>هٰذَا</bdi>?",
+   "back": "A <bdi>حَرْف تَنْبِيه</bdi>, a particle that calls attention — so common that it's usually counted as part of the word",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-245",
+   "front": "What is the <bdi>كَ</bdi> of <bdi>ذٰلِكَ</bdi> called, and how can it change?",
+   "back": "<bdi>حَرْف الخِطَاب</bdi>, the particle of address. It can change with the person addressed: <bdi>ذٰلِكُمْ</bdi> for a group, as in <bdi>ذٰلِكُمُ اللهُ رَبُّكُمْ</bdi> (6:102).",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-246",
+   "term": "<bdi>أَسْمَاء الأَفْعَال</bdi> (asmāʾ al-afʿāl)",
+   "meaning": "isms with the meaning of a verb that don't accept a verb's signs",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal",
+    "terminology"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-247",
+   "front": "What does an <bdi>اِسْم فِعْل</bdi> carry that other isms don't, and why is it still called an ism?",
+   "back": "A tense, like a verb. It doesn't take a verb's signs, so the grammarians, puzzled by these words, made them isms with a verb's meaning.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal",
+    "criterion"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-248",
+   "term": "آمِينَ",
+   "meaning": "answer (our prayer)! — like <bdi>اِسْتَجِبْ</bdi>; also said <bdi>أَمِينَ</bdi>, with a short alif",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-249",
+   "term": "شَتَّانَ",
+   "meaning": "how different (they are)! — like <bdi>اِفْتَرَقَ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-250",
+   "term": "سَرْعَانَ",
+   "meaning": "how quickly! — like <bdi>سَرُعَ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-251",
+   "term": "رُوَيْدَ",
+   "meaning": "gently! slowly! — like <bdi>أَمْهِلْ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-252",
+   "term": "بَلْهَ",
+   "meaning": "let alone, leave aside — like <bdi>دَعْ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-253",
+   "term": "دُونَكَ ، هَا",
+   "meaning": "take it! here you are — like <bdi>خُذْ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-254",
+   "term": "عَلَيْكَ",
+   "meaning": "hold to! keep to! — like <bdi>اِلْزَمْ</bdi>: <bdi>عَلَيْكُمْ أَنْفُسَكُمْ</bdi> (5:105)",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-255",
+   "term": "حَيَّهَلْ ، حَيَّ",
+   "meaning": "hasten to! — like <bdi>أَقْبِلْ</bdi>: <bdi>حَيَّ عَلَى الصَّلَاةِ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-256",
+   "term": "هَيْتَ ، هَلُمَّ",
+   "meaning": "come here! — like <bdi>تَعَالَ</bdi>, which most grammarians count as a verb: <bdi>هَيْتَ لَكَ</bdi> (12:23)",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-257",
+   "term": "صَهْ",
+   "meaning": "hush! be quiet! — like <bdi>اُسْكُتْ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-258",
+   "term": "هَاتِ",
+   "meaning": "give! bring! — <bdi>قُلْ هَاتُوا بُرْهَانَكُمْ</bdi> (2:111). Most grammarians count it as a verb, since it takes <bdi>هَاتِي</bdi> and <bdi>هَاتُوا</bdi>.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-259",
+   "term": "فَقَطْ",
+   "meaning": "only — its <bdi>قَطْ</bdi> means “enough”",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-260",
+   "term": "<bdi>أَسْمَاء الأَصْوَات</bdi> (asmāʾ al-aṣwāt)",
+   "meaning": "words that stand for sounds",
+   "tags": [
+    "nahw",
+    "mabni",
+    "aswat",
+    "terminology"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-261",
+   "term": "أُحْ أُحْ",
+   "meaning": "the sound of a cough",
+   "tags": [
+    "nahw",
+    "mabni",
+    "aswat"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-262",
+   "term": "أُفّ",
+   "meaning": "ugh! — a sound of pain or annoyance: <bdi>فَلَا تَقُلْ لَهُمَا أُفٍّ</bdi> (17:23)",
+   "tags": [
+    "nahw",
+    "mabni",
+    "aswat"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-263",
+   "term": "بَخْ",
+   "meaning": "a sound of delight and approval — doubled, <bdi>بَخٍ بَخٍ</bdi>, “excellent!”",
+   "tags": [
+    "nahw",
+    "mabni",
+    "aswat"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-264",
+   "front": "What are the three meanings of <bdi>ظَرْف</bdi>?",
+   "back": "A word with a meaning of time or place; the derived ism whose pattern denotes a time or place (ṣarf's <bdi>اِسْم الظَّرْف</bdi>); and the <bdi>مَفْعُول فِيهِ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf",
+    "definition"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-265",
+   "front": "In the chapter on the mabnī, what are the <bdi>ظُرُوف</bdi>, and what role do they usually play?",
+   "back": "Words with a meaning of time or place. These are mabnī — though not every ẓarf is: <bdi>يَوْم</bdi> is muʿrab. They usually serve as the <bdi>مَفْعُول فِيهِ</bdi>.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-266",
+   "term": "إِذْ",
+   "meaning": "when (in the past) — even before a muḍāriʿ: <bdi>وَإِذْ يَرْفَعُ إِبْرَاهِيمُ القَوَاعِدَ</bdi> (2:127)",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-267",
+   "front": "Besides “when”, what two meanings can <bdi>إِذْ</bdi> have?",
+   "back": "Suddenness, “when suddenly” — <bdi>إِذِ الفُجَائِيَّة</bdi>; and cause, “because” — <bdi>إِذِ التَّعْلِيلِيَّة</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-268",
+   "term": "إِذَا",
+   "meaning": "when (in the future), if — even before a māḍī: <bdi>إِذَا جَاءَ نَصْرُ اللهِ</bdi> (110:1)",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-269",
+   "term": "مَتَى",
+   "meaning": "when? — and, as a conditional, whenever: <bdi>مَتَى تَذْهَبْ أَذْهَبْ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-270",
+   "front": "Both <bdi>إِذَا</bdi> and <bdi>مَتَى</bdi> can set a condition and its answer. How do they differ?",
+   "back": "<bdi>مَتَى</bdi> makes both verbs majzūm; <bdi>إِذَا</bdi> gives the meaning of a condition but makes neither majzūm",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf",
+    "contrast"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-271",
+   "term": "كَيْفَ",
+   "meaning": "how",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-272",
+   "term": "أَمْسِ",
+   "meaning": "yesterday",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-273",
+   "front": "Besides ḥurūf jarr, what can <bdi>مُنْذُ</bdi> and <bdi>مُذْ</bdi> be?",
+   "back": "Ẓurūf — though the class treats them as ḥurūf jarr",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-274",
+   "term": "قَطُّ",
+   "meaning": "never (in the past) — stressing a negated past: <bdi>مَا فَعَلْتُهُ قَطُّ</bdi>, I have never done it",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-275",
+   "term": "عَوْضُ",
+   "meaning": "never (in the future) — stressing a negated future: <bdi>لَا أَفْعَلُهُ عَوْضُ</bdi>, I will never do it",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-276",
+   "front": "What do directional ẓurūf like <bdi>قَبْلَ</bdi> and <bdi>بَعْدَ</bdi> need, and what happens when it's left out?",
+   "back": "A muḍāf ilayhi. When it's obvious and left out, the ẓarf is mabnī on a ḍammah: <bdi>لِلَّهِ الأَمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ</bdi> (30:4). They can be about place or time.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf",
+    "criterion"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-277",
+   "term": "قَبْلَ",
+   "meaning": "before — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-278",
+   "term": "بَعْدَ",
+   "meaning": "after — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-279",
+   "term": "قُدَّامَ",
+   "meaning": "in front of — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-280",
+   "term": "خَلْفَ",
+   "meaning": "behind — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-281",
+   "term": "تَحْتَ",
+   "meaning": "under, below — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-282",
+   "term": "فَوْقَ",
+   "meaning": "above, over — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-283",
+   "term": "عِنْدَ",
+   "meaning": "at, with — never cut off from its muḍāf ilayhi",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
   }
  ]
 }

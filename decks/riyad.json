@@ -3,7 +3,7 @@
  "topic": "riyad-intro",
  "session": "sep08",
  "source": "Riyāḍ al-Ṣāliḥīn — class notes to 2026-09-08",
- "expected_count": 30,
+ "expected_count": 35,
  "cards": [
   {
    "type": "basic",
@@ -461,6 +461,87 @@
     "riyad-082",
     "recite"
    ]
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "riyad-031",
+   "text": "<div class=\"arabic\">اللَّهُمَّ {{c1::أَسْلَمْتُ نَفْسِي إِلَيْكَ}}، {{c2::وَوَجَّهْتُ وَجْهِي إِلَيْكَ}}، {{c3::وَفَوَّضْتُ أَمْرِي إِلَيْكَ}}، {{c4::وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ}}، {{c5::رَغْبَةً وَرَهْبَةً إِلَيْكَ}}، {{c6::لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ}}، {{c7::آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَنَبِيِّكَ الَّذِي أَرْسَلْتَ}}</div>",
+   "extra": "al-Barāʾ ibn ʿĀzib: what the Prophet ﷺ taught him to say on going to bed: “O Allah, I have submitted myself to You, turned my face to You, entrusted my affair to You and leaned my back on You, out of longing for You and fear of You. There is no refuge and no escape from You except to You. I believe in Your Book that You sent down, and in Your Prophet whom You sent.” (Bukhārī and Muslim)",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "riyad-080"
+   ],
+   "session": "oct28",
+   "science": "Riyāḍ al-Ṣāliḥīn 80, the duʿāʾ · <bdi>بَابُ اليَقِينِ وَالتَّوَكُّلِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 80 — the text"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-032",
+   "front": "Recite the duʿāʾ the Prophet ﷺ taught al-Barāʾ ibn ʿĀzib for going to bed.",
+   "back": "<div class=\"arabic\">اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَنَبِيِّكَ الَّذِي أَرْسَلْتَ</div><br>“O Allah, I have submitted myself to You, turned my face to You, entrusted my affair to You and leaned my back on You, out of longing for You and fear of You. There is no refuge and no escape from You except to You. I believe in Your Book that You sent down, and in Your Prophet whom You sent.” (Bukhārī and Muslim)",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "riyad-080",
+    "recite"
+   ],
+   "session": "oct28",
+   "science": "Riyāḍ al-Ṣāliḥīn 80, the duʿāʾ · <bdi>بَابُ اليَقِينِ وَالتَّوَكُّلِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 80 — the text"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "riyad-033",
+   "text": "<div class=\"arabic\">بِسْمِ اللهِ، {{c1::تَوَكَّلْتُ عَلَى اللهِ}}، {{c2::وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ}}</div>",
+   "extra": "Anas, from the Prophet ﷺ: what to say on leaving the house: “In the name of Allah; I put my trust in Allah; there is no might and no power except through Allah. — It is said to him: “You are guided, sufficed and protected,” and the devil moves away from him.” (Abū Dāwūd, al-Tirmidhī and al-Nasāʾī)",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "riyad-083"
+   ],
+   "session": "oct28",
+   "science": "Riyāḍ al-Ṣāliḥīn 83, the duʿāʾ · <bdi>بَابُ اليَقِينِ وَالتَّوَكُّلِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 83 — the text"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-034",
+   "front": "Recite what to say on leaving the house, so that it's said to you: “You are guided, sufficed and protected” (from Anas).",
+   "back": "<div class=\"arabic\">بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</div><br>“In the name of Allah; I put my trust in Allah; there is no might and no power except through Allah. — It is said to him: “You are guided, sufficed and protected,” and the devil moves away from him.” (Abū Dāwūd, al-Tirmidhī and al-Nasāʾī)",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "riyad-083",
+    "recite"
+   ],
+   "session": "oct28",
+   "science": "Riyāḍ al-Ṣāliḥīn 83, the duʿāʾ · <bdi>بَابُ اليَقِينِ وَالتَّوَكُّلِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 83 — the text"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-035",
+   "front": "Riyāḍ 82 and 83 both begin <bdi>بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ</bdi>. How does each go on?",
+   "back": "82, from Umm Salamah:<div class=\"arabic\">اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ…</div>83, from Anas:<div class=\"arabic\">وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</div>",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "contrast"
+   ],
+   "session": "oct28",
+   "source": "Riyāḍ al-Ṣāliḥīn 82 and 83 — the texts"
   }
  ]
 }

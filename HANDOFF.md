@@ -37,19 +37,19 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,341 notes across 10 decks.**
+Current state: **2,429 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | vocab | 500 | VOCAB |
-| quduri | 331 | HDT-201 |
+| quduri | 347 | HDT-201 |
 | arbaeen_ahadith | 326 | HDT-201 |
-| wrel | 303 | RELSTD-5B |
+| wrel | 311 | RELSTD-5B |
 | sarf | 323 | ARB-201 |
-| nahw | 238 | ARB-201 |
-| pyth | 217 | ICS-H32 |
+| nahw | 283 | ARB-201 |
+| pyth | 231 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
-| riyad | 30 | HDT-202 |
+| riyad | 35 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
 
 ## The session loop
@@ -216,6 +216,9 @@ once, and both times was objecting to files that had no reason to exist.
   and the user hasn't checked it; arbh-281 rests on it. Its matn was supplied by Claude from the standard text.
 - **Ḥadīth 8 (arbh-303–326, voc-464–471) is complete, carded 2026-10-28.**
   The translation in `texts/arbaeen_h08.md` is Claude's and unchecked; arbh-306 rests on it.
+- **Riyāḍ 80 and 83: their duʿāʾs were carded on 2026-11-03** (riyad-031–035), from the to-do "Memorize specifically
+  the duas in 80, 82, 83". 82 was already carded, and riyad-035 contrasts 82 with 83, which open alike. The texts
+  are Claude's, added to `texts/riyad_memorisation.md`.
 - **Riyāḍ memorisation cards were delivered on 2026-10-27** (riyad-011–030, with sarf-247 for the ālah chart).
   They cover both to-do lists, and each ḥadīth has a phrase-by-phrase cloze and a recitation card. The texts are
   Claude's, in `texts/riyad_memorisation.md`. The user approved ("looks good to build") without answering the
@@ -231,6 +234,8 @@ once, and both times was objecting to files that had no reason to exist.
   container can't reach `prod-files-secure.s3.us-west-2.amazonaws.com`. Instead, get a signed URL with
   `notion-get-file-download-urls` and pass it straight to the `web-fetch` agent; the URL lasts five minutes. The
   harness saves the raw bytes under the session's `tool-results/`, and Read shows the PNG. HEIC photos are untested.
+- **The demonstrative charts (nahw-239, nahw-240) were built by Claude** (2026-11-03), per the CLAUDE note asking
+  for near and far, both genders, and which alifs are implied. They're flagged for checking against the class.
 - **The relative-pronoun chart (nahw-235) was built by Claude** (2026-10-24). The notes say "memorize the chart
   for asmaa’ al-mawsoolah" but the chart isn't on the page. It's flagged for checking against the class's, above
   all the feminine plural: the card gives اللَّاتِي and اللَّوَاتِي, and some charts add اللَّائِي.

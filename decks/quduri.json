@@ -3,7 +3,7 @@
  "topic": "quduri",
  "session": "sep09",
  "source": "Qudūrī — Intro to Qudūrī, class notes 2026-09-09",
- "expected_count": 331,
+ "expected_count": 347,
  "cards": [
   {
    "type": "basic",
@@ -4541,6 +4541,235 @@
    ],
    "session": "oct27",
    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: ḥayḍ, istiḥāḍah and nifās — class notes 2026-10-27"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-332",
+   "term": "<bdi>النَّجَس</bdi> (najas)",
+   "meaning": "filth: what the Sharīʿah declares impure",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas",
+    "terminology"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-333",
+   "front": "What is the underlying principle in cleaning a physical impurity?",
+   "back": "The impurity must be removed",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-334",
+   "front": "From what three things is cleaning a physical impurity wājib, for someone praying?",
+   "back": "His body, his clothing and the place where he prays",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-335",
+   "front": "Besides water, what may a physical impurity be cleaned with?",
+   "back": "Any pure liquid that removes it, such as vinegar",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-336",
+   "front": "An impurity with a body dries on a khuff. How can it be cleaned?",
+   "back": "By rubbing it on the ground until it's gone — for something non-porous like a khuff",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-337",
+   "front": "Maniy has dried on a garment. How is it cleaned, and what do modern scholars say?",
+   "back": "Dry, it can be scraped off; wet, it must be washed. Modern scholars say diets have changed, so maniy isn't the same substance, and it must be washed either way.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-338",
+   "front": "How is an impurity on a smooth, non-porous surface cleaned?",
+   "back": "Wiping it off is enough. Qudūrī's examples are a mirror and a sword; the class's is a toilet seat.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-339",
+   "front": "An impurity on the ground dries in the sun and its traces go. What is allowed there, and what isn't?",
+   "back": "Praying on that place is allowed, but not tayammum from it",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas",
+    "contrast"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-340",
+   "text": "The heavy impurity ({{c1::<bdi>المُغَلَّظَة</bdi>}}) is what's agreed to be najis, such as {{c2::blood, urine, feces and wine}}; the excused amount is {{c3::the size of a dirham — the inner area of an adult palm}}",
+   "extra": "Below the excused amount, no purification is required.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas",
+    "numbers"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-341",
+   "text": "The light impurity ({{c1::<bdi>المُخَفَّفَة</bdi>}}) is where {{c2::the reports conflict}}, such as the urine of animals whose meat is eaten; the excused amount is {{c3::a quarter of the garment, or of the part it's on, like a sleeve}}",
+   "extra": "There are two opinions on which quarter. Below the excused amount, no purification is required.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas",
+    "numbers"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-342",
+   "front": "How is a visible impurity purified, and what if a stain remains?",
+   "back": "By removing the substance itself. Traces that are hard to remove, like a stain, don't matter.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-343",
+   "front": "How is an invisible impurity purified?",
+   "back": "By washing until one is fairly sure (ghalabat al-ẓann) it's clean — generally taken to be three washes",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-344",
+   "term": "<bdi>الاِسْتِنْجَاء</bdi> (istinjāʾ)",
+   "meaning": "cleaning oneself after using the bathroom",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istinja",
+    "terminology"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-345",
+   "front": "When is istinjāʾ sunnah, and with what?",
+   "back": "When the impurity leaving the two passages hasn't spread past the outlet. Stones, dried earth or anything that takes their place suffice, though water is much preferred.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istinja"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-346",
+   "front": "What if the impurity spreads past the outlet, beyond the excused amount?",
+   "back": "Then washing is obligatory, with water or a pure liquid",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istinja"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-347",
+   "front": "What three things may istinjāʾ not be done with?",
+   "back": "Bones — the Prophet ﷺ said they are the food of our brothers among the jinn; anything impure; and the right hand",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istinja"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
   }
  ]
 }

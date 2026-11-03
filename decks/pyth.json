@@ -3,7 +3,7 @@
  "topic": "pyth",
  "session": "sep24",
  "source": "ICS H32 — lecture notes to 2026-09-24",
- "expected_count": 217,
+ "expected_count": 231,
  "cards": [
   {
    "type": "basic",
@@ -2838,6 +2838,192 @@
    ],
    "session": "oct23",
    "source": "ICS H32 — lecture notes to 2026-10-23"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-218",
+   "front": "What are classes for?",
+   "back": "To make objects of our own that know stuff and do stuff",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-219",
+   "text": "A class is a blueprint for a new kind of object: it says what its objects {{c1::can do}}, by defining {{c2::methods}}, and what they {{c3::know}}, by defining {{c4::attributes}}",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "classes",
+    "spine"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-220",
+   "front": "How are classes defined and named, and how do you construct an object of one?",
+   "back": "With the keyword <code>class</code>, and by convention a capitalised name. To construct an object, call the class: <code>c = Counter()</code>.",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-221",
+   "front": "How can <code>s.split(' ')</code> be rewritten by calling the method on the class?",
+   "back": "<code>str.split(s, ' ')</code>. A method call is a shortcut that passes the object as an extra first argument.",
+   "tags": [
+    "pyth",
+    "classes",
+    "model"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-222",
+   "front": "How do you make a method?",
+   "back": "Define a function inside a class",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-223",
+   "front": "What is the initializer, and how is it written?",
+   "back": "<code>def __init__(self)</code>: it does basic setup after an object is allocated, and it's where attributes are defined, through <code>self</code>",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-224",
+   "front": "What does <code>self</code> give a method?",
+   "back": "Access to the attributes of the particular object the method was called on",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-225",
+   "front": "What does Python let you do to an object after its class is defined, which you shouldn't?",
+   "back": "Assign it new attributes",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-226",
+   "front": "Besides letting objects do more, what is a design reason to make a class?",
+   "back": "To limit what can be done with an object — safety nets that stop us making mistakes",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-227",
+   "front": "With <code>c1._count == 3</code> and <code>c2._count == 2</code>, what does <code>c1.drain_from(c2)</code> return, and what's left in each?<pre class=\"code\">def drain_from(self: Counter, c2: Counter) -&gt; int:\n    self._count += c2.peek()\n    c2.reset()\n    return self._count</pre>",
+   "back": "It returns 5: <code>c1</code> now holds 5 and <code>c2</code> holds 0",
+   "tags": [
+    "pyth",
+    "classes",
+    "predict-output"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-228",
+   "front": "What is <code>__len__(self)</code>, and what kind of method is it?",
+   "back": "A dunder (magic) method: define it to return an <code>int</code>, the length, and <code>len()</code> works on your objects",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-229",
+   "front": "What is duck typing?",
+   "back": "Deciding what something is by what it can do — if a bird walks like a duck and quacks like a duck, it's a duck",
+   "tags": [
+    "pyth",
+    "duck-typing"
+   ],
+   "session": "oct29",
+   "source": "ICS H32 — lecture notes to 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-230",
+   "front": "For this to work, what must be true of <code>x</code>, <code>y</code> and what <code>bar</code> returns?<pre class=\"code\">def foo(x, y):\n    return x.bar(y) * 2</pre>",
+   "back": "<code>x</code> needs a <code>bar</code> method taking one argument besides <code>self</code>; <code>y</code> must suit that method; and its result must be something that can be multiplied by 2 — a number, but also a list or a string",
+   "tags": [
+    "pyth",
+    "duck-typing",
+    "model"
+   ],
+   "session": "oct29",
+   "source": "ICS H32 — lecture notes to 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-231",
+   "front": "Why would we define our own interfaces?",
+   "back": "To filter classes by what they do",
+   "tags": [
+    "pyth",
+    "duck-typing"
+   ],
+   "session": "oct29",
+   "source": "ICS H32 — lecture notes to 2026-10-29"
   }
  ]
 }

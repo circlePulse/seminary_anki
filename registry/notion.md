@@ -100,6 +100,11 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-11-03: naḥw (nahw-239–283), Qudūrī al-anjās and istinjāʾ (qud-332–347), World Religions 10/29
+(wrel-304–311), Python classes and duck typing (pyth-218–231), and Riyāḍ 80 and 83 (riyad-031–035). The scan
+read `notion-get-version-changes` from each page's last scan time (it lists only changed blocks, up to 7 days per
+call), then fetched a page only where the nesting mattered. That's the cheap way to scan.
+
 Carded on 2026-10-28, later: the rest of Arbaʿīn Ḥadīth 8 (arbh-319–326), which the user said is finished.
 
 Carded on 2026-10-28: the vocabulary list supplied that day (voc-472–500), tagged `riyad-istiqamah` by inference

@@ -1,6 +1,6 @@
 # Draft — scan of 2026-11-03 (88 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-11-03 and delivered.**
 
 Source: every change since the last scans, read with Notion's change history and then each changed section in full.
 Calculus II and Tazkiyah are still on hold. Your Arbaʿīn to-do now reads "Qudoori test on 11/9" instead of

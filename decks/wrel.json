@@ -3,7 +3,7 @@
  "topic": "wrel",
  "session": "sep24",
  "source": "World Religions II — lecture and readings, 2026-09-24",
- "expected_count": 303,
+ "expected_count": 311,
  "cards": [
   {
    "type": "basic",
@@ -4301,6 +4301,128 @@
    ],
    "session": "oct27",
    "source": "World Religions II — lecture, 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-304",
+   "front": "Like Daoism with its word puzzles, which forms of Buddhism distrust words' ability to represent universal truth?",
+   "back": "Esoteric and Tibetan Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan",
+    "daoism",
+    "contrast"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-305",
+   "front": "What do esoteric and Tibetan Buddhism emphasise over books?",
+   "back": "Learning from a teacher",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-306",
+   "term": "Esoteric Buddhism",
+   "meaning": "another name for Tantric or Mantrayāna Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-307",
+   "term": "Mandala",
+   "meaning": "a visual representation of the Buddhist universe and a guide to meditation — Sanskrit for “circle”",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-308",
+   "front": "What shape are mandalas, and what is often at their centre?",
+   "back": "Usually, but not always, circular — with a buddha, or a representation of one, at the centre",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-309",
+   "front": "Why is meditation guided by a mandala, according to the lecture?",
+   "back": "Words can be deceptive, so the mandala shows exactly what to visualise; some meditations require visualising its scenes",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-310",
+   "front": "Which kind of Buddhism relies on mandalas to reveal its truths, and what do some of its monks make them from?",
+   "back": "Certain sects, Tibetan Buddhism among them. Some Tibetan monks make mandalas of coloured sand, then destroy them.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-311",
+   "front": "Who leads Tibetan Buddhism?",
+   "back": "The Dalai Lama",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
   }
  ]
 }
