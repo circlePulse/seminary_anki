@@ -1,0 +1,1270 @@
+{
+ "nahw": [
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-239",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><th class=\"arabic\" colspan=4>اِسْمُ الإِشَارَةِ لِلْقَرِيبِ</th></tr><tr><th class=\"arabic\"></th><th class=\"arabic\">مُفْرَد</th><th class=\"arabic\">مُثَنًّى</th><th class=\"arabic\">جَمْع</th></tr><tr><th class=\"arabic\">مُذَكَّر</th><td class=\"arabic\">{{c1::هٰذَا}}</td><td class=\"arabic\">{{c2::هٰذَانِ / هٰذَيْنِ}}</td><td class=\"arabic\" rowspan=2>{{c3::هٰؤُلَاءِ}}</td></tr><tr><th class=\"arabic\">مُؤَنَّث</th><td class=\"arabic\">{{c4::هٰذِهِ}}</td><td class=\"arabic\">{{c5::هَاتَانِ / هَاتَيْنِ}}</td></tr></table>",
+   "extra": "The near demonstratives. The duals change with iʿrāb: <bdi>هٰذَانِ</bdi> and <bdi>هَاتَانِ</bdi> in rafʿ, <bdi>هٰذَيْنِ</bdi> and <bdi>هَاتَيْنِ</bdi> in naṣb and jarr. The plural serves both genders.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara",
+    "table"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-240",
+   "text": "<table dir=\"rtl\" style=\"color: inherit\"><tr><th class=\"arabic\" colspan=4>اِسْمُ الإِشَارَةِ لِلْبَعِيدِ</th></tr><tr><th class=\"arabic\"></th><th class=\"arabic\">مُفْرَد</th><th class=\"arabic\">مُثَنًّى</th><th class=\"arabic\">جَمْع</th></tr><tr><th class=\"arabic\">مُذَكَّر</th><td class=\"arabic\">{{c1::ذٰلِكَ}}</td><td class=\"arabic\">{{c2::ذَانِكَ / ذَيْنِكَ}}</td><td class=\"arabic\" rowspan=2>{{c3::أُولٰئِكَ}}</td></tr><tr><th class=\"arabic\">مُؤَنَّث</th><td class=\"arabic\">{{c4::تِلْكَ}}</td><td class=\"arabic\">{{c5::تَانِكَ / تَيْنِكَ}}</td></tr></table>",
+   "extra": "The far demonstratives. The duals change with iʿrāb, as with the near ones. The plural serves both genders.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara",
+    "table"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-241",
+   "front": "Which near demonstratives are written with an implied (dagger) alif after the <bdi>هـ</bdi>, and which with a written one?",
+   "back": "An implied alif in <bdi>هٰذَا</bdi>, <bdi>هٰذِهِ</bdi>, <bdi>هٰذَانِ</bdi> and <bdi>هٰؤُلَاءِ</bdi>; a written one only in <bdi>هَاتَانِ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara",
+    "spelling"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-242",
+   "front": "Which far demonstratives are written with an implied (dagger) alif?",
+   "back": "<bdi>ذٰلِكَ</bdi>, after the <bdi>ذ</bdi>, and <bdi>أُولٰئِكَ</bdi>, after the <bdi>ل</bdi> — whose <bdi>و</bdi> is written but silent. <bdi>ذَانِكَ</bdi> and <bdi>تَانِكَ</bdi> write theirs, and <bdi>تِلْكَ</bdi> has none.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara",
+    "spelling"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-243",
+   "front": "What is the core of every <bdi>اِسْم إِشَارَة</bdi>, and what is added to it?",
+   "back": "<bdi>ذَا</bdi>, with prefixes and suffixes added: the <bdi>هَا</bdi> of <bdi>هٰذَا</bdi>, the <bdi>كَ</bdi> of <bdi>ذٰلِكَ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-244",
+   "front": "What is the <bdi>هَا</bdi> at the start of <bdi>هٰذَا</bdi>?",
+   "back": "A <bdi>حَرْف تَنْبِيه</bdi>, a particle that calls attention — so common that it's usually counted as part of the word",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-245",
+   "front": "What is the <bdi>كَ</bdi> of <bdi>ذٰلِكَ</bdi> called, and how can it change?",
+   "back": "<bdi>حَرْف الخِطَاب</bdi>, the particle of address. It can change with the person addressed: <bdi>ذٰلِكُمْ</bdi> for a group, as in <bdi>ذٰلِكُمُ اللهُ رَبُّكُمْ</bdi> (6:102).",
+   "tags": [
+    "nahw",
+    "mabni",
+    "ishara"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-246",
+   "term": "<bdi>أَسْمَاء الأَفْعَال</bdi> (asmāʾ al-afʿāl)",
+   "meaning": "isms with the meaning of a verb that don't accept a verb's signs",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal",
+    "terminology"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-247",
+   "front": "What does an <bdi>اِسْم فِعْل</bdi> carry that other isms don't, and why is it still called an ism?",
+   "back": "A tense, like a verb. It doesn't take a verb's signs, so the grammarians, puzzled by these words, made them isms with a verb's meaning.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal",
+    "criterion"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-248",
+   "term": "آمِينَ",
+   "meaning": "answer (our prayer)! — like <bdi>اِسْتَجِبْ</bdi>; also said <bdi>أَمِينَ</bdi>, with a short alif",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-249",
+   "term": "شَتَّانَ",
+   "meaning": "how different (they are)! — like <bdi>اِفْتَرَقَ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-250",
+   "term": "سَرْعَانَ",
+   "meaning": "how quickly! — like <bdi>سَرُعَ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-251",
+   "term": "رُوَيْدَ",
+   "meaning": "gently! slowly! — like <bdi>أَمْهِلْ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-252",
+   "term": "بَلْهَ",
+   "meaning": "let alone, leave aside — like <bdi>دَعْ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-253",
+   "term": "دُونَكَ ، هَا",
+   "meaning": "take it! here you are — like <bdi>خُذْ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-254",
+   "term": "عَلَيْكَ",
+   "meaning": "hold to! keep to! — like <bdi>اِلْزَمْ</bdi>: <bdi>عَلَيْكُمْ أَنْفُسَكُمْ</bdi> (5:105)",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-255",
+   "term": "حَيَّهَلْ ، حَيَّ",
+   "meaning": "hasten to! — like <bdi>أَقْبِلْ</bdi>: <bdi>حَيَّ عَلَى الصَّلَاةِ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-256",
+   "term": "هَيْتَ ، هَلُمَّ",
+   "meaning": "come here! — like <bdi>تَعَالَ</bdi>, which most grammarians count as a verb: <bdi>هَيْتَ لَكَ</bdi> (12:23)",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-257",
+   "term": "صَهْ",
+   "meaning": "hush! be quiet! — like <bdi>اُسْكُتْ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-258",
+   "term": "هَاتِ",
+   "meaning": "give! bring! — <bdi>قُلْ هَاتُوا بُرْهَانَكُمْ</bdi> (2:111). Most grammarians count it as a verb, since it takes <bdi>هَاتِي</bdi> and <bdi>هَاتُوا</bdi>.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-259",
+   "term": "فَقَطْ",
+   "meaning": "only — its <bdi>قَطْ</bdi> means “enough”",
+   "tags": [
+    "nahw",
+    "mabni",
+    "asma-afaal"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-260",
+   "term": "<bdi>أَسْمَاء الأَصْوَات</bdi> (asmāʾ al-aṣwāt)",
+   "meaning": "words that stand for sounds",
+   "tags": [
+    "nahw",
+    "mabni",
+    "aswat",
+    "terminology"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-261",
+   "term": "أُحْ أُحْ",
+   "meaning": "the sound of a cough",
+   "tags": [
+    "nahw",
+    "mabni",
+    "aswat"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-262",
+   "term": "أُفّ",
+   "meaning": "ugh! — a sound of pain or annoyance: <bdi>فَلَا تَقُلْ لَهُمَا أُفٍّ</bdi> (17:23)",
+   "tags": [
+    "nahw",
+    "mabni",
+    "aswat"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-263",
+   "term": "بَخْ",
+   "meaning": "a sound of delight and approval — doubled, <bdi>بَخٍ بَخٍ</bdi>, “excellent!”",
+   "tags": [
+    "nahw",
+    "mabni",
+    "aswat"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-264",
+   "front": "What are the three meanings of <bdi>ظَرْف</bdi>?",
+   "back": "A word with a meaning of time or place; the derived ism whose pattern denotes a time or place (ṣarf's <bdi>اِسْم الظَّرْف</bdi>); and the <bdi>مَفْعُول فِيهِ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf",
+    "definition"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-265",
+   "front": "In the chapter on the mabnī, what are the <bdi>ظُرُوف</bdi>, and what role do they usually play?",
+   "back": "Words with a meaning of time or place. These are mabnī — though not every ẓarf is: <bdi>يَوْم</bdi> is muʿrab. They usually serve as the <bdi>مَفْعُول فِيهِ</bdi>.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-266",
+   "term": "إِذْ",
+   "meaning": "when (in the past) — even before a muḍāriʿ: <bdi>وَإِذْ يَرْفَعُ إِبْرَاهِيمُ القَوَاعِدَ</bdi> (2:127)",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-267",
+   "front": "Besides “when”, what two meanings can <bdi>إِذْ</bdi> have?",
+   "back": "Suddenness, “when suddenly” — <bdi>إِذِ الفُجَائِيَّة</bdi>; and cause, “because” — <bdi>إِذِ التَّعْلِيلِيَّة</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-268",
+   "term": "إِذَا",
+   "meaning": "when (in the future), if — even before a māḍī: <bdi>إِذَا جَاءَ نَصْرُ اللهِ</bdi> (110:1)",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-269",
+   "term": "مَتَى",
+   "meaning": "when? — and, as a conditional, whenever: <bdi>مَتَى تَذْهَبْ أَذْهَبْ</bdi>",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-270",
+   "front": "Both <bdi>إِذَا</bdi> and <bdi>مَتَى</bdi> can set a condition and its answer. How do they differ?",
+   "back": "<bdi>مَتَى</bdi> makes both verbs majzūm; <bdi>إِذَا</bdi> gives the meaning of a condition but makes neither majzūm",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf",
+    "contrast"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-271",
+   "term": "كَيْفَ",
+   "meaning": "how",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-272",
+   "term": "أَمْسِ",
+   "meaning": "yesterday",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-273",
+   "front": "Besides ḥurūf jarr, what can <bdi>مُنْذُ</bdi> and <bdi>مُذْ</bdi> be?",
+   "back": "Ẓurūf — though the class treats them as ḥurūf jarr",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-274",
+   "term": "قَطُّ",
+   "meaning": "never (in the past) — stressing a negated past: <bdi>مَا فَعَلْتُهُ قَطُّ</bdi>, I have never done it",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-275",
+   "term": "عَوْضُ",
+   "meaning": "never (in the future) — stressing a negated future: <bdi>لَا أَفْعَلُهُ عَوْضُ</bdi>, I will never do it",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-276",
+   "front": "What do directional ẓurūf like <bdi>قَبْلَ</bdi> and <bdi>بَعْدَ</bdi> need, and what happens when it's left out?",
+   "back": "A muḍāf ilayhi. When it's obvious and left out, the ẓarf is mabnī on a ḍammah: <bdi>لِلَّهِ الأَمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ</bdi> (30:4). They can be about place or time.",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf",
+    "criterion"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-277",
+   "term": "قَبْلَ",
+   "meaning": "before — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-278",
+   "term": "بَعْدَ",
+   "meaning": "after — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-279",
+   "term": "قُدَّامَ",
+   "meaning": "in front of — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-280",
+   "term": "خَلْفَ",
+   "meaning": "behind — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-281",
+   "term": "تَحْتَ",
+   "meaning": "under, below — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-282",
+   "term": "فَوْقَ",
+   "meaning": "above, over — a directional ẓarf",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-283",
+   "term": "عِنْدَ",
+   "meaning": "at, with — never cut off from its muḍāf ilayhi",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf"
+   ],
+   "session": "oct28",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-10-28"
+  }
+ ],
+ "quduri": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-332",
+   "term": "<bdi>النَّجَس</bdi> (najas)",
+   "meaning": "filth: what the Sharīʿah declares impure",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas",
+    "terminology"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-333",
+   "front": "What is the underlying principle in cleaning a physical impurity?",
+   "back": "The impurity must be removed",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-334",
+   "front": "From what three things is cleaning a physical impurity wājib, for someone praying?",
+   "back": "His body, his clothing and the place where he prays",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-335",
+   "front": "Besides water, what may a physical impurity be cleaned with?",
+   "back": "Any pure liquid that removes it, such as vinegar",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-336",
+   "front": "An impurity with a body dries on a khuff. How can it be cleaned?",
+   "back": "By rubbing it on the ground until it's gone — for something non-porous like a khuff",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-337",
+   "front": "Maniy has dried on a garment. How is it cleaned, and what do modern scholars say?",
+   "back": "Dry, it can be scraped off; wet, it must be washed. Modern scholars say diets have changed, so maniy isn't the same substance, and it must be washed either way.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-338",
+   "front": "How is an impurity on a smooth, non-porous surface cleaned?",
+   "back": "Wiping it off is enough. Qudūrī's examples are a mirror and a sword; the class's is a toilet seat.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-339",
+   "front": "An impurity on the ground dries in the sun and its traces go. What is allowed there, and what isn't?",
+   "back": "Praying on that place is allowed, but not tayammum from it",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas",
+    "contrast"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-340",
+   "text": "The heavy impurity ({{c1::<bdi>المُغَلَّظَة</bdi>}}) is what's agreed to be najis, such as {{c2::blood, urine, feces and wine}}; the excused amount is {{c3::the size of a dirham — the inner area of an adult palm}}",
+   "extra": "Below the excused amount, no purification is required.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas",
+    "numbers"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-341",
+   "text": "The light impurity ({{c1::<bdi>المُخَفَّفَة</bdi>}}) is where {{c2::the reports conflict}}, such as the urine of animals whose meat is eaten; the excused amount is {{c3::a quarter of the garment, or of the part it's on, like a sleeve}}",
+   "extra": "There are two opinions on which quarter. Below the excused amount, no purification is required.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas",
+    "numbers"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-342",
+   "front": "How is a visible impurity purified, and what if a stain remains?",
+   "back": "By removing the substance itself. Traces that are hard to remove, like a stain, don't matter.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-343",
+   "front": "How is an invisible impurity purified?",
+   "back": "By washing until one is fairly sure (ghalabat al-ẓann) it's clean — generally taken to be three washes",
+   "tags": [
+    "quduri",
+    "tahara",
+    "anjas"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-344",
+   "term": "<bdi>الاِسْتِنْجَاء</bdi> (istinjāʾ)",
+   "meaning": "cleaning oneself after using the bathroom",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istinja",
+    "terminology"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-345",
+   "front": "When is istinjāʾ sunnah, and with what?",
+   "back": "When the impurity leaving the two passages hasn't spread past the outlet. Stones, dried earth or anything that takes their place suffice, though water is much preferred.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istinja"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-346",
+   "front": "What if the impurity spreads past the outlet, beyond the excused amount?",
+   "back": "Then washing is obligatory, with water or a pure liquid",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istinja"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-347",
+   "front": "What three things may istinjāʾ not be done with?",
+   "back": "Bones — the Prophet ﷺ said they are the food of our brothers among the jinn; anything impure; and the right hand",
+   "tags": [
+    "quduri",
+    "tahara",
+    "istinja"
+   ],
+   "session": "oct30",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  }
+ ],
+ "wrel": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-304",
+   "front": "Like Daoism with its word puzzles, which forms of Buddhism distrust words' ability to represent universal truth?",
+   "back": "Esoteric and Tibetan Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan",
+    "daoism",
+    "contrast"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-305",
+   "front": "What do esoteric and Tibetan Buddhism emphasise over books?",
+   "back": "Learning from a teacher",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-306",
+   "term": "Esoteric Buddhism",
+   "meaning": "another name for Tantric or Mantrayāna Buddhism",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "wrel-307",
+   "term": "Mandala",
+   "meaning": "a visual representation of the Buddhist universe and a guide to meditation — Sanskrit for “circle”",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-308",
+   "front": "What shape are mandalas, and what is often at their centre?",
+   "back": "Usually, but not always, circular — with a buddha, or a representation of one, at the centre",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-309",
+   "front": "Why is meditation guided by a mandala, according to the lecture?",
+   "back": "Words can be deceptive, so the mandala shows exactly what to visualise; some meditations require visualising its scenes",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-310",
+   "front": "Which kind of Buddhism relies on mandalas to reveal its truths, and what do some of its monks make them from?",
+   "back": "Certain sects, Tibetan Buddhism among them. Some Tibetan monks make mandalas of coloured sand, then destroy them.",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "wrel-311",
+   "front": "Who leads Tibetan Buddhism?",
+   "back": "The Dalai Lama",
+   "tags": [
+    "wrel",
+    "lecture",
+    "buddhism",
+    "tibetan"
+   ],
+   "session": "oct29",
+   "source": "World Religions II — lecture, 2026-10-29"
+  }
+ ],
+ "pyth": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-218",
+   "front": "What are classes for?",
+   "back": "To make objects of our own that know stuff and do stuff",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-219",
+   "text": "A class is a blueprint for a new kind of object: it says what its objects {{c1::can do}}, by defining {{c2::methods}}, and what they {{c3::know}}, by defining {{c4::attributes}}",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "classes",
+    "spine"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-220",
+   "front": "How are classes defined and named, and how do you construct an object of one?",
+   "back": "With the keyword <code>class</code>, and by convention a capitalised name. To construct an object, call the class: <code>c = Counter()</code>.",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-221",
+   "front": "How can <code>s.split(' ')</code> be rewritten by calling the method on the class?",
+   "back": "<code>str.split(s, ' ')</code>. A method call is a shortcut that passes the object as an extra first argument.",
+   "tags": [
+    "pyth",
+    "classes",
+    "model"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-222",
+   "front": "How do you make a method?",
+   "back": "Define a function inside a class",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-223",
+   "front": "What is the initializer, and how is it written?",
+   "back": "<code>def __init__(self)</code>: it does basic setup after an object is allocated, and it's where attributes are defined, through <code>self</code>",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-224",
+   "front": "What does <code>self</code> give a method?",
+   "back": "Access to the attributes of the particular object the method was called on",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-225",
+   "front": "What does Python let you do to an object after its class is defined, which you shouldn't?",
+   "back": "Assign it new attributes",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-226",
+   "front": "Besides letting objects do more, what is a design reason to make a class?",
+   "back": "To limit what can be done with an object — safety nets that stop us making mistakes",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-227",
+   "front": "With <code>c1._count == 3</code> and <code>c2._count == 2</code>, what does <code>c1.drain_from(c2)</code> return, and what's left in each?<pre class=\"code\">def drain_from(self: Counter, c2: Counter) -&gt; int:\n    self._count += c2.peek()\n    c2.reset()\n    return self._count</pre>",
+   "back": "It returns 5: <code>c1</code> now holds 5 and <code>c2</code> holds 0",
+   "tags": [
+    "pyth",
+    "classes",
+    "predict-output"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-228",
+   "front": "What is <code>__len__(self)</code>, and what kind of method is it?",
+   "back": "A dunder (magic) method: define it to return an <code>int</code>, the length, and <code>len()</code> works on your objects",
+   "tags": [
+    "pyth",
+    "classes"
+   ],
+   "session": "oct27",
+   "source": "ICS H32 — lecture notes to 2026-10-27"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-229",
+   "front": "What is duck typing?",
+   "back": "Deciding what something is by what it can do — if a bird walks like a duck and quacks like a duck, it's a duck",
+   "tags": [
+    "pyth",
+    "duck-typing"
+   ],
+   "session": "oct29",
+   "source": "ICS H32 — lecture notes to 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-230",
+   "front": "For this to work, what must be true of <code>x</code>, <code>y</code> and what <code>bar</code> returns?<pre class=\"code\">def foo(x, y):\n    return x.bar(y) * 2</pre>",
+   "back": "<code>x</code> needs a <code>bar</code> method taking one argument besides <code>self</code>; <code>y</code> must suit that method; and its result must be something that can be multiplied by 2 — a number, but also a list or a string",
+   "tags": [
+    "pyth",
+    "duck-typing",
+    "model"
+   ],
+   "session": "oct29",
+   "source": "ICS H32 — lecture notes to 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-231",
+   "front": "Why would we define our own interfaces?",
+   "back": "To filter classes by what they do",
+   "tags": [
+    "pyth",
+    "duck-typing"
+   ],
+   "session": "oct29",
+   "source": "ICS H32 — lecture notes to 2026-10-29"
+  }
+ ],
+ "riyad": [
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "riyad-031",
+   "text": "<div class=\"arabic\">اللَّهُمَّ {{c1::أَسْلَمْتُ نَفْسِي إِلَيْكَ}}، {{c2::وَوَجَّهْتُ وَجْهِي إِلَيْكَ}}، {{c3::وَفَوَّضْتُ أَمْرِي إِلَيْكَ}}، {{c4::وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ}}، {{c5::رَغْبَةً وَرَهْبَةً إِلَيْكَ}}، {{c6::لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ}}، {{c7::آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَنَبِيِّكَ الَّذِي أَرْسَلْتَ}}</div>",
+   "extra": "al-Barāʾ ibn ʿĀzib: what the Prophet ﷺ taught him to say on going to bed: “O Allah, I have submitted myself to You, turned my face to You, entrusted my affair to You and leaned my back on You, out of longing for You and fear of You. There is no refuge and no escape from You except to You. I believe in Your Book that You sent down, and in Your Prophet whom You sent.” (Bukhārī and Muslim)",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "riyad-080"
+   ],
+   "session": "oct28",
+   "science": "Riyāḍ al-Ṣāliḥīn 80, the duʿāʾ · <bdi>بَابُ اليَقِينِ وَالتَّوَكُّلِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 80 — the text"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-032",
+   "front": "Recite the duʿāʾ the Prophet ﷺ taught al-Barāʾ ibn ʿĀzib for going to bed.",
+   "back": "<div class=\"arabic\">اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَنَبِيِّكَ الَّذِي أَرْسَلْتَ</div><br>“O Allah, I have submitted myself to You, turned my face to You, entrusted my affair to You and leaned my back on You, out of longing for You and fear of You. There is no refuge and no escape from You except to You. I believe in Your Book that You sent down, and in Your Prophet whom You sent.” (Bukhārī and Muslim)",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "riyad-080",
+    "recite"
+   ],
+   "session": "oct28",
+   "science": "Riyāḍ al-Ṣāliḥīn 80, the duʿāʾ · <bdi>بَابُ اليَقِينِ وَالتَّوَكُّلِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 80 — the text"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "riyad-033",
+   "text": "<div class=\"arabic\">بِسْمِ اللهِ، {{c1::تَوَكَّلْتُ عَلَى اللهِ}}، {{c2::وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ}}</div>",
+   "extra": "Anas, from the Prophet ﷺ: what to say on leaving the house: “In the name of Allah; I put my trust in Allah; there is no might and no power except through Allah. — It is said to him: “You are guided, sufficed and protected,” and the devil moves away from him.” (Abū Dāwūd, al-Tirmidhī and al-Nasāʾī)",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "riyad-083"
+   ],
+   "session": "oct28",
+   "science": "Riyāḍ al-Ṣāliḥīn 83, the duʿāʾ · <bdi>بَابُ اليَقِينِ وَالتَّوَكُّلِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 83 — the text"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-034",
+   "front": "Recite what to say on leaving the house, so that it's said to you: “You are guided, sufficed and protected” (from Anas).",
+   "back": "<div class=\"arabic\">بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</div><br>“In the name of Allah; I put my trust in Allah; there is no might and no power except through Allah. — It is said to him: “You are guided, sufficed and protected,” and the devil moves away from him.” (Abū Dāwūd, al-Tirmidhī and al-Nasāʾī)",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "riyad-083",
+    "recite"
+   ],
+   "session": "oct28",
+   "science": "Riyāḍ al-Ṣāliḥīn 83, the duʿāʾ · <bdi>بَابُ اليَقِينِ وَالتَّوَكُّلِ</bdi>",
+   "source": "Riyāḍ al-Ṣāliḥīn 83 — the text"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "riyad-035",
+   "front": "Riyāḍ 82 and 83 both begin <bdi>بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ</bdi>. How does each go on?",
+   "back": "82, from Umm Salamah:<div class=\"arabic\">اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ…</div>83, from Anas:<div class=\"arabic\">وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</div>",
+   "tags": [
+    "riyad",
+    "hifz",
+    "riyad-tawakkul",
+    "contrast"
+   ],
+   "session": "oct28",
+   "source": "Riyāḍ al-Ṣāliḥīn 82 and 83 — the texts"
+  }
+ ]
+}

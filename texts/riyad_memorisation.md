@@ -101,3 +101,23 @@ Ibn Masʿūd reports that the Prophet ﷺ used to say: “O Allah, I ask You for
 </div>
 
 Umm Salamah reports that whenever the Prophet ﷺ left his house, he would say: “In the name of Allah; I put my trust in Allah. O Allah, I seek refuge in You from going astray or being led astray, from slipping or being made to slip, from wronging or being wronged, and from acting foolishly or being treated foolishly.” (Abū Dāwūd and al-Tirmidhī, in Abū Dāwūd's wording)
+## Ḥadīth 80 (the duʿāʾ) — riyad-031 and riyad-032
+
+<div dir="rtl">
+
+عَنْ أَبِي عُمَارَةَ البَرَاءِ بْنِ عَازِبٍ رَضِيَ اللهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَا فُلَانُ، إِذَا أَوَيْتَ إِلَى فِرَاشِكَ فَقُلْ: «اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَنَبِيِّكَ الَّذِي أَرْسَلْتَ» فَإِنَّكَ إِنْ مُتَّ مِنْ لَيْلَتِكَ مُتَّ عَلَى الفِطْرَةِ، وَإِنْ أَصْبَحْتَ أَصَبْتَ خَيْرًا» مُتَّفَقٌ عَلَيْهِ.
+
+</div>
+
+al-Barāʾ ibn ʿĀzib: what the Prophet ﷺ taught him to say on going to bed: “O Allah, I have submitted myself to You, turned my face to You, entrusted my affair to You and leaned my back on You, out of longing for You and fear of You. There is no refuge and no escape from You except to You. I believe in Your Book that You sent down, and in Your Prophet whom You sent.” (Bukhārī and Muslim)
+
+## Ḥadīth 83 (the duʿāʾ) — riyad-033 and riyad-034
+
+<div dir="rtl">
+
+عَنْ أَنَسٍ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ قَالَ -يَعْنِي: إِذَا خَرَجَ مِنْ بَيْتِهِ-: «بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ» يُقَالُ لَهُ: هُدِيتَ، وَكُفِيتَ، وَوُقِيتَ، وَتَنَحَّى عَنْهُ الشَّيْطَانُ» رَوَاهُ أَبُو دَاوُدَ وَالتِّرْمِذِيُّ وَالنَّسَائِيُّ وَغَيْرُهُمْ. …
+
+</div>
+
+Anas, from the Prophet ﷺ: what to say on leaving the house: “In the name of Allah; I put my trust in Allah; there is no might and no power except through Allah. — It is said to him: “You are guided, sufficed and protected,” and the devil moves away from him.” (Abū Dāwūd, al-Tirmidhī and al-Nasāʾī)
+
