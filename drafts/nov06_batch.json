@@ -1,0 +1,1308 @@
+{
+ "pyth": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-232",
+   "front": "What does HTTP stand for, and what is it used for?",
+   "back": "Hypertext Transfer Protocol — fetching the documents you see in a browser",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-233",
+   "front": "What kind of protocol is HTTP?",
+   "back": "Request-response: a client connects and the server accepts; the client sends a request, and the server sends back a response",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-234",
+   "front": "What is a URL?",
+   "back": "A uniform resource locator: where a piece of information you want is",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-235",
+   "text": "A URL gives first the {{c1::scheme}}, which says which protocol is used; then the {{c2::host}}, plus optionally a {{c3::port}}; and after the slash, the {{c4::document or resource}} you want",
+   "extra": "In <code>http://www.example.com:8000/index.html</code>: scheme <code>http</code>, host <code>www.example.com</code>, port <code>8000</code>, resource <code>/index.html</code>.",
+   "tags": [
+    "pyth",
+    "http",
+    "spine"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-236",
+   "front": "What are HTTP verbs, and which is the simplest?",
+   "back": "Words that describe what you want done; the simplest is <code>GET</code>",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-237",
+   "text": "The first line of an HTTP request: the {{c1::verb}}, a space, {{c2::the rest of the URL after the scheme, host and port}}, a space, and {{c3::the protocol version}}",
+   "extra": "For example, <code>GET /index.html HTTP/1.1</code>.",
+   "tags": [
+    "pyth",
+    "http",
+    "spine"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-238",
+   "front": "What are HTTP headers, and how is each one written?",
+   "back": "Extra information after the first line — think of them as parameters. Each is a word, a colon, a space, then the information.",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-239",
+   "front": "Which header is required in an HTTP request, and how does a request show it has ended?",
+   "back": "<code>Host</code>; and a blank line ends the request",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-240",
+   "front": "How does an HTTP response begin?",
+   "back": "With the protocol, then the status code — such as the famous 404 — and then some headers",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-241",
+   "text": "HTTP status codes: the 200s, {{c1::everything is fine}}; the 300s, {{c2::something is off — usually a redirect}}; the 400s, {{c3::the client did something wrong}}; the 500s, {{c4::the server did something wrong}}",
+   "extra": "From the server's side the 500s are “I did something wrong”, and the 400s “you did”.",
+   "tags": [
+    "pyth",
+    "http",
+    "spine"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-242",
+   "front": "Which HTTP version is in plain human-readable text, and which is the latest?",
+   "back": "HTTP/1.1 is plain text; HTTP/3 is the latest",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-243",
+   "front": "What does HTTPS add to HTTP?",
+   "back": "It's secure HTTP, which most web servers use: the same protocol, but the requests and responses are encrypted, and the server proves to the client that it is who it says it is",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-244",
+   "front": "Under HTTPS, how does a server prove who it is?",
+   "back": "A trusted authority vouches for it. Authorities vouch for each other, in a chain that ends at a root certificate built into the OS, which is trusted implicitly.",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-245",
+   "front": "Which part of Python's library makes HTTP requests, and how do you make one?",
+   "back": "<code>urllib.request</code>. Create a <code>Request</code>, initialised with a URL, and pass it to <code>urlopen</code>, which gives back a response object.",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-246",
+   "front": "On a response object, what do <code>.status</code>, <code>.headers</code> and <code>.close()</code> do?",
+   "back": "<code>.status</code> gives the status code; <code>.headers</code> gives the headers and acts like a dictionary; <code>.close()</code> closes the response",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-247",
+   "front": "What does this print?<pre class=\"code\">for x in response.headers:\n    print(f'{x}: {response.headers[x]}')</pre>",
+   "back": "Each header of the response, one per line, as <code>Name: value</code>",
+   "tags": [
+    "pyth",
+    "http",
+    "predict-output"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-248",
+   "front": "What does <code>response.read()</code> return, and how do you turn it into a <code>str</code>?",
+   "back": "All the response's content, as <code>bytes</code> — Python may display it like a string, but it's still bytes. Call <code>.decode()</code>, passing the encoding as a keyword argument: in this class, probably <code>utf-8</code>.",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-249",
+   "front": "How do you turn a <code>str</code> into <code>bytes</code>?",
+   "back": "Call <code>.encode()</code> on it, with the encoding",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-250",
+   "front": "How can Python serve the current directory over HTTP on localhost?",
+   "back": "<code>python3 -m http.server {port}</code>",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-251",
+   "front": "Why isn't the page you get from a YouTube search a file in a directory?",
+   "back": "Web pages aren't just files in a directory any more: the URL carries your query, and the page is built for it",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-252",
+   "text": "After the {{c1::<code>?</code>}} in a URL come the query parameters, separated by {{c2::<code>&amp;</code>}}; each has a name and a value, separated by {{c3::<code>=</code>}}",
+   "extra": "As in <code>/results?search_query=cats</code>.",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-253",
+   "front": "What is percent encoding?",
+   "back": "The URL's escape sequences: a <code>%</code> followed by a character's code, as in <code>%20</code> for a space",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  }
+ ],
+ "arbaeen_ahadith": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-327",
+   "front": "Who narrates the ḥadīth “what I have forbidden you, avoid” (Arbaʿīn 9)?",
+   "back": "Abū Hurayrah RA",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-328",
+   "front": "What was Abū Hurayrah's full name, and what does “Abū Hurayrah” mean?",
+   "back": "ʿAbd al-Raḥmān ibn Ṣakhr. It means “father of the kitten”, a nickname the Prophet ﷺ gave him.",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-329",
+   "front": "When did Abū Hurayrah RA accept Islam, and which group of Companions was he among?",
+   "back": "In 7 AH, the year of Khaybar. He was one of <bdi>أَهْل الصُّفَّة</bdi> (ahl al-ṣuffah), the poor Companions who lived at the Prophet's ﷺ mosque.",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-330",
+   "front": "How many aḥādīth did Abū Hurayrah RA narrate?",
+   "back": "5,374 — the most of anyone",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-331",
+   "text": "Why Arbaʿīn 9 matters: al-Nawawī counts it among {{c1::the important principles of the dīn}}; it is from {{c2::<bdi>جَوَامِع الكَلِم</bdi>}}; and it stresses {{c3::holding to the teachings of the Sunnah}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "importance",
+    "spine"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-332",
+   "front": "What was the background to the ḥadīth “what I have forbidden you, avoid”?",
+   "back": "The Prophet ﷺ said that Ḥajj is obligatory. Someone asked whether it was every year, and he stayed silent three times; then he said that had he said yes, it would have become obligatory, and too hard. So: don't ask about what he has left unspecified.",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "background"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-333",
+   "front": "In the ḥadīth “what I have forbidden you, avoid” (Arbaʿīn 9), what does the Prophet ﷺ say to do with what he forbade and with what he commanded?",
+   "back": "“What I have forbidden you, avoid; and what I have commanded you, do of it as much as you are able”",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "text"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-334",
+   "front": "In the ḥadīth “what I have forbidden you, avoid”, what does “avoid what I have forbidden” cover?",
+   "back": "Both the disliked and the outright ḥarām, from the Qurʾān and the Sunnah. Avoiding them is important, and rewarded.",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "text"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-335",
+   "front": "In the ḥadīth “what I have forbidden you, avoid”, what does “do as much of it as you can” cover, and why only as much as we can?",
+   "back": "Both the encouraged and the obligatory, from the Qurʾān and the Sunnah. We are weak by nature and not perfect, but we're required to give our best effort.",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "text"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-336",
+   "front": "What two causes of earlier nations' downfall does the ḥadīth “what I have forbidden you, avoid” name?",
+   "back": "Excessive questioning — unnecessary, or meant to avoid an obligation, like the Banū Isrāʾīl and the cow — and disagreeing with their prophets",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "text"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-337",
+   "front": "How do scholars rank avoiding prohibitions against following commands?",
+   "back": "As equally important, or even more important",
+   "tags": [
+    "arbaeen",
+    "h09"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-338",
+   "front": "What is the best way to draw closer to Allah, according to the notes on Arbaʿīn 9?",
+   "back": "Obeying His commands, above all the obligations: the best way to grow in His love and attain His mercy. The first focus is the obligations, and the most important of them is the prayer.",
+   "tags": [
+    "arbaeen",
+    "h09"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-339",
+   "front": "What does <bdi>لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا</bdi> (2:286) refer to, according to the notes on Arbaʿīn 9?",
+   "back": "Religious obligations, not trials — it is probably the most misquoted verse of the Qurʾān",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "quran"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-340",
+   "front": "Why is “we're not required to be perfect” not an excuse to skip acts we don't like?",
+   "back": "Because we all have the capacity to obey Allah's commands. Allah wants ease for us, not hardship (2:185), and the religion is ease — but that ease is the capacity to obey.",
+   "tags": [
+    "arbaeen",
+    "h09"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-341",
+   "front": "What does Arbaʿīn 9 teach about asking questions?",
+   "back": "Some questions are useless or have an ulterior purpose; good questions are encouraged",
+   "tags": [
+    "arbaeen",
+    "h09"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-342",
+   "front": "Who narrates the ḥadīth “Allah is good and accepts only what is good” (Arbaʿīn 10)?",
+   "back": "Abū Hurayrah RA",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-343",
+   "front": "Why is the ḥadīth “Allah is good and accepts only what is good” one of the foundations of Islam?",
+   "back": "It describes deeds and their intention, and it stresses lawful sustenance",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "importance"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-344",
+   "term": "<bdi>طَيِّب</bdi> (ṭayyib)",
+   "meaning": "good, pure, wholesome and healthy; as Allah's attribute, pure and perfect, free of any shortcoming",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-345",
+   "front": "Which deeds does Allah accept, according to the ḥadīth “Allah is good and accepts only what is good”?",
+   "back": "Only the good and pure: a deed must be sincere, and done according to the Sharīʿah. Ostentation and arrogance are impurities.",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "text"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-346",
+   "term": "<bdi>قَبُول الإِصَابَة</bdi> (qabūl al-iṣābah)",
+   "meaning": "acceptance of a deed as correct: the legal obligation is fulfilled, as in praying properly",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "acceptance",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-347",
+   "term": "<bdi>قَبُول الإِثَابَة</bdi> (qabūl al-ithābah)",
+   "meaning": "acceptance of a deed with reward: earning Allah's pleasure, so that two correct prayers can differ greatly in reward",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "acceptance",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-348",
+   "front": "The prayer of someone who drinks wine is “not accepted for forty days”. Which acceptance does it lack?",
+   "back": "Qabūl al-ithābah: the prayer is correct (iṣābah) but earns no reward",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "acceptance"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-349",
+   "front": "What does Ibn Rajab say is ṭayyib in the believer?",
+   "back": "His whole being: his heart, through the faith in it; his tongue, through remembrance; and his body, through righteous deeds, the fruits of faith",
+   "tags": [
+    "arbaeen",
+    "h10"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-350",
+   "front": "In the ḥadīth “Allah is good and accepts only what is good” (Arbaʿīn 10), what does the Prophet ﷺ say Allah commanded the believers, and which verses does he recite?",
+   "back": "What He commanded the messengers: “O messengers, eat of the good things and do righteous deeds” (23:51) and “O you who believe, eat of the good things We have provided you” (2:172)",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "text",
+    "quran"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-351",
+   "front": "In those two verses, what are the ṭayyibāt?",
+   "back": "What Allah has allowed us to eat and consume",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "text"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-352",
+   "front": "Whose duʿāʾ, in the ḥadīth “Allah is good and accepts only what is good”, will not be answered, despite everything that should help it?",
+   "back": "A man who travels far, dishevelled and dusty, stretching his hands to the sky — “O Lord, O Lord!” — while his food, drink and clothing are unlawful and he has been nourished by the unlawful",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "text",
+    "dua"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — the text in translation"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-353",
+   "text": "What helps a duʿāʾ be accepted: {{c1::after the five daily prayers}}, {{c2::the last third of the night}}, {{c3::between the adhān and the iqāmah}}, {{c4::travelling}}, {{c5::sickness}}, {{c6::hardship}} and {{c7::being oppressed}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "dua",
+    "enumeration"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-354",
+   "front": "What prevents a duʿāʾ from being answered, according to the notes on Arbaʿīn 10?",
+   "back": "Consuming, wearing or being sustained by the impermissible. If we don't answer Allah's call, how will He answer ours?",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "dua"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-355",
+   "front": "How does “halal and ṭayyib” compare with halal alone, and what is the ruling on seeking lawful income?",
+   "back": "It's a higher standard: lawful, and also pure, wholesome and healthy. Seeking a lawful income is farḍ.",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "sustenance"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-356",
+   "front": "How does unlawful food affect us, according to the notes on Arbaʿīn 10?",
+   "back": "Spiritually: as some foods harm the body, unlawful food harms the soul",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "sustenance"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-357",
+   "front": "If a duʿāʾ seems unanswered, what might be happening instead?",
+   "back": "It may be bad for us; Allah may give it later; He may reward, bless and raise us instead; He may give it in the hereafter; or it may expiate our sins",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "dua"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-358",
+   "front": "When will a duʿāʾ be answered, according to the notes on Arbaʿīn 10?",
+   "back": "When it asks for something lawful, with full faith in Allah, and avoids the things that block it",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "dua"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  }
+ ],
+ "quduri": [
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-348",
+   "front": "What does the Qurʾān say about the prayer times, and who specified them?",
+   "back": "The prayer is prescribed for the believers at fixed times (4:103). Jibrīl specified them: he led the Prophet ﷺ in prayer on two days, once at the start of each time and once at its end, and said the time is what lies between.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-349",
+   "front": "When does the Fajr time begin and end?",
+   "back": "It begins at true dawn (<bdi>الفَجْر الصَّادِق</bdi>, also called the second dawn) and ends at sunrise, just as the disk breaks the horizon. One shouldn't pray while the sun is rising.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-350",
+   "front": "How do false dawn and true dawn differ?",
+   "back": "False dawn (<bdi>الفَجْر الكَاذِب</bdi>, the first) is a vertical white light that appears and then disappears. True dawn comes 15–20 minutes later, as a horizontal light.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "contrast"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-351",
+   "front": "When does the Ẓuhr time begin?",
+   "back": "At zawāl, when the sun passes its zenith",
+   "tags": [
+    "quduri",
+    "salah",
+    "times"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-352",
+   "front": "When does Ẓuhr end and ʿAṣr begin, according to Abū Ḥanīfah, and according to the majority?",
+   "back": "Abū Ḥanīfah: when an object's shadow is twice its length. The majority, the Ṣāḥibān among them: when it equals its length. Neither counts the shadow at zawāl.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "ikhtilaf"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-353",
+   "front": "Given the disagreement over the end of Ẓuhr, what do the Ḥanafī scholars recommend?",
+   "back": "Out of caution, to pray Ẓuhr within the majority's time and ʿAṣr after Abū Ḥanīfah's — a recommendation, not binding",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "ikhtilaf"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-354",
+   "front": "When does the ʿAṣr time end?",
+   "back": "At sunset, just before the whole disk disappears below the horizon",
+   "tags": [
+    "quduri",
+    "salah",
+    "times"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-355",
+   "front": "When does the Maghrib time end, and how do Abū Ḥanīfah and the majority differ?",
+   "back": "When the twilight disappears: the white twilight, for Abū Ḥanīfah; the red, for the majority and the Ṣāḥibān. It goes by what people see where they are, so a valley and a mountain differ.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "ikhtilaf"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-356",
+   "front": "What are the times of ʿIshāʾ and of Witr?",
+   "back": "ʿIshāʾ runs from the end of Maghrib until just before Fajr. Witr ends at the same time, but begins only once one has prayed ʿIshāʾ.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-357",
+   "front": "What is the recommended time for Fajr in the Ḥanafī school, and how did Imam Muḥammad reconcile the views?",
+   "back": "Delayed until al-isfār, when there's a little light, not total darkness. The Shāfiʿīs and Mālikīs prefer the opposite, and both have narrations. Imam Muḥammad: begin in the dark and pray long enough that it grows light.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-358",
+   "front": "When is Ẓuhr best prayed, in summer and in winter?",
+   "back": "In summer, after waiting for it to cool a little; in winter, early",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-359",
+   "front": "Until when is it recommended to delay ʿAṣr?",
+   "back": "For as long as the sun hasn't changed — in colour, or in becoming easy to look at",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-360",
+   "front": "What is recommended for Maghrib, and what follows from it?",
+   "back": "To hasten it — which is why the Ḥanafīs say there's no sunnah prayer between its adhān and iqāmah",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-361",
+   "front": "Until when is it recommended to delay ʿIshāʾ?",
+   "back": "Until just before a third of the night has passed — the night being Maghrib to Fajr, in thirds. The Prophet ﷺ said that if it weren't a burden, he would have made this time obligatory.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-362",
+   "front": "When is Witr best prayed?",
+   "back": "At the end of the night, for someone who prays at night; before sleeping, for someone not in the habit or unsure of waking. It should be the last prayer of the day.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-363",
+   "front": "Someone prays Witr, sleeps, and then wakes in the night. What does he do?",
+   "back": "Pray tahajjud, without praying Witr again",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-364",
+   "term": "<bdi>الأَذَان</bdi> (al-adhān)",
+   "meaning": "the call to prayer — linguistically the announcement, technically a specific announcement at specific times",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-365",
+   "front": "What is the ruling on the adhān, and for which prayers?",
+   "back": "Sunnah muʾakkadah, for the five daily prayers and Jumuʿah, and no others. It's recommended even for someone praying alone, out loud.",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-366",
+   "term": "<bdi>التَّرْجِيع</bdi> (tarjīʿ)",
+   "meaning": "saying the two shahādahs quietly and then loudly in the adhān — not in the Ḥanafī adhān, nor in Bilāl's, but a sunnah for the Shāfiʿīs",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-367",
+   "front": "What does the adhān of Fajr add, and where?",
+   "back": "After <bdi>حَيَّ عَلَى الفَلَاحِ</bdi>: <bdi>الصَّلَاةُ خَيْرٌ مِنَ النَّوْمِ</bdi>, twice",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-368",
+   "front": "How does the iqāmah differ from the adhān?",
+   "back": "It's the same, except that after <bdi>حَيَّ عَلَى الفَلَاحِ</bdi> it adds <bdi>قَدْ قَامَتِ الصَّلَاةُ</bdi>, twice. The Shāfiʿīs and Ḥanbalīs say its phrases once.",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-369",
+   "front": "At what pace are the adhān and the iqāmah said?",
+   "back": "The adhān slowly and measured; the iqāmah quickly",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "contrast"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-370",
+   "front": "Which way does the muʾadhdhin face, and where does he turn?",
+   "back": "Towards the qiblah, though it isn't obligatory. He turns his face to the right for <bdi>حَيَّ عَلَى الصَّلَاةِ</bdi> and to the left for <bdi>حَيَّ عَلَى الفَلَاحِ</bdi>.",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-371",
+   "front": "Someone has missed several prayers. How does he make the adhān and iqāmah for them?",
+   "back": "Both for the first; after that, both, or just the iqāmah",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "qada"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-372",
+   "front": "Why does Qudūrī write <bdi>فَاتَتْهُ صَلَوَاتٌ</bdi>, making the prayers the subject — “prayers escaped him”?",
+   "back": "Out of adab",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "qada"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-373",
+   "front": "What is the ruling on giving the adhān and iqāmah without wuḍūʾ, or in major impurity?",
+   "back": "Best in ritual purity. Without wuḍūʾ it's allowed, though Qudūrī singles out the iqāmah as disliked; giving the adhān in major impurity is disliked.",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-374",
+   "front": "Which adhān may be given before its time begins?",
+   "back": "Fajr's, according to Abū Yūsuf; no other",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-375",
+   "term": "<bdi>الشَّرْط</bdi> (sharṭ), in fiqh",
+   "meaning": "a precondition: the existence of something depends on it, but it lies outside its essence",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-376",
+   "front": "What are the shurūṭ of the prayer, as a group?",
+   "back": "All farḍ, and required for the prayer to be valid, but not part of the prayer itself",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-377",
+   "text": "The shurūṭ of the prayer: {{c1::purity from ritual and physical impurity}}, {{c2::covering the ʿawrah}}, {{c3::the intention}}, {{c4::the time having entered}}, {{c5::facing the qiblah}} and {{c6::the taḥrīmah}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut",
+    "spine"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-378",
+   "term": "<bdi>العَوْرَة</bdi> (al-ʿawrah)",
+   "meaning": "the parts of the body that must be covered",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-379",
+   "front": "What is a man's ʿawrah, for the Ḥanafīs and for the Shāfiʿīs?",
+   "back": "For the Ḥanafīs, from below the navel to below the knee, so the knee is included. For the Shāfiʿīs, what's between the navel and the knee, with neither included.",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-380",
+   "front": "What is a free woman's ʿawrah, and what do the Ḥanafīs also exclude?",
+   "back": "Everything except the face and hands; the Ḥanafīs also exclude the feet",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-381",
+   "front": "What is a female slave's ʿawrah?",
+   "back": "A man's, plus the belly and back — so her hair, and below her knees, are not ʿawrah",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-382",
+   "front": "How does someone with nothing to cover the ʿawrah pray?",
+   "back": "Sitting, gesturing for rukūʿ and sujūd with movements of the head. Standing suffices, but sitting is much better.",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-383",
+   "front": "Someone can't find anything to remove an impurity with. What does he do?",
+   "back": "He prays with it, and doesn't repeat the prayer",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-384",
+   "front": "What must the intention for the prayer be like, and must it be said aloud?",
+   "back": "Made for the prayer, with no gap between it and the start of the prayer. Saying it aloud is neither sunnah nor required.",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-385",
+   "front": "What is the taḥrīmah, and what is discussed about it?",
+   "back": "Saying Allāhu akbar to begin the prayer; whether it's a rukn or a sharṭ",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  }
+ ]
+}
