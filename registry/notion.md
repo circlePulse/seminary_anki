@@ -100,6 +100,15 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Notion corrections, 2026-11-06, at the user's request ("Yes" to fixing every earlier flag). IOK Arabic: the
+ẓarf is maf'ool fihi only; idhā gives a future meaning before a māḍī; 'aDun is ʿawḍu; "most if not all are mabniy"
+is narrowed; the dropped tāʾ and izzammala; nūn al-wiqāyah carries a kasrah; ḍamīr al-faṣl; taʿāla and hāti noted
+as verbs; ʿan is "away from; about"; jazm is majzoom; iʿrāb applies sometimes to a fiʿl; "State C". Arbaʿīn/Qudūrī:
+nights; less than a verse is al-Ṭaḥāwī's view; the blank ruling of istiḥāḍah filled; the gap of purity; istiḥāḍah
+and maʿdhūrah spelled; "the place where he is praying"; scraping is for maniy; "again and again" for īmān and action.
+World Religions: the Eightfold Path (right intention, right mindfulness), nirvana, the Enigmatic Female's gate, and
+Zhu Xi on human nature.
+
 Carded on 2026-11-06: Python HTTP (pyth-232–253), Arbaʿīn Ḥadīth 9 and 10 (arbh-327–358), and Qudūrī Kitāb
 al-Ṣalāh: times, adhān, shurūṭ (qud-348–385). The five mistakes flagged in the draft were then corrected in Notion
 at the user's request: the adhān turns, ʿIshāʾ's third, the Shāfiʿī ʿawrah, the adhān without wuḍūʾ, and the
