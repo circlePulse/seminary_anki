@@ -1,6 +1,6 @@
 # Draft — scan of 2026-11-06 (92 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-11-06 and delivered.**
 
 Source: Notion's change history since the 11-03 scan. Changed: Python (HTTP), Arbaʿīn Ḥadīth 9 and 10, and Qudūrī's
 Kitāb al-Ṣalāh. World Religions has only an empty 11/03 heading so far. Arabic and Riyāḍ are unchanged. Your Arbaʿīn

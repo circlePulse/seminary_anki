@@ -3,7 +3,7 @@
  "topic": "quduri",
  "session": "sep09",
  "source": "Qudūrī — Intro to Qudūrī, class notes 2026-09-09",
- "expected_count": 347,
+ "expected_count": 385,
  "cards": [
   {
    "type": "basic",
@@ -4770,6 +4770,562 @@
    ],
    "session": "oct30",
    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṭahārah: al-anjās and istinjāʾ — class notes 2026-10-30"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-348",
+   "front": "What does the Qurʾān say about the prayer times, and who specified them?",
+   "back": "The prayer is prescribed for the believers at fixed times (4:103). Jibrīl specified them: he led the Prophet ﷺ in prayer on two days, once at the start of each time and once at its end, and said the time is what lies between.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-349",
+   "front": "When does the Fajr time begin and end?",
+   "back": "It begins at true dawn (<bdi>الفَجْر الصَّادِق</bdi>, also called the second dawn) and ends at sunrise, just as the disk breaks the horizon. One shouldn't pray while the sun is rising.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-350",
+   "front": "How do false dawn and true dawn differ?",
+   "back": "False dawn (<bdi>الفَجْر الكَاذِب</bdi>, the first) is a vertical white light that appears and then disappears. True dawn comes 15–20 minutes later, as a horizontal light.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "contrast"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-351",
+   "front": "When does the Ẓuhr time begin?",
+   "back": "At zawāl, when the sun passes its zenith",
+   "tags": [
+    "quduri",
+    "salah",
+    "times"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-352",
+   "front": "When does Ẓuhr end and ʿAṣr begin, according to Abū Ḥanīfah, and according to the majority?",
+   "back": "Abū Ḥanīfah: when an object's shadow is twice its length. The majority, the Ṣāḥibān among them: when it equals its length. Neither counts the shadow at zawāl.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "ikhtilaf"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-353",
+   "front": "Given the disagreement over the end of Ẓuhr, what do the Ḥanafī scholars recommend?",
+   "back": "Out of caution, to pray Ẓuhr within the majority's time and ʿAṣr after Abū Ḥanīfah's — a recommendation, not binding",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "ikhtilaf"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-354",
+   "front": "When does the ʿAṣr time end?",
+   "back": "At sunset, just before the whole disk disappears below the horizon",
+   "tags": [
+    "quduri",
+    "salah",
+    "times"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-355",
+   "front": "When does the Maghrib time end, and how do Abū Ḥanīfah and the majority differ?",
+   "back": "When the twilight disappears: the white twilight, for Abū Ḥanīfah; the red, for the majority and the Ṣāḥibān. It goes by what people see where they are, so a valley and a mountain differ.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "ikhtilaf"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-356",
+   "front": "What are the times of ʿIshāʾ and of Witr?",
+   "back": "ʿIshāʾ runs from the end of Maghrib until just before Fajr. Witr ends at the same time, but begins only once one has prayed ʿIshāʾ.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times"
+   ],
+   "session": "nov03",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: the prayer times — class notes 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-357",
+   "front": "What is the recommended time for Fajr in the Ḥanafī school, and how did Imam Muḥammad reconcile the views?",
+   "back": "Delayed until al-isfār, when there's a little light, not total darkness. The Shāfiʿīs and Mālikīs prefer the opposite, and both have narrations. Imam Muḥammad: begin in the dark and pray long enough that it grows light.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-358",
+   "front": "When is Ẓuhr best prayed, in summer and in winter?",
+   "back": "In summer, after waiting for it to cool a little; in winter, early",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-359",
+   "front": "Until when is it recommended to delay ʿAṣr?",
+   "back": "For as long as the sun hasn't changed — in colour, or in becoming easy to look at",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-360",
+   "front": "What is recommended for Maghrib, and what follows from it?",
+   "back": "To hasten it — which is why the Ḥanafīs say there's no sunnah prayer between its adhān and iqāmah",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-361",
+   "front": "Until when is it recommended to delay ʿIshāʾ?",
+   "back": "Until just before a third of the night has passed — the night being Maghrib to Fajr, in thirds. The Prophet ﷺ said that if it weren't a burden, he would have made this time obligatory.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-362",
+   "front": "When is Witr best prayed?",
+   "back": "At the end of the night, for someone who prays at night; before sleeping, for someone not in the habit or unsure of waking. It should be the last prayer of the day.",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-363",
+   "front": "Someone prays Witr, sleeps, and then wakes in the night. What does he do?",
+   "back": "Pray tahajjud, without praying Witr again",
+   "tags": [
+    "quduri",
+    "salah",
+    "times",
+    "recommended"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-364",
+   "term": "<bdi>الأَذَان</bdi> (al-adhān)",
+   "meaning": "the call to prayer — linguistically the announcement, technically a specific announcement at specific times",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-365",
+   "front": "What is the ruling on the adhān, and for which prayers?",
+   "back": "Sunnah muʾakkadah, for the five daily prayers and Jumuʿah, and no others. It's recommended even for someone praying alone, out loud.",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-366",
+   "term": "<bdi>التَّرْجِيع</bdi> (tarjīʿ)",
+   "meaning": "saying the two shahādahs quietly and then loudly in the adhān — not in the Ḥanafī adhān, nor in Bilāl's, but a sunnah for the Shāfiʿīs",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-367",
+   "front": "What does the adhān of Fajr add, and where?",
+   "back": "After <bdi>حَيَّ عَلَى الفَلَاحِ</bdi>: <bdi>الصَّلَاةُ خَيْرٌ مِنَ النَّوْمِ</bdi>, twice",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-368",
+   "front": "How does the iqāmah differ from the adhān?",
+   "back": "It's the same, except that after <bdi>حَيَّ عَلَى الفَلَاحِ</bdi> it adds <bdi>قَدْ قَامَتِ الصَّلَاةُ</bdi>, twice. The Shāfiʿīs and Ḥanbalīs say its phrases once.",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-369",
+   "front": "At what pace are the adhān and the iqāmah said?",
+   "back": "The adhān slowly and measured; the iqāmah quickly",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "contrast"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-370",
+   "front": "Which way does the muʾadhdhin face, and where does he turn?",
+   "back": "Towards the qiblah, though it isn't obligatory. He turns his face to the right for <bdi>حَيَّ عَلَى الصَّلَاةِ</bdi> and to the left for <bdi>حَيَّ عَلَى الفَلَاحِ</bdi>.",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-371",
+   "front": "Someone has missed several prayers. How does he make the adhān and iqāmah for them?",
+   "back": "Both for the first; after that, both, or just the iqāmah",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "qada"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-372",
+   "front": "Why does Qudūrī write <bdi>فَاتَتْهُ صَلَوَاتٌ</bdi>, making the prayers the subject — “prayers escaped him”?",
+   "back": "Out of adab",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "qada"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-373",
+   "front": "What is the ruling on giving the adhān and iqāmah without wuḍūʾ, or in major impurity?",
+   "back": "Best in ritual purity. Without wuḍūʾ it's allowed, though Qudūrī singles out the iqāmah as disliked; giving the adhān in major impurity is disliked.",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-374",
+   "front": "Which adhān may be given before its time begins?",
+   "back": "Fajr's, according to Abū Yūsuf; no other",
+   "tags": [
+    "quduri",
+    "salah",
+    "adhan",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-375",
+   "term": "<bdi>الشَّرْط</bdi> (sharṭ), in fiqh",
+   "meaning": "a precondition: the existence of something depends on it, but it lies outside its essence",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-376",
+   "front": "What are the shurūṭ of the prayer, as a group?",
+   "back": "All farḍ, and required for the prayer to be valid, but not part of the prayer itself",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "qud-377",
+   "text": "The shurūṭ of the prayer: {{c1::purity from ritual and physical impurity}}, {{c2::covering the ʿawrah}}, {{c3::the intention}}, {{c4::the time having entered}}, {{c5::facing the qiblah}} and {{c6::the taḥrīmah}}",
+   "extra": "",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut",
+    "spine"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "qud-378",
+   "term": "<bdi>العَوْرَة</bdi> (al-ʿawrah)",
+   "meaning": "the parts of the body that must be covered",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-379",
+   "front": "What is a man's ʿawrah, for the Ḥanafīs and for the Shāfiʿīs?",
+   "back": "For the Ḥanafīs, from below the navel to below the knee, so the knee is included. For the Shāfiʿīs, what's between the navel and the knee, with neither included.",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-380",
+   "front": "What is a free woman's ʿawrah, and what do the Ḥanafīs also exclude?",
+   "back": "Everything except the face and hands; the Ḥanafīs also exclude the feet",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-381",
+   "front": "What is a female slave's ʿawrah?",
+   "back": "A man's, plus the belly and back — so her hair, and below her knees, are not ʿawrah",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-382",
+   "front": "How does someone with nothing to cover the ʿawrah pray?",
+   "back": "Sitting, gesturing for rukūʿ and sujūd with movements of the head. Standing suffices, but sitting is much better.",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-383",
+   "front": "Someone can't find anything to remove an impurity with. What does he do?",
+   "back": "He prays with it, and doesn't repeat the prayer",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-384",
+   "front": "What must the intention for the prayer be like, and must it be said aloud?",
+   "back": "Made for the prayer, with no gap between it and the start of the prayer. Saying it aloud is neither sunnah nor required.",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "qud-385",
+   "front": "What is the taḥrīmah, and what is discussed about it?",
+   "back": "Saying Allāhu akbar to begin the prayer; whether it's a rukn or a sharṭ",
+   "tags": [
+    "quduri",
+    "salah",
+    "shurut",
+    "ikhtilaf"
+   ],
+   "session": "nov05",
+   "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
   }
  ]
 }

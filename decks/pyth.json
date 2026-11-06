@@ -3,7 +3,7 @@
  "topic": "pyth",
  "session": "sep24",
  "source": "ICS H32 — lecture notes to 2026-09-24",
- "expected_count": 231,
+ "expected_count": 253,
  "cards": [
   {
    "type": "basic",
@@ -3024,6 +3024,296 @@
    ],
    "session": "oct29",
    "source": "ICS H32 — lecture notes to 2026-10-29"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-232",
+   "front": "What does HTTP stand for, and what is it used for?",
+   "back": "Hypertext Transfer Protocol — fetching the documents you see in a browser",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-233",
+   "front": "What kind of protocol is HTTP?",
+   "back": "Request-response: a client connects and the server accepts; the client sends a request, and the server sends back a response",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-234",
+   "front": "What is a URL?",
+   "back": "A uniform resource locator: where a piece of information you want is",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-235",
+   "text": "A URL gives first the {{c1::scheme}}, which says which protocol is used; then the {{c2::host}}, plus optionally a {{c3::port}}; and after the slash, the {{c4::document or resource}} you want",
+   "extra": "In <code>http://www.example.com:8000/index.html</code>: scheme <code>http</code>, host <code>www.example.com</code>, port <code>8000</code>, resource <code>/index.html</code>.",
+   "tags": [
+    "pyth",
+    "http",
+    "spine"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-236",
+   "front": "What are HTTP verbs, and which is the simplest?",
+   "back": "Words that describe what you want done; the simplest is <code>GET</code>",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-237",
+   "text": "The first line of an HTTP request: the {{c1::verb}}, a space, {{c2::the rest of the URL after the scheme, host and port}}, a space, and {{c3::the protocol version}}",
+   "extra": "For example, <code>GET /index.html HTTP/1.1</code>.",
+   "tags": [
+    "pyth",
+    "http",
+    "spine"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-238",
+   "front": "What are HTTP headers, and how is each one written?",
+   "back": "Extra information after the first line — think of them as parameters. Each is a word, a colon, a space, then the information.",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-239",
+   "front": "Which header is required in an HTTP request, and how does a request show it has ended?",
+   "back": "<code>Host</code>; and a blank line ends the request",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-240",
+   "front": "How does an HTTP response begin?",
+   "back": "With the protocol, then the status code — such as the famous 404 — and then some headers",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-241",
+   "text": "HTTP status codes: the 200s, {{c1::everything is fine}}; the 300s, {{c2::something is off — usually a redirect}}; the 400s, {{c3::the client did something wrong}}; the 500s, {{c4::the server did something wrong}}",
+   "extra": "From the server's side the 500s are “I did something wrong”, and the 400s “you did”.",
+   "tags": [
+    "pyth",
+    "http",
+    "spine"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-242",
+   "front": "Which HTTP version is in plain human-readable text, and which is the latest?",
+   "back": "HTTP/1.1 is plain text; HTTP/3 is the latest",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-243",
+   "front": "What does HTTPS add to HTTP?",
+   "back": "It's secure HTTP, which most web servers use: the same protocol, but the requests and responses are encrypted, and the server proves to the client that it is who it says it is",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-244",
+   "front": "Under HTTPS, how does a server prove who it is?",
+   "back": "A trusted authority vouches for it. Authorities vouch for each other, in a chain that ends at a root certificate built into the OS, which is trusted implicitly.",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-245",
+   "front": "Which part of Python's library makes HTTP requests, and how do you make one?",
+   "back": "<code>urllib.request</code>. Create a <code>Request</code>, initialised with a URL, and pass it to <code>urlopen</code>, which gives back a response object.",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-246",
+   "front": "On a response object, what do <code>.status</code>, <code>.headers</code> and <code>.close()</code> do?",
+   "back": "<code>.status</code> gives the status code; <code>.headers</code> gives the headers and acts like a dictionary; <code>.close()</code> closes the response",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-247",
+   "front": "What does this print?<pre class=\"code\">for x in response.headers:\n    print(f'{x}: {response.headers[x]}')</pre>",
+   "back": "Each header of the response, one per line, as <code>Name: value</code>",
+   "tags": [
+    "pyth",
+    "http",
+    "predict-output"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-248",
+   "front": "What does <code>response.read()</code> return, and how do you turn it into a <code>str</code>?",
+   "back": "All the response's content, as <code>bytes</code> — Python may display it like a string, but it's still bytes. Call <code>.decode()</code>, passing the encoding as a keyword argument: in this class, probably <code>utf-8</code>.",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-249",
+   "front": "How do you turn a <code>str</code> into <code>bytes</code>?",
+   "back": "Call <code>.encode()</code> on it, with the encoding",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-250",
+   "front": "How can Python serve the current directory over HTTP on localhost?",
+   "back": "<code>python3 -m http.server {port}</code>",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-251",
+   "front": "Why isn't the page you get from a YouTube search a file in a directory?",
+   "back": "Web pages aren't just files in a directory any more: the URL carries your query, and the page is built for it",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-252",
+   "text": "After the {{c1::<code>?</code>}} in a URL come the query parameters, separated by {{c2::<code>&amp;</code>}}; each has a name and a value, separated by {{c3::<code>=</code>}}",
+   "extra": "As in <code>/results?search_query=cats</code>.",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-253",
+   "front": "What is percent encoding?",
+   "back": "The URL's escape sequences: a <code>%</code> followed by a character's code, as in <code>%20</code> for a space",
+   "tags": [
+    "pyth",
+    "http"
+   ],
+   "session": "nov03",
+   "source": "ICS H32 — lecture notes to 2026-11-03"
   }
  ]
 }

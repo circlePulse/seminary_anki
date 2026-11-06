@@ -100,6 +100,11 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-11-06: Python HTTP (pyth-232–253), Arbaʿīn Ḥadīth 9 and 10 (arbh-327–358), and Qudūrī Kitāb
+al-Ṣalāh: times, adhān, shurūṭ (qud-348–385). The five mistakes flagged in the draft were then corrected in Notion
+at the user's request: the adhān turns, ʿIshāʾ's third, the Shāfiʿī ʿawrah, the adhān without wuḍūʾ, and the
+300 status codes.
+
 Carded on 2026-11-03: naḥw (nahw-239–283), Qudūrī al-anjās and istinjāʾ (qud-332–347), World Religions 10/29
 (wrel-304–311), Python classes and duck typing (pyth-218–231), and Riyāḍ 80 and 83 (riyad-031–035). The scan
 read `notion-get-version-changes` from each page's last scan time (it lists only changed blocks, up to 7 days per

@@ -37,17 +37,17 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,429 notes across 10 decks.**
+Current state: **2,521 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | vocab | 500 | VOCAB |
-| quduri | 347 | HDT-201 |
-| arbaeen_ahadith | 326 | HDT-201 |
+| quduri | 385 | HDT-201 |
+| arbaeen_ahadith | 358 | HDT-201 |
 | wrel | 311 | RELSTD-5B |
 | sarf | 323 | ARB-201 |
 | nahw | 283 | ARB-201 |
-| pyth | 231 | ICS-H32 |
+| pyth | 253 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
 | riyad | 35 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
@@ -214,6 +214,8 @@ once, and both times was objecting to files that had no reason to exist.
   shows which cell was asked. It reached the user in the 10-23 ṣarf package, which holds all three notetypes.
 - **Ḥadīth 7 (arbh-271–302) rests partly on Claude's translation.** The translation is in `texts/arbaeen_h07.md`
   and the user hasn't checked it; arbh-281 rests on it. Its matn was supplied by Claude from the standard text.
+- **Ḥadīth 9 and 10 (arbh-327–358) were carded 2026-11-06.** Their translations, in `texts/arbaeen_h09.md` and
+  `h10.md`, are Claude's and unchecked. The user's to-do: an Arbaʿīn 1–10 test on 11/18, no memorisation needed.
 - **Ḥadīth 8 (arbh-303–326, voc-464–471) is complete, carded 2026-10-28.**
   The translation in `texts/arbaeen_h08.md` is Claude's and unchecked; arbh-306 rests on it.
 - **Riyāḍ 80 and 83: their duʿāʾs were carded on 2026-11-03** (riyad-031–035), from the to-do "Memorize specifically

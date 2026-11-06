@@ -3,7 +3,7 @@
  "topic": "arbaeen-ahadith",
  "session": "sep16",
  "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
- "expected_count": 326,
+ "expected_count": 358,
  "cards": [
   {
    "type": "basic",
@@ -4521,6 +4521,460 @@
    ],
    "session": "oct27",
    "source": "Arbaʿīn Ḥadīth 8 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-327",
+   "front": "Who narrates the ḥadīth “what I have forbidden you, avoid” (Arbaʿīn 9)?",
+   "back": "Abū Hurayrah RA",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-328",
+   "front": "What was Abū Hurayrah's full name, and what does “Abū Hurayrah” mean?",
+   "back": "ʿAbd al-Raḥmān ibn Ṣakhr. It means “father of the kitten”, a nickname the Prophet ﷺ gave him.",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-329",
+   "front": "When did Abū Hurayrah RA accept Islam, and which group of Companions was he among?",
+   "back": "In 7 AH, the year of Khaybar. He was one of <bdi>أَهْل الصُّفَّة</bdi> (ahl al-ṣuffah), the poor Companions who lived at the Prophet's ﷺ mosque.",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-330",
+   "front": "How many aḥādīth did Abū Hurayrah RA narrate?",
+   "back": "5,374 — the most of anyone",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-331",
+   "text": "Why Arbaʿīn 9 matters: al-Nawawī counts it among {{c1::the important principles of the dīn}}; it is from {{c2::<bdi>جَوَامِع الكَلِم</bdi>}}; and it stresses {{c3::holding to the teachings of the Sunnah}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "importance",
+    "spine"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-332",
+   "front": "What was the background to the ḥadīth “what I have forbidden you, avoid”?",
+   "back": "The Prophet ﷺ said that Ḥajj is obligatory. Someone asked whether it was every year, and he stayed silent three times; then he said that had he said yes, it would have become obligatory, and too hard. So: don't ask about what he has left unspecified.",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "background"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-333",
+   "front": "In the ḥadīth “what I have forbidden you, avoid” (Arbaʿīn 9), what does the Prophet ﷺ say to do with what he commanded?",
+   "back": "“What I have commanded you, do of it as much as you are able”",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "text"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-334",
+   "front": "In the ḥadīth “what I have forbidden you, avoid”, what does “avoid what I have forbidden” cover?",
+   "back": "Both the disliked and the outright ḥarām, from the Qurʾān and the Sunnah. Avoiding them is important, and rewarded.",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "text"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-335",
+   "front": "In the ḥadīth “what I have forbidden you, avoid”, what does “do as much of it as you can” cover, and why only as much as we can?",
+   "back": "Both the encouraged and the obligatory, from the Qurʾān and the Sunnah. We are weak by nature and not perfect, but we're required to give our best effort.",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "text"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-336",
+   "front": "What two causes of earlier nations' downfall does the ḥadīth “what I have forbidden you, avoid” name?",
+   "back": "Excessive questioning — unnecessary, or meant to avoid an obligation, like the Banū Isrāʾīl and the cow — and disagreeing with their prophets",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "text"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-337",
+   "front": "How do scholars rank avoiding prohibitions against following commands?",
+   "back": "As equally important, or even more important",
+   "tags": [
+    "arbaeen",
+    "h09"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-338",
+   "front": "What is the best way to draw closer to Allah, according to the notes on Arbaʿīn 9?",
+   "back": "Obeying His commands, above all the obligations: the best way to grow in His love and attain His mercy. The first focus is the obligations, and the most important of them is the prayer.",
+   "tags": [
+    "arbaeen",
+    "h09"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-339",
+   "front": "What does <bdi>لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا</bdi> (2:286) refer to, according to the notes on Arbaʿīn 9?",
+   "back": "Religious obligations, not trials — it is probably the most misquoted verse of the Qurʾān",
+   "tags": [
+    "arbaeen",
+    "h09",
+    "quran"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-340",
+   "front": "Why is “we're not required to be perfect” not an excuse to skip acts we don't like?",
+   "back": "Because we all have the capacity to obey Allah's commands. Allah wants ease for us, not hardship (2:185), and the religion is ease — but that ease is the capacity to obey.",
+   "tags": [
+    "arbaeen",
+    "h09"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-341",
+   "front": "What does Arbaʿīn 9 teach about asking questions?",
+   "back": "Some questions are useless or have an ulterior purpose; good questions are encouraged",
+   "tags": [
+    "arbaeen",
+    "h09"
+   ],
+   "session": "nov03",
+   "source": "Arbaʿīn Ḥadīth 9 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-342",
+   "front": "Who narrates the ḥadīth “Allah is good and accepts only what is good” (Arbaʿīn 10)?",
+   "back": "Abū Hurayrah RA",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-343",
+   "front": "Why is the ḥadīth “Allah is good and accepts only what is good” one of the foundations of Islam?",
+   "back": "It describes deeds and their intention, and it stresses lawful sustenance",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "importance"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-344",
+   "term": "<bdi>طَيِّب</bdi> (ṭayyib)",
+   "meaning": "good, pure, wholesome and healthy; as Allah's attribute, pure and perfect, free of any shortcoming",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-345",
+   "front": "Which deeds does Allah accept, according to the ḥadīth “Allah is good and accepts only what is good”?",
+   "back": "Only the good and pure: a deed must be sincere, and done according to the Sharīʿah. Ostentation and arrogance are impurities.",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "text"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-346",
+   "term": "<bdi>قَبُول الإِصَابَة</bdi> (qabūl al-iṣābah)",
+   "meaning": "acceptance of a deed as correct: the legal obligation is fulfilled, as in praying properly",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "acceptance",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "arbh-347",
+   "term": "<bdi>قَبُول الإِثَابَة</bdi> (qabūl al-ithābah)",
+   "meaning": "acceptance of a deed with reward: earning Allah's pleasure, so that two correct prayers can differ greatly in reward",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "acceptance",
+    "terminology"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-348",
+   "front": "The prayer of someone who drinks wine is “not accepted for forty days”. Which acceptance does it lack?",
+   "back": "Qabūl al-ithābah: the prayer is correct (iṣābah) but earns no reward",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "acceptance"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-349",
+   "front": "What does Ibn Rajab say is ṭayyib in the believer?",
+   "back": "His whole being: his heart, through the faith in it; his tongue, through remembrance; and his body, through righteous deeds, the fruits of faith",
+   "tags": [
+    "arbaeen",
+    "h10"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-350",
+   "front": "In the ḥadīth “Allah is good and accepts only what is good” (Arbaʿīn 10), what does the Prophet ﷺ say Allah commanded the believers, and which verses does he recite?",
+   "back": "What He commanded the messengers: “O messengers, eat of the good things and do righteous deeds” (23:51) and “O you who believe, eat of the good things We have provided you” (2:172)",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "text",
+    "quran"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — the text in translation"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-351",
+   "front": "In those two verses, what are the ṭayyibāt?",
+   "back": "What Allah has allowed us to eat and consume",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "text"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-352",
+   "front": "Whose duʿāʾ, in the ḥadīth “Allah is good and accepts only what is good”, will not be answered, despite everything that should help it?",
+   "back": "A man who travels far, dishevelled and dusty, stretching his hands to the sky — “O Lord, O Lord!” — while his food, drink and clothing are unlawful and he has been nourished by the unlawful",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "text",
+    "dua"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — the text in translation"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "arbh-353",
+   "text": "What helps a duʿāʾ be accepted: {{c1::after the five daily prayers}}, {{c2::the last third of the night}}, {{c3::between the adhān and the iqāmah}}, {{c4::travelling}}, {{c5::sickness}}, {{c6::hardship}} and {{c7::being oppressed}}",
+   "extra": "",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "dua",
+    "enumeration"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-354",
+   "front": "What prevents a duʿāʾ from being answered, according to the notes on Arbaʿīn 10?",
+   "back": "Consuming, wearing or being sustained by the impermissible. If we don't answer Allah's call, how will He answer ours?",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "dua"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-355",
+   "front": "How does “halal and ṭayyib” compare with halal alone, and what is the ruling on seeking lawful income?",
+   "back": "It's a higher standard: lawful, and also pure, wholesome and healthy. Seeking a lawful income is farḍ.",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "sustenance"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-356",
+   "front": "How does unlawful food affect us, according to the notes on Arbaʿīn 10?",
+   "back": "Spiritually: as some foods harm the body, unlawful food harms the soul",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "sustenance"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-357",
+   "front": "If a duʿāʾ seems unanswered, what might be happening instead?",
+   "back": "It may be bad for us; Allah may give it later; He may reward, bless and raise us instead; He may give it in the hereafter; or it may expiate our sins",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "dua"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-358",
+   "front": "When will a duʿāʾ be answered, according to the notes on Arbaʿīn 10?",
+   "back": "When it asks for something lawful, with full faith in Allah, and avoids the things that block it",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "dua"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
   }
  ]
 }
