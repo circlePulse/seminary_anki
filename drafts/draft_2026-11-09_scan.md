@@ -1,6 +1,6 @@
 # Draft — scan of 2026-11-09 (39 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-11-09 and delivered.**
 
 Source: Notion's change history since the 11-06 scan. Changed: IOK Arabic (a new ṣarf section, irregular verbs) and
 Python (APIs, 2D lists, IDs). Arbaʿīn/Qudūrī, Riyāḍ and World Religions have nothing new; World Religions' 11/03

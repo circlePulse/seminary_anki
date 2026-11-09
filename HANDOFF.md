@@ -37,7 +37,7 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,521 notes across 10 decks.**
+Current state: **2,560 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
@@ -45,9 +45,9 @@ Current state: **2,521 notes across 10 decks.**
 | quduri | 385 | HDT-201 |
 | arbaeen_ahadith | 358 | HDT-201 |
 | wrel | 311 | RELSTD-5B |
-| sarf | 323 | ARB-201 |
+| sarf | 346 | ARB-201 |
 | nahw | 283 | ARB-201 |
-| pyth | 253 | ICS-H32 |
+| pyth | 269 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
 | riyad | 35 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
@@ -218,6 +218,13 @@ once, and both times was objecting to files that had no reason to exist.
   `h10.md`, are Claude's and unchecked. The user's to-do: an Arbaʿīn 1–10 test on 11/18, no memorisation needed.
 - **Ḥadīth 8 (arbh-303–326, voc-464–471) is complete, carded 2026-10-28.**
   The translation in `texts/arbaeen_h08.md` is Claude's and unchecked; arbh-306 rests on it.
+- **Python memory cards carry inline-SVG diagrams (approved 2026-11-09).** The Python page's CLAUDE note asks for
+  visual examples on all memory topics. `mem()` in `drafts/memory_diagram_template.py` draws names on the left,
+  objects on the right and an arrow per reference; a dashed arrow is an old binding. The SVG uses currentColor,
+  so it follows light and dark mode and needs no media file. pyth-262–269 use it.
+- **Ṣarf's irregular verbs (sarf-324–346, 2026-11-09):** نَاقِص, مِثَال and صَحِيح carry the صَرْف science label, since
+  nāqiṣ also names kāna's sisters in naḥw; sarf-339 contrasts the two senses. The example verbs and the
+  four amr forms are Claude's.
 - **Riyāḍ 80 and 83: their duʿāʾs were carded on 2026-11-03** (riyad-031–035), from the to-do "Memorize specifically
   the duas in 80, 82, 83". 82 was already carded, and riyad-035 contrasts 82 with 83, which open alike. The texts
   are Claude's, added to `texts/riyad_memorisation.md`.

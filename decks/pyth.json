@@ -3,7 +3,7 @@
  "topic": "pyth",
  "session": "sep24",
  "source": "ICS H32 — lecture notes to 2026-09-24",
- "expected_count": 253,
+ "expected_count": 269,
  "cards": [
   {
    "type": "basic",
@@ -3314,6 +3314,236 @@
    ],
    "session": "nov03",
    "source": "ICS H32 — lecture notes to 2026-11-03"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-254",
+   "front": "What is an API?",
+   "back": "A way for programs to ask something questions programmatically. It isn't only for the web: programs that only ever run on one computer use APIs too.",
+   "tags": [
+    "pyth",
+    "apis"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-255",
+   "front": "Why would a program ask a web API rather than fetch a website's page?",
+   "back": "The raw source of a modern, rich website runs to thousands and thousands of lines. An API answers the program's question directly, often as JSON.",
+   "tags": [
+    "pyth",
+    "apis"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-256",
+   "front": "In what format does a web API often respond, and how does Python read it?",
+   "back": "JSON. The <code>json</code> module's <code>json.loads()</code> converts JSON text into Python data types: dictionaries, lists and so on.",
+   "tags": [
+    "pyth",
+    "apis",
+    "json"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-257",
+   "front": "Which module does URL (percent) encoding in Python, and what do you pass its <code>urlencode</code>?",
+   "back": "<code>urllib.parse</code>. <code>urlencode</code> takes a list of tuples, one <code>(name, value)</code> pair per query parameter.",
+   "tags": [
+    "pyth",
+    "apis",
+    "http"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-258",
+   "front": "What does this return?<pre class=\"code\">urllib.parse.urlencode([('q', 'lakers clippers'), ('maxResults', 10)])</pre>",
+   "back": "<code>'q=lakers+clippers&amp;maxResults=10'</code> — each pair becomes <code>name=value</code>, joined by <code>&amp;</code>. Here the space is encoded as <code>+</code>, which in a query string means the same as <code>%20</code>.",
+   "tags": [
+    "pyth",
+    "apis",
+    "http",
+    "predict-output"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "pyth-259",
+   "text": "Accessing a web API, end to end: {{c1::build the URL, encoding the query parameters with <code>urlencode</code>}}; {{c2::make a <code>Request</code> and pass it to <code>urlopen</code>}}; {{c3::read the response and decode it as UTF-8}}; {{c4::convert the JSON text with <code>json.loads</code>}}; and {{c5::close the response, in a <code>finally</code> block}}",
+   "extra": "",
+   "tags": [
+    "pyth",
+    "apis",
+    "spine"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-260",
+   "front": "What is a 2D list?",
+   "back": "A list in which each element is a list, as in <code>grid = [[1, 2, 3], [4, 5, 6]]</code>",
+   "tags": [
+    "pyth",
+    "lists"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-261",
+   "front": "What does this print?<pre class=\"code\">grid = [[1, 2, 3], [4, 5, 6]]\nprint(grid[1][0])</pre>",
+   "back": "<code>4</code> — <code>grid[1]</code> is the second inner list, and <code>[0]</code> is its first element",
+   "tags": [
+    "pyth",
+    "lists",
+    "predict-output"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-262",
+   "front": "What does every object in a running Python program have, and what is guaranteed about it?",
+   "back": "An ID, which <code>id()</code> returns. No two objects alive at the same time ever share one.<svg viewBox=\"0 0 300 56\" width=\"300\" height=\"56\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><text x=\"84\" y=\"27\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">x</text><rect x=\"160\" y=\"8.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"27\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">5</text><text x=\"222\" y=\"49\" text-anchor=\"middle\" font-size=\"10\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\" opacity=\".55\">id(x): 4390771216</text><line x1=\"92\" y1=\"22\" x2=\"156.0\" y2=\"22.0\"/><polygon points=\"158,22 150.6,18.9 150.6,25.1\" fill=\"currentColor\"/></svg>",
+   "tags": [
+    "pyth",
+    "memory",
+    "model"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-263",
+   "front": "What happens in memory here?<pre class=\"code\">x = 5\nx += 1</pre>",
+   "back": "The integer <code>5</code> isn't changed. <code>x</code> is re-attached to a different object, <code>6</code>, so <code>id(x)</code> changes.<div style=\"color: var(--muted); font-size: .8em; margin-top: .6em\">Before</div><svg viewBox=\"0 0 300 44\" width=\"300\" height=\"44\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><text x=\"84\" y=\"27\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">x</text><rect x=\"160\" y=\"8.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"27\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">5</text><line x1=\"92\" y1=\"22\" x2=\"156.0\" y2=\"22.0\"/><polygon points=\"158,22 150.6,18.9 150.6,25.1\" fill=\"currentColor\"/></svg><div style=\"color: var(--muted); font-size: .8em; margin-top: .6em\">After <code>x += 1</code></div><svg viewBox=\"0 0 300 84\" width=\"300\" height=\"84\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><text x=\"84\" y=\"47.0\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">x</text><rect x=\"160\" y=\"8.0\" width=\"124\" height=\"28\" rx=\"4\" opacity=\".45\"/><text x=\"222.0\" y=\"27\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\" opacity=\".55\">5</text><rect x=\"160\" y=\"48.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"67\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">6</text><line x1=\"92\" y1=\"42.0\" x2=\"156.1\" y2=\"22.6\" stroke-dasharray=\"4 4\" opacity=\".45\"/><polygon points=\"158,22 150.0,21.2 151.9,27.1\" fill=\"currentColor\" stroke-dasharray=\"4 4\" opacity=\".45\"/><line x1=\"92\" y1=\"42.0\" x2=\"156.1\" y2=\"61.4\"/><polygon points=\"158,62 151.9,56.9 150.0,62.8\" fill=\"currentColor\"/></svg>",
+   "tags": [
+    "pyth",
+    "memory",
+    "model"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-264",
+   "front": "How does a list hold its items in memory?",
+   "back": "It holds references, not the items themselves: each element points to an object, which can live anywhere else in memory and be as large as it likes.<svg viewBox=\"0 0 300 126\" width=\"300\" height=\"126\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><text x=\"30\" y=\"70\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">a</text><line x1=\"38\" y1=\"65\" x2=\"92.0\" y2=\"65.0\"/><polygon points=\"94,65 86.6,61.9 86.6,68.1\" fill=\"currentColor\"/><text x=\"113\" y=\"10\" text-anchor=\"middle\" font-size=\"10\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\" opacity=\".55\">list</text><rect x=\"96\" y=\"14\" width=\"34\" height=\"34\"/><line x1=\"113\" y1=\"31\" x2=\"186.0\" y2=\"31.0\"/><polygon points=\"188,31 180.6,27.9 180.6,34.1\" fill=\"currentColor\"/><rect x=\"190\" y=\"18.0\" width=\"96\" height=\"26\" rx=\"4\"/><text x=\"238.0\" y=\"36\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">10</text><rect x=\"96\" y=\"48\" width=\"34\" height=\"34\"/><line x1=\"113\" y1=\"65\" x2=\"186.0\" y2=\"65.0\"/><polygon points=\"188,65 180.6,61.9 180.6,68.1\" fill=\"currentColor\"/><rect x=\"190\" y=\"52.0\" width=\"96\" height=\"26\" rx=\"4\"/><text x=\"238.0\" y=\"70\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">'hi'</text><rect x=\"96\" y=\"82\" width=\"34\" height=\"34\"/><line x1=\"113\" y1=\"99\" x2=\"186.0\" y2=\"99.0\"/><polygon points=\"188,99 180.6,95.9 180.6,102.1\" fill=\"currentColor\"/><rect x=\"190\" y=\"86.0\" width=\"96\" height=\"26\" rx=\"4\"/><text x=\"238.0\" y=\"104\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">[7, 8]</text></svg>",
+   "tags": [
+    "pyth",
+    "memory",
+    "lists",
+    "model"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-265",
+   "front": "What does this print, and why?<pre class=\"code\">a = [1, 2]\nbefore = id(a)\na.append(3)\nprint(id(a) == before)</pre>",
+   "back": "<code>True</code> — appending changes the list in place. It's still the same object, so its ID doesn't change.<div style=\"color: var(--muted); font-size: .8em; margin-top: .6em\">Before</div><svg viewBox=\"0 0 300 56\" width=\"300\" height=\"56\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><text x=\"84\" y=\"27\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">a</text><rect x=\"160\" y=\"8.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"27\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">[1, 2]</text><text x=\"222\" y=\"49\" text-anchor=\"middle\" font-size=\"10\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\" opacity=\".55\">id …216</text><line x1=\"92\" y1=\"22\" x2=\"156.0\" y2=\"22.0\"/><polygon points=\"158,22 150.6,18.9 150.6,25.1\" fill=\"currentColor\"/></svg><div style=\"color: var(--muted); font-size: .8em; margin-top: .6em\">After <code>a.append(3)</code></div><svg viewBox=\"0 0 300 56\" width=\"300\" height=\"56\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><text x=\"84\" y=\"27\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">a</text><rect x=\"160\" y=\"8.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"27\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">[1, 2, 3]</text><text x=\"222\" y=\"49\" text-anchor=\"middle\" font-size=\"10\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\" opacity=\".55\">id …216, the same</text><line x1=\"92\" y1=\"22\" x2=\"156.0\" y2=\"22.0\"/><polygon points=\"158,22 150.6,18.9 150.6,25.1\" fill=\"currentColor\"/></svg>",
+   "tags": [
+    "pyth",
+    "memory",
+    "lists",
+    "predict-output"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-266",
+   "front": "What does this print, and why?<pre class=\"code\">a = [1, 2]\nb = a\nb.append(3)\nprint(a)</pre>",
+   "back": "<code>[1, 2, 3]</code> — <code>b = a</code> copies nothing. Both names point at the same list, so a change made through one shows through the other.<svg viewBox=\"0 0 300 84\" width=\"300\" height=\"84\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><text x=\"84\" y=\"27\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">a</text><text x=\"84\" y=\"67\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">b</text><rect x=\"160\" y=\"28.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"47.0\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">[1, 2, 3]</text><line x1=\"92\" y1=\"22\" x2=\"156.1\" y2=\"41.4\"/><polygon points=\"158,42.0 151.9,36.9 150.0,42.8\" fill=\"currentColor\"/><line x1=\"92\" y1=\"62\" x2=\"156.1\" y2=\"42.6\"/><polygon points=\"158,42.0 150.0,41.2 151.9,47.1\" fill=\"currentColor\"/></svg>",
+   "tags": [
+    "pyth",
+    "memory",
+    "lists",
+    "predict-output"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-267",
+   "front": "What does this print, and why?<pre class=\"code\">a = [1, 2]\nb = a\nb = [9]\nprint(a)</pre>",
+   "back": "<code>[1, 2]</code> — assigning to <code>b</code> again re-attaches it to a new object. <code>a</code> still points at the first list, which nothing changed.<svg viewBox=\"0 0 300 84\" width=\"300\" height=\"84\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><text x=\"84\" y=\"27\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">a</text><text x=\"84\" y=\"67\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">b</text><rect x=\"160\" y=\"8.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"27\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">[1, 2]</text><rect x=\"160\" y=\"48.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"67\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">[9]</text><line x1=\"92\" y1=\"22\" x2=\"156.0\" y2=\"22.0\"/><polygon points=\"158,22 150.6,18.9 150.6,25.1\" fill=\"currentColor\"/><line x1=\"92\" y1=\"62\" x2=\"156.3\" y2=\"23.0\" stroke-dasharray=\"4 4\" opacity=\".45\"/><polygon points=\"158,22 150.1,23.2 153.3,28.5\" fill=\"currentColor\" stroke-dasharray=\"4 4\" opacity=\".45\"/><line x1=\"92\" y1=\"62\" x2=\"156.0\" y2=\"62.0\"/><polygon points=\"158,62 150.6,58.9 150.6,65.1\" fill=\"currentColor\"/></svg>",
+   "tags": [
+    "pyth",
+    "memory",
+    "lists",
+    "predict-output",
+    "contrast"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-268",
+   "front": "What does this print, and why?<pre class=\"code\">def add_zero(nums):\n    nums.append(0)\n\nscores = [7, 8]\nadd_zero(scores)\nprint(scores)</pre>",
+   "back": "<code>[7, 8, 0]</code> — passing a list to a function doesn't copy it. <code>nums</code> is another name for the caller's list, so the function changed a variable outside itself.<svg viewBox=\"0 0 300 84\" width=\"300\" height=\"84\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><text x=\"84\" y=\"27\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">scores</text><text x=\"84\" y=\"67\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">nums</text><rect x=\"160\" y=\"28.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"47.0\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">[7, 8, 0]</text><line x1=\"92\" y1=\"22\" x2=\"156.1\" y2=\"41.4\"/><polygon points=\"158,42.0 151.9,36.9 150.0,42.8\" fill=\"currentColor\"/><line x1=\"92\" y1=\"62\" x2=\"156.1\" y2=\"42.6\"/><polygon points=\"158,42.0 150.0,41.2 151.9,47.1\" fill=\"currentColor\"/></svg>",
+   "tags": [
+    "pyth",
+    "memory",
+    "functions",
+    "predict-output"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "pyth-269",
+   "front": "What does this print, and why?<pre class=\"code\">def bump(n):\n    n += 1\n\nx = 5\nbump(x)\nprint(x)</pre>",
+   "back": "<code>5</code> — <code>n += 1</code> re-attaches <code>n</code> to a new object, <code>6</code>. Nothing changed the <code>5</code> that <code>x</code> points at.<svg viewBox=\"0 0 300 84\" width=\"300\" height=\"84\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><text x=\"84\" y=\"27\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">x</text><text x=\"84\" y=\"67\" text-anchor=\"end\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">n</text><rect x=\"160\" y=\"8.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"27\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">5</text><rect x=\"160\" y=\"48.0\" width=\"124\" height=\"28\" rx=\"4\"/><text x=\"222.0\" y=\"67\" text-anchor=\"middle\" font-size=\"14\" font-family=\"SF Mono, Menlo, Consolas, DejaVu Sans Mono, monospace\" fill=\"currentColor\" stroke=\"none\">6</text><line x1=\"92\" y1=\"22\" x2=\"156.0\" y2=\"22.0\"/><polygon points=\"158,22 150.6,18.9 150.6,25.1\" fill=\"currentColor\"/><line x1=\"92\" y1=\"62\" x2=\"156.3\" y2=\"23.0\" stroke-dasharray=\"4 4\" opacity=\".45\"/><polygon points=\"158,22 150.1,23.2 153.3,28.5\" fill=\"currentColor\" stroke-dasharray=\"4 4\" opacity=\".45\"/><line x1=\"92\" y1=\"62\" x2=\"156.0\" y2=\"62.0\"/><polygon points=\"158,62 150.6,58.9 150.6,65.1\" fill=\"currentColor\"/></svg>",
+   "tags": [
+    "pyth",
+    "memory",
+    "functions",
+    "predict-output",
+    "contrast"
+   ],
+   "session": "nov05",
+   "source": "ICS H32 — lecture notes to 2026-11-05"
   }
  ]
 }

@@ -100,6 +100,11 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-11-09: ṣarf's irregular verbs (sarf-324–346) and Python APIs, 2D lists, IDs and memory
+(pyth-254–269). Three mistakes were then corrected in Notion at the user's request: takhfīf follows the vowel
+before the hamzah (IOK Arabic); `get_api_results` returns the parsed JSON; and "until you change one of them" now
+separates reassigning from mutating (Python).
+
 Notion corrections, 2026-11-06, at the user's request ("Yes" to fixing every earlier flag). IOK Arabic: the
 ẓarf is maf'ool fihi only; idhā gives a future meaning before a māḍī; 'aDun is ʿawḍu; "most if not all are mabniy"
 is narrowed; the dropped tāʾ and izzammala; nūn al-wiqāyah carries a kasrah; ḍamīr al-faṣl; taʿāla and hāti noted

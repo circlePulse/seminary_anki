@@ -3,7 +3,7 @@
  "topic": "sarf",
  "session": "sep08",
  "source": "IOK Arabic — Ṣarf section, class notes to 2026-09-08",
- "expected_count": 323,
+ "expected_count": 346,
  "cards": [
   {
    "type": "basic",
@@ -4291,6 +4291,350 @@
    "id": "sarf-323",
    "session": "oct27",
    "source": "IOK Arabic — Ṣarf: thulāthī mazīd fīh and rubāʿī — class notes 2026-10-27"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-324",
+   "text": "For ṣarf, the Arabic letters fall into three groups: {{c1::the hamzah}}, {{c2::the weak letters, <bdi>حُرُوف العِلَّة</bdi>}} and {{c3::the sound letters, <bdi>حُرُوف صَحِيحَة</bdi> — all the rest}}",
+   "extra": "The weak letters are <bdi>ا</bdi>, <bdi>و</bdi> and <bdi>ي</bdi>.",
+   "tags": [
+    "sarf",
+    "irregular",
+    "letters",
+    "spine"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-325",
+   "term": "<bdi>حَرْف العِلَّة</bdi> (ḥarf al-ʿillah)",
+   "meaning": "a weak letter: <bdi>ا</bdi>, <bdi>و</bdi> or <bdi>ي</bdi>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "letters",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-326",
+   "term": "<bdi>صَحِيح</bdi> (ṣaḥīḥ), of a verb",
+   "meaning": "a regular, “sound” verb — no hamzah, no doubled letter and no weak letter among its roots",
+   "tags": [
+    "sarf",
+    "irregular",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07",
+   "science": "صَرْف"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-327",
+   "front": "How do some grammarians use <bdi>صَحِيح</bdi> and <bdi>سَالِم</bdi> differently from the class?",
+   "back": "For them <bdi>صَحِيح</bdi> is any verb that isn't <bdi>مُعْتَلّ</bdi>, and <bdi>سَالِم</bdi> is the sub-type that matches the class's <bdi>صَحِيح</bdi>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "terminology",
+    "ikhtilaf"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-328",
+   "text": "The irregular verbs are of three kinds: {{c1::<bdi>مَهْمُوز</bdi>}}, {{c2::<bdi>مُضَاعَف</bdi>}} and {{c3::<bdi>مُعْتَلّ</bdi>}}",
+   "extra": "With a hamzah; with a doubled letter; with a weak letter.",
+   "tags": [
+    "sarf",
+    "irregular",
+    "spine"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-329",
+   "term": "<bdi>مَهْمُوز</bdi> (mahmūz)",
+   "meaning": "a verb with a hamzah among its root letters, such as <bdi>أَكَلَ</bdi>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mahmuz",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-330",
+   "front": "How is the <bdi>مَهْمُوز</bdi> divided?",
+   "back": "By which root letter is the hamzah: the fāʾ, as in <bdi>أَكَلَ</bdi>; the ʿayn, as in <bdi>سَأَلَ</bdi>; or the lām, as in <bdi>قَرَأَ</bdi>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mahmuz"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-331",
+   "term": "<bdi>مُضَاعَف</bdi> (muḍāʿaf), also <bdi>مُضَعَّف</bdi>",
+   "meaning": "a doubled verb: its second and third root letters are the same, such as <bdi>مَدَّ</bdi>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-332",
+   "term": "<bdi>مُعْتَلّ</bdi> (muʿtall)",
+   "meaning": "a weak verb: one with a weak letter among its roots",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mutall",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-333",
+   "text": "The kinds of <bdi>مُعْتَلّ</bdi>: {{c1::<bdi>مِثَال</bdi>}}, {{c2::<bdi>أَجْوَف</bdi>}}, {{c3::<bdi>نَاقِص</bdi>}}, {{c4::<bdi>لَفِيف مَقْرُون</bdi>}} and {{c5::<bdi>لَفِيف مَفْرُوق</bdi>}}",
+   "extra": "The weak letter is first, second or third; then two weak letters, side by side or apart.",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mutall",
+    "spine"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-334",
+   "term": "<bdi>مِثَال</bdi> (mithāl)",
+   "meaning": "an assimilated verb: its first root letter is weak, such as <bdi>وَعَدَ</bdi>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mutall",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07",
+   "science": "صَرْف"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-335",
+   "term": "<bdi>أَجْوَف</bdi> (ajwaf)",
+   "meaning": "a hollow verb: its second root letter is weak, such as <bdi>قَالَ</bdi>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mutall",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-336",
+   "term": "<bdi>نَاقِص</bdi> (nāqiṣ)",
+   "meaning": "a defective verb: its third root letter is weak, such as <bdi>دَعَا</bdi>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mutall",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07",
+   "science": "صَرْف"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-337",
+   "term": "<bdi>لَفِيف مَقْرُون</bdi> (lafīf maqrūn)",
+   "meaning": "a verb with two weak letters side by side: the ʿayn and the lām, such as <bdi>طَوَى</bdi>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mutall",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-338",
+   "term": "<bdi>لَفِيف مَفْرُوق</bdi> (lafīf mafrūq)",
+   "meaning": "a verb with two weak letters apart: the fāʾ and the lām, such as <bdi>وَقَى</bdi>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mutall",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-339",
+   "front": "<bdi>نَاقِص</bdi> means one thing of a verb in ṣarf and another in naḥw. What are they?",
+   "back": "In ṣarf, a verb whose third root letter is weak, like <bdi>دَعَا</bdi>. In naḥw, an incomplete verb — <bdi>كَانَ</bdi> and her sisters — which needs a khabar.",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mutall",
+    "contrast"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-340",
+   "front": "Which two changes can apply to the hamzah of a <bdi>مَهْمُوز</bdi> verb?",
+   "back": "<bdi>تَخْفِيف</bdi> (takhfīf), lightening it, and <bdi>حَذْف</bdi> (ḥadhf), dropping it",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mahmuz"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-341",
+   "term": "<bdi>تَخْفِيف</bdi> (takhfīf) or <bdi>تَسْهِيل</bdi> (tashīl), of the hamzah",
+   "meaning": "lightening the hamzah: changing it to <bdi>ا</bdi>, <bdi>و</bdi> or <bdi>ي</bdi> to match the vowel before it",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mahmuz",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-342",
+   "front": "When must a hamzah be lightened, and when is it optional?",
+   "back": "It must be when two hamzahs meet and the second is sākin: <bdi>أَأْمَنَ</bdi> becomes <bdi>آمَنَ</bdi>. A single sākin hamzah may be: <bdi>رَأْس</bdi> can be read <bdi>رَاس</bdi>.",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mahmuz",
+    "rule"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "sarf-343",
+   "term": "<bdi>حَذْف</bdi> (ḥadhf)",
+   "meaning": "dropping a letter from a word",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mahmuz",
+    "terminology"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-344",
+   "front": "In the amr of which four verbs is the hamzah most often dropped?",
+   "back": "<div class=\"arabic\">أَكَلَ ، أَخَذَ ، أَمَرَ ، سَأَلَ</div>",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mahmuz",
+    "amr"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "sarf-345",
+   "text": "The amr of <bdi>أَكَلَ</bdi> is {{c1::<bdi>كُلْ</bdi>}}; of <bdi>أَخَذَ</bdi>, {{c2::<bdi>خُذْ</bdi>}}; of <bdi>أَمَرَ</bdi>, {{c3::<bdi>مُرْ</bdi>}}; of <bdi>سَأَلَ</bdi>, {{c4::<bdi>سَلْ</bdi>}}",
+   "extra": "Each drops its hamzah.",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mahmuz",
+    "amr"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "sarf-346",
+   "front": "For which of <bdi>كُلْ</bdi>, <bdi>خُذْ</bdi>, <bdi>مُرْ</bdi> and <bdi>سَلْ</bdi> does the hamzah stay dropped everywhere, and for which only at the start of speech?",
+   "back": "Everywhere for <bdi>كُلْ</bdi> and <bdi>خُذْ</bdi>. For <bdi>مُرْ</bdi> and <bdi>سَلْ</bdi> only at the start: after <bdi>وَ</bdi> or <bdi>فَ</bdi> the hamzah usually returns, as in <bdi>وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ</bdi> (20:132) and <bdi>وَاسْأَلِ القَرْيَةَ</bdi> (12:82).",
+   "tags": [
+    "sarf",
+    "irregular",
+    "mahmuz",
+    "amr",
+    "rule"
+   ],
+   "session": "nov07",
+   "source": "IOK Arabic — Ṣarf: irregular verbs — class notes 2026-11-07"
   }
  ]
 }

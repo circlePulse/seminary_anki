@@ -1,6 +1,6 @@
 {
  "_comment": "APPEND-ONLY. An id here must never change or disappear. It is the only link between a regenerated deck and notes that already carry review history in Anki.",
- "generated": "2026-11-06",
+ "generated": "2026-11-09",
  "decks": {
   "arbaeen": {
    "course": "HDT-201",
@@ -863,7 +863,7 @@
     "arbh-330": "612f31b23e25",
     "arbh-331": "a6189aeef871",
     "arbh-332": "80cee239ca49",
-    "arbh-333": "57af4d73b84d",
+    "arbh-333": "9e156fe43339",
     "arbh-334": "d52b262fb45f",
     "arbh-335": "239f18e31343",
     "arbh-336": "1b865014ff30",
@@ -1469,7 +1469,7 @@
   "pyth": {
    "course": "ICS-H32",
    "topic": "pyth",
-   "count": 253,
+   "count": 269,
    "ids": [
     "pyth-001",
     "pyth-002",
@@ -1723,7 +1723,23 @@
     "pyth-250",
     "pyth-251",
     "pyth-252",
-    "pyth-253"
+    "pyth-253",
+    "pyth-254",
+    "pyth-255",
+    "pyth-256",
+    "pyth-257",
+    "pyth-258",
+    "pyth-259",
+    "pyth-260",
+    "pyth-261",
+    "pyth-262",
+    "pyth-263",
+    "pyth-264",
+    "pyth-265",
+    "pyth-266",
+    "pyth-267",
+    "pyth-268",
+    "pyth-269"
    ],
    "fp": {
     "pyth-001": "8f08a31aebc6",
@@ -1978,7 +1994,23 @@
     "pyth-250": "2d7361afe08b",
     "pyth-251": "95aa7d00aafa",
     "pyth-252": "b3da7688de04",
-    "pyth-253": "1d846133f676"
+    "pyth-253": "1d846133f676",
+    "pyth-254": "b41e7607bb4d",
+    "pyth-255": "a56ece052a0d",
+    "pyth-256": "772061842f32",
+    "pyth-257": "0ed4409344a8",
+    "pyth-258": "d69736d9afd3",
+    "pyth-259": "1c994b69bbf2",
+    "pyth-260": "8b26920b88fb",
+    "pyth-261": "bc6bbbbaa26a",
+    "pyth-262": "b8c95cc6ab33",
+    "pyth-263": "9ab68bdde313",
+    "pyth-264": "8b3aa31f4641",
+    "pyth-265": "1f59bfa9650a",
+    "pyth-266": "9ebcbdf1e6af",
+    "pyth-267": "6f70cd912837",
+    "pyth-268": "55acbf44e5d3",
+    "pyth-269": "f49336352ade"
    }
   },
   "quduri": {
@@ -2842,7 +2874,7 @@
   "sarf": {
    "course": "ARB-201",
    "topic": "sarf",
-   "count": 323,
+   "count": 346,
    "ids": [
     "sarf-001",
     "sarf-002",
@@ -3166,7 +3198,30 @@
     "sarf-320",
     "sarf-321",
     "sarf-322",
-    "sarf-323"
+    "sarf-323",
+    "sarf-324",
+    "sarf-325",
+    "sarf-326",
+    "sarf-327",
+    "sarf-328",
+    "sarf-329",
+    "sarf-330",
+    "sarf-331",
+    "sarf-332",
+    "sarf-333",
+    "sarf-334",
+    "sarf-335",
+    "sarf-336",
+    "sarf-337",
+    "sarf-338",
+    "sarf-339",
+    "sarf-340",
+    "sarf-341",
+    "sarf-342",
+    "sarf-343",
+    "sarf-344",
+    "sarf-345",
+    "sarf-346"
    ],
    "fp": {
     "sarf-001": "1a64db4ea843",
@@ -3491,7 +3546,30 @@
     "sarf-320": "a4e5de149f6c",
     "sarf-321": "96fa5b46c076",
     "sarf-322": "fffa896fbb92",
-    "sarf-323": "0bbfdc17f5b6"
+    "sarf-323": "0bbfdc17f5b6",
+    "sarf-324": "fa161b6eee7a",
+    "sarf-325": "b8b5b23684b5",
+    "sarf-326": "58535dec1b68",
+    "sarf-327": "76418f89f4ef",
+    "sarf-328": "a81f4a6467bd",
+    "sarf-329": "75c133b2393b",
+    "sarf-330": "f6176f873e4d",
+    "sarf-331": "9b628f464660",
+    "sarf-332": "9d3da6a97fec",
+    "sarf-333": "eea1db84af1c",
+    "sarf-334": "719c33a305cf",
+    "sarf-335": "d2bfc622b471",
+    "sarf-336": "ba14718a3a3e",
+    "sarf-337": "379b82a441d3",
+    "sarf-338": "e18ce9a6b915",
+    "sarf-339": "0f2ff0c2d375",
+    "sarf-340": "93fb57cb31ff",
+    "sarf-341": "09ec75ea2791",
+    "sarf-342": "6da869fe232b",
+    "sarf-343": "80cdbd68cf7c",
+    "sarf-344": "86b2e10379b7",
+    "sarf-345": "de8e41e9aed1",
+    "sarf-346": "60eba2bd8377"
    }
   },
   "vocab": {
