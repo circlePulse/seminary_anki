@@ -166,7 +166,7 @@
    "tier": 1,
    "id": "nahw-295",
    "text": "A <bdi>غَيْر مُنْصَرِف</bdi> ism shows rafʿ with {{c1::a ḍammah}}, naṣb with {{c2::a fatḥah}} and jarr with {{c3::a fatḥah, in place of the kasrah}} — and never takes tanwīn",
-   "extra": "<bdi>جَاءَ أَحْمَدُ</bdi> · <bdi>رَأَيْتُ أَحْمَدَ</bdi> · <bdi>مَرَرْتُ بِأَحْمَدَ</bdi>",
+   "extra": "<div class=\"arabic\">جَاءَ أَحْمَدُ · رَأَيْتُ أَحْمَدَ · مَرَرْتُ بِأَحْمَدَ</div>",
    "tags": [
     "nahw",
     "murab",
