@@ -100,6 +100,14 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Notion clarification, 2026-11-10, at the user's request ("whatever you can clarify and explain in the cards and
+Notion are welcome"; they were lost in the new naḥw section). IOK Arabic, Chapter 2, 26 in-line edits to the new
+kināyāt and muʿrab toggles: what munṣarif and ghayr munṣarif mean and do, the kasrah returning with al- or iḍāfah,
+an example on every cause, the tāʾ marbūṭah removed from the strong cause, the compound as two words, al-ʿalamiyyah
+and al-ʿadl spelled, why ʿadl was posited, and kam, kadhā, kayta and dhayta explained. The page now also has a
+"Mabniy" toggle holding the mabnī categories and a "mu'rab" toggle beside it. Cards drafted as nahw-284–327
+(`drafts/draft_2026-11-10_nahw.md`), awaiting approval.
+
 Carded on 2026-11-09: ṣarf's irregular verbs (sarf-324–346) and Python APIs, 2D lists, IDs and memory
 (pyth-254–269). Three mistakes were then corrected in Notion at the user's request: takhfīf follows the vowel
 before the hamzah (IOK Arabic); `get_api_results` returns the parsed JSON; and "until you change one of them" now

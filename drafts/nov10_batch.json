@@ -1,0 +1,686 @@
+{
+ "nahw": [
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-284",
+   "term": "<bdi>ظَرْف زَمَان</bdi> (ẓarf zamān)",
+   "meaning": "a ẓarf of time, such as <bdi>أَمْسِ</bdi>, yesterday",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-285",
+   "term": "<bdi>ظَرْف مَكَان</bdi> (ẓarf makān)",
+   "meaning": "a ẓarf of place, such as <bdi>خَلْفَ</bdi>, behind",
+   "tags": [
+    "nahw",
+    "mabni",
+    "zuruf",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-286",
+   "term": "<bdi>الكِنَايَات</bdi> (al-kināyāt)",
+   "meaning": "isms that stand in for something left unnamed: an amount, or words and events",
+   "tags": [
+    "nahw",
+    "mabni",
+    "kinayat",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-287",
+   "term": "كَمْ",
+   "meaning": "how many? how much?",
+   "tags": [
+    "nahw",
+    "mabni",
+    "kinayat"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-288",
+   "front": "What two jobs can <bdi>كَمْ</bdi> do?",
+   "back": "Ask: <bdi>كَمْ كِتَابًا قَرَأْتَ؟</bdi>, “how many books did you read?” Or exclaim: <bdi>كَمْ كِتَابٍ قَرَأْتُ!</bdi>, “how many a book I've read!”",
+   "tags": [
+    "nahw",
+    "mabni",
+    "kinayat"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-289",
+   "term": "كَذَا",
+   "meaning": "so many, so much — such-and-such an amount: <bdi>عِنْدِي كَذَا دِرْهَمًا</bdi>, I have such-and-such dirhams",
+   "tags": [
+    "nahw",
+    "mabni",
+    "kinayat"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-290",
+   "term": "كَيْتَ وَكَيْتَ",
+   "meaning": "such and such — standing in for words or events, like <bdi>ذَيْتَ وَذَيْتَ</bdi>: <bdi>قَالَ كَيْتَ وَكَيْتَ</bdi>, he said such and such",
+   "tags": [
+    "nahw",
+    "mabni",
+    "kinayat"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-291",
+   "front": "Among the <bdi>كِنَايَات</bdi>, what do <bdi>كَمْ</bdi> and <bdi>كَذَا</bdi> stand in for, and what do <bdi>كَيْتَ</bdi> and <bdi>ذَيْتَ</bdi>?",
+   "back": "An unnamed amount; unnamed words or events",
+   "tags": [
+    "nahw",
+    "mabni",
+    "kinayat",
+    "contrast"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-292",
+   "front": "What are the two kinds of muʿrab ism, and which is the default?",
+   "back": "<bdi>مُنْصَرِف</bdi> and <bdi>غَيْر مُنْصَرِف</bdi>. An ism is munṣarif unless a cause makes it otherwise.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "spine"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-293",
+   "term": "<bdi>مُنْصَرِف</bdi> (munṣarif)",
+   "meaning": "fully declinable: a muʿrab ism that takes tanwīn and all three endings, like <bdi>كِتَابٌ</bdi>, <bdi>كِتَابًا</bdi>, <bdi>كِتَابٍ</bdi>",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-294",
+   "term": "<bdi>غَيْر مُنْصَرِف</bdi> (ghayr munṣarif), also <bdi>المَمْنُوع مِنَ الصَّرْف</bdi>",
+   "meaning": "partly declinable: a muʿrab ism that never takes tanwīn or a kasrah",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-295",
+   "text": "A <bdi>غَيْر مُنْصَرِف</bdi> ism shows rafʿ with {{c1::a ḍammah}}, naṣb with {{c2::a fatḥah}} and jarr with {{c3::a fatḥah, in place of the kasrah}} — and never takes tanwīn",
+   "extra": "<bdi>جَاءَ أَحْمَدُ</bdi> · <bdi>رَأَيْتُ أَحْمَدَ</bdi> · <bdi>مَرَرْتُ بِأَحْمَدَ</bdi>",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "rule",
+    "spine"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-296",
+   "front": "What does <bdi>الصَّرْف</bdi> mean in <bdi>المَمْنُوع مِنَ الصَّرْف</bdi>?",
+   "back": "Tanwīn, not the science of ṣarf: the word is “barred from tanwīn”",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-297",
+   "front": "When does a ghayr munṣarif ism take a kasrah after all?",
+   "back": "When it has <bdi>ال</bdi> or is muḍāf: <bdi>فِي المَسَاجِدِ</bdi> (2:187), <bdi>فِي أَحْسَنِ تَقْوِيمٍ</bdi> (95:4)",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "rule"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-298",
+   "front": "How many causes does it take to make an ism ghayr munṣarif?",
+   "back": "One strong cause, or two weak causes together. A strong cause counts as two on its own.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "causes",
+    "spine"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-299",
+   "front": "What are the two strong causes, each enough on its own to make an ism ghayr munṣarif?",
+   "back": "Being a <bdi>جَمْع مُنْتَهَى الجُمُوع</bdi>, and ending in an alif of taʾnīth",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "causes",
+    "strong"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-300",
+   "term": "<bdi>جَمْع مُنْتَهَى الجُمُوع</bdi> (jamʿ muntahā al-jumūʿ)",
+   "meaning": "the “ultimate plural”: a broken plural shaped like <bdi>مَفَاعِل</bdi> or <bdi>مَفَاعِيل</bdi>, such as <bdi>مَسَاجِد</bdi> and <bdi>مَفَاتِيح</bdi>",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "strong",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-301",
+   "text": "After its alif of the plural, a <bdi>جَمْع مُنْتَهَى الجُمُوع</bdi> has one of three things: {{c1::two vowelled letters}}, {{c2::one doubled letter}}, or {{c3::three letters, the middle one sākin}}",
+   "extra": "In order: <bdi>مَسَاجِد</bdi>, <bdi>دَوَابّ</bdi>, <bdi>مَفَاتِيح</bdi>.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "strong"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-302",
+   "front": "How does <bdi>مَصَابِيح</bdi> appear in <bdi>وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ</bdi> (67:5), and why?",
+   "back": "With a fatḥah and no tanwīn, though it's majrūr after <bdi>بِ</bdi>. It's a <bdi>جَمْع مُنْتَهَى الجُمُوع</bdi>: three letters follow the alif, the middle one sākin.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "strong",
+    "practice"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-303",
+   "front": "Which sign of femininity is a strong cause on its own, and in what two forms does it come?",
+   "back": "The alif of taʾnīth. Maqṣūrah, with no hamzah after it: <bdi>ذِكْرَى</bdi>, <bdi>حُبْلَى</bdi>. Or mamdūdah, followed by a hamzah: <bdi>صَحْرَاء</bdi>, <bdi>حَمْرَاء</bdi>. It counts whether or not the word is a name, or feminine in meaning.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "strong"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-304",
+   "front": "<bdi>مَدْرَسَةٌ</bdi> ends in a sign of femininity, yet it takes tanwīn. Why?",
+   "back": "A tāʾ marbūṭah is only a weak cause, so it needs a second: being a name, as in <bdi>فَاطِمَةُ</bdi>. Only the alif of taʾnīth is strong enough alone.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "strong",
+    "contrast"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-305",
+   "front": "A word ending in an alif maqṣūrah hides all its endings anyway. How can you tell a ghayr munṣarif one from a munṣarif one?",
+   "back": "By tanwīn. A munṣarif one takes it when indefinite: <bdi>فَتًى</bdi>, <bdi>هُدًى</bdi>. A ghayr munṣarif one never does: <bdi>ذِكْرَى</bdi>, <bdi>حُبْلَى</bdi>.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "strong",
+    "contrast"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-306",
+   "front": "How must two weak causes pair up to make an ism ghayr munṣarif?",
+   "back": "One of meaning — being a name or a descriptor — with one of form",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "causes",
+    "weak",
+    "spine"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-307",
+   "term": "<bdi>العَلَمِيَّة</bdi> (al-ʿalamiyyah)",
+   "meaning": "being a proper name — one of the two weak causes of meaning",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-308",
+   "term": "<bdi>الوَصْفِيَّة</bdi> (al-waṣfiyyah)",
+   "meaning": "being a descriptor, an adjective — one of the two weak causes of meaning",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "cloze",
+   "tier": 1,
+   "id": "nahw-309",
+   "text": "The six weak causes of form: {{c1::taʾnīth without the alif — a tāʾ marbūṭah, or a feminine meaning}}, {{c2::being non-Arabic}}, {{c3::being a compound}}, {{c4::an added alif and nūn}}, {{c5::a verb's pattern}} and {{c6::having left its original form}}",
+   "extra": "In Arabic: <bdi>التَّأْنِيث</bdi>, <bdi>العُجْمَة</bdi>, <bdi>التَّرْكِيب</bdi>, <bdi>الأَلِف وَالنُّون الزَّائِدَتَان</bdi>, <bdi>وَزْن الفِعْل</bdi> and <bdi>العَدْل</bdi>.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak",
+    "spine"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-310",
+   "front": "A tāʾ marbūṭah, or a feminine meaning: which cause of meaning must it pair with, and what are examples?",
+   "back": "Only being a name. By the tāʾ: <bdi>فَاطِمَة</bdi>, <bdi>طَلْحَة</bdi>, <bdi>مَكَّة</bdi>. By meaning: <bdi>زَيْنَب</bdi>, <bdi>مَرْيَم</bdi>.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-311",
+   "term": "<bdi>العُجْمَة</bdi> (al-ʿujmah)",
+   "meaning": "being non-Arabic — a weak cause of form that pairs only with being a name, as in <bdi>إِبْرَاهِيم</bdi> and <bdi>يُوسُف</bdi>",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-312",
+   "front": "<bdi>إِبْرَاهِيم</bdi> is ghayr munṣarif as a non-Arabic name. Why do <bdi>نُوح</bdi> and <bdi>لُوط</bdi> still take tanwīn?",
+   "back": "A three-letter name with a sākin middle letter is light enough to stay munṣarif: <bdi>وَلَقَدْ أَرْسَلْنَا نُوحًا</bdi> (11:25)",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak",
+    "contrast"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-313",
+   "term": "<bdi>التَّرْكِيب</bdi> (al-tarkīb), as a cause",
+   "meaning": "being a compound: two words fused into one name, such as <bdi>حَضْرَمَوْت</bdi> and <bdi>بَعْلَبَكّ</bdi> — a weak cause of form, only for names",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-314",
+   "front": "An added alif and nūn: which causes of meaning can it pair with, and what are examples?",
+   "back": "Either. A name: <bdi>عُثْمَان</bdi>, <bdi>مَرْوَان</bdi>. A descriptor on <bdi>فَعْلَان</bdi>: <bdi>سَكْرَان</bdi>, <bdi>غَضْبَان</bdi>. The two letters must be added, not part of the root.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-315",
+   "front": "A verb's pattern: which causes of meaning can it pair with, and what are examples?",
+   "back": "Either. A name: <bdi>يَزِيد</bdi>, <bdi>يَثْرِب</bdi>. A descriptor on <bdi>أَفْعَل</bdi>: <bdi>أَحْمَر</bdi>, <bdi>أَكْبَر</bdi>.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "bidir",
+   "tier": 1,
+   "id": "nahw-316",
+   "term": "<bdi>العَدْل</bdi> (al-ʿadl), as a cause",
+   "meaning": "an ism having left its original form, as <bdi>عُمَر</bdi> is said to come from <bdi>عَامِر</bdi> — a weak cause of form",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak",
+    "terminology"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-317",
+   "front": "Why did the grammarians posit <bdi>العَدْل</bdi>?",
+   "back": "Names like <bdi>عُمَر</bdi> and <bdi>زُفَر</bdi> never take tanwīn, yet show only one cause: being a name. So the grammarians judged that such a word must have left an original form, and counted that as its second cause.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-318",
+   "front": "Why is <bdi>أَحْمَد</bdi> ghayr munṣarif?",
+   "back": "Two weak causes: it's a name, and it's on a verb's pattern",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "practice",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-319",
+   "front": "Why is <bdi>أَفْضَل</bdi> ghayr munṣarif?",
+   "back": "Two weak causes: it's a descriptor, and it's on a verb's pattern (<bdi>أَفْعَل</bdi>)",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "practice",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-320",
+   "front": "Why is <bdi>حَمْزَة</bdi> ghayr munṣarif?",
+   "back": "Two weak causes: it's a name, and it ends in a tāʾ marbūṭah — though it names a man",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "practice",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-321",
+   "front": "Why is <bdi>سُعَاد</bdi> ghayr munṣarif?",
+   "back": "Two weak causes: it's a name, and it's feminine in meaning",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "practice",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-322",
+   "front": "Why is <bdi>إِسْمَاعِيل</bdi> ghayr munṣarif?",
+   "back": "Two weak causes: it's a name, and it's non-Arabic",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "practice",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-323",
+   "front": "Why does <bdi>رَمَضَان</bdi> end in a fatḥah in <bdi>شَهْرُ رَمَضَانَ</bdi> (2:185), though it's a muḍāf ilayhi?",
+   "back": "It's ghayr munṣarif by two weak causes — a name, with an added alif and nūn — so its jarr shows as a fatḥah",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "practice",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-324",
+   "front": "Why is <bdi>عَطْشَان</bdi> ghayr munṣarif?",
+   "back": "Two weak causes: it's a descriptor, with an added alif and nūn (<bdi>فَعْلَان</bdi>)",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "practice",
+    "weak"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-325",
+   "front": "Why is <bdi>عُلَمَاء</bdi> ghayr munṣarif?",
+   "back": "One strong cause: it ends in an alif mamdūdah of taʾnīth — though it isn't feminine in meaning",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "practice",
+    "strong"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-326",
+   "front": "Why is <bdi>دَرَاهِم</bdi> ghayr munṣarif?",
+   "back": "One strong cause: it's a <bdi>جَمْع مُنْتَهَى الجُمُوع</bdi>, with two vowelled letters after the alif",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "practice",
+    "strong"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "nahw-327",
+   "front": "<bdi>مُحَمَّدٌ</bdi> is a name. Why does it still take tanwīn?",
+   "back": "Being a name is only one weak cause, of meaning. With no cause of form beside it, the word stays munṣarif.",
+   "tags": [
+    "nahw",
+    "murab",
+    "ghayr-munsarif",
+    "practice",
+    "contrast"
+   ],
+   "session": "nov09",
+   "source": "Tasheel al-Nahw ch.2 — class notes to 2026-11-09"
+  }
+ ]
+}
