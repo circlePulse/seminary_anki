@@ -1,6 +1,6 @@
 # Draft — naḥw: the kināyāt, and munṣarif and ghayr munṣarif (44 new notes)
 
-Status: **awaiting approval.**
+Status: **approved 2026-11-10 and delivered.**
 
 Source: the new toggles in Chapter 2 of *Tasheel Al-Nahw* on the IOK Arabic page, read from Notion's change history
 on 2026-11-10. Session tag `nov09`. You said you were lost in this section, so the cards explain as well as test,

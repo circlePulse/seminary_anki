@@ -37,7 +37,7 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,560 notes across 10 decks.**
+Current state: **2,604 notes across 10 decks.**
 
 | deck | notes | course |
 |---|---|---|
@@ -46,7 +46,7 @@ Current state: **2,560 notes across 10 decks.**
 | arbaeen_ahadith | 358 | HDT-201 |
 | wrel | 311 | RELSTD-5B |
 | sarf | 346 | ARB-201 |
-| nahw | 283 | ARB-201 |
+| nahw | 327 | ARB-201 |
 | pyth | 269 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
 | riyad | 35 | HDT-202 |
@@ -218,6 +218,10 @@ once, and both times was objecting to files that had no reason to exist.
   `h10.md`, are Claude's and unchecked. The user's to-do: an Arbaʿīn 1–10 test on 11/18, no memorisation needed.
 - **Ḥadīth 8 (arbh-303–326, voc-464–471) is complete, carded 2026-10-28.**
   The translation in `texts/arbaeen_h08.md` is Claude's and unchecked; arbh-306 rests on it.
+- **Naḥw's munṣarif and ghayr munṣarif cards (nahw-292–327, 2026-11-10) explain as well as test.** The user was
+  lost in the section and asked for clarification in the cards and in Notion. What ghayr munṣarif does, the kasrah
+  returning with al- or iḍāfah, every example, the diagnosis cards and the Nūḥ exception are Claude's; the
+  strong/weak and meaning/form framework is the teacher's. The Notion section was expanded in place the same day.
 - **Python memory cards carry inline-SVG diagrams (approved 2026-11-09).** The Python page's CLAUDE note asks for
   visual examples on all memory topics. `mem()` in `drafts/memory_diagram_template.py` draws names on the left,
   objects on the right and an arrow per reference; a dashed arrow is an old binding. The SVG uses currentColor,
