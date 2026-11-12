@@ -100,6 +100,10 @@ toggles at the bottom, so "what's new" means comparing topics against the deck.
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Notion edit, 2026-11-12, at the user's request: the maniy line under al-anjās (Arbaʿīn/Qudūrī page) now says
+scraping needs thick maniy that dries as a crust, and that modern Ḥanafī scholars judge it usually thin now, so it
+must be washed; "not the same substance" is gone. qud-337 was reworded the same way.
+
 Notion clarification, 2026-11-10, at the user's request ("whatever you can clarify and explain in the cards and
 Notion are welcome"; they were lost in the new naḥw section). IOK Arabic, Chapter 2, 26 in-line edits to the new
 kināyāt and muʿrab toggles: what munṣarif and ghayr munṣarif mean and do, the kasrah returning with al- or iḍāfah,
