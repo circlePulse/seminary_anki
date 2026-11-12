@@ -3,7 +3,7 @@
  "topic": "arbaeen-ahadith",
  "session": "sep16",
  "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
- "expected_count": 358,
+ "expected_count": 359,
  "cards": [
   {
    "type": "basic",
@@ -4924,8 +4924,8 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-355",
-   "front": "How does “halal and ṭayyib” compare with halal alone, and what is the ruling on seeking lawful income?",
-   "back": "It's a higher standard: lawful, and also pure, wholesome and healthy. Seeking a lawful income is farḍ.",
+   "front": "How does “halal and ṭayyib” compare with halal alone?",
+   "back": "It's a higher standard: lawful, and also pure, wholesome and healthy",
    "tags": [
     "arbaeen",
     "h10",
@@ -4972,6 +4972,20 @@
     "arbaeen",
     "h10",
     "dua"
+   ],
+   "session": "nov05",
+   "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "type": "basic",
+   "tier": 1,
+   "id": "arbh-359",
+   "front": "What is the ruling on seeking a lawful source of income?",
+   "back": "It's farḍ: we must make sure our income and livelihood come from lawful means",
+   "tags": [
+    "arbaeen",
+    "h10",
+    "sustenance"
    ],
    "session": "nov05",
    "source": "Arbaʿīn Ḥadīth 10 — class notes"

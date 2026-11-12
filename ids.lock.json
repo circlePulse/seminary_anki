@@ -1,6 +1,6 @@
 {
  "_comment": "APPEND-ONLY. An id here must never change or disappear. It is the only link between a regenerated deck and notes that already carry review history in Anki.",
- "generated": "2026-11-10",
+ "generated": "2026-11-12",
  "decks": {
   "arbaeen": {
    "course": "HDT-201",
@@ -169,7 +169,7 @@
   "arbaeen_ahadith": {
    "course": "HDT-201",
    "topic": "arbaeen-ahadith",
-   "count": 358,
+   "count": 359,
    "ids": [
     "arbh-001",
     "arbh-002",
@@ -528,7 +528,8 @@
     "arbh-355",
     "arbh-356",
     "arbh-357",
-    "arbh-358"
+    "arbh-358",
+    "arbh-359"
    ],
    "fp": {
     "arbh-001": "ca1429b96863",
@@ -885,10 +886,11 @@
     "arbh-352": "110c304e370e",
     "arbh-353": "b6a8ae9719b5",
     "arbh-354": "07722690b0fb",
-    "arbh-355": "e93e175c273b",
+    "arbh-355": "e361445d739a",
     "arbh-356": "0e1a90663f44",
     "arbh-357": "0e3ebb430d8a",
-    "arbh-358": "4410b4af297b"
+    "arbh-358": "4410b4af297b",
+    "arbh-359": "ca02708dd0b4"
    }
   },
   "nahw": {
@@ -2656,10 +2658,10 @@
     "qud-161": "2c011e9f4df5",
     "qud-162": "0381483360f1",
     "qud-163": "ff5d1b351462",
-    "qud-164": "f2425cb2022f",
-    "qud-165": "c8f06909b6bd",
-    "qud-166": "c5fe8ebfa4cf",
-    "qud-167": "5f0a3d96ae11",
+    "qud-164": "28cd362b57fb",
+    "qud-165": "133a0059e4fe",
+    "qud-166": "92275c171b4d",
+    "qud-167": "8fba0337ba32",
     "qud-168": "534eb968305f",
     "qud-169": "56b727e227b2",
     "qud-170": "b0ba7ba7afb6",
