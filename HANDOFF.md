@@ -218,6 +218,13 @@ once, and both times was objecting to files that had no reason to exist.
   `h10.md`, are Claude's and unchecked. The user's to-do: an Arbaʿīn 1–10 test on 11/18, no memorisation needed.
 - **Ḥadīth 8 (arbh-303–326, voc-464–471) is complete, carded 2026-10-28.**
   The translation in `texts/arbaeen_h08.md` is Claude's and unchecked; arbh-306 rests on it.
+- **Qudūrī's wuḍūʾ cards follow the teacher's categories, not al-Qudūrī's headings (2026-11-12).** Fourteen sunan
+  muʾakkadah on three list cards (tah-027, qud-154, qud-167), and wiping the neck as the one mustaḥabb action
+  (qud-166). Al-Qudūrī's "mustaḥabb" heading survives only on qud-165, as an oversight. Open point for the user's
+  teacher: al-Hidāyah and Kanz also count beginning with the right as mustaḥabb, but the notes say only the neck.
+- **An .apkg can't reset scheduling on cards the user already has.** Import updates a note's fields and tags but
+  keeps its cards' history. When the user wants to relearn edited cards, keep the ids, add a one-off tag (here
+  `relearn-nov12`), and tell them to search that tag in the browser and choose Forget (Reset in some versions).
 - **Naḥw's munṣarif and ghayr munṣarif cards (nahw-292–327, 2026-11-10) explain as well as test.** The user was
   lost in the section and asked for clarification in the cards and in Notion. What ghayr munṣarif does, the kasrah
   returning with al- or iḍāfah, every example, the diagnosis cards and the Nūḥ exception are Claude's; the

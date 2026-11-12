@@ -1,6 +1,7 @@
 # Draft — Qudūrī: the wuḍūʾ sunnah and mustaḥabb cards, by their actual categories (8 edits)
 
-Status: **awaiting approval.**
+Status: **approved 2026-11-12 and delivered.** The five notes whose answers changed (qud-155, 165, 166, 167, 270)
+also carry the tag `relearn-nov12`, so the user can reset their scheduling in Anki.
 
 Source: your request of 2026-11-12, and the teacher's correction already in your notes: al-Qudūrī's mustaḥabb list is
 an oversight, and only wiping the neck is really mustaḥabb. No new notes; the edits keep every id and review history.

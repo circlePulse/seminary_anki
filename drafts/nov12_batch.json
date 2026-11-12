@@ -7,18 +7,41 @@
    "extra": "Fourteen in total; 1–5 and 10–14 are on the companion cards."
   },
   "qud-155": {
-   "back": "Fourteen"
+   "back": "Fourteen",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "sunan",
+    "relearn-nov12"
+   ]
   },
   "qud-164": {
    "front": "Which category of sunnah is a mustaḥabb action?"
   },
   "qud-165": {
    "front": "Al-Qudūrī lists six actions of wuḍūʾ as mustaḥabb. What is the preferred position on his list?",
-   "back": "That it's an oversight: five of the six are really sunnah <bdi>مُؤَكَّدَة</bdi>. Only wiping the neck is mustaḥabb."
+   "back": "That it's an oversight: five of the six are really sunnah <bdi>مُؤَكَّدَة</bdi>. Only wiping the neck is mustaḥabb.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb",
+    "criterion",
+    "relearn-nov12"
+   ]
   },
   "qud-166": {
    "text": "Wiping {{c2::the neck}} is the one action of wuḍūʾ that is only {{c1::mustaḥabb}}",
-   "extra": "Mustaḥabb is sunnah <bdi>غَيْر مُؤَكَّدَة</bdi>: recommended and encouraged."
+   "extra": "Mustaḥabb is sunnah <bdi>غَيْر مُؤَكَّدَة</bdi>: recommended and encouraged.",
+   "tags": [
+    "quduri",
+    "tahara",
+    "wudu",
+    "mustahabb",
+    "criterion",
+    "relearn-nov12"
+   ]
   },
   "qud-167": {
    "text": "These five actions of wuḍūʾ are each {{c6::a sunnah <bdi>مُؤَكَّدَة</bdi>}} (numbers 10–14): {{c1::intending purification at the start}}; {{c2::wiping the whole head}}; {{c3::doing it in sequence}}; {{c4::beginning with the right}}; {{c5::doing it consecutively}}",
@@ -28,11 +51,19 @@
     "tahara",
     "wudu",
     "sunan",
-    "spine"
+    "spine",
+    "relearn-nov12"
    ]
   },
   "qud-270": {
-   "back": "In tayammum it is obligatory; in wuḍūʾ it is a sunnah <bdi>مُؤَكَّدَة</bdi>, not a requirement — fittingly, <bdi>تَيَمُّم</bdi> itself means to intend"
+   "back": "In tayammum it is obligatory; in wuḍūʾ it is a sunnah <bdi>مُؤَكَّدَة</bdi>, not a requirement — fittingly, <bdi>تَيَمُّم</bdi> itself means to intend",
+   "tags": [
+    "quduri",
+    "tahara",
+    "tayammum",
+    "contrast",
+    "relearn-nov12"
+   ]
   }
  }
 }
