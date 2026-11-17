@@ -32,7 +32,13 @@
                  "decks": ["pyth"], "id_prefixes": ["pyth"],
                  "packs": ["cs"],
                  "notion": "UCI Dashboard > Y1 Q1 Courses > Python Programming and Libraries (Accelerated)",
-                 "notion_id": "3a5737ec4b8a80568691d464ac953688"}
+                 "notion_id": "3a5737ec4b8a80568691d464ac953688"},
+  "QRN-HAFS":   {"name": "Hafs ijazah (tajwid)",
+                 "decks": ["hafs"], "id_prefixes": ["hafs"],
+                 "packs": ["arabic", "shared-terms"],
+                 "notion": "top-level page: Hafs Ijazah (under neither dashboard)",
+                 "notion_id": "41b737ec4b8a80cb98abf4df1fda4e15",
+                 "diagrams": "drafts/tajwid_diagrams.py"}
  },
  "packs": {
   "arabic":       "skill/references/arabic.md",
