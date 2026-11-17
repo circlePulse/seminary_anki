@@ -1,6 +1,6 @@
 # Draft — Ḥafṣ term cards (2026-11-17, second batch)
 
-Status: **awaiting approval.** Every term below is mentioned on a card but has no card of its own.
+Status: **approved and delivered 2026-11-17.** Every term below is mentioned on a card but has no card of its own.
 
 Change: hafs-042 (what produces the madd and līn letters) loses its bracketed definition of the līn letters, which moves to hafs-067.
 

@@ -3,7 +3,7 @@
  "topic": "hafs",
  "session": "nov17",
  "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
- "expected_count": 61,
+ "expected_count": 70,
  "cards": [
   {
    "type": "basic",
@@ -546,7 +546,7 @@
   {
    "type": "basic",
    "front": "What physically produces the madd and līn letters?",
-   "back": "Vibration of the vocal cords, shaped by a mouth position particular to each letter; no two organs meet. (Līn letters are wāw or yāʾ sākinah after a fatḥah, as in <bdi>خَوْف</bdi> and <bdi>بَيْت</bdi>.)",
+   "back": "Vibration of the vocal cords, shaped by a mouth position particular to each letter; no two organs meet.",
    "tier": 1,
    "id": "hafs-042",
    "tags": [
@@ -810,6 +810,131 @@
    "tier": 1,
    "session": "nov17",
    "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">إِعْجام</div>",
+   "meaning": "adding dots to letters that share a written shape",
+   "tags": [
+    "hafs",
+    "hafs-terms"
+   ],
+   "tier": 1,
+   "id": "hafs-062",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">مُحَقَّق</div>",
+   "meaning": "specific (of an articulation point): the sound hits a particular organ",
+   "tags": [
+    "hafs",
+    "hafs-terms"
+   ],
+   "tier": 1,
+   "id": "hafs-063",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">مُقَدَّر</div>",
+   "meaning": "approximate (of an articulation point): the sound hits no particular organ",
+   "tags": [
+    "hafs",
+    "hafs-terms"
+   ],
+   "tier": 1,
+   "id": "hafs-064",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">قَرْع</div>",
+   "meaning": "collision of two parts of the speech organs",
+   "tags": [
+    "hafs",
+    "hafs-terms"
+   ],
+   "tier": 1,
+   "id": "hafs-065",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">قَلْع</div>",
+   "meaning": "separation of two parts of the speech organs",
+   "tags": [
+    "hafs",
+    "hafs-terms"
+   ],
+   "tier": 1,
+   "id": "hafs-066",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">حَرْفا اللِّين</div>",
+   "meaning": "wāw or yāʾ sākinah after a fatḥah, as in <bdi>خَوْف</bdi> and <bdi>بَيْت</bdi>",
+   "tags": [
+    "hafs",
+    "hafs-terms"
+   ],
+   "tier": 1,
+   "id": "hafs-067",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">المَدّ الطَّبِيعِيّ</div>",
+   "meaning": "the natural madd: a madd letter held for 2 counts",
+   "tags": [
+    "hafs",
+    "hafs-terms"
+   ],
+   "tier": 1,
+   "id": "hafs-068",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">تَقْلِيل</div>",
+   "meaning": "a slight lean, halfway between a plain fatḥah and imālah",
+   "tags": [
+    "hafs",
+    "hafs-terms"
+   ],
+   "tier": 1,
+   "id": "hafs-069",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">إِمالَة</div>",
+   "meaning": "a full lean: the fatḥah toward a kasrah, and the alif after it toward a yāʾ",
+   "tags": [
+    "hafs",
+    "hafs-terms"
+   ],
+   "tier": 1,
+   "id": "hafs-070",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
   }
  ]
 }

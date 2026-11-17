@@ -36,6 +36,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | a dispensation that makes life easier | رُخْصَة (rukhṣah) | a dispensation that makes life easier — like wiping over footgear, whi | HDT-201 | qud-288 |
 | a doorkeeper | بَوَّاب | a doorkeeper, a gatekeeper | VOCAB | voc-110 |
 | a doubled verb: its second and third root letters are the same | مُضَاعَف (muḍāʿaf), also مُضَعَّف | a doubled verb: its second and third root letters are the same, such a | ARB-201 | sarf-331 |
+| a full lean: the fatḥah toward a kasrah | إِمالَة | a full lean: the fatḥah toward a kasrah, and the alif after it toward  | QRN-HAFS | hafs-070 |
 | a hidden pronoun | ضَمِير مُسْتَتِر (ḍamīr mustatir) | a hidden pronoun — contained within the verb, not written | ARB-201 | sarf-019 |
 | a hollow verb: its second root letter is weak | أَجْوَف (ajwaf) | a hollow verb: its second root letter is weak, such as قَالَ | ARB-201 | sarf-335 |
 | a holy monk who has achieved enlightenment | Arhat | a holy monk who has achieved enlightenment — a model for his community | RELSTD-5B | wrel-292 |
@@ -72,6 +73,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | a side | جَنْب | a side, a flank | VOCAB | voc-102 |
 | a sign | أَمَارَة | a sign — synonym of عَلَامَة | VOCAB | voc-048 |
 | a sign of femininity | عَلَامَة التَّأْنِيث (ʿalāmat al-taʾnīth) | a sign of femininity — not a pronoun | ARB-201 | sarf-029 |
+| a slight lean | تَقْلِيل | a slight lean, halfway between a plain fatḥah and imālah | QRN-HAFS | hafs-069 |
 | a small group of men | نَفَر | a small group of men | VOCAB | voc-124 |
 | a soothsayer | كَاهِن | a soothsayer — one who claims to know the unseen and the future | VOCAB | voc-322 |
 | a sound of delight and approval | بَخْ | a sound of delight and approval — doubled, بَخٍ بَخٍ, “excellent!” | ARB-201 | nahw-263 |
@@ -102,6 +104,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | acceptance of a deed as correct: the legal obligation is fulfilled | قَبُول الإِصَابَة (qabūl al-iṣābah) | acceptance of a deed as correct: the legal obligation is fulfilled, as | HDT-201 | arbh-346 |
 | acceptance of a deed with reward: earning allah's pleasure | قَبُول الإِثَابَة (qabūl al-ithābah) | acceptance of a deed with reward: earning Allah's pleasure, so that tw | HDT-201 | arbh-347 |
 | according to | حَسَبَ | according to, in proportion to | VOCAB | voc-218 |
+| adding dots to letters that share a written shape | إِعْجام | adding dots to letters that share a written shape | QRN-HAFS | hafs-062 |
 | admission | اِعْتِرَاف | admission, acknowledgement (of — بِ) | VOCAB | voc-342 |
 | after | بَعْدَ | after — a directional ẓarf | ARB-201 | nahw-278 |
 | amazement | التَّعَجُّب (al-taʿajjub) | amazement | ARB-201 | nahw-100 |
@@ -128,6 +131,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | another name for tantric or mantrayāna buddhism | Esoteric Buddhism | another name for Tantric or Mantrayāna Buddhism | RELSTD-5B | wrel-306 |
 | answer (our prayer)! | آمِينَ | answer (our prayer)! — like اِسْتَجِبْ; also said أَمِينَ, with a shor | ARB-201 | nahw-248 |
 | any sound produced by a human | لَفْظ (lafẓ) | any sound produced by a human | ARB-201 | nahw-016 |
+| approximate (of an articulation point): the sound hits no particular organ | مُقَدَّر | approximate (of an articulation point): the sound hits no particular o | QRN-HAFS | hafs-064 |
 | arabic grammar | نَحْو (naḥw) | Arabic grammar — the science of what to do with words in a sentence | ARB-201 | nahw-001 |
 | arabic morphology | صَرْف (ṣarf) | Arabic morphology — the science that gives us the words themselves | ARB-201 | nahw-002 |
 | arabic rhetoric | بَلَاغَة (balāghah) | Arabic rhetoric — the subtleties of the most appropriate construction  | ARB-201 | nahw-003 |
@@ -160,6 +164,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | certainly | إِنَّ | certainly, verily, indeed — a حَرْف مُشَبَّه بِالفِعْل | ARB-201 | nahw-169 |
 | children respecting their parents | Filial piety | children respecting their parents, caring for them, and making sure th | RELSTD-5B | wrel-082 |
 | cleaning oneself after using the bathroom | الاِسْتِنْجَاء (istinjāʾ) | cleaning oneself after using the bathroom | HDT-201 | qud-344 |
+| collision of two parts of the speech organs | قَرْع | collision of two parts of the speech organs | QRN-HAFS | hafs-065 |
 | come here! | هَيْتَ ، هَلُمَّ | come here! — like تَعَالَ, which most grammarians count as a verb: هَي | ARB-201 | nahw-256 |
 | commander of the believers | أَمِير المُؤْمِنِين (amīr al-muʾminīn) | commander of the believers — ʿUmar RA was the first given this title | HDT-201 | arbh-002 |
 | commercial and interpersonal law | مُعَامَلَات (muʿāmalāt) | commercial and interpersonal law, and judicial matters — adjudication, | HDT-201 | qud-024 |
@@ -302,6 +307,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | saying the two shahādahs quietly and then loudly in the adhān | التَّرْجِيع (tarjīʿ) | saying the two shahādahs quietly and then loudly in the adhān — not in | HDT-201 | qud-366 |
 | scholarly consensus | إِجْمَاع (ijmāʿ) | scholarly consensus | HDT-201 | qud-018 |
 | second person | مُخَاطَب (mukhāṭab) | second person | ARB-201 | sarf-005 |
+| separation of two parts of the speech organs | قَلْع | separation of two parts of the speech organs | QRN-HAFS | hafs-066 |
 | since | مُنْذُ ، مُذْ | since — both حُرُوف جَرّ; مُذْ is also glossed “for” | ARB-201 | nahw-151 |
 | sniffing water up into the nostrils | الاِسْتِنْشَاق (al-istinshāq) | sniffing water up into the nostrils | HDT-201 | qud-158 |
 | so many | كَذَا | so many, so much — such-and-such an amount: عِنْدِي كَذَا دِرْهَمًا, I | ARB-201 | nahw-289 |
@@ -310,6 +316,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | someone who is unclothed | عَارٍ | someone who is unclothed | VOCAB | voc-052 |
 | someone with no shoes | حَافٍ | someone with no shoes; barefoot | VOCAB | voc-050 |
 | something the prophet ﷺ did as a human being | سُنَّة زَائِدَة (sunnah zāʾidah) | something the Prophet ﷺ did as a human being, rather than as an act of | HDT-201 | qud-204 |
+| specific (of an articulation point): the sound hits a particular organ | مُحَقَّق | specific (of an articulation point): the sound hits a particular organ | QRN-HAFS | hafs-063 |
 | speculative | ظَنِّيّ (ẓannī) | speculative — of evidence, short of certain, though it can still be ve | HDT-201 | qud-274 |
 | submission | إِذْعَان | submission, compliance — yielding (to — لِ) | VOCAB | voc-383 |
 | such and such | كَيْتَ وَكَيْتَ | such and such — standing in for words or events, like ذَيْتَ وَذَيْتَ: | ARB-201 | nahw-290 |
@@ -365,6 +372,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | the middle of the tongue | وَسَط اللِّسان | the middle of the tongue, below the hard palate | QRN-HAFS | hafs-021 |
 | the mouth | الفَم | the mouth, as an articulation area | QRN-HAFS | hafs-008 |
 | the nasal cavity | الخَيْشُوم | the nasal cavity | QRN-HAFS | hafs-009 |
+| the natural madd: a madd letter held for 2 counts | المَدّ الطَّبِيعِيّ | the natural madd: a madd letter held for 2 counts | QRN-HAFS | hafs-068 |
 | the negative command | النَّهْي (al-nahy) | the negative command | ARB-201 | nahw-067 |
 | the noun of exaggeration | اِسْم المُبَالَغَة (ism al-mubālaghah) | the noun of exaggeration — a hyperbolic, emphatic adjective | ARB-201 | sarf-187 |
 | the noun of instrument | اِسْم الآلَة (ism al-ālah) | the noun of instrument — a tool used for an action, e.g. مِفْتَاح, a t | ARB-201 | sarf-190 |
@@ -581,6 +589,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | with | بِـ | with — a حَرْف جَرّ | ARB-201 | nahw-147 |
 | words that change the grammatical positioning of the مُبْتَدَأ and خَبَر | النَّوَاسِخ (al-nawāsikh) | words that change the grammatical positioning of the مُبْتَدَأ and خَب | ARB-201 | nahw-161 |
 | words that stand for sounds | أَسْمَاء الأَصْوَات (asmāʾ al-aṣwāt) | words that stand for sounds | ARB-201 | nahw-260 |
+| wāw or yāʾ sākinah after a fatḥah | حَرْفا اللِّين | wāw or yāʾ sākinah after a fatḥah, as in خَوْف and بَيْت | QRN-HAFS | hafs-067 |
 | yesterday | أَمْسِ | yesterday | ARB-201 | nahw-272 |
 | أَفْعَلَ | بَاب الإِفْعَال — المَاضِي | أَفْعَلَ | ARB-201 | sarf-254 |
 | أَفْعِلْ | بَاب الإِفْعَال — الأَمْر | أَفْعِلْ | ARB-201 | sarf-260 |

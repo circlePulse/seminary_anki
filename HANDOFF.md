@@ -37,7 +37,7 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,666 notes across 11 decks.**
+Current state: **2,675 notes across 11 decks.**
 
 | deck | notes | course |
 |---|---|---|
@@ -49,7 +49,7 @@ Current state: **2,666 notes across 11 decks.**
 | nahw | 327 | ARB-201 |
 | pyth | 269 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
-| hafs | 61 | QRN-HAFS |
+| hafs | 70 | QRN-HAFS |
 | riyad | 35 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
 
@@ -153,7 +153,7 @@ once, and both times was objecting to files that had no reason to exist.
 ## Pending
 
 - **Ḥafṣ ijāzah (QRN-HAFS, deck `hafs`), new 2026-11-17.** The whole Notion page is carded
-  (61 notes, to the al-jawf section). The user rejected the anatomical drawings (side view of
+  (70 notes, to the al-jawf section). The user rejected the anatomical drawings (side view of
   the head, tongue from above) as "horrendous": **the only diagram is the teeth**, equal squares
   along the arch of the upper jaw (`drafts/tajwid_diagrams.py`). The main articulation areas
   follow Ayman Suwayd's four-area grouping (jawf, ḥalq, fam, khayshūm): don't add Ibn
@@ -290,10 +290,17 @@ once, and both times was objecting to files that had no reason to exist.
 
 ## Working style the user expects
 
-- **Cloze cards carry no extra (the user, 2026-11-17).** "As a rule cloze cards shouldn't have
-  extras, it's just confusing", said of hafs-010, whose extra listed four Arabic terms. Leave
-  `extra` empty. Anything worth knowing goes on its own card: there, the four terms became
-  two-way cards hafs-058 to hafs-061. Not applied retroactively: as of 2026-11-17, 364 older
+- **Cloze cards carry no extra; every term gets tested (the user, 2026-11-17).** "As a rule
+  cloze cards shouldn't have extras, it's just confusing", said of hafs-010, whose extra listed
+  four Arabic terms; then "avoid extras in cloze cards because it's too much information; make
+  sure that in one way or another, terms, definitions, translations and stuff like that either
+  have their own card or are a cloze." So: leave `extra` empty, and every term, definition or
+  translation that appears on a card (including a gloss in brackets on a back) must also be
+  tested, by its own card (two-way for a term and its meaning) or as a cloze deletion. Clozes
+  covering several terms one by one are fine; for paired terms (muḥaqqaq/muqaddar), use two-way
+  cards, since one visible deletion gives the other away. Done for the Ḥafṣ deck: hafs-058 to
+  hafs-061 (the mouth's four parts) and hafs-062 to hafs-070 (iʿjām, muḥaqqaq, muqaddar, qarʿ,
+  qalʿ, the līn letters, madd ṭabīʿī, taqlīl, imālah). Not applied retroactively: as of 2026-11-17, 364 older
   clozes have extras (vocab 231, nahw 32, sarf 30, quduri 24, arbaeen_ahadith 15, wrel 15,
   riyad 12, pyth 7). Clear them only if the user asks.
 - **One fact per card (the user, 2026-11-12).** They asked "why is this combined" about arbh-355, which joined a
