@@ -1,17 +1,17 @@
 # Draft — Ḥafṣ ijāzah, new deck (2026-11-17)
 
 Source: the top-level Notion page "Hafs Ijazah", all of it (letters, organs of speech, sound, definition of a letter, al-jawf).
-Status: **awaiting approval** (revision 2).
+Status: **awaiting approval** (revision 3: the teeth squares now follow the arch).
 
 ## Setup
 
 - Course code QRN-HAFS, deck `hafs`, ids from hafs-001. The page sits under neither dashboard, so the institution is left blank.
 - Anatomy terms are two-way cards: the Arabic term on one side, the English on the other.
-- The only diagram is an abstract one for the teeth. It shows two rows of eight boxes either side of the midline (the upper and lower jaws, front in the middle), with the group asked about filled in orange.
+- The only diagram is for the teeth: equal squares set along the curve of the upper jaw, front at the top, eight either side of the midline (the lower jaw mirrors it). The group asked about is filled in orange.
 
 ## Revision 2 (after your review)
 
-- Diagrams: the side view and tongue drawings are gone; the teeth are now the abstract grid.
+- Diagrams: the side view and tongue drawings are gone; the teeth are squares placed along the jaw's curve.
 - Main areas: the four-area grouping stays as it is (Ayman Suwayd's). The Ibn al-Jazarī card is deleted, so every later id moved down by one.
 - Ikhtilās and ishmām: both cards now say they are mistakes except where a reading calls for them. Ikhtilās: one of Ḥafṣ's two ways of reading taʾmannā (Yūsuf 12:11). Ishmām: taʾmannā, and as an option when stopping on a ḍammah.
 
