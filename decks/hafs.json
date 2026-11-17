@@ -3,7 +3,7 @@
  "topic": "hafs",
  "session": "nov17",
  "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
- "expected_count": 70,
+ "expected_count": 75,
  "cards": [
   {
    "type": "basic",
@@ -935,6 +935,71 @@
    "session": "nov17",
    "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
    "science": "تَجْوِيد"
+  },
+  {
+   "type": "cloze",
+   "text": "The parts of the throat, from the top (nearest the mouth) down:<br>first: <bdi>{{c1::أَدْنَى الحَلْق}}</bdi><br>second: <bdi>{{c2::وَسَط الحَلْق}}</bdi><br>third: <bdi>{{c3::أَقْصَى الحَلْق}}</bdi>",
+   "extra": "",
+   "tags": [
+    "hafs",
+    "hafs-halq"
+   ],
+   "tier": 1,
+   "id": "hafs-071",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "cloze",
+   "text": "The upper palate, from the teeth backwards:<br>first: <bdi>{{c1::اللِّثَة}}</bdi><br>second: <bdi>{{c2::مُقَدَّم الحَنَك}}</bdi><br>third: <bdi>{{c3::الحَنَك الصُّلْب}}</bdi><br>fourth: <bdi>{{c4::الحَنَك الرِّخْو}}</bdi><br>fifth: <bdi>{{c5::اللَّهاة}}</bdi>",
+   "extra": "",
+   "tags": [
+    "hafs",
+    "hafs-hanak"
+   ],
+   "tier": 1,
+   "id": "hafs-072",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "cloze",
+   "text": "The middle of the tongue, from back to front:<br>first: <bdi>{{c1::جِذْر اللِّسان}}</bdi><br>second: <bdi>{{c2::أَقْصَى اللِّسان}}</bdi><br>third: <bdi>{{c3::وَسَط اللِّسان}}</bdi><br>fourth: <bdi>{{c4::طَرَف اللِّسان}}</bdi><br>fifth: <bdi>{{c5::رَأْس اللِّسان}}</bdi>",
+   "extra": "",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "tier": 1,
+   "id": "hafs-073",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "cloze",
+   "text": "The edge of the tongue, from back to front:<br>first: <bdi>{{c1::أَقْصَى الحافَة}}</bdi><br>second: <bdi>{{c2::أَدْنَى الحافَة}}</bdi><br>third: <bdi>{{c3::مُنْتَهَى الحافَة}}</bdi>",
+   "extra": "",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "tier": 1,
+   "id": "hafs-074",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "cloze",
+   "text": "The teeth on each side of each jaw, from front to back:<br>first: <bdi>{{c1::الثَّنايا}}</bdi><br>second: <bdi>{{c2::الرَّباعِيات}}</bdi><br>third: <bdi>{{c3::الأَنْياب}}</bdi><br>fourth: <bdi>{{c4::الضَّواحِك}}</bdi><br>fifth: <bdi>{{c5::الطَّواحِن}}</bdi><br>sixth: <bdi>{{c6::النَّواجِذ}}</bdi>",
+   "extra": "",
+   "tags": [
+    "hafs",
+    "hafs-asnan"
+   ],
+   "tier": 1,
+   "id": "hafs-075",
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
   }
  ]
 }
