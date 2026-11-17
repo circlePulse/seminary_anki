@@ -896,7 +896,7 @@
   "hafs": {
    "course": "QRN-HAFS",
    "topic": "hafs",
-   "count": 57,
+   "count": 61,
    "ids": [
     "hafs-001",
     "hafs-002",
@@ -954,7 +954,11 @@
     "hafs-054",
     "hafs-055",
     "hafs-056",
-    "hafs-057"
+    "hafs-057",
+    "hafs-058",
+    "hafs-059",
+    "hafs-060",
+    "hafs-061"
    ],
    "fp": {
     "hafs-001": "c15d148a58dc",
@@ -1013,7 +1017,11 @@
     "hafs-054": "bf0b949ff273",
     "hafs-055": "43614729d5cb",
     "hafs-056": "d28e5f122265",
-    "hafs-057": "47a045c0daf9"
+    "hafs-057": "47a045c0daf9",
+    "hafs-058": "b45d14617c31",
+    "hafs-059": "472f09dbc182",
+    "hafs-060": "133539934174",
+    "hafs-061": "48a9f8a77b64"
    }
   },
   "nahw": {

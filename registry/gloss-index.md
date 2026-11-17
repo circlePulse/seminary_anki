@@ -360,6 +360,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | the ism that does the pointing in an إِشَارِيّ phrase | اِسْم الإِشَارَة (ism al-ishārah) | the ism that does the pointing in an إِشَارِيّ phrase | ARB-201 | nahw-141 |
 | the iʿrāb a مُعْرَب word carries on its own ending | إِعْرَاب لَفْظِيّ (iʿrāb lafẓī) | the iʿrāb a مُعْرَب word carries on its own ending, whether you can he | ARB-201 | nahw-215 |
 | the lateral incisors | الرَّباعِيات | the lateral incisors — frontupper jaw (the lower mirrors it) | QRN-HAFS | hafs-030 |
+| the lips | الشَّفَتان | the lips | QRN-HAFS | hafs-061 |
 | the middle of the throat | وَسَط الحَلْق | the middle of the throat, at the epiglottis | QRN-HAFS | hafs-012 |
 | the middle of the tongue | وَسَط اللِّسان | the middle of the tongue, below the hard palate | QRN-HAFS | hafs-021 |
 | the mouth | الفَم | the mouth, as an articulation area | QRN-HAFS | hafs-008 |
@@ -402,9 +403,12 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | the sound of a cough | أُحْ أُحْ | the sound of a cough | ARB-201 | nahw-261 |
 | the subject | مُبْتَدَأ (mubtadaʾ) | the subject — the first part of a nominal sentence | ARB-201 | nahw-081 |
 | the sweetness of faith | حَلَاوَة الإِيمَان (ḥalāwat al-īmān) | the sweetness of faith — when ṣalāh is enjoyable rather than a burden | HDT-201 | arbh-095 |
+| the teeth | الأَسْنان | the teeth | QRN-HAFS | hafs-060 |
 | the throat | الحَلْق | the throat, as an articulation area | QRN-HAFS | hafs-007 |
+| the tongue | اللِّسان | the tongue | QRN-HAFS | hafs-059 |
 | the tool of exclusivity | أَدَاة الحَصْر (adāt al-ḥaṣr) | the tool of exclusivity — إِنَّمَا | HDT-201 | arbh-027 |
 | the top of the throat (the part nearest the mouth) | أَدْنَى الحَلْق | the top of the throat (the part nearest the mouth), level with the roo | QRN-HAFS | hafs-011 |
+| the upper palate | الحَنَك الأَعْلَى | the upper palate | QRN-HAFS | hafs-058 |
 | the uvula | اللَّهاة | the uvula | QRN-HAFS | hafs-018 |
 | the very tip of the tongue | رَأْس اللِّسان | the very tip of the tongue | QRN-HAFS | hafs-023 |
 | the wisdom teeth (third molars) | النَّواجِذ | the wisdom teeth (third molars) — frontupper jaw (the lower mirrors it | QRN-HAFS | hafs-034 |

@@ -3,7 +3,7 @@
  "topic": "hafs",
  "session": "nov17",
  "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
- "expected_count": 57,
+ "expected_count": 61,
  "cards": [
   {
    "type": "basic",
@@ -126,7 +126,7 @@
   {
    "type": "cloze",
    "text": "Your notes divide the mouth (al-fam) into the {{c1::upper palate}}, the {{c2::tongue}}, the {{c3::teeth}} and the {{c4::lips}}.",
-   "extra": "Arabic terms: <bdi>الحَنَك الأَعْلَى</bdi>, <bdi>اللِّسان</bdi>, <bdi>الأَسْنان</bdi>, <bdi>الشَّفَتان</bdi>.",
+   "extra": "",
    "tier": 1,
    "id": "hafs-010",
    "tags": [
@@ -477,7 +477,7 @@
   {
    "type": "cloze",
    "text": "Sound arises in four ways: {{c1::collision}} of two objects (a clap); {{c2::separation}} of two objects held together by cohesion (snapping a twig); {{c3::vibration}} of an object (a plucked string); {{c4::friction}} of one object against another (rubbing hands).",
-   "extra": "Ibn Sīnā names the first two as the causes of speech sounds: qarʿ (striking) and qalʿ (pulling apart).",
+   "extra": "",
    "tier": 1,
    "id": "hafs-037",
    "tags": [
@@ -756,6 +756,58 @@
     "hafs",
     "hafs-jawf"
    ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الحَنَك الأَعْلَى</div>",
+   "meaning": "the upper palate",
+   "tags": [
+    "hafs",
+    "hafs-areas"
+   ],
+   "id": "hafs-058",
+   "tier": 1,
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">اللِّسان</div>",
+   "meaning": "the tongue",
+   "tags": [
+    "hafs",
+    "hafs-areas"
+   ],
+   "id": "hafs-059",
+   "tier": 1,
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الأَسْنان</div>",
+   "meaning": "the teeth",
+   "tags": [
+    "hafs",
+    "hafs-areas"
+   ],
+   "id": "hafs-060",
+   "tier": 1,
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الشَّفَتان</div>",
+   "meaning": "the lips",
+   "tags": [
+    "hafs",
+    "hafs-areas"
+   ],
+   "id": "hafs-061",
+   "tier": 1,
    "session": "nov17",
    "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
   }

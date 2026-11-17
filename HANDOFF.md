@@ -37,7 +37,7 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,662 notes across 11 decks.**
+Current state: **2,666 notes across 11 decks.**
 
 | deck | notes | course |
 |---|---|---|
@@ -49,7 +49,7 @@ Current state: **2,662 notes across 11 decks.**
 | nahw | 327 | ARB-201 |
 | pyth | 269 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
-| hafs | 57 | QRN-HAFS |
+| hafs | 61 | QRN-HAFS |
 | riyad | 35 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
 
@@ -153,7 +153,7 @@ once, and both times was objecting to files that had no reason to exist.
 ## Pending
 
 - **Ḥafṣ ijāzah (QRN-HAFS, deck `hafs`), new 2026-11-17.** The whole Notion page is carded
-  (57 notes, to the al-jawf section). The user rejected the anatomical drawings (side view of
+  (61 notes, to the al-jawf section). The user rejected the anatomical drawings (side view of
   the head, tongue from above) as "horrendous": **the only diagram is the teeth**, equal squares
   along the arch of the upper jaw (`drafts/tajwid_diagrams.py`). The main articulation areas
   follow Ayman Suwayd's four-area grouping (jawf, ḥalq, fam, khayshūm): don't add Ibn
@@ -290,6 +290,12 @@ once, and both times was objecting to files that had no reason to exist.
 
 ## Working style the user expects
 
+- **Cloze cards carry no extra (the user, 2026-11-17).** "As a rule cloze cards shouldn't have
+  extras, it's just confusing", said of hafs-010, whose extra listed four Arabic terms. Leave
+  `extra` empty. Anything worth knowing goes on its own card: there, the four terms became
+  two-way cards hafs-058 to hafs-061. Not applied retroactively: as of 2026-11-17, 364 older
+  clozes have extras (vocab 231, nahw 32, sarf 30, quduri 24, arbaeen_ahadith 15, wrel 15,
+  riyad 12, pyth 7). Clear them only if the user asks.
 - **One fact per card (the user, 2026-11-12).** They asked "why is this combined" about arbh-355, which joined a
   comparison and an unrelated ruling with "and". It was split (arbh-359). Only join two asks when the second
   can't stand without the first. Other joined fronts from the 11-03 to 11-06 batches may need the same.
