@@ -1,7 +1,7 @@
 # Draft — Ḥafṣ ijāzah, new deck (2026-11-17)
 
 Source: the top-level Notion page "Hafs Ijazah", all of it (letters, organs of speech, sound, definition of a letter, al-jawf).
-Status: **awaiting approval** (revision 3: the teeth squares now follow the arch).
+Status: **approved and delivered 2026-11-17** (revision 3: the teeth squares follow the arch).
 
 ## Setup
 

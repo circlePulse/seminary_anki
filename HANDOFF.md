@@ -37,7 +37,7 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,605 notes across 10 decks.**
+Current state: **2,662 notes across 11 decks.**
 
 | deck | notes | course |
 |---|---|---|
@@ -49,6 +49,7 @@ Current state: **2,605 notes across 10 decks.**
 | nahw | 327 | ARB-201 |
 | pyth | 269 | ICS-H32 |
 | arbaeen | 69 | HDT-201 |
+| hafs | 57 | QRN-HAFS |
 | riyad | 35 | HDT-202 |
 | arbaeen2 | 4 | HDT-201 |
 
@@ -150,6 +151,15 @@ once, and both times was objecting to files that had no reason to exist.
    مُرُوءَة", not "مروؤ → مُرُوءَة".
 
 ## Pending
+
+- **Ḥafṣ ijāzah (QRN-HAFS, deck `hafs`), new 2026-11-17.** The whole Notion page is carded
+  (57 notes, to the al-jawf section). The user rejected the anatomical drawings (side view of
+  the head, tongue from above) as "horrendous": **the only diagram is the teeth**, equal squares
+  along the arch of the upper jaw (`drafts/tajwid_diagrams.py`). The main articulation areas
+  follow Ayman Suwayd's four-area grouping (jawf, ḥalq, fam, khayshūm): don't add Ibn
+  al-Jazarī's five. Ikhtilās and ishmām are carded as mistakes with their exceptions noted
+  (taʾmannā, 12:11; ishmām when stopping on a ḍammah). Open: the hard palate is vowelled
+  al-ṣulb; the notes' "salbu" may mean the teacher says al-ṣalb, so match it if the user says so.
 
 - **~400 fields still need `<bdi>` wrapping** — cards written before rule 4 was recorded.
   `skill/scripts/wrap_arabic.py decks/X.json` does it (report only; add `--write`), and

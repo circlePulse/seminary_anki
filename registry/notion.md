@@ -71,6 +71,17 @@ session tag.
 Variables, Strings, … Loops) and no dates. New material is appended as new topic
 toggles at the bottom, so "what's new" means comparing topics against the deck.
 
+## Top-level pages
+
+| Page | Id | Deck |
+|---|---|---|
+| Hafs Ijazah | `41b737ec4b8a80cb98abf4df1fda4e15` | QRN-HAFS → `hafs` |
+
+**Hafs Ijazah** sits outside both dashboards. It is one run of nested toggles by topic (Arabic
+letters, organs of speech, definition of sound, definition of a letter, al-jawf) with no dates,
+so new material is new toggles at the bottom. It opened with a note asking for diagrams; only
+the teeth one survived review. Carded in full on 2026-11-17 (page last edited 21:12 UTC).
+
 ## Conventions across all pages
 
 - **One proposition per toggle.** Nesting is subordination: a child toggle

@@ -1,0 +1,763 @@
+{
+ "course": "QRN-HAFS",
+ "topic": "hafs",
+ "session": "nov17",
+ "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+ "expected_count": 57,
+ "cards": [
+  {
+   "type": "basic",
+   "front": "How many letters does tajwīd count in the Arabic alphabet?",
+   "back": "29 — the common count of 28 treats the hamzah and the alif as one letter; tajwīd counts them apart.",
+   "tier": 1,
+   "id": "hafs-001",
+   "tags": [
+    "hafs",
+    "hafs-letters"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "On what basis did the scholars arrange the Arabic letters in their alphabetical order?",
+   "back": "By similarity of written shape, so letters that look alike sit together: <bdi>ب ت ث</bdi>, <bdi>ج ح خ</bdi>, <bdi>د ذ</bdi>.",
+   "tier": 1,
+   "id": "hafs-002",
+   "tags": [
+    "hafs",
+    "hafs-letters"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "How did the scholars tell apart letters that share one written shape, such as <bdi>ب ت ث</bdi>?",
+   "back": "They added dots (iʿjām). The step is credited to Naṣr ibn ʿĀṣim and Yaḥyā ibn Yaʿmar, in the 1st century AH.",
+   "tier": 1,
+   "id": "hafs-003",
+   "tags": [
+    "hafs",
+    "hafs-letters"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "The first letter of the alphabet is written as an alif. Which letter is it really?",
+   "back": "The hamzah. The true alif is the madd alif, which can never begin a word; old alphabet lists show it inside <bdi>لا</bdi> (lām-alif).",
+   "tier": 1,
+   "id": "hafs-004",
+   "tags": [
+    "hafs",
+    "hafs-letters"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "What vowel is on the letter before a madd alif?",
+   "back": "Always a fatḥah. The alif itself is always sākin; it never occurs any other way.",
+   "tier": 1,
+   "id": "hafs-005",
+   "tags": [
+    "hafs",
+    "hafs-letters"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الجَوْف</div>",
+   "meaning": "the empty space of the throat and mouth",
+   "tier": 1,
+   "id": "hafs-006",
+   "tags": [
+    "hafs",
+    "hafs-areas"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الحَلْق</div>",
+   "meaning": "the throat, as an articulation area",
+   "tier": 1,
+   "id": "hafs-007",
+   "tags": [
+    "hafs",
+    "hafs-areas"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الفَم</div>",
+   "meaning": "the mouth, as an articulation area",
+   "tier": 1,
+   "id": "hafs-008",
+   "tags": [
+    "hafs",
+    "hafs-areas"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الخَيْشُوم</div>",
+   "meaning": "the nasal cavity",
+   "tier": 1,
+   "id": "hafs-009",
+   "tags": [
+    "hafs",
+    "hafs-areas"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "cloze",
+   "text": "Your notes divide the mouth (al-fam) into the {{c1::upper palate}}, the {{c2::tongue}}, the {{c3::teeth}} and the {{c4::lips}}.",
+   "extra": "Arabic terms: <bdi>الحَنَك الأَعْلَى</bdi>, <bdi>اللِّسان</bdi>, <bdi>الأَسْنان</bdi>, <bdi>الشَّفَتان</bdi>.",
+   "tier": 1,
+   "id": "hafs-010",
+   "tags": [
+    "hafs",
+    "hafs-areas"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">أَدْنَى الحَلْق</div>",
+   "meaning": "the top of the throat (the part nearest the mouth), level with the root of the tongue",
+   "tier": 1,
+   "id": "hafs-011",
+   "tags": [
+    "hafs",
+    "hafs-halq"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">وَسَط الحَلْق</div>",
+   "meaning": "the middle of the throat, at the epiglottis",
+   "tier": 1,
+   "id": "hafs-012",
+   "tags": [
+    "hafs",
+    "hafs-halq"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">أَقْصَى الحَلْق</div>",
+   "meaning": "the bottom of the throat (the part farthest from the mouth), at the vocal cords",
+   "tier": 1,
+   "id": "hafs-013",
+   "tags": [
+    "hafs",
+    "hafs-halq"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">اللِّثَة</div>",
+   "meaning": "the gums: the ridge just behind the upper front teeth",
+   "tier": 1,
+   "id": "hafs-014",
+   "tags": [
+    "hafs",
+    "hafs-hanak"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">مُقَدَّم الحَنَك</div>",
+   "meaning": "the pre-palate: the front of the palate, just behind the gums",
+   "tier": 1,
+   "id": "hafs-015",
+   "tags": [
+    "hafs",
+    "hafs-hanak"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الحَنَك الصُّلْب</div>",
+   "meaning": "the hard palate",
+   "tier": 1,
+   "id": "hafs-016",
+   "tags": [
+    "hafs",
+    "hafs-hanak"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الحَنَك الرِّخْو</div>",
+   "meaning": "the soft palate, behind the hard palate",
+   "tier": 1,
+   "id": "hafs-017",
+   "tags": [
+    "hafs",
+    "hafs-hanak"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">اللَّهاة</div>",
+   "meaning": "the uvula",
+   "tier": 1,
+   "id": "hafs-018",
+   "tags": [
+    "hafs",
+    "hafs-hanak"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">جِذْر اللِّسان</div>",
+   "meaning": "the root of the tongue, facing the throat",
+   "tier": 1,
+   "id": "hafs-019",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">أَقْصَى اللِّسان</div>",
+   "meaning": "the back of the tongue (its furthest part), below the soft palate",
+   "tier": 1,
+   "id": "hafs-020",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">وَسَط اللِّسان</div>",
+   "meaning": "the middle of the tongue, below the hard palate",
+   "tier": 1,
+   "id": "hafs-021",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">طَرَف اللِّسان</div>",
+   "meaning": "the blade of the tongue: just behind the very tip",
+   "tier": 1,
+   "id": "hafs-022",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">رَأْس اللِّسان</div>",
+   "meaning": "the very tip of the tongue",
+   "tier": 1,
+   "id": "hafs-023",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "Which tongue term sounds as if it means the tip, but names the part just behind it?",
+   "back": "Ṭaraf al-lisān (the blade). The very tip is raʾs al-lisān.",
+   "tier": 1,
+   "id": "hafs-024",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">حافَة اللِّسان</div>",
+   "meaning": "the side edge of the tongue, on both sides",
+   "tier": 1,
+   "id": "hafs-025",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">أَقْصَى الحافَة</div>",
+   "meaning": "the back of the side edge, up to (not including) the root",
+   "tier": 1,
+   "id": "hafs-026",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">أَدْنَى الحافَة</div>",
+   "meaning": "the front-middle of the side edge, level with the blade (ṭaraf)",
+   "tier": 1,
+   "id": "hafs-027",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">مُنْتَهَى الحافَة</div>",
+   "meaning": "the front end of the side edge, level with the tip (raʾs)",
+   "tier": 1,
+   "id": "hafs-028",
+   "tags": [
+    "hafs",
+    "hafs-lisan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الثَّنايا</div>",
+   "meaning": "the central incisors — <svg viewBox=\"0 0 300 158\" width=\"300\" height=\"158\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(159.9,31.1) rotate(12.4)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(140.1,31.1) rotate(-12.4)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(178.2,38.9) rotate(32.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(121.8,38.9) rotate(-32.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(193.8,51.3) rotate(44.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(106.2,51.3) rotate(-44.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(207.1,66.3) rotate(51.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(92.9,66.3) rotate(-51.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(218.8,82.5) rotate(56.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(81.2,82.5) rotate(-56.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(229.1,99.6) rotate(60.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(70.9,99.6) rotate(-60.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(238.6,117.2) rotate(63.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(61.4,117.2) rotate(-63.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(247.3,135.2) rotate(65.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(52.7,135.2) rotate(-65.2)\"/><text x=\"150\" y=\"12\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">front</text><text x=\"150\" y=\"150\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">upper jaw (the lower mirrors it)</text></svg>",
+   "tier": 1,
+   "id": "hafs-029",
+   "tags": [
+    "hafs",
+    "hafs-asnan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الرَّباعِيات</div>",
+   "meaning": "the lateral incisors — <svg viewBox=\"0 0 300 158\" width=\"300\" height=\"158\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(159.9,31.1) rotate(12.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(140.1,31.1) rotate(-12.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(178.2,38.9) rotate(32.1)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(121.8,38.9) rotate(-32.1)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(193.8,51.3) rotate(44.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(106.2,51.3) rotate(-44.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(207.1,66.3) rotate(51.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(92.9,66.3) rotate(-51.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(218.8,82.5) rotate(56.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(81.2,82.5) rotate(-56.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(229.1,99.6) rotate(60.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(70.9,99.6) rotate(-60.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(238.6,117.2) rotate(63.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(61.4,117.2) rotate(-63.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(247.3,135.2) rotate(65.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(52.7,135.2) rotate(-65.2)\"/><text x=\"150\" y=\"12\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">front</text><text x=\"150\" y=\"150\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">upper jaw (the lower mirrors it)</text></svg>",
+   "tier": 1,
+   "id": "hafs-030",
+   "tags": [
+    "hafs",
+    "hafs-asnan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الأَنْياب</div>",
+   "meaning": "the canines — <svg viewBox=\"0 0 300 158\" width=\"300\" height=\"158\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(159.9,31.1) rotate(12.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(140.1,31.1) rotate(-12.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(178.2,38.9) rotate(32.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(121.8,38.9) rotate(-32.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(193.8,51.3) rotate(44.2)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(106.2,51.3) rotate(-44.2)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(207.1,66.3) rotate(51.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(92.9,66.3) rotate(-51.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(218.8,82.5) rotate(56.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(81.2,82.5) rotate(-56.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(229.1,99.6) rotate(60.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(70.9,99.6) rotate(-60.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(238.6,117.2) rotate(63.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(61.4,117.2) rotate(-63.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(247.3,135.2) rotate(65.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(52.7,135.2) rotate(-65.2)\"/><text x=\"150\" y=\"12\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">front</text><text x=\"150\" y=\"150\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">upper jaw (the lower mirrors it)</text></svg>",
+   "tier": 1,
+   "id": "hafs-031",
+   "tags": [
+    "hafs",
+    "hafs-asnan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الضَّواحِك</div>",
+   "meaning": "the first premolars — <svg viewBox=\"0 0 300 158\" width=\"300\" height=\"158\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(159.9,31.1) rotate(12.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(140.1,31.1) rotate(-12.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(178.2,38.9) rotate(32.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(121.8,38.9) rotate(-32.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(193.8,51.3) rotate(44.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(106.2,51.3) rotate(-44.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(207.1,66.3) rotate(51.8)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(92.9,66.3) rotate(-51.8)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(218.8,82.5) rotate(56.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(81.2,82.5) rotate(-56.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(229.1,99.6) rotate(60.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(70.9,99.6) rotate(-60.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(238.6,117.2) rotate(63.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(61.4,117.2) rotate(-63.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(247.3,135.2) rotate(65.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(52.7,135.2) rotate(-65.2)\"/><text x=\"150\" y=\"12\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">front</text><text x=\"150\" y=\"150\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">upper jaw (the lower mirrors it)</text></svg>",
+   "tier": 1,
+   "id": "hafs-032",
+   "tags": [
+    "hafs",
+    "hafs-asnan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الطَّواحِن</div>",
+   "meaning": "the second premolar and first two molars — three on each side of each jaw, 12 in all<svg viewBox=\"0 0 300 158\" width=\"300\" height=\"158\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(159.9,31.1) rotate(12.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(140.1,31.1) rotate(-12.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(178.2,38.9) rotate(32.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(121.8,38.9) rotate(-32.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(193.8,51.3) rotate(44.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(106.2,51.3) rotate(-44.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(207.1,66.3) rotate(51.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(92.9,66.3) rotate(-51.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(218.8,82.5) rotate(56.8)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(81.2,82.5) rotate(-56.8)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(229.1,99.6) rotate(60.4)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(70.9,99.6) rotate(-60.4)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(238.6,117.2) rotate(63.1)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(61.4,117.2) rotate(-63.1)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(247.3,135.2) rotate(65.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(52.7,135.2) rotate(-65.2)\"/><text x=\"150\" y=\"12\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">front</text><text x=\"150\" y=\"150\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">upper jaw (the lower mirrors it)</text></svg>",
+   "tier": 1,
+   "id": "hafs-033",
+   "tags": [
+    "hafs",
+    "hafs-asnan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">النَّواجِذ</div>",
+   "meaning": "the wisdom teeth (third molars) — <svg viewBox=\"0 0 300 158\" width=\"300\" height=\"158\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(159.9,31.1) rotate(12.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(140.1,31.1) rotate(-12.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(178.2,38.9) rotate(32.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(121.8,38.9) rotate(-32.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(193.8,51.3) rotate(44.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(106.2,51.3) rotate(-44.2)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(207.1,66.3) rotate(51.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(92.9,66.3) rotate(-51.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(218.8,82.5) rotate(56.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(81.2,82.5) rotate(-56.8)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(229.1,99.6) rotate(60.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(70.9,99.6) rotate(-60.4)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(238.6,117.2) rotate(63.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(61.4,117.2) rotate(-63.1)\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(247.3,135.2) rotate(65.2)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><rect x=\"-8.0\" y=\"-8.0\" width=\"16\" height=\"16\" rx=\"2\" transform=\"translate(52.7,135.2) rotate(-65.2)\" fill=\"#e8590c\" stroke=\"#e8590c\"/><text x=\"150\" y=\"12\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">front</text><text x=\"150\" y=\"150\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" stroke=\"none\">upper jaw (the lower mirrors it)</text></svg>",
+   "tier": 1,
+   "id": "hafs-034",
+   "tags": [
+    "hafs",
+    "hafs-asnan"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "What is sound, physically?",
+   "back": "A vibration of air molecules that the human ear can perceive.",
+   "tier": 1,
+   "id": "hafs-035",
+   "tags": [
+    "hafs",
+    "hafs-sawt"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "Between what frequencies can the human ear perceive sound?",
+   "back": "About 20 Hz to 20,000 Hz (20 kHz). The top of the range falls with age.",
+   "tier": 1,
+   "id": "hafs-036",
+   "tags": [
+    "hafs",
+    "hafs-sawt"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "cloze",
+   "text": "Sound arises in four ways: {{c1::collision}} of two objects (a clap); {{c2::separation}} of two objects held together by cohesion (snapping a twig); {{c3::vibration}} of an object (a plucked string); {{c4::friction}} of one object against another (rubbing hands).",
+   "extra": "Ibn Sīnā names the first two as the causes of speech sounds: qarʿ (striking) and qalʿ (pulling apart).",
+   "tier": 1,
+   "id": "hafs-037",
+   "tags": [
+    "hafs",
+    "hafs-sawt"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "How is a letter (ḥarf) defined in tajwīd?",
+   "back": "A sound that relies on an articulation point, either specific (muḥaqqaq) or approximate (muqaddar).",
+   "tier": 1,
+   "id": "hafs-038",
+   "tags": [
+    "hafs",
+    "hafs-harf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "In the definition of a letter, what makes an articulation point approximate (muqaddar) rather than specific?",
+   "back": "The sound hits no particular organ. This is true of the madd letters, which come from the jawf.",
+   "tier": 1,
+   "id": "hafs-039",
+   "tags": [
+    "hafs",
+    "hafs-harf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "What physically produces a sākin letter?",
+   "back": "A collision (qarʿ) between two parts of the speech organs, as when the lips press together on a sākin bāʾ.",
+   "tier": 1,
+   "id": "hafs-040",
+   "tags": [
+    "hafs",
+    "hafs-harf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "What physically produces a letter that carries a vowel (mutaḥarrik)?",
+   "back": "Two parts of the speech organs separating (qalʿ), together with the articulation of the vowel's own source: a fatḥah comes from the alif's, a ḍammah from the wāw's, a kasrah from the yāʾ's.",
+   "tier": 1,
+   "id": "hafs-041",
+   "tags": [
+    "hafs",
+    "hafs-harf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "What physically produces the madd and līn letters?",
+   "back": "Vibration of the vocal cords, shaped by a mouth position particular to each letter; no two organs meet. (Līn letters are wāw or yāʾ sākinah after a fatḥah, as in <bdi>خَوْف</bdi> and <bdi>بَيْت</bdi>.)",
+   "tier": 1,
+   "id": "hafs-042",
+   "tags": [
+    "hafs",
+    "hafs-harf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "Which letters originate in al-jawf?",
+   "back": "The madd letters: alif, wāw and yāʾ when they lengthen the vowel before them.",
+   "tier": 1,
+   "id": "hafs-043",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "When is a wāw a madd letter?",
+   "back": "When it is sākin and the letter before it has a ḍammah, as in <bdi>يَقُولُ</bdi>.",
+   "tier": 1,
+   "id": "hafs-044",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "When is a yāʾ a madd letter?",
+   "back": "When it is sākin and the letter before it has a kasrah, as in <bdi>قِيلَ</bdi>.",
+   "tier": 1,
+   "id": "hafs-045",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "How long is a madd letter held when nothing after it calls for more?",
+   "back": "2 counts — the natural madd (madd ṭabīʿī).",
+   "tier": 1,
+   "id": "hafs-046",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "How must the lengths of the fatḥah, kasrah and ḍammah compare?",
+   "back": "They must all be equal: every short vowel gets the same single count.",
+   "tier": 1,
+   "id": "hafs-047",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "What is the recitation mistake called ikhtilās?",
+   "back": "Shortening a vowel: taking away part of its sound, so it comes out shorter than the others. It is a mistake except where a reading calls for it, as in one of Ḥafṣ's two ways of reading <bdi>تَأْمَنَّا</bdi> (Yūsuf 12:11).",
+   "tier": 1,
+   "id": "hafs-048",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "What is it called when the lips push forward on a heavy letter?",
+   "back": "Ishmām. Heaviness comes from the back of the tongue rising, never from the lips. Ishmām is a mistake except where a reading calls for it: in Ḥafṣ, in <bdi>تَأْمَنَّا</bdi> (Yūsuf 12:11), and as an option when stopping on a ḍammah.",
+   "tier": 1,
+   "id": "hafs-049",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "Where must the tongue be for a madd alif?",
+   "back": "Down, so the sound passes from the jawf through the throat and mouth unobstructed.",
+   "tier": 1,
+   "id": "hafs-050",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "What must the jaw do for a madd alif?",
+   "back": "Open: the space between the upper and lower back teeth must be open.",
+   "tier": 1,
+   "id": "hafs-051",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "What happens to a madd alif if the tongue isn't down or the jaw isn't open?",
+   "back": "It takes on a kasrah sound: taqlīl (a slight lean toward yāʾ) or imālah (a full lean). Both are mistakes in Ḥafṣ, except the one imālah in <bdi>مجراها</bdi> (Hūd 11:41).",
+   "tier": 1,
+   "id": "hafs-052",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17",
+   "science": "تَجْوِيد"
+  },
+  {
+   "type": "basic",
+   "front": "Where does the tongue go for a madd wāw?",
+   "back": "A little back, but the sound's path stays unobstructed.",
+   "tier": 1,
+   "id": "hafs-053",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "What shape do the lips take for a madd wāw?",
+   "back": "Rounded, like an O. (On heavy letters, by contrast, the lips must not move forward.)",
+   "tier": 1,
+   "id": "hafs-054",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "What does the tongue do for a madd yāʾ?",
+   "back": "Its middle rises up and back while the front goes down, still leaving room for the sound.",
+   "tier": 1,
+   "id": "hafs-055",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "In a madd yāʾ the middle of the tongue rises. What keeps room for the sound?",
+   "back": "The lower jaw drops a little more.",
+   "tier": 1,
+   "id": "hafs-056",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  },
+  {
+   "type": "basic",
+   "front": "How does the sound of all three madd letters travel from the vocal cords to the outside?",
+   "back": "Without spreading: it goes out as a straight, focused stream.",
+   "tier": 1,
+   "id": "hafs-057",
+   "tags": [
+    "hafs",
+    "hafs-jawf"
+   ],
+   "session": "nov17",
+   "source": "Ḥafṣ ijāzah — class notes to 2026-11-17"
+  }
+ ]
+}
