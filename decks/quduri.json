@@ -5335,7 +5335,7 @@
   {
    "type": "bidir",
    "term": "<div class=\"arabic\">الشَّيْخَان</div>",
-   "meaning": "Abū Ḥanīfah and Abū Yūsuf",
+   "meaning": "<svg viewBox=\"0 0 300 142\" width=\"300\" height=\"142\" fill=\"none\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><title>Abū Ḥanīfah and Abū Yūsuf</title><path d=\"M128,42 L68,100\" stroke=\"#3a9b74\" stroke-width=\"2.5\"/><rect x=\"95\" y=\"10\" width=\"100\" height=\"32\" rx=\"6\" fill=\"#3a9b74\" fill-opacity=\".3\" stroke=\"#3a9b74\" stroke-width=\"1.5\"/><text x=\"145\" y=\"31\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" font-weight=\"600\">Abū Ḥanīfah</text><rect x=\"10\" y=\"100\" width=\"100\" height=\"32\" rx=\"6\" fill=\"#3a9b74\" fill-opacity=\".3\" stroke=\"#3a9b74\" stroke-width=\"1.5\"/><text x=\"60\" y=\"121\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" font-weight=\"600\">Abū Yūsuf</text><rect x=\"190\" y=\"100\" width=\"100\" height=\"32\" rx=\"6\" fill=\"none\" stroke=\"currentColor\" opacity=\".35\" stroke-width=\"1.5\"/><text x=\"240\" y=\"121\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" opacity=\".45\">Muḥammad</text></svg>",
    "id": "qud-386",
    "science": "فِقْه حَنَفِيّ",
    "tier": 1,
@@ -5351,7 +5351,7 @@
   {
    "type": "bidir",
    "term": "<div class=\"arabic\">الطَّرَفَان</div>",
-   "meaning": "Abū Ḥanīfah and Muḥammad al-Shaybānī",
+   "meaning": "<svg viewBox=\"0 0 300 142\" width=\"300\" height=\"142\" fill=\"none\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><title>Abū Ḥanīfah and Muḥammad al-Shaybānī</title><path d=\"M172,42 L232,100\" stroke=\"#3a9b74\" stroke-width=\"2.5\"/><rect x=\"95\" y=\"10\" width=\"100\" height=\"32\" rx=\"6\" fill=\"#3a9b74\" fill-opacity=\".3\" stroke=\"#3a9b74\" stroke-width=\"1.5\"/><text x=\"145\" y=\"31\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" font-weight=\"600\">Abū Ḥanīfah</text><rect x=\"10\" y=\"100\" width=\"100\" height=\"32\" rx=\"6\" fill=\"none\" stroke=\"currentColor\" opacity=\".35\" stroke-width=\"1.5\"/><text x=\"60\" y=\"121\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" opacity=\".45\">Abū Yūsuf</text><rect x=\"190\" y=\"100\" width=\"100\" height=\"32\" rx=\"6\" fill=\"#3a9b74\" fill-opacity=\".3\" stroke=\"#3a9b74\" stroke-width=\"1.5\"/><text x=\"240\" y=\"121\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" font-weight=\"600\">Muḥammad</text></svg>",
    "id": "qud-387",
    "science": "فِقْه حَنَفِيّ",
    "tier": 1,
@@ -5367,7 +5367,7 @@
   {
    "type": "bidir",
    "term": "<div class=\"arabic\">الصَّاحِبَان</div>",
-   "meaning": "Abū Yūsuf and Muḥammad al-Shaybānī",
+   "meaning": "<svg viewBox=\"0 0 300 142\" width=\"300\" height=\"142\" fill=\"none\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><title>Abū Yūsuf and Muḥammad al-Shaybānī</title><path d=\"M110,116 L190,116\" stroke=\"#3a9b74\" stroke-width=\"2.5\"/><rect x=\"95\" y=\"10\" width=\"100\" height=\"32\" rx=\"6\" fill=\"none\" stroke=\"currentColor\" opacity=\".35\" stroke-width=\"1.5\"/><text x=\"145\" y=\"31\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" opacity=\".45\">Abū Ḥanīfah</text><rect x=\"10\" y=\"100\" width=\"100\" height=\"32\" rx=\"6\" fill=\"#3a9b74\" fill-opacity=\".3\" stroke=\"#3a9b74\" stroke-width=\"1.5\"/><text x=\"60\" y=\"121\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" font-weight=\"600\">Abū Yūsuf</text><rect x=\"190\" y=\"100\" width=\"100\" height=\"32\" rx=\"6\" fill=\"#3a9b74\" fill-opacity=\".3\" stroke=\"#3a9b74\" stroke-width=\"1.5\"/><text x=\"240\" y=\"121\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" font-weight=\"600\">Muḥammad</text></svg>",
    "id": "qud-388",
    "science": "فِقْه حَنَفِيّ",
    "tier": 1,
@@ -5383,7 +5383,7 @@
   {
    "type": "bidir",
    "term": "<div class=\"arabic\">الثَّلَاثَة</div>",
-   "meaning": "all three: Abū Ḥanīfah, Abū Yūsuf and Muḥammad al-Shaybānī",
+   "meaning": "<svg viewBox=\"0 0 300 142\" width=\"300\" height=\"142\" fill=\"none\" style=\"display: block; margin: .5em auto 0; max-width: 100%; height: auto\"><title>all three: Abū Ḥanīfah, Abū Yūsuf and Muḥammad al-Shaybānī</title><path d=\"M128,42 L68,100\" stroke=\"#3a9b74\" stroke-width=\"2.5\"/><path d=\"M172,42 L232,100\" stroke=\"#3a9b74\" stroke-width=\"2.5\"/><path d=\"M110,116 L190,116\" stroke=\"#3a9b74\" stroke-width=\"2.5\"/><rect x=\"95\" y=\"10\" width=\"100\" height=\"32\" rx=\"6\" fill=\"#3a9b74\" fill-opacity=\".3\" stroke=\"#3a9b74\" stroke-width=\"1.5\"/><text x=\"145\" y=\"31\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" font-weight=\"600\">Abū Ḥanīfah</text><rect x=\"10\" y=\"100\" width=\"100\" height=\"32\" rx=\"6\" fill=\"#3a9b74\" fill-opacity=\".3\" stroke=\"#3a9b74\" stroke-width=\"1.5\"/><text x=\"60\" y=\"121\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" font-weight=\"600\">Abū Yūsuf</text><rect x=\"190\" y=\"100\" width=\"100\" height=\"32\" rx=\"6\" fill=\"#3a9b74\" fill-opacity=\".3\" stroke=\"#3a9b74\" stroke-width=\"1.5\"/><text x=\"240\" y=\"121\" text-anchor=\"middle\" font-size=\"14\" fill=\"currentColor\" stroke=\"none\" font-weight=\"600\">Muḥammad</text></svg>",
    "id": "qud-389",
    "science": "فِقْه حَنَفِيّ",
    "tier": 1,

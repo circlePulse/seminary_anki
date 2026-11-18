@@ -306,6 +306,10 @@ once, and both times was objecting to files that had no reason to exist.
   clozes have extras (vocab 231, nahw 32, sarf 30, quduri 24, arbaeen_ahadith 15, wrel 15,
   riyad 12, pyth 7; the true total is 366). An audit plan to clear them all and card what they held is in
   `drafts/draft_2026-11-17c_audit.md` (applied by `drafts/audit_2026-11-17.py --write`), awaiting approval.
+- **A visual source gets a visual card (the user, 2026-11-18).** Given a diagram of al-Shaykhān,
+  al-Ṭarafān, al-Ṣāḥibān and al-Thalāthah, text answers drew "it should be visual, like what I gave
+  you, not text". qud-386 to qud-389 now answer with that diagram (`drafts/hanafi_imams_diagram.py`).
+  Follow the user's own layout; don't invent anatomy-style drawings (see the Ḥafṣ entry).
 - **One fact per card (the user, 2026-11-12).** They asked "why is this combined" about arbh-355, which joined a
   comparison and an unrelated ruling with "and". It was split (arbh-359). Only join two asks when the second
   can't stand without the first. Other joined fronts from the 11-03 to 11-06 batches may need the same.
