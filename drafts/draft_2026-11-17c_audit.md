@@ -74,8 +74,8 @@ Each takes the origin card's source, session and tags. Riyāḍ translations use
 - **nahw-329** (from nahw-225): الشَّبَه الوَضْعِيّ ↔ resembling a ḥarf in form: being built of fewer than three letters
 - **nahw-330** (from nahw-235): Front: Which relative pronouns are muʿrab? / Back: Only the duals: اللَّذَانِ and اللَّتَانِ in rafʿ, اللَّذَيْنِ and اللَّتَيْنِ in naṣb and jarr. The rest are mabnī.
 - **nahw-331** (from nahw-239): Front: Which demonstratives are muʿrab? / Back: Only the duals: هٰذَانِ and هَاتَانِ in rafʿ, هٰذَيْنِ and هَاتَيْنِ in naṣb and jarr, and the far ones likewise. The rest are mabnī.
-- **qud-386** (from qud-349): الفَجْر الصَّادِق ↔ true dawn (the second dawn)
-- **qud-387** (from qud-350): الفَجْر الكَاذِب ↔ false dawn (the first dawn)
+- **qud-391** (from qud-349): الفَجْر الصَّادِق ↔ true dawn (the second dawn)
+- **qud-392** (from qud-350): الفَجْر الكَاذِب ↔ false dawn (the first dawn)
 - **wrel-312** (from wrel-299): Front: In the Eightfold Path, what is right intention also translated as? / Back: Right thought.
 - **sarf-347** (from sarf-204): Front: An unvowelled word fits both a place pattern and a tool pattern. Which reading should you try first, and why? / Back: The اِسْم الظَّرْف: it is more common than the اِسْم الآلَة.
 - **riyad-036** (from riyad-011): Front: Translate: إِنَّ اللهَ لَا يَنْظُرُ إِلَى أَجْسَامِكُمْ، وَلَا إِلَى صُوَرِكُمْ، وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ / Back: “Allah does not look at your bodies or your forms, but He looks at your hearts and your deeds.”

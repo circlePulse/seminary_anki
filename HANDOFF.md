@@ -37,12 +37,12 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,680 notes across 11 decks.**
+Current state: **2,685 notes across 11 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | vocab | 500 | VOCAB |
-| quduri | 385 | HDT-201 |
+| quduri | 390 | HDT-201 |
 | arbaeen_ahadith | 359 | HDT-201 |
 | wrel | 311 | RELSTD-5B |
 | sarf | 346 | ARB-201 |
@@ -304,7 +304,8 @@ once, and both times was objecting to files that had no reason to exist.
   gets one cloze testing the order, one deletion per item and no extra (hafs-071 to hafs-075:
   throat, palate, middle of the tongue, edge of the tongue, teeth). Not applied retroactively: as of 2026-11-17, 364 older
   clozes have extras (vocab 231, nahw 32, sarf 30, quduri 24, arbaeen_ahadith 15, wrel 15,
-  riyad 12, pyth 7). Clear them only if the user asks.
+  riyad 12, pyth 7; the true total is 366). An audit plan to clear them all and card what they held is in
+  `drafts/draft_2026-11-17c_audit.md` (applied by `drafts/audit_2026-11-17.py --write`), awaiting approval.
 - **One fact per card (the user, 2026-11-12).** They asked "why is this combined" about arbh-355, which joined a
   comparison and an unrelated ruling with "and". It was split (arbh-359). Only join two asks when the second
   can't stand without the first. Other joined fronts from the 11-03 to 11-06 batches may need the same.

@@ -3,7 +3,7 @@
  "topic": "quduri",
  "session": "sep09",
  "source": "Qudūrī — Intro to Qudūrī, class notes 2026-09-09",
- "expected_count": 385,
+ "expected_count": 390,
  "cards": [
   {
    "type": "basic",
@@ -5331,6 +5331,86 @@
    ],
    "session": "nov05",
    "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: times, adhān, shurūṭ — class notes 2026-11-05"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الشَّيْخَان</div>",
+   "meaning": "Abū Ḥanīfah and Abū Yūsuf",
+   "id": "qud-386",
+   "science": "فِقْه حَنَفِيّ",
+   "tier": 1,
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students",
+    "terms"
+   ],
+   "session": "nov18",
+   "source": "Qudūrī — class notes to 2026-11-18"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الطَّرَفَان</div>",
+   "meaning": "Abū Ḥanīfah and Muḥammad al-Shaybānī",
+   "id": "qud-387",
+   "science": "فِقْه حَنَفِيّ",
+   "tier": 1,
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students",
+    "terms"
+   ],
+   "session": "nov18",
+   "source": "Qudūrī — class notes to 2026-11-18"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الصَّاحِبَان</div>",
+   "meaning": "Abū Yūsuf and Muḥammad al-Shaybānī",
+   "id": "qud-388",
+   "science": "فِقْه حَنَفِيّ",
+   "tier": 1,
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students",
+    "terms"
+   ],
+   "session": "nov18",
+   "source": "Qudūrī — class notes to 2026-11-18"
+  },
+  {
+   "type": "bidir",
+   "term": "<div class=\"arabic\">الثَّلَاثَة</div>",
+   "meaning": "all three: Abū Ḥanīfah, Abū Yūsuf and Muḥammad al-Shaybānī",
+   "id": "qud-389",
+   "science": "فِقْه حَنَفِيّ",
+   "tier": 1,
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students",
+    "terms"
+   ],
+   "session": "nov18",
+   "source": "Qudūrī — class notes to 2026-11-18"
+  },
+  {
+   "type": "cloze",
+   "id": "qud-390",
+   "science": "فِقْه حَنَفِيّ",
+   "extra": "",
+   "tier": 1,
+   "tags": [
+    "quduri",
+    "abu-hanifa",
+    "students",
+    "terms"
+   ],
+   "session": "nov18",
+   "source": "Qudūrī — class notes to 2026-11-18",
+   "text": "Literally, <bdi>الشَّيْخَان</bdi> means {{c1::the two shaykhs}}; <bdi>الطَّرَفَان</bdi>, {{c2::the two ends}}; and <bdi>الصَّاحِبَان</bdi>, {{c3::the two companions}}."
   }
  ]
 }

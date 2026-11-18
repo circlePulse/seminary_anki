@@ -1,6 +1,6 @@
 {
  "_comment": "APPEND-ONLY. An id here must never change or disappear. It is the only link between a regenerated deck and notes that already carry review history in Anki.",
- "generated": "2026-11-17",
+ "generated": "2026-11-18",
  "decks": {
   "arbaeen": {
    "course": "HDT-201",
@@ -2265,7 +2265,7 @@
   "quduri": {
    "course": "HDT-201",
    "topic": "quduri",
-   "count": 385,
+   "count": 390,
    "ids": [
     "qud-001",
     "qud-002",
@@ -2651,7 +2651,12 @@
     "qud-382",
     "qud-383",
     "qud-384",
-    "qud-385"
+    "qud-385",
+    "qud-386",
+    "qud-387",
+    "qud-388",
+    "qud-389",
+    "qud-390"
    ],
    "fp": {
     "qud-001": "5b59ac26cdf8",
@@ -3038,7 +3043,12 @@
     "qud-382": "2187485c0c6f",
     "qud-383": "3ac5456507c7",
     "qud-384": "c0a76209554e",
-    "qud-385": "3eedfd560270"
+    "qud-385": "3eedfd560270",
+    "qud-386": "28244c9eaa7c",
+    "qud-387": "585bdfaff24b",
+    "qud-388": "2d9413986988",
+    "qud-389": "e10da52885da",
+    "qud-390": "458eb9807a28"
    }
   },
   "riyad": {
