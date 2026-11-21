@@ -7,7 +7,7 @@ Not checked: order clozes for sequences (that needs the notes, not the decks), a
 
 ## 1. Cloze extras cleared
 
-Every cloze extra in the older decks is emptied: 366 cards. Changed cards keep their scheduling.
+Every cloze extra in the older decks is emptied: 364 cards. Changed cards keep their scheduling.
 
 Most extras were one of four things, so nothing is lost by dropping them:
 - Already tested: a meaning another card tests (most vocab verb chains and plurals have a two-way card for the word or its maṣdar).
@@ -17,7 +17,7 @@ Most extras were one of four things, so nothing is lost by dropping them:
 
 Where an extra held something untested, it became a card (section 3). Where it held a label the cloze needs, the label moved into the cloze text (section 2).
 
-- arbaeen_ahadith (15): arbh-024, arbh-052, arbh-053, arbh-082, arbh-115, arbh-141, arbh-152, arbh-178, arbh-213, arbh-232, arbh-263, arbh-281, arbh-301, arbh-318, arbh-326
+- arbaeen_ahadith (13): arbh-024, arbh-052, arbh-053, arbh-082, arbh-115, arbh-141, arbh-152, arbh-178, arbh-213, arbh-232, arbh-263, arbh-318, arbh-326
 - nahw (32): nahw-021, nahw-056, nahw-063, nahw-086, nahw-108, nahw-125, nahw-126, nahw-127, nahw-146, nahw-167, nahw-168, nahw-177, nahw-178, nahw-179, nahw-180, nahw-181, nahw-182, nahw-183, nahw-184, nahw-185, nahw-186, nahw-187, nahw-188, nahw-192, nahw-193, nahw-204, nahw-235, nahw-239, nahw-240, nahw-295, nahw-301, nahw-309
 - pyth (7): pyth-002, pyth-119, pyth-140, pyth-235, pyth-237, pyth-241, pyth-252
 - quduri (24): qud-012, qud-014, qud-073, qud-104, qud-110, qud-113, qud-115, qud-117, tah-002, tah-013, tah-027, qud-154, qud-160, qud-166, qud-167, qud-174, qud-175, qud-191, qud-205, qud-222, qud-266, qud-278, qud-340, qud-341
@@ -63,13 +63,13 @@ Each takes the origin card's source, session and tags. Riyāḍ translations use
 - **voc-516** (from voc-232): Front: Why is this world called الدُّنْيَا? / Back: It is the feminine of أَدْنَى, nearer or lower: the nearer, lower life.
 - **voc-517** (from voc-482): Front: How does al-Nawawī define istiqāmah? / Back: لُزُومُ طَاعَةِ اللهِ — holding to obedience to Allah.
 - **voc-518** (from voc-484): Front: What does al-Nawawī call istiqāmah? / Back: نِظَامُ الأُمُورِ — the order of affairs.
-- **arbh-360** (from arbh-182): مُتَّفَقٌ عَلَيْهِ ↔ related by both al-Bukhārī and Muslim
-- **arbh-361** (from arbh-199): حُسْن الخَاتِمَة ↔ a good ending to one's life
-- **arbh-362** (from arbh-199): سُوء الخَاتِمَة ↔ a bad ending to one's life
-- **arbh-363** (from arbh-329): أَهْل الصُّفَّة ↔ the poor Companions who lived at the Prophet's ﷺ mosque
-- **arbh-364** (from arbh-262): حِمَى ↔ a private pasture
-- **arbh-365** (from arbh-174): الصَّادِقُ المَصْدُوقُ ↔ the truthful, the one believed — said of the Prophet ﷺ
-- **arbh-366** (from arbh-302): أَخْلَاق ↔ character, conduct
+- **arbh-368** (from arbh-182): مُتَّفَقٌ عَلَيْهِ ↔ related by both al-Bukhārī and Muslim
+- **arbh-369** (from arbh-199): حُسْن الخَاتِمَة ↔ a good ending to one's life
+- **arbh-370** (from arbh-199): سُوء الخَاتِمَة ↔ a bad ending to one's life
+- **arbh-371** (from arbh-329): أَهْل الصُّفَّة ↔ the poor Companions who lived at the Prophet's ﷺ mosque
+- **arbh-372** (from arbh-262): حِمَى ↔ a private pasture
+- **arbh-373** (from arbh-174): الصَّادِقُ المَصْدُوقُ ↔ the truthful, the one believed — said of the Prophet ﷺ
+- **arbh-374** (from arbh-302): أَخْلَاق ↔ character, conduct
 - **nahw-328** (from nahw-224): الشَّبَه الافْتِقَارِيّ ↔ resembling a ḥarf in dependence: needing other words to complete the meaning
 - **nahw-329** (from nahw-225): الشَّبَه الوَضْعِيّ ↔ resembling a ḥarf in form: being built of fewer than three letters
 - **nahw-330** (from nahw-235): Front: Which relative pronouns are muʿrab? / Back: Only the duals: اللَّذَانِ and اللَّتَانِ in rafʿ, اللَّذَيْنِ and اللَّتَيْنِ in naṣb and jarr. The rest are mabnī.

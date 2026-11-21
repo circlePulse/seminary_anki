@@ -1,6 +1,6 @@
 # Draft — leech fixes for the naṣīḥah cards (2026-11-21)
 
-Status: **awaiting approval.**
+Status: **approved and delivered 2026-11-21.**
 
 Rewritten cards get the tag relearn-nov21. After importing, search the browser for tag:relearn-nov21, select all, then Forget them and unsuspend them (Anki suspends leeches).
 

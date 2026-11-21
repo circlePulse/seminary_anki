@@ -3,7 +3,7 @@
  "topic": "arbaeen-ahadith",
  "session": "sep16",
  "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
- "expected_count": 359,
+ "expected_count": 367,
  "cards": [
   {
    "type": "basic",
@@ -3725,11 +3725,12 @@
    "tier": 1,
    "id": "arbh-271",
    "front": "Who narrates the ḥadīth “the religion is naṣīḥah” (Arbaʿīn 7)?",
-   "back": "Abū Ruqayyah Tamīm ibn Aws al-Dārī RA",
+   "back": "Tamīm ibn Aws al-Dārī RA",
    "tags": [
     "arbaeen",
     "h07",
-    "narrator"
+    "narrator",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3738,12 +3739,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-272",
-   "front": "What was Tamīm al-Dārī RA before Islam, and when did he accept it?",
-   "back": "A Christian — he accepted Islam in 9 AH",
+   "front": "What was Tamīm al-Dārī RA's religion before Islam?",
+   "back": "Christianity",
    "tags": [
     "arbaeen",
     "h07",
-    "narrator"
+    "narrator",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3780,12 +3782,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-275",
-   "front": "When and where did Tamīm al-Dārī RA die?",
-   "back": "In 40 AH, in Palestine",
+   "front": "In what year did Tamīm al-Dārī RA die?",
+   "back": "40 AH",
    "tags": [
     "arbaeen",
     "h07",
-    "narrator"
+    "narrator",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3850,12 +3853,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-280",
-   "front": "How did Ibn Ḥajar define naṣīḥah?",
-   "back": "Seeking good, or improvement, for the other person",
+   "front": "Whose definition of naṣīḥah is “seeking good, or improvement, for the other person”?",
+   "back": "Ibn Ḥajar's",
    "tags": [
     "arbaeen",
     "h07",
-    "nasiha"
+    "nasiha",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3865,7 +3869,7 @@
    "tier": 1,
    "id": "arbh-281",
    "text": "“The religion is naṣīḥah.” We said: “To whom?” He said: “To {{c1::Allah}}, to {{c2::His Book}}, to {{c3::His Messenger}}, and to {{c4::the leaders of the Muslims}} and {{c5::their common folk}}.”",
-   "extra": "<bdi>الدِّينُ النَّصِيحَةُ</bdi> (Arbaʿīn 7, Muslim): the five relationships the Prophet ﷺ highlighted",
+   "extra": "",
    "tags": [
     "arbaeen",
     "h07",
@@ -3880,11 +3884,12 @@
    "tier": 1,
    "id": "arbh-282",
    "front": "What is naṣīḥah to Allah, first and foremost?",
-   "back": "Believing in Him — His existence, oneness, might, power, glory and magnificence — and denying Him any partners",
+   "back": "Believing in Him, and denying Him any partners",
    "tags": [
     "arbaeen",
     "h07",
-    "allah"
+    "allah",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3893,12 +3898,13 @@
    "type": "cloze",
    "tier": 1,
    "id": "arbh-283",
-   "text": "Naṣīḥah to Allah also means {{c1::avoiding His prohibitions and following His commands}}, {{c2::remembering Him in every circumstance}}, {{c3::recognising His blessings and being grateful for them}}, and {{c4::being sincere in worship}}",
+   "text": "Naṣīḥah to Allah also means {{c1::following His commands}} and {{c2::avoiding His prohibitions}}, {{c3::remembering Him}} in every circumstance, {{c4::thanking Him}} for His blessings, and being {{c5::sincere}} in worship",
    "extra": "",
    "tags": [
     "arbaeen",
     "h07",
-    "allah"
+    "allah",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3907,12 +3913,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-284",
-   "front": "What must one believe about the Qurʾān, as naṣīḥah to Allah's Book?",
-   "back": "That it is Allah's uncreated word, given to the Prophet ﷺ — the greatest miracle ever given — and inimitable: nothing like it can ever be produced",
+   "front": "What must one believe about the Qurʾān's nature, as naṣīḥah to Allah's Book?",
+   "back": "That it is Allah's uncreated word",
    "tags": [
     "arbaeen",
     "h07",
-    "quran"
+    "quran",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3921,12 +3928,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-285",
-   "front": "What does naṣīḥah to the Qurʾān ask of us in practice?",
-   "back": "An active relationship with it — reciting it regularly, learning and teaching it, reflecting on its meanings and putting it into practice — and outward respect for it",
+   "front": "Name any three things naṣīḥah to the Qurʾān asks of us in practice.",
+   "back": "Any three of: reciting it regularly, learning it, teaching it, reflecting on its meanings, acting on it, showing it outward respect",
    "tags": [
     "arbaeen",
     "h07",
-    "quran"
+    "quran",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3935,12 +3943,13 @@
    "type": "cloze",
    "tier": 1,
    "id": "arbh-286",
-   "text": "Naṣīḥah to the Messenger ﷺ: {{c1::believing he is Allah's last and final messenger}}; {{c2::loving and honouring him, and following what he told us}}; {{c3::behaving with the character the Sunnah teaches}}; {{c4::loving his household and his Companions}}; and {{c5::taking him as a role model in every aspect of life}}",
+   "text": "Naṣīḥah to the Messenger ﷺ: believing he is Allah's {{c1::final}} messenger; {{c2::loving}} and {{c3::honouring}} him; {{c4::following}} what he told us; adopting {{c5::the character the Sunnah teaches}}; loving {{c6::his household and Companions}}; and taking him as {{c7::a role model}} in every aspect of life",
    "extra": "",
    "tags": [
     "arbaeen",
     "h07",
-    "messenger"
+    "messenger",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3949,12 +3958,13 @@
    "type": "cloze",
    "tier": 1,
    "id": "arbh-287",
-   "text": "Naṣīḥah to the leaders of the Muslims: {{c1::helping and obeying them in the truth}}; {{c2::ordering them with the truth and reminding them of it}}; {{c3::advising them of what they have neglected, and reminding them of the Muslims' rights}}; and {{c4::not rebelling against them with the sword, praying behind them, and supplicating for their correction}}",
+   "text": "Naṣīḥah to the leaders of the Muslims: obeying them {{c1::in the truth}}; {{c2::reminding them of the truth}}; advising them of {{c3::what they have neglected}}; reminding them of {{c4::the Muslims' rights}}; not {{c5::rebelling against them with the sword}}; {{c6::praying behind them}}; and {{c7::supplicating for their correction}}",
    "extra": "",
    "tags": [
     "arbaeen",
     "h07",
-    "leaders"
+    "leaders",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3977,12 +3987,13 @@
    "type": "cloze",
    "tier": 1,
    "id": "arbh-289",
-   "text": "Naṣīḥah to the common folk: {{c1::guiding them to what will set their affairs right in both lives, and helping them in it}}; {{c2::protecting them from harm, helping them in need, and getting them what benefits them}}; {{c3::ordering good and forbidding evil, with kindness and sincerity}}; {{c4::showing them mercy — honouring their elders and being kind to the young}}; and {{c5::not cheating them, but supporting them}}",
+   "text": "Naṣīḥah to the common folk: guiding them to {{c1::what sets their affairs right in both lives}}; protecting them from {{c2::harm}} and helping them {{c3::in need}}; {{c4::ordering good and forbidding evil}}, kindly and sincerely; showing them {{c5::mercy}}, honouring their elders and being kind to the young; and {{c6::not cheating them}}, but supporting them",
    "extra": "",
    "tags": [
     "arbaeen",
     "h07",
-    "common-folk"
+    "common-folk",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -3992,12 +4003,13 @@
    "tier": 1,
    "id": "arbh-290",
    "front": "What principle should govern each of the five relationships in the ḥadīth “the religion is naṣīḥah”?",
-   "back": "Give each its due rights and responsibilities — and stress one's responsibilities more than one's rights, to nurture the relationship and make it stronger",
+   "back": "Giving each its due rights and responsibilities",
    "tags": [
     "arbaeen",
     "h07",
     "relationships",
-    "criterion"
+    "criterion",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4006,12 +4018,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-291",
-   "front": "What is our relationship with Allah, according to the lesson on Arbaʿīn 7?",
-   "back": "One of submission, obedience and sincerity: He is the Lord, and we are His servants",
+   "front": "What kind of relationship do we have with Allah, according to the lesson on Arbaʿīn 7?",
+   "back": "Servant and Lord: one of submission, obedience and sincerity",
    "tags": [
     "arbaeen",
     "h07",
-    "allah"
+    "allah",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4020,12 +4033,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-292",
-   "front": "What is the foundation of our relationship with Allah, and how does it show itself?",
-   "back": "Love, which expresses itself through hope and fear",
+   "front": "What is the foundation of our relationship with Allah?",
+   "back": "Love",
    "tags": [
     "arbaeen",
     "h07",
-    "allah"
+    "allah",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4035,11 +4049,12 @@
    "tier": 1,
    "id": "arbh-293",
    "front": "How is our relationship with Allah nurtured?",
-   "back": "By learning about Him, reflecting on His blessings, and expressing gratitude to Him",
+   "back": "Learning about Him, reflecting on His blessings, and thanking Him",
    "tags": [
     "arbaeen",
     "h07",
-    "allah"
+    "allah",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4049,11 +4064,12 @@
    "tier": 1,
    "id": "arbh-294",
    "front": "Our relationship with the Qurʾān is that of student and teacher. What does it teach us?",
-   "back": "The absolute truths and realities that form Islam's belief system, the relationship between man and his Creator, and the rules and regulations sent down in it",
+   "back": "Islam's beliefs, the relationship between man and his Creator, and the rules sent down in it",
    "tags": [
     "arbaeen",
     "h07",
-    "quran"
+    "quran",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4062,12 +4078,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-295",
-   "front": "Our relationship with the Prophet ﷺ is also that of student and teacher. What is he, for us?",
-   "back": "The most perfect example of a human being: the ideal role model in every aspect of life, the physical manifestation of the Qurʾān, and the most noble in character and manners",
+   "front": "The lesson on Arbaʿīn 7 calls the Prophet ﷺ the physical manifestation of what?",
+   "back": "The Qurʾān — he is the most perfect example of a human being",
    "tags": [
     "arbaeen",
     "h07",
-    "messenger"
+    "messenger",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4076,12 +4093,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-296",
-   "front": "What is the foundation of our relationship with the Prophet ﷺ, and how is it nurtured?",
-   "back": "Love, honour, respect and reverence — nurtured by learning about him, following his Sunnah, and sending abundant salutations on him",
+   "front": "What is the foundation of our relationship with the Prophet ﷺ?",
+   "back": "Love, with honour, respect and reverence",
    "tags": [
     "arbaeen",
     "h07",
-    "messenger"
+    "messenger",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4090,12 +4108,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-297",
-   "front": "What is our default relationship with those in authority, and what limits it?",
-   "back": "Obedience — but not absolute or unrestricted: there is no obedience to the creation in disobedience to the Creator (<bdi>لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ الخَالِقِ</bdi>)",
+   "front": "What is our default relationship with those in authority?",
+   "back": "Obedience, though not absolute",
    "tags": [
     "arbaeen",
     "h07",
-    "leaders"
+    "leaders",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4104,12 +4123,13 @@
    "type": "basic",
    "tier": 1,
    "id": "arbh-298",
-   "front": "Why do Muslim citizens follow the law of the land by default, according to the lesson on Arbaʿīn 7?",
-   "back": "Order, peace, security and safety in society are among Islam's priorities. So the law is followed by default, as long as it doesn't infringe personal rights and religious freedoms.",
+   "front": "Why do Muslim citizens follow the law of the land by default?",
+   "back": "Order, peace and security in society are among Islam's priorities",
    "tags": [
     "arbaeen",
     "h07",
-    "leaders"
+    "leaders",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4133,11 +4153,12 @@
    "tier": 1,
    "id": "arbh-300",
    "front": "How does Islam view social behaviour and interaction?",
-   "back": "As one of the major components of its teachings. It puts great emphasis on family and community — Islam is not individualistic — and gives guidance for every communal and family role.",
+   "back": "As a major component of its teachings: Islam is not individualistic",
    "tags": [
     "arbaeen",
     "h07",
-    "others"
+    "others",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4146,12 +4167,13 @@
    "type": "cloze",
    "tier": 1,
    "id": "arbh-301",
-   "text": "How we must treat others: with {{c1::respect, kindness and care}}; {{c2::sympathy, compassion and generosity}}; and {{c3::love, mercy and forgiveness}}",
-   "extra": "From the lesson on Arbaʿīn 7",
+   "text": "How we must treat others: with respect, {{c1::kindness}} and care; sympathy, {{c2::compassion}} and generosity; love, {{c3::mercy}} and forgiveness",
+   "extra": "",
    "tags": [
     "arbaeen",
     "h07",
-    "others"
+    "others",
+    "relearn-nov21"
    ],
    "session": "oct22",
    "source": "Arbaʿīn Ḥadīth 7 — class notes"
@@ -4989,6 +5011,119 @@
    ],
    "session": "nov05",
    "source": "Arbaʿīn Ḥadīth 10 — class notes"
+  },
+  {
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h07",
+    "narrator"
+   ],
+   "session": "oct22",
+   "source": "Arbaʿīn Ḥadīth 7 — class notes",
+   "type": "basic",
+   "front": "What is Tamīm al-Dārī RA's kunya?",
+   "back": "Abū Ruqayyah",
+   "id": "arbh-360"
+  },
+  {
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h07",
+    "narrator"
+   ],
+   "session": "oct22",
+   "source": "Arbaʿīn Ḥadīth 7 — class notes",
+   "type": "basic",
+   "front": "In what year did Tamīm al-Dārī RA accept Islam?",
+   "back": "9 AH",
+   "id": "arbh-361"
+  },
+  {
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h07",
+    "allah"
+   ],
+   "session": "oct22",
+   "source": "Arbaʿīn Ḥadīth 7 — class notes",
+   "type": "basic",
+   "front": "Love of Allah shows itself through which two feelings?",
+   "back": "Hope and fear",
+   "id": "arbh-362"
+  },
+  {
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h07",
+    "quran"
+   ],
+   "session": "oct22",
+   "source": "Arbaʿīn Ḥadīth 7 — class notes",
+   "type": "cloze",
+   "text": "The Qurʾān is the {{c1::greatest miracle}} ever given, and {{c2::inimitable}}: nothing like it can ever be produced",
+   "extra": "",
+   "id": "arbh-363"
+  },
+  {
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h07",
+    "messenger"
+   ],
+   "session": "oct22",
+   "source": "Arbaʿīn Ḥadīth 7 — class notes",
+   "type": "cloze",
+   "text": "Our relationship with the Prophet ﷺ is nurtured by {{c1::learning about him}}, {{c2::following his Sunnah}} and {{c3::sending abundant salutations on him}}",
+   "extra": "",
+   "id": "arbh-364"
+  },
+  {
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h07",
+    "leaders"
+   ],
+   "session": "oct22",
+   "source": "Arbaʿīn Ḥadīth 7 — class notes",
+   "type": "basic",
+   "front": "What limits obedience to those in authority?",
+   "back": "There is no obedience to the creation in disobedience to the Creator: <bdi>لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ الخَالِقِ</bdi>",
+   "id": "arbh-365"
+  },
+  {
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h07",
+    "leaders"
+   ],
+   "session": "oct22",
+   "source": "Arbaʿīn Ḥadīth 7 — class notes",
+   "type": "basic",
+   "front": "Up to what point do Muslim citizens follow the law of the land?",
+   "back": "As long as it doesn't infringe personal rights or religious freedoms",
+   "id": "arbh-366"
+  },
+  {
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h07",
+    "relationships",
+    "criterion"
+   ],
+   "session": "oct22",
+   "source": "Arbaʿīn Ḥadīth 7 — class notes",
+   "type": "basic",
+   "front": "In each of the five relationships of Arbaʿīn 7, what should one stress more than one's rights, and why?",
+   "back": "One's responsibilities: it nurtures the relationship and makes it stronger",
+   "id": "arbh-367"
   }
  ]
 }

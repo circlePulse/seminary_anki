@@ -37,13 +37,13 @@ Turning class notes into Anki decks. Two institutions — IOK Seminary (Arabic,
 location, and which domain packs to read. `registry/notion.md` maps the Notion pages
 themselves: page ids, how each page is laid out, and what is still uncarded.
 
-Current state: **2,685 notes across 11 decks.**
+Current state: **2,693 notes across 11 decks.**
 
 | deck | notes | course |
 |---|---|---|
 | vocab | 500 | VOCAB |
 | quduri | 390 | HDT-201 |
-| arbaeen_ahadith | 359 | HDT-201 |
+| arbaeen_ahadith | 367 | HDT-201 |
 | wrel | 311 | RELSTD-5B |
 | sarf | 346 | ARB-201 |
 | nahw | 327 | ARB-201 |
@@ -310,6 +310,13 @@ once, and both times was objecting to files that had no reason to exist.
   al-Ṭarafān, al-Ṣāḥibān and al-Thalāthah, text answers drew "it should be visual, like what I gave
   you, not text". qud-386 to qud-389 now answer with that diagram (`drafts/hanafi_imams_diagram.py`).
   Follow the user's own layout; don't invent anatomy-style drawings (see the Ḥafṣ entry).
+- **Leeches: fix the card, not the learner (the user, 2026-11-21).** "There are some crazy leeches
+  in the cards about Nasihah." The causes were long deletions bundling two or three ideas, lists of
+  near-synonyms in arbitrary groups, two questions on one card, long list answers, and two cards
+  with near-identical answers. Fixed by `drafts/nasihah_2026-11-21.py`: one short idea per
+  deletion, splits, core-only or "any three of" answers, and "whose definition is this?" to tell
+  look-alikes apart. Never change a card's type (an import can't switch an existing note's type)
+  and never remove an id; tag rewritten cards `relearn-<date>` so the user can Forget and unsuspend them.
 - **One fact per card (the user, 2026-11-12).** They asked "why is this combined" about arbh-355, which joined a
   comparison and an unrelated ruling with "and". It was split (arbh-359). Only join two asks when the second
   can't stand without the first. Other joined fronts from the 11-03 to 11-06 batches may need the same.
