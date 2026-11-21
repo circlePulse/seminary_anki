@@ -1,0 +1,533 @@
+[
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "qiblah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "When may one pray in any direction they are able to?",
+  "back": "In a state of fear"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "qiblah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "The qiblah's direction is unknown and there is no one to ask. What does one do?",
+  "back": "Make an educated guess and pray towards it"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "qiblah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "After praying towards a guessed qiblah, someone learns it was wrong. What must they do?",
+  "back": "Nothing: the prayer is not repeated"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "qiblah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "Someone learns mid-prayer that they are facing the wrong way. What do they do?",
+  "back": "Turn to the correct direction and continue"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "arkan",
+   "enumeration"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "cloze",
+  "text": "The six arkān of prayer in al-Qudūrī: {{c1::the taḥrīmah}}, {{c2::standing (qiyām)}}, {{c3::recitation (qirāʾah)}}, {{c4::bowing (rukūʿ)}}, {{c5::prostration (sujūd)}}, and {{c6::the final sitting (al-qaʿdah al-akhīrah)}}",
+  "extra": ""
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "arkan"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "Why is the opening takbīr called the taḥrīmah?",
+  "back": "It makes things like speaking, eating and drinking unlawful for the rest of the prayer"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "arkan"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "How long must the final sitting last to fulfil its rukn?",
+  "back": "As long as it takes to recite the tashahhud"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "arkan"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "Al-Qudūrī calls everything in the prayer beyond its arkān “sunnah”. What does sunnah mean there?",
+  "back": "Established by the Sunnah: it covers both the wājib and the sunnah acts"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah",
+   "rulings"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "cloze",
+  "text": "Wājib in al-Qudūrī's description of prayer: {{c1::reciting al-Fātiḥah}}; {{c2::adding a sūrah or three verses}}; {{c3::standing up straight after rukūʿ}}; and {{c4::sitting between the two sajdahs}}",
+  "extra": ""
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah",
+   "rulings"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "cloze",
+  "text": "Sunnah in al-Qudūrī's description of prayer: {{c1::raising the hands}} at the opening takbīr; {{c2::placing the hands}}; {{c3::the thanāʾ}}; {{c4::the taʿawwudh}}; {{c5::the basmalah}}; {{c6::saying āmīn}}; {{c7::the tasbīḥ of rukūʿ}}; and {{c8::the tasmīʿ and taḥmīd}}",
+  "extra": ""
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah",
+   "terms"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "bidir",
+  "term": "<div class=\"arabic\">رَفْع اليَدَيْن</div>",
+  "meaning": "raising the hands at the opening takbīr"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "How high does a man raise his hands for the opening takbīr?",
+  "back": "Until his thumbs are level with his earlobes"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "How high does a woman raise her hands for the opening takbīr?",
+  "back": "To her shoulders"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah",
+   "ikhtilaf"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "Which imam limits the opening takbīr to forms of “Allāhu akbar”, such as “Allāhu al-akbar” and “Allāhu al-kabīr”?",
+  "back": "Abū Yūsuf"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah",
+   "ikhtilaf"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "For al-Ṭarafān, what may open the prayer in place of “Allāhu akbar”?",
+  "back": "Any phrase that glorifies Allah, such as “Allāhu ajall” or “Allāhu aʿẓam”"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah",
+   "terms"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "bidir",
+  "term": "<div class=\"arabic\">وَضْع اليَدَيْن</div>",
+  "meaning": "placing the hands, right over left, in prayer"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "How are the hands held when placed in prayer?",
+  "back": "Right over left: the thumb and little finger encircle the wrist, and the middle three fingers rest along the forearm"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "Where does a man place his hands after the opening takbīr?",
+  "back": "Below the navel"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "Where does a woman place her hands after the opening takbīr?",
+  "back": "On her chest"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "What is the thanāʾ?",
+  "back": "<div class=\"arabic\">سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلَا إِلَهَ غَيْرُكَ</div>"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah",
+   "terms"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "bidir",
+  "term": "<div class=\"arabic\">الاِسْتِعَاذَة</div>",
+  "meaning": "seeking refuge in Allah before reciting: <bdi>أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ</bdi>"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "After the thanāʾ, which two things are said silently?",
+  "back": "The taʿawwudh and the basmalah"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "In the prayer's recitation, what is the rukn?",
+  "back": "Reciting at all"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "What can stand in for three short verses after al-Fātiḥah?",
+  "back": "One long verse of the same length"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "In congregation, who says āmīn after al-Fātiḥah?",
+  "back": "Both the imam and those following him"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "How do the Ḥanafīs say āmīn?",
+  "back": "Quietly"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "What does one say at every rising and lowering in prayer?",
+  "back": "Allāhu akbar"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "cloze",
+  "text": "In rukūʿ: the hands on the knees with {{c1::the fingers spread}}; the back {{c2::straight}}; and the head {{c3::level with the back}}",
+  "extra": ""
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "What is the tasbīḥ of rukūʿ?",
+  "back": "<bdi>سُبْحَانَ رَبِّيَ العَظِيمِ</bdi>"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "At least how many times is the tasbīḥ of rukūʿ said?",
+  "back": "Three"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah",
+   "terms"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "bidir",
+  "term": "<div class=\"arabic\">القَوْمَة</div>",
+  "meaning": "standing up straight after rukūʿ"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "In congregation, how are “samiʿa Allāhu li-man ḥamidah” and “rabbanā laka al-ḥamd” divided?",
+  "back": "The imam says the first; those following him say the second"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "In sujūd, what touches the ground, and where is the face?",
+  "back": "Both the nose and the forehead, with the face between the palms"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah",
+   "ikhtilaf"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "In sujūd, how did Abū Ḥanīfah and the Ṣāḥibān differ over the nose and forehead?",
+  "back": "Abū Ḥanīfah: either one suffices. The Ṣāḥibān: the nose alone does not, except with an excuse"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "What may lie between the forehead and the ground in sujūd?",
+  "back": "A barrier: it needn't touch the ground directly"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "How does a man hold his arms and belly in sujūd?",
+  "back": "Forearms away from his sides, and belly away from his thighs"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "Which way do the toes point in sujūd?",
+  "back": "Towards the qiblah"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "What is the tasbīḥ of sujūd?",
+  "back": "<bdi>سُبْحَانَ رَبِّيَ الأَعْلَى</bdi>"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah",
+   "terms"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "bidir",
+  "term": "<div class=\"arabic\">الجَلْسَة</div>",
+  "meaning": "the sitting between the two sajdahs"
+ },
+ {
+  "tier": 1,
+  "tags": [
+   "quduri",
+   "salah",
+   "sifat-salah"
+  ],
+  "session": "nov18",
+  "source": "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18",
+  "type": "basic",
+  "front": "How long is the sitting between the two sajdahs?",
+  "back": "A moment's rest"
+ }
+]

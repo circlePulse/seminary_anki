@@ -1,0 +1,429 @@
+# Draft — scan of every page, 2026-11-21
+
+Status: **awaiting approval.**
+
+Scanned with version-changes from each page's last carding. IOK Arabic, Riyāḍ and Ḥafṣ have nothing new. World Religions has no notes for 11/03 (only "asdf"), 11/05, 11/12 or 11/19.
+
+## Corrections and flags
+
+1. Āmīn: the notes have everyone saying āmīn but not how. The Ḥanafīs say it quietly, imam and followers alike; the card says so.
+2. Nose and forehead in sujūd: the notes have the Ṣāḥibān requiring both. Al-Qudūrī's wording is narrower: for them the nose alone doesn't suffice without an excuse (the forehead alone does). The card follows al-Qudūrī. I believe the fatwā is on the Ṣāḥibān's view; worth asking your teacher.
+3. Python setUp: the notes say it is called "every time the tests are run", so objects are made "once". It actually runs before each test method, giving every test fresh objects. The card says so.
+4. Shinto gate: "you are not in a sacred space" is surely "now in": the gate (the torii) marks where sacred space begins. Carded as "now".
+5. Symbols of rulership: the notes say three sacred jewels. They are the three sacred treasures: a mirror, a sword and a jewel. Carded that way.
+6. Himiko and Emperor Suinin: not carded. The legend of the mirror belongs to Yamatohime, Suinin's daughter, who is said to have enshrined it at Ise; Himiko is known from Chinese records, not the Japanese chronicles. Tell me if your teacher said otherwise.
+7. "800 years after Himiko's death": a fragment with nothing attached, not carded.
+8. Lotus Sutra: "multiple sects based on this one sect" is read as "this one text". The canonical version is Kumārajīva's Chinese translation of 406; the card says "produced in the early 400s in China".
+9. The Japanese Lotus sect with a political party is Sōka Gakkai (its party is Kōmeitō). Not carded, since the notes don't name it.
+10. Additions of mine: Tendai as the Japanese form of Tiantai (a card), and the Arbaʿīn 11 and 12 translations (`texts/arbaeen_h11.md`, `texts/arbaeen_h12.md`).
+11. Arbaʿīn 11: "Hasan ibn ali ibn ali talib" is al-Ḥasan ibn ʿAlī ibn Abī Ṭālib. "Makes someone feel uncomfortable" is read as the sound heart itself feeling uneasy at a doubtful matter.
+12. Qudūrī: "Qadratu al-tashahhud" is qadr al-tashahhud (the length of the tashahhud). The tasbīḥ wordings are carded in Arabic.
+
+## Arbaʿīn Ḥadīth 11 and 12 (27 notes)
+
+- **arbh-368**
+  - Front: Who narrates Arbaʿīn 11, on leaving what makes you doubt?
+  - Back: Al-Ḥasan ibn ʿAlī ibn Abī Ṭālib RA
+- **arbh-369**
+  - Front: Who were al-Ḥasan ibn ʿAlī RA's parents?
+  - Back: ʿAlī RA and Fāṭimah RA, the Prophet's ﷺ daughter: he was the Prophet's ﷺ beloved grandson
+- **arbh-370**
+  - Front: In what year was al-Ḥasan ibn ʿAlī RA born?
+  - Back: 3 AH
+- **arbh-371**
+  - Front: Where did al-Ḥasan ibn ʿAlī RA grow up?
+  - Back: In the Prophet's ﷺ house
+- **arbh-372**
+  - Front: In what year did al-Ḥasan ibn ʿAlī RA die?
+  - Back: 50 AH
+- **arbh-373**
+  - Front: Where did al-Ḥasan ibn ʿAlī RA die?
+  - Back: In Madīnah
+- **arbh-374**
+  - Front: How many aḥādīth did al-Ḥasan ibn ʿAlī RA narrate?
+  - Back: 13
+- **arbh-375**
+  - Front: What does the Prophet ﷺ command in Arbaʿīn 11?
+  - Back: “Leave what makes you doubt for what does not make you doubt.”
+- **arbh-376**
+  - Front: What kind of teaching is Arbaʿīn 11?
+  - Back: A general principle that applies to every area of life
+- **arbh-377** (cloze)
+  - Text: Arbaʿīn 11 applies to {{c1::worship}}, {{c2::finances}}, {{c3::social dealings}}, {{c4::food and drink}} and {{c5::thoughts}}
+- **arbh-378**
+  - Front: What does following Arbaʿīn 11 free a person from?
+  - Back: General stress and anxiety
+- **arbh-379**
+  - Front: Where does adopting Arbaʿīn 11 lead, spiritually?
+  - Back: To high taqwa: the path to true piety
+- **arbh-380**
+  - Front: What does engaging in doubtful matters bring about, according to the notes on Arbaʿīn 11?
+  - Back: Unease and uncertainty
+- **arbh-381**
+  - Front: Besides stress, what does Arbaʿīn 11's principle help a person avoid in their practice?
+  - Back: A “religious OCD”
+- **arbh-382** (both ways)
+  - Term: رَيْب (rayb)
+  - Meaning: unease and doubt — what a sound heart feels at a doubtful matter
+- **arbh-383** (both ways)
+  - Term: يَقِين (yaqīn)
+  - Meaning: certainty — the opposite of rayb
+- **arbh-384** (both ways)
+  - Term: قَاعِدَة فِقْهِيَّة (qāʿidah fiqhiyyah)
+  - Meaning: a legal maxim: a general principle derived from the primary sources
+- **arbh-385**
+  - Front: What are legal maxims, in relation to the Sharīʿah?
+  - Back: Theoretical abstractions of its goals and objectives
+- **arbh-386** (both ways)
+  - Term: اليَقِينُ لَا يَزُولُ بِالشَّكِّ
+  - Meaning: certainty is not removed by doubt (a legal maxim)
+- **arbh-387**
+  - Front: Someone is sure they made wuḍūʾ but unsure whether they lost it. What is their state, and by which maxim?
+  - Back: They still have wuḍūʾ: certainty is not removed by doubt
+- **arbh-388**
+  - Front: Who narrates Arbaʿīn 12, on leaving what does not concern you?
+  - Back: Abū Hurayrah RA
+- **arbh-389**
+  - Front: What does Arbaʿīn 12 say is part of the excellence of a person's Islam?
+  - Back: “His leaving what does not concern him.”
+- **arbh-390** (cloze)
+  - Text: Four ḥadīth are counted the foundations of akhlāq: whoever believes in Allah and the Last Day should {{c1::speak good or remain silent}}; part of the excellence of one's Islam is {{c2::leaving what does not concern him}}; {{c3::do not get angry}}; and none of you truly believes until {{c4::he loves for his brother what he loves for himself}}
+- **arbh-391**
+  - Front: What does Arbaʿīn 12 mean, in simple words?
+  - Back: Mind your own business: don't concern yourself with matters you're not involved in
+- **arbh-392**
+  - Front: What harm comes from getting involved in other people's private affairs?
+  - Back: Harm to society: conflict between people
+- **arbh-393**
+  - Front: What should one busy oneself with instead, according to the notes on Arbaʿīn 12?
+  - Back: What benefits one in this world and the next
+- **arbh-394**
+  - Front: According to the notes on Arbaʿīn 12, what should you be concerned about?
+  - Back: Yourself and those under your care: you are responsible for them
+
+## Python: testing, libraries (24 notes)
+
+- **pyth-270**
+  - Front: In test-oriented design, what should you try to stay on as often as possible?
+  - Back: Stable ground — rather than writing lots of code and only then testing it
+- **pyth-271**
+  - Front: What does TDD stand for?
+  - Back: Test-driven development
+- **pyth-272** (cloze)
+  - Text: The TDD cycle: 1. start on {{c1::solid ground}}, or with an empty program; 2. decide {{c2::a feature}}; 3. write {{c3::a test}} for it, before it exists; 4. {{c4::run the tests}}, to see how they fail; 5. write {{c5::the minimum code}} that passes; 6. rerun until {{c6::all tests pass}}; 7. {{c7::refactor}}, rerunning the tests after each change; 8. {{c8::go back to step 1}}
+- **pyth-273**
+  - Front: In TDD, why write the test before the feature exists?
+  - Back: It lets you experiment with the feature's shape and interface
+- **pyth-274**
+  - Front: In TDD, why run a new test before writing any code for it?
+  - Back: To see how it fails
+- **pyth-275**
+  - Front: In TDD, how much code do you write to pass a test?
+  - Back: The minimum that makes it pass: don't solve problems you don't have
+- **pyth-276**
+  - Front: What is refactoring?
+  - Back: Changing the design of code without changing what it does
+- **pyth-277**
+  - Front: Which standard-library module does the course use for automated tests?
+  - Back: unittest
+- **pyth-278**
+  - Front: What does “unit” mean in “unit test”?
+  - Back: A very small, self-contained unit of the program is being tested
+- **pyth-279**
+  - Front: In the course's testing module, what does a test class inherit from?
+  - Back: unittest.TestCase
+- **pyth-280**
+  - Front: In the course's tests, what must both test files and test methods begin with?
+  - Back: test_
+- **pyth-281**
+  - Front: How does a test method check a result?
+  - Back: With an assertion method on self, such as self.assertEqual(), self.assertTrue() or self.assertFalse()
+- **pyth-282**
+  - Front: In a test method's name, what does a double underscore __ act as?
+  - Back: A comma: test method names read as sentences
+- **pyth-283**
+  - Front: When is from something import * acceptable, according to the course?
+  - Back: In automated tests: one of the only times it is
+- **pyth-284**
+  - Front: When does a test class's setUp method run?
+  - Back: Before each test method, so objects every test needs can be made there and saved to self
+- **pyth-285**
+  - Front: In tests, where should repeated actions go, especially ones that might change?
+  - Back: Into private methods
+- **pyth-286**
+  - Front: Where do the course's tests go in the class environment?
+  - Back: In the test folder
+- **pyth-287**
+  - Front: How does Python's standard library compare in size with other languages'?
+  - Back: It is one of the larger ones
+- **pyth-288**
+  - Front: What are third-party libraries for, given Python's large standard library?
+  - Back: Filling more niche gaps
+- **pyth-289**
+  - Front: What licensing do third-party libraries have?
+  - Back: Many are open source and free, but not all: some have licences
+- **pyth-290**
+  - Front: Why must third-party libraries be installed?
+  - Back: They don't come with Python
+- **pyth-291**
+  - Front: What is a virtual environment?
+  - Back: A completely separate, self-contained Python installation in a chosen directory
+- **pyth-292**
+  - Front: Why use virtual environments?
+  - Back: To sandbox our package installations
+- **pyth-293**
+  - Front: In the course's playgrounds and projects, where does pip install a package?
+  - Back: Into their virtual environment, which is already set up
+
+## Qudūrī: qiblah, arkān, description of prayer (40 notes)
+
+- **qud-391**
+  - Front: When may one pray in any direction they are able to?
+  - Back: In a state of fear
+- **qud-392**
+  - Front: The qiblah's direction is unknown and there is no one to ask. What does one do?
+  - Back: Make an educated guess and pray towards it
+- **qud-393**
+  - Front: After praying towards a guessed qiblah, someone learns it was wrong. What must they do?
+  - Back: Nothing: the prayer is not repeated
+- **qud-394**
+  - Front: Someone learns mid-prayer that they are facing the wrong way. What do they do?
+  - Back: Turn to the correct direction and continue
+- **qud-395** (cloze)
+  - Text: The six arkān of prayer in al-Qudūrī: {{c1::the taḥrīmah}}, {{c2::standing (qiyām)}}, {{c3::recitation (qirāʾah)}}, {{c4::bowing (rukūʿ)}}, {{c5::prostration (sujūd)}}, and {{c6::the final sitting (al-qaʿdah al-akhīrah)}}
+- **qud-396**
+  - Front: Why is the opening takbīr called the taḥrīmah?
+  - Back: It makes things like speaking, eating and drinking unlawful for the rest of the prayer
+- **qud-397**
+  - Front: How long must the final sitting last to fulfil its rukn?
+  - Back: As long as it takes to recite the tashahhud
+- **qud-398**
+  - Front: Al-Qudūrī calls everything in the prayer beyond its arkān “sunnah”. What does sunnah mean there?
+  - Back: Established by the Sunnah: it covers both the wājib and the sunnah acts
+- **qud-399** (cloze)
+  - Text: Wājib in al-Qudūrī's description of prayer: {{c1::reciting al-Fātiḥah}}; {{c2::adding a sūrah or three verses}}; {{c3::standing up straight after rukūʿ}}; and {{c4::sitting between the two sajdahs}}
+- **qud-400** (cloze)
+  - Text: Sunnah in al-Qudūrī's description of prayer: {{c1::raising the hands}} at the opening takbīr; {{c2::placing the hands}}; {{c3::the thanāʾ}}; {{c4::the taʿawwudh}}; {{c5::the basmalah}}; {{c6::saying āmīn}}; {{c7::the tasbīḥ of rukūʿ}}; and {{c8::the tasmīʿ and taḥmīd}}
+- **qud-401** (both ways)
+  - Term: رَفْع اليَدَيْن
+  - Meaning: raising the hands at the opening takbīr
+- **qud-402**
+  - Front: How high does a man raise his hands for the opening takbīr?
+  - Back: Until his thumbs are level with his earlobes
+- **qud-403**
+  - Front: How high does a woman raise her hands for the opening takbīr?
+  - Back: To her shoulders
+- **qud-404**
+  - Front: Which imam limits the opening takbīr to forms of “Allāhu akbar”, such as “Allāhu al-akbar” and “Allāhu al-kabīr”?
+  - Back: Abū Yūsuf
+- **qud-405**
+  - Front: For al-Ṭarafān, what may open the prayer in place of “Allāhu akbar”?
+  - Back: Any phrase that glorifies Allah, such as “Allāhu ajall” or “Allāhu aʿẓam”
+- **qud-406** (both ways)
+  - Term: وَضْع اليَدَيْن
+  - Meaning: placing the hands, right over left, in prayer
+- **qud-407**
+  - Front: How are the hands held when placed in prayer?
+  - Back: Right over left: the thumb and little finger encircle the wrist, and the middle three fingers rest along the forearm
+- **qud-408**
+  - Front: Where does a man place his hands after the opening takbīr?
+  - Back: Below the navel
+- **qud-409**
+  - Front: Where does a woman place her hands after the opening takbīr?
+  - Back: On her chest
+- **qud-410**
+  - Front: What is the thanāʾ?
+  - Back: سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلَا إِلَهَ غَيْرُكَ
+- **qud-411** (both ways)
+  - Term: الاِسْتِعَاذَة
+  - Meaning: seeking refuge in Allah before reciting: أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
+- **qud-412**
+  - Front: After the thanāʾ, which two things are said silently?
+  - Back: The taʿawwudh and the basmalah
+- **qud-413**
+  - Front: In the prayer's recitation, what is the rukn?
+  - Back: Reciting at all
+- **qud-414**
+  - Front: What can stand in for three short verses after al-Fātiḥah?
+  - Back: One long verse of the same length
+- **qud-415**
+  - Front: In congregation, who says āmīn after al-Fātiḥah?
+  - Back: Both the imam and those following him
+- **qud-416**
+  - Front: How do the Ḥanafīs say āmīn?
+  - Back: Quietly
+- **qud-417**
+  - Front: What does one say at every rising and lowering in prayer?
+  - Back: Allāhu akbar
+- **qud-418** (cloze)
+  - Text: In rukūʿ: the hands on the knees with {{c1::the fingers spread}}; the back {{c2::straight}}; and the head {{c3::level with the back}}
+- **qud-419**
+  - Front: What is the tasbīḥ of rukūʿ?
+  - Back: سُبْحَانَ رَبِّيَ العَظِيمِ
+- **qud-420**
+  - Front: At least how many times is the tasbīḥ of rukūʿ said?
+  - Back: Three
+- **qud-421** (both ways)
+  - Term: القَوْمَة
+  - Meaning: standing up straight after rukūʿ
+- **qud-422**
+  - Front: In congregation, how are “samiʿa Allāhu li-man ḥamidah” and “rabbanā laka al-ḥamd” divided?
+  - Back: The imam says the first; those following him say the second
+- **qud-423**
+  - Front: In sujūd, what touches the ground, and where is the face?
+  - Back: Both the nose and the forehead, with the face between the palms
+- **qud-424**
+  - Front: In sujūd, how did Abū Ḥanīfah and the Ṣāḥibān differ over the nose and forehead?
+  - Back: Abū Ḥanīfah: either one suffices. The Ṣāḥibān: the nose alone does not, except with an excuse
+- **qud-425**
+  - Front: What may lie between the forehead and the ground in sujūd?
+  - Back: A barrier: it needn't touch the ground directly
+- **qud-426**
+  - Front: How does a man hold his arms and belly in sujūd?
+  - Back: Forearms away from his sides, and belly away from his thighs
+- **qud-427**
+  - Front: Which way do the toes point in sujūd?
+  - Back: Towards the qiblah
+- **qud-428**
+  - Front: What is the tasbīḥ of sujūd?
+  - Back: سُبْحَانَ رَبِّيَ الأَعْلَى
+- **qud-429** (both ways)
+  - Term: الجَلْسَة
+  - Meaning: the sitting between the two sajdahs
+- **qud-430**
+  - Front: How long is the sitting between the two sajdahs?
+  - Back: A moment's rest
+
+## World Religions 11/10 and 11/17 (44 notes)
+
+- **wrel-312**
+  - Front: Which text are Tiantai, Tendai and Nichiren Buddhism all based on?
+  - Back: The Lotus Sutra
+- **wrel-313**
+  - Front: When was the canonical version of the Lotus Sutra produced?
+  - Back: In the early 400s CE
+- **wrel-314**
+  - Front: Where was the canonical version of the Lotus Sutra produced?
+  - Back: In China
+- **wrel-315**
+  - Front: How old does the Lotus Sutra claim to be?
+  - Back: Much older than it is: perhaps from the time of the historical Buddha
+- **wrel-316**
+  - Front: Which school of Buddhism is the Lotus Sutra a text of?
+  - Back: The Mahāyāna
+- **wrel-317**
+  - Front: As a later text, how does the Lotus Sutra make its case for being followed?
+  - Back: By explaining why there are so many different Buddhist schools
+- **wrel-318**
+  - Front: What does the Lotus Sutra share with Zen?
+  - Back: Everyone has an innate Buddhahood that only needs to be cultivated
+- **wrel-319**
+  - Front: Who founded Tiantai Buddhism?
+  - Back: The monk Zhiyi
+- **wrel-320**
+  - Front: According to Zhiyi, what does a person need to achieve enlightenment?
+  - Back: Only the Lotus Sutra and the Nirvana Sutra
+- **wrel-321**
+  - Front: What extreme act did some monks perform with the Lotus Sutra, hoping for enlightenment?
+  - Back: Killing themselves while reciting it
+- **wrel-322**
+  - Front: Tendai is the Japanese form of which Chinese school?
+  - Back: Tiantai
+- **wrel-323**
+  - Front: Name any three practices a Tendai Buddhist may follow toward enlightenment.
+  - Back: Any three of: esoteric practices, zazen, studying the Lotus Sutra, prayer, chanting
+- **wrel-324**
+  - Front: Who founded Nichiren Buddhism?
+  - Back: Nichiren, a Japanese priest
+- **wrel-325**
+  - Front: What do Nichiren Buddhists chant to achieve enlightenment?
+  - Back: “Nam-myoho-renge-kyo”
+- **wrel-326**
+  - Front: What does “Nam-myoho-renge-kyo” mean?
+  - Back: “I devote myself to the Lotus Sutra”
+- **wrel-327**
+  - Front: What sets one Japanese Lotus Sutra sect apart in public life?
+  - Back: It is involved in politics, with its own political party
+- **wrel-328**
+  - Front: On the view that religion has no place in politics, what is the government's job?
+  - Back: Only to guarantee freedom of religion: religion is a private endeavour
+- **wrel-329**
+  - Front: Why was secular government created in Europe?
+  - Back: As a reaction to the corruption and intolerance of institutionalised religion
+- **wrel-330**
+  - Front: What worldwide shift has there been over the past 50 or so years?
+  - Back: Calls to return religion to government
+- **wrel-331**
+  - Front: How does the lecture define folk religions?
+  - Back: Any ethnic or cultural religious practice that falls outside the doctrine of organised religion
+- **wrel-332** (cloze)
+  - Text: Folk religions are usually {{c1::very localised}}, with {{c2::many variations}}; they are {{c3::not state religions}}, and they are {{c4::loosely organised, with no definitive leader}}
+- **wrel-333**
+  - Front: What does “Shinto” mean?
+  - Back: “The way of the gods”
+- **wrel-334**
+  - Front: What did Shinto evolve out of?
+  - Back: Ancient folk religious practices and beliefs
+- **wrel-335**
+  - Front: How does Shinto differ from other folk religions?
+  - Back: It has been strongly tied to the state: more institutional, and at one point state-supported
+- **wrel-336**
+  - Front: What roles did women and men likely play in early Shinto ritual?
+  - Back: Complementary ones
+- **wrel-337**
+  - Front: Who was the first known ruler of Japan?
+  - Back: Himiko (or Pimiko), a priestess who may have ruled alone or jointly with her brother
+- **wrel-338**
+  - Front: How did Himiko and her brother divide her prophetic role?
+  - Back: She communicated with the gods and had prophetic visions; her brother interpreted them
+- **wrel-339**
+  - Front: What do historians disagree about regarding Himiko?
+  - Back: Whether she or her brother held more power
+- **wrel-340**
+  - Front: Early Shinto made no images of the gods. How did people try to glimpse one?
+  - Back: Through mirrors: polished surfaces that reflected light
+- **wrel-341**
+  - Front: What were the symbols of rulership in Japan?
+  - Back: The three sacred treasures: a mirror, a sword and a jewel
+- **wrel-342**
+  - Front: In Shinto, what can people become?
+  - Back: Gods or powerful spirits
+- **wrel-343**
+  - Front: In Shinto, what can angry, unhappy or jealous spirits bring?
+  - Back: Disaster, whether they are spirits of the living or of the dead
+- **wrel-344**
+  - Front: Whose job was it to appease angry spirits in Japan?
+  - Back: The emperor's, the aristocrats', and the Shinto shrines' and Buddhist temples' (the two can overlap)
+- **wrel-345** (both ways)
+  - Term: goryō
+  - Meaning: a cosmic force, or the spirit of an aristocrat who died unjustly
+- **wrel-346** (both ways)
+  - Term: onryō
+  - Meaning: an angry spirit that must be appeased, or it will wreak havoc
+- **wrel-347** (both ways)
+  - Term: o-mikoshi
+  - Meaning: a portable shrine: at festivals the god rides inside it, carried on men's shoulders
+- **wrel-348**
+  - Front: What does passing through a Shinto gate mean?
+  - Back: You are now in sacred space: the gate marks the shrine's boundary
+- **wrel-349**
+  - Front: What are Shinto shrines?
+  - Back: Its places of worship, where the gods live
+- **wrel-350**
+  - Front: How did Buddhism's arrival change Shinto architecture?
+  - Back: Shinto shrines began copying Buddhist temple architecture
+- **wrel-351**
+  - Front: What did Shinto likely originate as?
+  - Back: An animistic religion: one holding that natural objects possess spirits
+- **wrel-352**
+  - Front: Why are Shinto shrines often built by a large or impressive natural feature?
+  - Back: Its size or beauty shows a god or goddess chose it as a dwelling place
+- **wrel-353**
+  - Front: What did early Shinto consider polluting?
+  - Back: Blood, death and the underworld
+- **wrel-354**
+  - Front: How were childbirth and pregnancy treated in Shinto?
+  - Back: As taboo: women wore special clothes and avoided certain foods
+- **wrel-355**
+  - Front: What role do holidays and festivals play in religion?
+  - Back: They are among the most common ways people connect to religious traditions

@@ -1,0 +1,183 @@
+"""Cards from the 2026-11-21 scan of every page: Arbaʿīn 11–12, Qudūrī (qiblah, arkān, description of prayer),
+World Religions 11/10 and 11/17, Python testing and libraries. Writes drafts/nov21_<deck>_batch.json and the draft."""
+import json, re
+B = lambda s: f"<bdi>{s}</bdi>"
+AR = lambda s: f'<div class="arabic">{s}</div>'
+batches = {}
+def deck(name, tags, session, source):
+    batches.setdefault(name, [])
+    def add(kind, *a, extra_tags=(), sess=None, src=None):
+        c = {"tier": 1, "tags": tags + list(extra_tags), "session": sess or session, "source": src or source}
+        if kind == "b": c.update(type="basic", front=a[0], back=a[1])
+        elif kind == "d": c.update(type="bidir", term=a[0], meaning=a[1])
+        else: c.update(type="cloze", text=a[0], extra="")
+        batches[name].append(c)
+    return add
+
+# ---------------------------------------------------------------- Arbaʿīn 11 and 12
+a = deck("arbaeen_ahadith", ["arbaeen"], "nov18", "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18")
+h11, h12 = ["h11"], ["h12"]
+a("b", "Who narrates Arbaʿīn 11, on leaving what makes you doubt?", "Al-Ḥasan ibn ʿAlī ibn Abī Ṭālib RA", extra_tags=h11 + ["narrator"])
+a("b", "Who were al-Ḥasan ibn ʿAlī RA's parents?", "ʿAlī RA and Fāṭimah RA, the Prophet's ﷺ daughter: he was the Prophet's ﷺ beloved grandson", extra_tags=h11 + ["narrator"])
+a("b", "In what year was al-Ḥasan ibn ʿAlī RA born?", "3 AH", extra_tags=h11 + ["narrator"])
+a("b", "Where did al-Ḥasan ibn ʿAlī RA grow up?", "In the Prophet's ﷺ house", extra_tags=h11 + ["narrator"])
+a("b", "In what year did al-Ḥasan ibn ʿAlī RA die?", "50 AH", extra_tags=h11 + ["narrator"])
+a("b", "Where did al-Ḥasan ibn ʿAlī RA die?", "In Madīnah", extra_tags=h11 + ["narrator"])
+a("b", "How many aḥādīth did al-Ḥasan ibn ʿAlī RA narrate?", "13", extra_tags=h11 + ["narrator"])
+a("b", "What does the Prophet ﷺ command in Arbaʿīn 11?", "“Leave what makes you doubt for what does not make you doubt.”", extra_tags=h11 + ["text"])
+a("b", "What kind of teaching is Arbaʿīn 11?", "A general principle that applies to every area of life", extra_tags=h11)
+a("c", "Arbaʿīn 11 applies to {{c1::worship}}, {{c2::finances}}, {{c3::social dealings}}, {{c4::food and drink}} and {{c5::thoughts}}", extra_tags=h11)
+a("b", "What does following Arbaʿīn 11 free a person from?", "General stress and anxiety", extra_tags=h11)
+a("b", "Where does adopting Arbaʿīn 11 lead, spiritually?", "To high taqwa: the path to true piety", extra_tags=h11)
+a("b", "What does engaging in doubtful matters bring about, according to the notes on Arbaʿīn 11?", "Unease and uncertainty", extra_tags=h11)
+a("b", "Besides stress, what does Arbaʿīn 11's principle help a person avoid in their practice?", "A “religious OCD”", extra_tags=h11)
+a("d", f"{B('رَيْب')} (rayb)", "unease and doubt — what a sound heart feels at a doubtful matter", extra_tags=h11 + ["terminology"])
+a("d", f"{B('يَقِين')} (yaqīn)", "certainty — the opposite of rayb", extra_tags=h11 + ["terminology"])
+a("d", f"{B('قَاعِدَة فِقْهِيَّة')} (qāʿidah fiqhiyyah)", "a legal maxim: a general principle derived from the primary sources", extra_tags=h11 + ["terminology"])
+a("b", "What are legal maxims, in relation to the Sharīʿah?", "Theoretical abstractions of its goals and objectives", extra_tags=h11)
+a("d", f"{B('اليَقِينُ لَا يَزُولُ بِالشَّكِّ')}", "certainty is not removed by doubt (a legal maxim)", extra_tags=h11 + ["terminology"])
+a("b", "Someone is sure they made wuḍūʾ but unsure whether they lost it. What is their state, and by which maxim?",
+  "They still have wuḍūʾ: certainty is not removed by doubt", extra_tags=h11)
+a("b", "Who narrates Arbaʿīn 12, on leaving what does not concern you?", "Abū Hurayrah RA", extra_tags=h12 + ["narrator", "abu-hurayrah"])
+a("b", "What does Arbaʿīn 12 say is part of the excellence of a person's Islam?", "“His leaving what does not concern him.”", extra_tags=h12 + ["text"])
+a("c", "Four ḥadīth are counted the foundations of akhlāq: whoever believes in Allah and the Last Day should {{c1::speak good or remain silent}}; "
+  "part of the excellence of one's Islam is {{c2::leaving what does not concern him}}; {{c3::do not get angry}}; and none of you truly believes "
+  "until {{c4::he loves for his brother what he loves for himself}}", extra_tags=h12)
+a("b", "What does Arbaʿīn 12 mean, in simple words?", "Mind your own business: don't concern yourself with matters you're not involved in", extra_tags=h12)
+a("b", "What harm comes from getting involved in other people's private affairs?", "Harm to society: conflict between people", extra_tags=h12)
+a("b", "What should one busy oneself with instead, according to the notes on Arbaʿīn 12?", "What benefits one in this world and the next", extra_tags=h12)
+a("b", "According to the notes on Arbaʿīn 12, what should you be concerned about?", "Yourself and those under your care: you are responsible for them", extra_tags=h12)
+
+# ---------------------------------------------------------------- Qudūrī
+q = deck("quduri", ["quduri", "salah"], "nov18", "Mukhtaṣar al-Qudūrī — Kitāb al-Ṣalāh: qiblah, arkān, description — class notes 2026-11-18")
+qi, ar, sf = ["qiblah"], ["arkan"], ["sifat-salah"]
+q("b", "When may one pray in any direction they are able to?", "In a state of fear", extra_tags=qi)
+q("b", "The qiblah's direction is unknown and there is no one to ask. What does one do?", "Make an educated guess and pray towards it", extra_tags=qi)
+q("b", "After praying towards a guessed qiblah, someone learns it was wrong. What must they do?", "Nothing: the prayer is not repeated", extra_tags=qi)
+q("b", "Someone learns mid-prayer that they are facing the wrong way. What do they do?", "Turn to the correct direction and continue", extra_tags=qi)
+q("c", "The six arkān of prayer in al-Qudūrī: {{c1::the taḥrīmah}}, {{c2::standing (qiyām)}}, {{c3::recitation (qirāʾah)}}, {{c4::bowing (rukūʿ)}}, "
+  "{{c5::prostration (sujūd)}}, and {{c6::the final sitting (al-qaʿdah al-akhīrah)}}", extra_tags=ar + ["enumeration"])
+q("b", "Why is the opening takbīr called the taḥrīmah?", "It makes things like speaking, eating and drinking unlawful for the rest of the prayer", extra_tags=ar)
+q("b", "How long must the final sitting last to fulfil its rukn?", "As long as it takes to recite the tashahhud", extra_tags=ar)
+q("b", "Al-Qudūrī calls everything in the prayer beyond its arkān “sunnah”. What does sunnah mean there?",
+  "Established by the Sunnah: it covers both the wājib and the sunnah acts", extra_tags=ar)
+q("c", "Wājib in al-Qudūrī's description of prayer: {{c1::reciting al-Fātiḥah}}; {{c2::adding a sūrah or three verses}}; "
+  "{{c3::standing up straight after rukūʿ}}; and {{c4::sitting between the two sajdahs}}", extra_tags=sf + ["rulings"])
+q("c", "Sunnah in al-Qudūrī's description of prayer: {{c1::raising the hands}} at the opening takbīr; {{c2::placing the hands}}; {{c3::the thanāʾ}}; "
+  "{{c4::the taʿawwudh}}; {{c5::the basmalah}}; {{c6::saying āmīn}}; {{c7::the tasbīḥ of rukūʿ}}; and {{c8::the tasmīʿ and taḥmīd}}", extra_tags=sf + ["rulings"])
+q("d", AR("رَفْع اليَدَيْن"), "raising the hands at the opening takbīr", extra_tags=sf + ["terms"])
+q("b", "How high does a man raise his hands for the opening takbīr?", "Until his thumbs are level with his earlobes", extra_tags=sf)
+q("b", "How high does a woman raise her hands for the opening takbīr?", "To her shoulders", extra_tags=sf)
+q("b", "Which imam limits the opening takbīr to forms of “Allāhu akbar”, such as “Allāhu al-akbar” and “Allāhu al-kabīr”?", "Abū Yūsuf", extra_tags=sf + ["ikhtilaf"])
+q("b", "For al-Ṭarafān, what may open the prayer in place of “Allāhu akbar”?", "Any phrase that glorifies Allah, such as “Allāhu ajall” or “Allāhu aʿẓam”", extra_tags=sf + ["ikhtilaf"])
+q("d", AR("وَضْع اليَدَيْن"), "placing the hands, right over left, in prayer", extra_tags=sf + ["terms"])
+q("b", "How are the hands held when placed in prayer?", "Right over left: the thumb and little finger encircle the wrist, and the middle three fingers rest along the forearm", extra_tags=sf)
+q("b", "Where does a man place his hands after the opening takbīr?", "Below the navel", extra_tags=sf)
+q("b", "Where does a woman place her hands after the opening takbīr?", "On her chest", extra_tags=sf)
+q("b", "What is the thanāʾ?", AR("سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلَا إِلَهَ غَيْرُكَ"), extra_tags=sf)
+q("d", AR("الاِسْتِعَاذَة"), f"seeking refuge in Allah before reciting: {B('أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ')}", extra_tags=sf + ["terms"])
+q("b", "After the thanāʾ, which two things are said silently?", "The taʿawwudh and the basmalah", extra_tags=sf)
+q("b", "In the prayer's recitation, what is the rukn?", "Reciting at all", extra_tags=sf)
+q("b", "What can stand in for three short verses after al-Fātiḥah?", "One long verse of the same length", extra_tags=sf)
+q("b", "In congregation, who says āmīn after al-Fātiḥah?", "Both the imam and those following him", extra_tags=sf)
+q("b", "How do the Ḥanafīs say āmīn?", "Quietly", extra_tags=sf)
+q("b", "What does one say at every rising and lowering in prayer?", "Allāhu akbar", extra_tags=sf)
+q("c", "In rukūʿ: the hands on the knees with {{c1::the fingers spread}}; the back {{c2::straight}}; and the head {{c3::level with the back}}", extra_tags=sf)
+q("b", "What is the tasbīḥ of rukūʿ?", B("سُبْحَانَ رَبِّيَ العَظِيمِ"), extra_tags=sf)
+q("b", "At least how many times is the tasbīḥ of rukūʿ said?", "Three", extra_tags=sf)
+q("d", AR("القَوْمَة"), "standing up straight after rukūʿ", extra_tags=sf + ["terms"])
+q("b", "In congregation, how are “samiʿa Allāhu li-man ḥamidah” and “rabbanā laka al-ḥamd” divided?", "The imam says the first; those following him say the second", extra_tags=sf)
+q("b", "In sujūd, what touches the ground, and where is the face?", "Both the nose and the forehead, with the face between the palms", extra_tags=sf)
+q("b", "In sujūd, how did Abū Ḥanīfah and the Ṣāḥibān differ over the nose and forehead?",
+  "Abū Ḥanīfah: either one suffices. The Ṣāḥibān: the nose alone does not, except with an excuse", extra_tags=sf + ["ikhtilaf"])
+q("b", "What may lie between the forehead and the ground in sujūd?", "A barrier: it needn't touch the ground directly", extra_tags=sf)
+q("b", "How does a man hold his arms and belly in sujūd?", "Forearms away from his sides, and belly away from his thighs", extra_tags=sf)
+q("b", "Which way do the toes point in sujūd?", "Towards the qiblah", extra_tags=sf)
+q("b", "What is the tasbīḥ of sujūd?", B("سُبْحَانَ رَبِّيَ الأَعْلَى"), extra_tags=sf)
+q("d", AR("الجَلْسَة"), "the sitting between the two sajdahs", extra_tags=sf + ["terms"])
+q("b", "How long is the sitting between the two sajdahs?", "A moment's rest", extra_tags=sf)
+
+# ---------------------------------------------------------------- World Religions
+w = deck("wrel", ["wrel", "lecture"], "nov10", "World Religions II — lecture, 2026-11-10")
+lo = ["buddhism", "lotus-sutra"]
+w("b", "Which text are Tiantai, Tendai and Nichiren Buddhism all based on?", "The Lotus Sutra", extra_tags=lo)
+w("b", "When was the canonical version of the Lotus Sutra produced?", "In the early 400s CE", extra_tags=lo)
+w("b", "Where was the canonical version of the Lotus Sutra produced?", "In China", extra_tags=lo)
+w("b", "How old does the Lotus Sutra claim to be?", "Much older than it is: perhaps from the time of the historical Buddha", extra_tags=lo)
+w("b", "Which school of Buddhism is the Lotus Sutra a text of?", "The Mahāyāna", extra_tags=lo)
+w("b", "As a later text, how does the Lotus Sutra make its case for being followed?", "By explaining why there are so many different Buddhist schools", extra_tags=lo)
+w("b", "What does the Lotus Sutra share with Zen?", "Everyone has an innate Buddhahood that only needs to be cultivated", extra_tags=lo)
+w("b", "Who founded Tiantai Buddhism?", "The monk Zhiyi", extra_tags=lo)
+w("b", "According to Zhiyi, what does a person need to achieve enlightenment?", "Only the Lotus Sutra and the Nirvana Sutra", extra_tags=lo)
+w("b", "What extreme act did some monks perform with the Lotus Sutra, hoping for enlightenment?", "Killing themselves while reciting it", extra_tags=lo)
+w("b", "Tendai is the Japanese form of which Chinese school?", "Tiantai", extra_tags=lo)
+w("b", "Name any three practices a Tendai Buddhist may follow toward enlightenment.", "Any three of: esoteric practices, zazen, studying the Lotus Sutra, prayer, chanting", extra_tags=lo)
+w("b", "Who founded Nichiren Buddhism?", "Nichiren, a Japanese priest", extra_tags=lo)
+w("b", "What do Nichiren Buddhists chant to achieve enlightenment?", "“Nam-myoho-renge-kyo”", extra_tags=lo)
+w("b", "What does “Nam-myoho-renge-kyo” mean?", "“I devote myself to the Lotus Sutra”", extra_tags=lo)
+S17 = dict(sess="nov17", src="World Religions II — lecture, 2026-11-17")
+w("b", "What sets one Japanese Lotus Sutra sect apart in public life?", "It is involved in politics, with its own political party", extra_tags=["politics"], **S17)
+w("b", "On the view that religion has no place in politics, what is the government's job?", "Only to guarantee freedom of religion: religion is a private endeavour", extra_tags=["politics"], **S17)
+w("b", "Why was secular government created in Europe?", "As a reaction to the corruption and intolerance of institutionalised religion", extra_tags=["politics"], **S17)
+w("b", "What worldwide shift has there been over the past 50 or so years?", "Calls to return religion to government", extra_tags=["politics"], **S17)
+w("b", "How does the lecture define folk religions?", "Any ethnic or cultural religious practice that falls outside the doctrine of organised religion", extra_tags=["folk-religion"], **S17)
+w("c", "Folk religions are usually {{c1::very localised}}, with {{c2::many variations}}; they are {{c3::not state religions}}, and they are {{c4::loosely organised, with no definitive leader}}", extra_tags=["folk-religion"], **S17)
+sh = ["shinto"]
+w("b", "What does “Shinto” mean?", "“The way of the gods”", extra_tags=sh, **S17)
+w("b", "What did Shinto evolve out of?", "Ancient folk religious practices and beliefs", extra_tags=sh, **S17)
+w("b", "How does Shinto differ from other folk religions?", "It has been strongly tied to the state: more institutional, and at one point state-supported", extra_tags=sh, **S17)
+w("b", "What roles did women and men likely play in early Shinto ritual?", "Complementary ones", extra_tags=sh, **S17)
+w("b", "Who was the first known ruler of Japan?", "Himiko (or Pimiko), a priestess who may have ruled alone or jointly with her brother", extra_tags=sh, **S17)
+w("b", "How did Himiko and her brother divide her prophetic role?", "She communicated with the gods and had prophetic visions; her brother interpreted them", extra_tags=sh, **S17)
+w("b", "What do historians disagree about regarding Himiko?", "Whether she or her brother held more power", extra_tags=sh, **S17)
+w("b", "Early Shinto made no images of the gods. How did people try to glimpse one?", "Through mirrors: polished surfaces that reflected light", extra_tags=sh, **S17)
+w("b", "What were the symbols of rulership in Japan?", "The three sacred treasures: a mirror, a sword and a jewel", extra_tags=sh, **S17)
+w("b", "In Shinto, what can people become?", "Gods or powerful spirits", extra_tags=sh, **S17)
+w("b", "In Shinto, what can angry, unhappy or jealous spirits bring?", "Disaster, whether they are spirits of the living or of the dead", extra_tags=sh, **S17)
+w("b", "Whose job was it to appease angry spirits in Japan?", "The emperor's, the aristocrats', and the Shinto shrines' and Buddhist temples' (the two can overlap)", extra_tags=sh, **S17)
+w("d", "goryō", "a cosmic force, or the spirit of an aristocrat who died unjustly", extra_tags=sh, **S17)
+w("d", "onryō", "an angry spirit that must be appeased, or it will wreak havoc", extra_tags=sh, **S17)
+w("d", "o-mikoshi", "a portable shrine: at festivals the god rides inside it, carried on men's shoulders", extra_tags=sh, **S17)
+w("b", "What does passing through a Shinto gate mean?", "You are now in sacred space: the gate marks the shrine's boundary", extra_tags=sh, **S17)
+w("b", "What are Shinto shrines?", "Its places of worship, where the gods live", extra_tags=sh, **S17)
+w("b", "How did Buddhism's arrival change Shinto architecture?", "Shinto shrines began copying Buddhist temple architecture", extra_tags=sh, **S17)
+w("b", "What did Shinto likely originate as?", "An animistic religion: one holding that natural objects possess spirits", extra_tags=sh, **S17)
+w("b", "Why are Shinto shrines often built by a large or impressive natural feature?", "Its size or beauty shows a god or goddess chose it as a dwelling place", extra_tags=sh, **S17)
+w("b", "What did early Shinto consider polluting?", "Blood, death and the underworld", extra_tags=sh, **S17)
+w("b", "How were childbirth and pregnancy treated in Shinto?", "As taboo: women wore special clothes and avoided certain foods", extra_tags=sh, **S17)
+w("b", "What role do holidays and festivals play in religion?", "They are among the most common ways people connect to religious traditions", extra_tags=["festivals"], **S17)
+
+# ---------------------------------------------------------------- Python
+p = deck("pyth", ["pyth"], "nov11", "ICS H32 — lecture notes to 2026-11-17")
+t = ["testing"]
+p("b", "In test-oriented design, what should you try to stay on as often as possible?", "Stable ground — rather than writing lots of code and only then testing it", extra_tags=t)
+p("b", "What does TDD stand for?", "Test-driven development", extra_tags=t)
+p("c", "The TDD cycle: 1. start on {{c1::solid ground}}, or with an empty program; 2. decide {{c2::a feature}}; 3. write {{c3::a test}} for it, before it exists; "
+  "4. {{c4::run the tests}}, to see how they fail; 5. write {{c5::the minimum code}} that passes; 6. rerun until {{c6::all tests pass}}; "
+  "7. {{c7::refactor}}, rerunning the tests after each change; 8. {{c8::go back to step 1}}", extra_tags=t + ["enumeration"])
+p("b", "In TDD, why write the test before the feature exists?", "It lets you experiment with the feature's shape and interface", extra_tags=t)
+p("b", "In TDD, why run a new test before writing any code for it?", "To see how it fails", extra_tags=t)
+p("b", "In TDD, how much code do you write to pass a test?", "The minimum that makes it pass: don't solve problems you don't have", extra_tags=t)
+p("b", "What is refactoring?", "Changing the design of code without changing what it does", extra_tags=t)
+p("b", "Which standard-library module does the course use for automated tests?", "<code>unittest</code>", extra_tags=t)
+p("b", "What does “unit” mean in “unit test”?", "A very small, self-contained unit of the program is being tested", extra_tags=t)
+p("b", "In the course's testing module, what does a test class inherit from?", "<code>unittest.TestCase</code>", extra_tags=t)
+p("b", "In the course's tests, what must both test files and test methods begin with?", "<code>test_</code>", extra_tags=t)
+p("b", "How does a test method check a result?", "With an assertion method on <code>self</code>, such as <code>self.assertEqual()</code>, <code>self.assertTrue()</code> or <code>self.assertFalse()</code>", extra_tags=t)
+p("b", "In a test method's name, what does a double underscore <code>__</code> act as?", "A comma: test method names read as sentences", extra_tags=t)
+p("b", "When is <code>from something import *</code> acceptable, according to the course?", "In automated tests: one of the only times it is", extra_tags=t)
+p("b", "When does a test class's <code>setUp</code> method run?", "Before each test method, so objects every test needs can be made there and saved to <code>self</code>", extra_tags=t)
+p("b", "In tests, where should repeated actions go, especially ones that might change?", "Into private methods", extra_tags=t)
+p("b", "Where do the course's tests go in the class environment?", "In the <code>test</code> folder", extra_tags=t)
+L17 = dict(sess="nov17")
+p("b", "How does Python's standard library compare in size with other languages'?", "It is one of the larger ones", extra_tags=["libraries"], **L17)
+p("b", "What are third-party libraries for, given Python's large standard library?", "Filling more niche gaps", extra_tags=["libraries"], **L17)
+p("b", "What licensing do third-party libraries have?", "Many are open source and free, but not all: some have licences", extra_tags=["libraries"], **L17)
+p("b", "Why must third-party libraries be installed?", "They don't come with Python", extra_tags=["libraries"], **L17)
+p("b", "What is a virtual environment?", "A completely separate, self-contained Python installation in a chosen directory", extra_tags=["libraries"], **L17)
+p("b", "Why use virtual environments?", "To sandbox our package installations", extra_tags=["libraries"], **L17)
+p("b", "In the course's playgrounds and projects, where does pip install a package?", "Into their virtual environment, which is already set up", extra_tags=["libraries"], **L17)
+
+for name, cards in batches.items():
+    json.dump(cards, open(f"drafts/nov21_{name}_batch.json", "w"), ensure_ascii=False, indent=1)
+print({k: len(v) for k, v in batches.items()}, sum(map(len, batches.values())))
