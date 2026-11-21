@@ -3,7 +3,7 @@
  "topic": "pyth",
  "session": "sep24",
  "source": "ICS H32 — lecture notes to 2026-09-24",
- "expected_count": 269,
+ "expected_count": 293,
  "cards": [
   {
    "type": "basic",
@@ -3544,6 +3544,319 @@
    ],
    "session": "nov05",
    "source": "ICS H32 — lecture notes to 2026-11-05"
+  },
+  {
+   "id": "pyth-270",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "In test-oriented design, what should you try to stay on as often as possible?",
+   "back": "Stable ground — rather than writing lots of code and only then testing it"
+  },
+  {
+   "id": "pyth-271",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "What does TDD stand for?",
+   "back": "Test-driven development"
+  },
+  {
+   "id": "pyth-272",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing",
+    "enumeration"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "cloze",
+   "text": "The TDD cycle: 1. start on {{c1::solid ground}}, or with an empty program; 2. decide {{c2::a feature}}; 3. write {{c3::a test}} for it, before it exists; 4. {{c4::run the tests}}, to see how they fail; 5. write {{c5::the minimum code}} that passes; 6. rerun until {{c6::all tests pass}}; 7. {{c7::refactor}}, rerunning the tests after each change; 8. {{c8::go back to step 1}}",
+   "extra": ""
+  },
+  {
+   "id": "pyth-273",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "In TDD, why write the test before the feature exists?",
+   "back": "It lets you experiment with the feature's shape and interface"
+  },
+  {
+   "id": "pyth-274",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "In TDD, why run a new test before writing any code for it?",
+   "back": "To see how it fails"
+  },
+  {
+   "id": "pyth-275",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "In TDD, how much code do you write to pass a test?",
+   "back": "The minimum that makes it pass: don't solve problems you don't have"
+  },
+  {
+   "id": "pyth-276",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "What is refactoring?",
+   "back": "Changing the design of code without changing what it does"
+  },
+  {
+   "id": "pyth-277",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "Which standard-library module does the course use for automated tests?",
+   "back": "<code>unittest</code>"
+  },
+  {
+   "id": "pyth-278",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "What does “unit” mean in “unit test”?",
+   "back": "A very small, self-contained unit of the program is being tested"
+  },
+  {
+   "id": "pyth-279",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "In the course's testing module, what does a test class inherit from?",
+   "back": "<code>unittest.TestCase</code>"
+  },
+  {
+   "id": "pyth-280",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "In the course's tests, what must both test files and test methods begin with?",
+   "back": "<code>test_</code>"
+  },
+  {
+   "id": "pyth-281",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "How does a test method check a result?",
+   "back": "With an assertion method on <code>self</code>, such as <code>self.assertEqual()</code>, <code>self.assertTrue()</code> or <code>self.assertFalse()</code>"
+  },
+  {
+   "id": "pyth-282",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "In a test method's name, what does a double underscore <code>__</code> act as?",
+   "back": "A comma: test method names read as sentences"
+  },
+  {
+   "id": "pyth-283",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "When is <code>from something import *</code> acceptable, according to the course?",
+   "back": "In automated tests: one of the only times it is"
+  },
+  {
+   "id": "pyth-284",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "When does a test class's <code>setUp</code> method run?",
+   "back": "Before each test method, so objects every test needs can be made there and saved to <code>self</code>"
+  },
+  {
+   "id": "pyth-285",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "In tests, where should repeated actions go, especially ones that might change?",
+   "back": "Into private methods"
+  },
+  {
+   "id": "pyth-286",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "testing"
+   ],
+   "session": "nov11",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "Where do the course's tests go in the class environment?",
+   "back": "In the <code>test</code> folder"
+  },
+  {
+   "id": "pyth-287",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "libraries"
+   ],
+   "session": "nov17",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "How does Python's standard library compare in size with other languages'?",
+   "back": "It is one of the larger ones"
+  },
+  {
+   "id": "pyth-288",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "libraries"
+   ],
+   "session": "nov17",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "What are third-party libraries for, given Python's large standard library?",
+   "back": "Filling more niche gaps"
+  },
+  {
+   "id": "pyth-289",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "libraries"
+   ],
+   "session": "nov17",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "What licensing do third-party libraries have?",
+   "back": "Many are open source and free, but not all: some have licences"
+  },
+  {
+   "id": "pyth-290",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "libraries"
+   ],
+   "session": "nov17",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "Why must third-party libraries be installed?",
+   "back": "They don't come with Python"
+  },
+  {
+   "id": "pyth-291",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "libraries"
+   ],
+   "session": "nov17",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "What is a virtual environment?",
+   "back": "A completely separate, self-contained Python installation in a chosen directory"
+  },
+  {
+   "id": "pyth-292",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "libraries"
+   ],
+   "session": "nov17",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "Why use virtual environments?",
+   "back": "To sandbox our package installations"
+  },
+  {
+   "id": "pyth-293",
+   "tier": 1,
+   "tags": [
+    "pyth",
+    "libraries"
+   ],
+   "session": "nov17",
+   "source": "ICS H32 — lecture notes to 2026-11-17",
+   "type": "basic",
+   "front": "In the course's playgrounds and projects, where does pip install a package?",
+   "back": "Into their virtual environment, which is already set up"
   }
  ]
 }

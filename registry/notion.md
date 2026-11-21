@@ -111,6 +111,15 @@ the teeth one survived review. Carded in full on 2026-11-17 (page last edited 21
 - Buddhism "spread along …" (World Religions 09/29) breaks off in the notes. It gets
   carded once the user supplies the rest.
 
+Carded on 2026-11-21, from a scan of every page (version-changes from each page's last carding):
+Arbaʿīn Ḥadīth 11 and 12 (arbh-368–394; translations Claude's, in `texts/arbaeen_h11.md` and `h12.md`), Qudūrī
+Kitāb al-Ṣalāh: qiblah, the six arkān and the description of prayer to the jalsah (qud-391–430), World Religions
+11/10 and 11/17 (wrel-312–355), and Python testing, TDD, unittest, third-party libraries and virtual environments
+(pyth-270–293). Nothing new in IOK Arabic, Riyāḍ or Ḥafṣ. World Religions has no notes for 11/03, 11/05, 11/12 or
+11/19. Left uncarded: Himiko and Emperor Suinin (doubtful), and "800 years after Himiko's death" (a fragment).
+Corrections on the cards only: āmīn said quietly, the Ṣāḥibān on the nose alone, setUp before each test, the Shinto
+gate ("now in"), and the three sacred treasures. Draft: `drafts/draft_2026-11-21_scan.md`.
+
 Notion edit, 2026-11-12, at the user's request: the maniy line under al-anjās (Arbaʿīn/Qudūrī page) now says
 scraping needs thick maniy that dries as a crust, and that modern Ḥanafī scholars judge it usually thin now, so it
 must be washed; "not the same substance" is gone. qud-337 was reworded the same way.

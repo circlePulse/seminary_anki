@@ -1,6 +1,6 @@
 # Draft — scan of every page, 2026-11-21
 
-Status: **awaiting approval.**
+Status: **approved and delivered 2026-11-21.**
 
 Scanned with version-changes from each page's last carding. IOK Arabic, Riyāḍ and Ḥafṣ have nothing new. World Religions has no notes for 11/03 (only "asdf"), 11/05, 11/12 or 11/19.
 

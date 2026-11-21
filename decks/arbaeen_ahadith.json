@@ -3,7 +3,7 @@
  "topic": "arbaeen-ahadith",
  "session": "sep16",
  "source": "Arbaʿīn Ḥadīth 1 — class notes to 2026-09-16",
- "expected_count": 367,
+ "expected_count": 394,
  "cards": [
   {
    "type": "basic",
@@ -5124,6 +5124,372 @@
    "front": "In each of the five relationships of Arbaʿīn 7, what should one stress more than one's rights, and why?",
    "back": "One's responsibilities: it nurtures the relationship and makes it stronger",
    "id": "arbh-367"
+  },
+  {
+   "id": "arbh-368",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "narrator"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "Who narrates Arbaʿīn 11, on leaving what makes you doubt?",
+   "back": "Al-Ḥasan ibn ʿAlī ibn Abī Ṭālib RA"
+  },
+  {
+   "id": "arbh-369",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "narrator"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "Who were al-Ḥasan ibn ʿAlī RA's parents?",
+   "back": "ʿAlī RA and Fāṭimah RA, the Prophet's ﷺ daughter: he was the Prophet's ﷺ beloved grandson"
+  },
+  {
+   "id": "arbh-370",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "narrator"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "In what year was al-Ḥasan ibn ʿAlī RA born?",
+   "back": "3 AH"
+  },
+  {
+   "id": "arbh-371",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "narrator"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "Where did al-Ḥasan ibn ʿAlī RA grow up?",
+   "back": "In the Prophet's ﷺ house"
+  },
+  {
+   "id": "arbh-372",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "narrator"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "In what year did al-Ḥasan ibn ʿAlī RA die?",
+   "back": "50 AH"
+  },
+  {
+   "id": "arbh-373",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "narrator"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "Where did al-Ḥasan ibn ʿAlī RA die?",
+   "back": "In Madīnah"
+  },
+  {
+   "id": "arbh-374",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "narrator"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "How many aḥādīth did al-Ḥasan ibn ʿAlī RA narrate?",
+   "back": "13"
+  },
+  {
+   "id": "arbh-375",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "text"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "What does the Prophet ﷺ command in Arbaʿīn 11?",
+   "back": "“Leave what makes you doubt for what does not make you doubt.”"
+  },
+  {
+   "id": "arbh-376",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "What kind of teaching is Arbaʿīn 11?",
+   "back": "A general principle that applies to every area of life"
+  },
+  {
+   "id": "arbh-377",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "cloze",
+   "text": "Arbaʿīn 11 applies to {{c1::worship}}, {{c2::finances}}, {{c3::social dealings}}, {{c4::food and drink}} and {{c5::thoughts}}",
+   "extra": ""
+  },
+  {
+   "id": "arbh-378",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "What does following Arbaʿīn 11 free a person from?",
+   "back": "General stress and anxiety"
+  },
+  {
+   "id": "arbh-379",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "Where does adopting Arbaʿīn 11 lead, spiritually?",
+   "back": "To high taqwa: the path to true piety"
+  },
+  {
+   "id": "arbh-380",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "What does engaging in doubtful matters bring about, according to the notes on Arbaʿīn 11?",
+   "back": "Unease and uncertainty"
+  },
+  {
+   "id": "arbh-381",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "Besides stress, what does Arbaʿīn 11's principle help a person avoid in their practice?",
+   "back": "A “religious OCD”"
+  },
+  {
+   "id": "arbh-382",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "terminology"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "bidir",
+   "term": "<bdi>رَيْب</bdi> (rayb)",
+   "meaning": "unease and doubt — what a sound heart feels at a doubtful matter"
+  },
+  {
+   "id": "arbh-383",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "terminology"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "bidir",
+   "term": "<bdi>يَقِين</bdi> (yaqīn)",
+   "meaning": "certainty — the opposite of rayb"
+  },
+  {
+   "id": "arbh-384",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "terminology"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "bidir",
+   "term": "<bdi>قَاعِدَة فِقْهِيَّة</bdi> (qāʿidah fiqhiyyah)",
+   "meaning": "a legal maxim: a general principle derived from the primary sources"
+  },
+  {
+   "id": "arbh-385",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "What are legal maxims, in relation to the Sharīʿah?",
+   "back": "Theoretical abstractions of its goals and objectives"
+  },
+  {
+   "id": "arbh-386",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11",
+    "terminology"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "bidir",
+   "term": "<bdi>اليَقِينُ لَا يَزُولُ بِالشَّكِّ</bdi>",
+   "meaning": "certainty is not removed by doubt (a legal maxim)"
+  },
+  {
+   "id": "arbh-387",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h11"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "Someone is sure they made wuḍūʾ but unsure whether they lost it. What is their state, and by which maxim?",
+   "back": "They still have wuḍūʾ: certainty is not removed by doubt"
+  },
+  {
+   "id": "arbh-388",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h12",
+    "narrator",
+    "abu-hurayrah"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "Who narrates Arbaʿīn 12, on leaving what does not concern you?",
+   "back": "Abū Hurayrah RA"
+  },
+  {
+   "id": "arbh-389",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h12",
+    "text"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "What does Arbaʿīn 12 say is part of the excellence of a person's Islam?",
+   "back": "“His leaving what does not concern him.”"
+  },
+  {
+   "id": "arbh-390",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h12"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "cloze",
+   "text": "Four ḥadīth are counted the foundations of akhlāq: whoever believes in Allah and the Last Day should {{c1::speak good or remain silent}}; part of the excellence of one's Islam is {{c2::leaving what does not concern him}}; {{c3::do not get angry}}; and none of you truly believes until {{c4::he loves for his brother what he loves for himself}}",
+   "extra": ""
+  },
+  {
+   "id": "arbh-391",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h12"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "What does Arbaʿīn 12 mean, in simple words?",
+   "back": "Mind your own business: don't concern yourself with matters you're not involved in"
+  },
+  {
+   "id": "arbh-392",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h12"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "What harm comes from getting involved in other people's private affairs?",
+   "back": "Harm to society: conflict between people"
+  },
+  {
+   "id": "arbh-393",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h12"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "What should one busy oneself with instead, according to the notes on Arbaʿīn 12?",
+   "back": "What benefits one in this world and the next"
+  },
+  {
+   "id": "arbh-394",
+   "tier": 1,
+   "tags": [
+    "arbaeen",
+    "h12"
+   ],
+   "session": "nov18",
+   "source": "Arbaʿīn al-Nawawī — Ḥadīth 11 and 12, class notes 2026-11-18",
+   "type": "basic",
+   "front": "According to the notes on Arbaʿīn 12, what should you be concerned about?",
+   "back": "Yourself and those under your care: you are responsible for them"
   }
  ]
 }

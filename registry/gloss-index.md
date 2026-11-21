@@ -28,6 +28,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | a company or group (of people) | زُمْرَة | a company or group (of people) | VOCAB | voc-027 |
 | a compound | مُرَكَّب (murakkab) | a compound — two or more words, which may or may not form a complete s | ARB-201 | nahw-054 |
 | a copt | قِبْطِيّ | a Copt — one of the native Christian people of Egypt | VOCAB | voc-284 |
+| a cosmic force | goryō | a cosmic force, or the spirit of an aristocrat who died unjustly | RELSTD-5B | wrel-345 |
 | a defective verb: its third root letter is weak | نَاقِص (nāqiṣ) | a defective verb: its third root letter is weak, such as دَعَا | ARB-201 | sarf-336 |
 | a definition | حَدّ | a definition — what marks a thing off from everything else (literally, | VOCAB | voc-387 |
 | a demonstrative phrase | المُرَكَّب الإِشَارِيّ | a demonstrative phrase — one ism points to another | ARB-201 | nahw-140 |
@@ -43,6 +44,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | a kind | نَوْع | a kind, a type, a sort | VOCAB | voc-282 |
 | a knee | رُكْبَة | a knee | VOCAB | voc-044 |
 | a leather sock that covers the whole foot | خُفّ (khuff) | a leather sock that covers the whole foot, including the ankle | HDT-201 | qud-289 |
+| a legal maxim: a general principle derived from the primary sources | قَاعِدَة فِقْهِيَّة (qāʿidah fiqhiyyah) | a legal maxim: a general principle derived from the primary sources | HDT-201 | arbh-384 |
 | a leper | أَبْرَص | a leper | VOCAB | voc-118 |
 | a letter or ḥarakah which indicates the grammatical state | عَلَامَة الإِعْرَاب | a letter or ḥarakah which indicates the grammatical state | ARB-201 | sarf-079 |
 | a mine | مَعْدِن | a mine, a source — of people, their stock: the metal they're made of | VOCAB | voc-421 |
@@ -54,6 +56,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | a particle calling attention | أَلَا | a particle calling attention — “truly”, “listen”; حَرْف التَّنْبِيه | VOCAB | voc-446 |
 | a personal ḥadīth collection kept by a companion | صَحِيفَة (ṣaḥīfah) | a personal ḥadīth collection kept by a Companion | HDT-201 | arb-029 |
 | a piece of wood | خَشَبَة | a piece of wood, a plank | VOCAB | voc-402 |
+| a portable shrine: at festivals the god rides inside it | o-mikoshi | a portable shrine: at festivals the god rides inside it, carried on me | RELSTD-5B | wrel-347 |
 | a possessive phrase | المُرَكَّب الإِضَافِيّ | a possessive phrase — the first word is attributed to the second | ARB-201 | nahw-133 |
 | a precondition: the existence of something depends on it | الشَّرْط (sharṭ), in fiqh | a precondition: the existence of something depends on it, but it lies  | HDT-201 | qud-375 |
 | a pregnant she-camel | خَلِفَة | a pregnant she-camel | VOCAB | voc-304 |
@@ -115,6 +118,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | an absolute mujtahid | مُجْتَهِد مُطْلَق (mujtahid muṭlaq) | an absolute mujtahid — one who derives law independently; Muḥammad ibn | HDT-201 | qud-101 |
 | an affirmative verb | مُثْبَت (muthbat) | an affirmative verb — the action did take place | ARB-201 | sarf-161 |
 | an aim | مَأْرَبَة | an aim, a purpose | VOCAB | voc-241 |
+| an angry spirit that must be appeased | onryō | an angry spirit that must be appeased, or it will wreak havoc | RELSTD-5B | wrel-346 |
 | an appetite | شَهْوَة | an appetite, a craving — a desire of the body or the senses | VOCAB | voc-369 |
 | an assignment that is also an expression | The walrus operator | an assignment that is also an expression — it returns the value assign | ICS-H32 | pyth-104 |
 | an assimilated verb: its first root letter is weak | مِثَال (mithāl) | an assimilated verb: its first root letter is weak, such as وَعَدَ | ARB-201 | sarf-334 |
@@ -166,6 +170,8 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | carrion | مَيْتَة (maytah) | carrion — an animal that died without being slaughtered | HDT-201 | qud-238 |
 | causative | حَرْف عَامِل (ʿāmil) | causative — a ḥarf which influences the إِعْرَاب of the word after it | ARB-201 | nahw-071 |
 | certainly | إِنَّ | certainly, verily, indeed — a حَرْف مُشَبَّه بِالفِعْل | ARB-201 | nahw-169 |
+| certainty | يَقِين (yaqīn) | certainty — the opposite of rayb | HDT-201 | arbh-383 |
+| certainty is not removed by doubt (a legal maxim) | اليَقِينُ لَا يَزُولُ بِالشَّكِّ | certainty is not removed by doubt (a legal maxim) | HDT-201 | arbh-386 |
 | children respecting their parents | Filial piety | children respecting their parents, caring for them, and making sure th | RELSTD-5B | wrel-082 |
 | cleaning oneself after using the bathroom | الاِسْتِنْجَاء (istinjāʾ) | cleaning oneself after using the bathroom | HDT-201 | qud-344 |
 | collision of two parts of the speech organs | قَرْع | collision of two parts of the speech organs | QRN-HAFS | hafs-065 |
@@ -290,12 +296,14 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | perfection | كَمَال | perfection, completeness | VOCAB | voc-379 |
 | performance | أَدَاء | performance, discharge — of a duty, a trust or a debt; in fiqh, worshi | VOCAB | voc-314 |
 | perishing | فَنَاء | perishing, passing away | VOCAB | voc-437 |
+| placing the hands | وَضْع اليَدَيْن | placing the hands, right over left, in prayer | HDT-201 | qud-406 |
 | postnatal bleeding: the blood after childbirth | النِّفَاس (nifās) | postnatal bleeding: the blood after childbirth | HDT-201 | qud-327 |
 | praise expressed verbally | حَمْد (ḥamd) | praise expressed verbally, given whether or not a favour has been rece | HDT-201 | arb-064 |
 | preponderant belief | غَلَبَة الظَّنّ (ghalabat al-ẓann) | preponderant belief — near certainty; in tayammum, the standard for co | HDT-201 | qud-285 |
 | preventive | مَانِع (māniʿ) | preventive — a definition excludes whatever is not necessary to it | HDT-201 | qud-008 |
 | propaganda | دِعَايَة | propaganda, promotion, publicity | VOCAB | voc-128 |
 | protection | وِقَايَة | protection, a shield — what guards one from harm | VOCAB | voc-409 |
+| raising the hands at the opening takbīr | رَفْع اليَدَيْن | raising the hands at the opening takbīr | HDT-201 | qud-401 |
 | reality | الوَاقِع (al-wāqiʿ) | reality — the actual state of affairs | VOCAB | voc-257 |
 | rebuke | زَجْر | rebuke — checking someone with a stern word or warning | VOCAB | voc-348 |
 | refraining | كَفّ | refraining, holding back (from — عَنْ) — also, the palm of the hand | VOCAB | voc-294 |
@@ -311,6 +319,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | saying the two shahādahs quietly and then loudly in the adhān | التَّرْجِيع (tarjīʿ) | saying the two shahādahs quietly and then loudly in the adhān — not in | HDT-201 | qud-366 |
 | scholarly consensus | إِجْمَاع (ijmāʿ) | scholarly consensus | HDT-201 | qud-018 |
 | second person | مُخَاطَب (mukhāṭab) | second person | ARB-201 | sarf-005 |
+| seeking refuge in allah before reciting: أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ | الاِسْتِعَاذَة | seeking refuge in Allah before reciting: أَعُوذُ بِاللهِ مِنَ الشَّيْط | HDT-201 | qud-411 |
 | separation of two parts of the speech organs | قَلْع | separation of two parts of the speech organs | QRN-HAFS | hafs-066 |
 | since | مُنْذُ ، مُذْ | since — both حُرُوف جَرّ; مُذْ is also glossed “for” | ARB-201 | nahw-151 |
 | sniffing water up into the nostrils | الاِسْتِنْشَاق (al-istinshāq) | sniffing water up into the nostrils | HDT-201 | qud-158 |
@@ -322,6 +331,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | something the prophet ﷺ did as a human being | سُنَّة زَائِدَة (sunnah zāʾidah) | something the Prophet ﷺ did as a human being, rather than as an act of | HDT-201 | qud-204 |
 | specific (of an articulation point): the sound hits a particular organ | مُحَقَّق | specific (of an articulation point): the sound hits a particular organ | QRN-HAFS | hafs-063 |
 | speculative | ظَنِّيّ (ẓannī) | speculative — of evidence, short of certain, though it can still be ve | HDT-201 | qud-274 |
+| standing up straight after rukūʿ | القَوْمَة | standing up straight after rukūʿ | HDT-201 | qud-421 |
 | submission | إِذْعَان | submission, compliance — yielding (to — لِ) | VOCAB | voc-383 |
 | such and such | كَيْتَ وَكَيْتَ | such and such — standing in for words or events, like ذَيْتَ وَذَيْتَ: | ARB-201 | nahw-290 |
 | sufficiency | غِنًى | sufficiency — freedom from need; also, wealth | VOCAB | voc-441 |
@@ -410,6 +420,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | the second word of an إِضَافَة | مُضَاف إِلَيْهِ (muḍāf ilayhi) | the second word of an إِضَافَة — the one attributed to, which in some  | ARB-201 | nahw-135 |
 | the separation of speech | فَصْل الخِطَاب (faṣl al-khiṭāb) | the separation of speech — the function performed by أَمَّا بَعْدُ | HDT-201 | arb2-002 |
 | the side edge of the tongue | حافَة اللِّسان | the side edge of the tongue, on both sides | QRN-HAFS | hafs-025 |
+| the sitting between the two sajdahs | الجَلْسَة | the sitting between the two sajdahs | HDT-201 | qud-429 |
 | the six books of muḥammad ibn al-ḥasan | ظَاهِر الرِّوَايَة (Ẓāhir al-Riwāyah) | the six books of Muḥammad ibn al-Ḥasan — considered the backbone of th | HDT-201 | qud-102 |
 | the soft palate | الحَنَك الرِّخْو | the soft palate, behind the hard palate | QRN-HAFS | hafs-017 |
 | the sound of a cough | أُحْ أُحْ | the sound of a cough | ARB-201 | nahw-261 |
@@ -573,6 +584,7 @@ Arabic word with two senses across sciences — see `skill/references/shared-ter
 | under | تَحْتَ | under, below — a directional ẓarf | ARB-201 | nahw-281 |
 | undoubtedly | لَا جَرَمَ | undoubtedly, inevitably — a fixed expression, usually followed by أَنَ | VOCAB | voc-207 |
 | undue difficulty | حَرَج (ḥaraj) | undue difficulty — the principle exempting a woman from undoing her br | HDT-201 | qud-196 |
+| unease and doubt | رَيْب (rayb) | unease and doubt — what a sound heart feels at a doubtful matter | HDT-201 | arbh-382 |
 | unqualified water | مَاء مُطْلَق (māʾ muṭlaq) | unqualified water — water called simply “water”, as against qualified  | HDT-201 | qud-214 |
 | until | حَتَّى | until, up to — a حَرْف جَرّ | ARB-201 | nahw-158 |
 | urging | حَثّ | urging, encouragement (toward — عَلَى) | VOCAB | voc-221 |
